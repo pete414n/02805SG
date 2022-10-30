@@ -1,0 +1,76 @@
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MediaWiki API result - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1531b529-9338-4844-9c25-5b50016a6bd3","wgCSPNonce":false,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"ApiHelp","wgNamespaceNumber":-1,"wgPageName":"Special:ApiHelp","wgTitle":"ApiHelp","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ApiHelp","wgRelevantArticleId":0,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":
+"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.apipretty":"ready","ext.pygments":"ready","mediawiki.skinning.interface":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.pygments%2CwikimediaBadges%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.apipretty%7Cmediawiki.skinning.interface&amp;only=styles&amp;skin=apioutput"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=apioutput"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=apioutput"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="MediaWiki API result - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Special:ApiHelp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-ApiHelp page-Special_ApiHelp rootpage-Special_ApiHelp skin-apioutput action-view"><div class="mw-body" role="main">
+	<h1 id="firstHeading">MediaWiki API result</h1>
+	<div class="mw-body-content">
+		<div id="mw-content-text" class="mw-body-content"><div class="api-pretty-header"><p>This is the HTML representation of the JSON format. HTML is good for debugging, but is unsuitable for application use.
+</p><p>Specify the <var>format</var> parameter to change the output format. To see the non-HTML representation of the JSON format, set <a class="external text" href="https://en.wikipedia.org/w/api.php?action=query&amp;prop=revisions&amp;rvprop=content&amp;titles=Von_Bach&amp;format=json"><kbd>format=json</kbd></a>.
+</p><p>See the <a href="https://www.mediawiki.org/wiki/API" class="extiw" title="mw:API">complete documentation</a>, or the <a href="/w/api.php?action=help&amp;modules=main">API help</a> for more information.
+</p></div><div dir="ltr"><div class="mw-highlight mw-highlight-lang-javascript mw-content-ltr" dir="ltr"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;batchcomplete&quot;</span><span class="o">:</span> <span class="s2">&quot;&quot;</span><span class="p">,</span>
+    <span class="s2">&quot;warnings&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;main&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;*&quot;</span><span class="o">:</span> <span class="s2">&quot;Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application.&quot;</span>
+        <span class="p">},</span>
+        <span class="s2">&quot;revisions&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;*&quot;</span><span class="o">:</span> <span class="s2">&quot;Because \&quot;rvslots\&quot; was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used.&quot;</span>
+        <span class="p">}</span>
+    <span class="p">},</span>
+    <span class="s2">&quot;query&quot;</span><span class="o">:</span> <span class="p">{</span>
+        <span class="s2">&quot;normalized&quot;</span><span class="o">:</span> <span class="p">[</span>
+            <span class="p">{</span>
+                <span class="s2">&quot;from&quot;</span><span class="o">:</span> <span class="s2">&quot;Von_Bach&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;to&quot;</span><span class="o">:</span> <span class="s2">&quot;Von Bach&quot;</span>
+            <span class="p">}</span>
+        <span class="p">],</span>
+        <span class="s2">&quot;pages&quot;</span><span class="o">:</span> <span class="p">{</span>
+            <span class="s2">&quot;1656537&quot;</span><span class="o">:</span> <span class="p">{</span>
+                <span class="s2">&quot;pageid&quot;</span><span class="o">:</span> <span class="mf">1656537</span><span class="p">,</span>
+                <span class="s2">&quot;ns&quot;</span><span class="o">:</span> <span class="mf">0</span><span class="p">,</span>
+                <span class="s2">&quot;title&quot;</span><span class="o">:</span> <span class="s2">&quot;Von Bach&quot;</span><span class="p">,</span>
+                <span class="s2">&quot;revisions&quot;</span><span class="o">:</span> <span class="p">[</span>
+                    <span class="p">{</span>
+                        <span class="s2">&quot;contentformat&quot;</span><span class="o">:</span> <span class="s2">&quot;text/x-wiki&quot;</span><span class="p">,</span>
+                        <span class="s2">&quot;contentmodel&quot;</span><span class="o">:</span> <span class="s2">&quot;wikitext&quot;</span><span class="p">,</span>
+                        <span class="s2">&quot;*&quot;</span><span class="o">:</span> <span class="s2">&quot;#REDIRECT [[Kingdom Come (comics)]]&quot;</span>
+                    <span class="p">}</span>
+                <span class="p">]</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</pre></div></div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Special:ApiHelp">https://en.wikipedia.org/wiki/Special:ApiHelp</a>"</div></div>
+	</div>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"mediawiki.skinning.interface\".\n[1.37] The use of the `content` feature with ResourceLoaderSkinModule is deprecated. Use `content-media` instead. [1.37] The use of the `legacy` feature with ResourceLoaderSkinModule is deprecated(T89981) and is a NOOP since 1.39 (T304325). This should be urgently omited to retain compatibility with future MediaWiki versionsMore information can be found at [[mw:Manual:ResourceLoaderSkinModule]]. ");mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1348"});});</script>
+</body>
+</html>
