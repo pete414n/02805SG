@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Yvette Coquelot
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Non-Magique]]
+|marital=Married or widowed (most likely)
+|alias=
+|title=Madame
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=hide
+|job=
+|loyalty=
+}}
+{{Quote|MESSIEURS VOUS ETES PRIES DE DECHARGER VOS ARMES AVANT D'ENTRER DANS CET ETABLISSEMENT.<br />GENTLEMEN ARE KINDLY REQUESTED TO DISCHARGE THEIR WEAPONS BEFORE ENTERING THIS ESTABLISHMENT.<br />Mme Yvette Coquelot 69 Boulevard des Galantes Paris<br />1er Janvier 1869|Plaque on the mantelpiece at [[The Seven Swans]].|Harry Potter and the Deathly Hallows: Part 1}}
+'''Madame Yvette Coquelot''' (fl. [[1869]]) was a [[France|French]] [[Non-magic people|Muggle]] who presumably ran an establishment in [[69 Boulevard des Galantes]], in [[Paris]]. There was a plaque at [[The Seven Swans]] pub in [[Godric's Hollow]] requesting patrons to "discharge their weapons before entering", crediting Mme Coquelot as its original owner.<ref name="Potterish">[http://galeria.potterish.com/displayimage.php?album=4714&pid=211740#top_display_media "RdM - Fotos Oficiais de Cenários e Objetos" (DH - Sets and Objects Official Photos)] at [http://galeria.potterish.com/index.php Galeria Potterish]</ref>
+
+==Etymology==
+*'Yvette' is the female form of the name Yves meaning Yew tree.
+*'Yvette' is also a Quebec term for a docile obedient housewife who votes against sovereignty.<ref>{{wikilink|Quebec referendum, 1980#Brunch des Yvettes}}</ref><ref>{{wtlink|Yvette}}</ref>
+*'Coquelot' is likely a contracted form of the word ''coquelicot'' or a variant of ''coquelet'', meaning small cockerel or male baby chick.<ref>{{wtlink|coquelet}}</ref>. The word ''coquelicot'' means "poppy" since poppies are red like a rooster's chest.<ref>{{wtlink|coquelicot}}</ref> The French word for rooster is ''coq''.
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Yvette Coquelot]]
+[[Category:Females|Coquelot, Yvette]]
+[[Category:French individuals|Coquelot, Yvette]]
+[[Category:Muggles|Coquelot, Yvette]]

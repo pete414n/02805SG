@@ -1,0 +1,75 @@
+{{Youmay|the [[France|French]] [[Part elf|half-elf]]|[[Irma Pince]], the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts Library|librarian]] or [[Irma Crabbe|Irma Black (née Crabbe)]], a member of the [[House of Black]]}}
+{{Individual infobox
+|theme = individual
+|image = Irma Dugard.png
+|name = Irma Dugard
+|born = Before [[1896]]
+|died = Early September [[1927]], [[18 Rue Philippe Lorand]], [[Paris]], [[France]]
+|blood = [[Part elf|Half-elf]]
+|marital = 
+|nationality = [[France|French]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Part elf|Half-elf]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Housekeeper of the Lestrange family
+|house = 
+|loyalty = [[Lestrange family]]
+}}
+'''Irma Dugard''' was a [[France|French]] [[Part elf|half-elf]] who worked as a housekeeper for the [[Lestrange family]]. She took care of the young [[Credence Barebone]], signing his adoption paper.
+
+==Biography==
+
+===1896===
+She was present at the birth of [[Leta Lestrange]] and the death of [[Laurena Kama]].
+
+===1901===
+In c. [[1901]] Irma Dugard was working for [[Corvus Lestrange (IV)|Corvus Lestrange]]. After the birth of his son, [[Corvus Lestrange (V)|Corvus]], the former sent the half-elf with his two children, the other being [[Leta Lestrange]], to [[New York]] for them to be adopted by [[Mary Lou Barebone]]. Corvus was being targeted by Yusuf Kama, and he was sent away for his safety. Irma and the children posed as a grandmother with two grandchildren. They boarded a [[Unidentified ship|ship]], where Irma met a woman travelling with her nephew. Presumably they became acquainted with each other, since the woman would call her by her given name. On the trip however, there was a commotion and Irma left her cabin to investigate it. Meanwhile frustrated with Corvus' constant screaming, [[Leta Lestrange]] exchanged her half-brother with another baby, the woman's nephew, who turned out to be [[Credence Barebone]], saving the latter's life as the ship they were travelling on sunk during a storm. When Irma realised the ship was sinking, she went back to the cabin for the children, only to find Leta in the corridor with a baby, whom she presumed to be Corvus. She took the child from Leta and dragged her along as they left the ship. They escaped in lifeboats, but Irma never learned that Corvus died.<ref name="COG103">{{COG|S|103}}</ref>
+
+===1927===
+In [[1927]], she was visited by Credence, who wanted to learn the truth about his family.<ref name="COG56">{{COG|S|56}}</ref> After an unfortunately short meeting, she was killed by [[Gunnar Grimmson]] on [[Gellert Grindelwald]]'s orders.<ref name="COG57">{{COG|S|57}}</ref>
+
+==Etymology==
+*"Irma" is a German short form of names beginning with the Old Germanic element ''ermen'', meaning "whole" or "universal".
+*"Dugard" is likely derived from the French ''du garde'' which translates to "of the guard".
+
+==Behind the scenes==
+*Irma Dugard was portrayed by the late [[France|French]] actress [[Danielle Hugues]] in {{COG}}.
+
+==Appearances==
+{{Imagecat|Images of Irma Dugard}}
+*{{FB|S}} {{Indirect}}
+*{{FB|F}} {{Indirect}}
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dugard, Irma}}
+[[es:Irma Dugard]]
+[[de:Irma Dugard]]
+[[de2:Irma Dugard]]
+[[fr:Irma Dugard]]
+[[pl:Irma Dugard]]
+[[ru:Ирма Дугард]]
+[[Category:1927 deaths]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Global wizarding war casualties]]
+[[Category:Half-breeds]]
+[[Category:Killed by Gunnar Grimmson]]
+[[Category:Murder victims]]

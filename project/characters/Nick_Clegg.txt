@@ -1,0 +1,48 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Nick Clegg
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Home affairs spokesman for the [[Liberal Party]]
+|house = 
+|loyalty = [[Liberal Party]]
+}}
+'''Nick Clegg''' was a British politician and the the home affairs spokesman for the [[Liberal Party]] in the [[1990s]]. In July of [[1996]], the leader of the party, [[Menzies|Sir Menzies]], resigned from his post and Clegg announced his candidacy to the leadership of the party, as did [[Chris Huhne]], environment spokesman. These events were covered by ''[[The Guardian]]''.<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*The listing of [[Wikipedia:Nick Clegg|Nick Clegg]] as a candidate to the leadership of the Liberal Party in 1996 is anachronistic, as at the time Huhne was working for the European Commission. Indeed, Nick Clegg only candidated for the post in 2007, and won the election.
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+*{{HPLE|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Clegg, Nick}}
+[[Category:Articles containing anachronistic information]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians]]

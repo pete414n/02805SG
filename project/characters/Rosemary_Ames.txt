@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Rosemary Ames
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HPLEG"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HPLEG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPLEG"/>
+|gender = Female<ref name="HPLEG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Horticulturist<ref name="HPLEG"/>
+|house = 
+|loyalty = 
+}}
+'''Rosemary Ames''' was a respected [[Great Britain|British]] [[Non-magic people|Muggle]] horticulturalist. She lived in [[Devon]], [[England]], where she kept a personal garden, which she described as "[her own] [[Elysian Fields]]." In [[1997]], she allowed ''[[Hadrian's Wall]]'', a British horticulture magazine, to tour her garden. The magazine published an article about the garden, proclaiming it "Devon heaven," and comparing it to [[Eden]].<ref name="HPLEG">{{HPLE|G}} {{see image|File:Hadrian's Wall.png}}</ref>
+
+==Behind the scenes==
+*This character may have been named after [[United States of America|American]] actress [[wikipedia:Rosemary Ames|Rosemary Ames]] ([[1900s (decade)|1906]]-[[1988]]), who had a brief film career in the [[1930s]], before retiring for unknown reasons.
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}} {{C|Mentioned on a magazine cover}}
+*{{HPLE|G}} {{C|Mentioned on a magazine cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ames, Rosemary}}
+[[es:Rosemary Ames]]
+[[Category:Botanists]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

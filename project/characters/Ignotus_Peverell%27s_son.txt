@@ -1,0 +1,80 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:IP son.jpg|250px]]
+|name = Ignotus Peverell's son
+|born = [[13th century]]
+|died = After [[18 May]], [[1292]]<ref>His father died on 18 May, 1292 - [https://harrypotter.fandom.com/wiki/File:IgnotusPeverellGrave2.jpg as confirmed by his gravestone] - and this man inherited the cloak. So he ''must'' have been alive after this date.</ref>
+|blood = [[Pure-blood]]<ref name="blood">{{DH|B|22}} - "The only place I’ve managed to find the name ‘Peverell’ is Nature’s Nobility: A Wizarding Genealogy. I borrowed it from Kreacher,” she explained as Ron raised his eyebrows. “It lists the pure-blood families that are now extinct in the male line. Apparently the Peverells were one of the earliest families to vanish.”"</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ignotus Peverell]] (father) †
+*[[Iolanthe Peverell|Iolanthe Potter]] (daughter) †
+*[[Hardwin Potter]] (son-in-law) †
+*[[Antioch Peverell]] (paternal uncle) †
+*[[Cadmus Peverell]] (paternal uncle) †
+*[[Peverell family]]
+*[[Potter family]] (descendants)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Peverell family]]
+}}
+'''Mr Peverell''' (fl. [[1291]]) was a [[pure-blood]]<ref name="blood"/> [[Wizardkind|wizard]] who lived during the [[13th century]], the son of [[Ignotus Peverell]]. He had a daughter, [[Iolanthe Peverell]], who inherited the [[Cloak of Invisibility]], one of the three [[Deathly Hallows]], and married [[Hardwin Potter]]. He was also an ancestor of the members of the [[Potter family]].<ref>{{WW|the-potter-family}}</ref>
+
+==Behind the scenes==
+*In {{LEGO|Y2}}, he appears as a generic [[Non-magic people|Muggle]] orphan.
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{DH|F1}} {{1st}} {{Flashback}}
+*{{DH|G1}} {{Flashback}}
+*{{LEGO|Y2}} {{C|Appears as a generic [[Non-magic people|Muggle]] orphan}}
+*{{TBB|E}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+{{Start box}}
+{{Succession box
+|predecessor=[[Ignotus Peverell]]
+|years=?-?
+|position=Owner of the [[Cloak of Invisibility]]
+|successor=[[Iolanthe Peverell]]
+}}
+{{End box}}
+{{Tales of Beedle}}
+{{Deathly Hallows Owners}}
+
+[[es:Hijo de Ignotus Peverell]] 
+[[ru:Мистер Певерелл]]
+[[fr:Fils d'Ignotus Peverell]]
+[[nl:Ignotus Prospers zoon]]
+{{DEFAULTSORT:Peverell, Ignotus's son}}
+[[Category:13th century births|Peverell]]
+[[Category:British individuals|Peverell]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Males|Peverell]]
+[[Category:Parents]]
+[[Category:Peverell family]]
+[[Category:Pure-bloods|Peverell]]
+[[Category:The Tales of Beedle the Bard]]
+[[Category:Unnamed family members]]
+[[Category:Wizards|Peverell]]
