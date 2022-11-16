@@ -1,0 +1,57 @@
+{{Youmay|the player for the national team|[[Aidan (disambiguation)|another Aidan]]}}
+{{Individual infobox
+|theme = quidditch-player
+|image = Irish National Quidditch team.jpg
+|name = Aidan Lynch
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]<ref name="GOF8"/>
+|alias = 
+|title = [[Seeker]]<ref name="GOF8"/>
+|signature = 
+|species = [[Human]]<ref name="GOF8"/>
+|gender = Male<ref name="GOF8"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Irish National Quidditch team]]<ref name="GOF8"/>
+|house = 
+|loyalty = [[Irish National Quidditch team]]<ref name="GOF8"/>
+}}
+'''Aidan Lynch''' was an [[Ireland|Irish]] [[Wizardkind|wizard]] who played as the [[Seeker]] for the [[Irish National Quidditch team]] during the [[1994]] [[Quidditch World Cup]].
+
+==Biography==
+Although his team won the World Cup with the most points, Seeker [[Viktor Krum]] caught the [[Golden Snitch]]. Lynch was fooled by Krum's use of the Wronski Feint twice during his match against Bulgaria, resulting in him being dazed for a while afterwards. During the first dive, Lynch was just knocked out for a few minutes but after the second dive, he was left dazed for a long period of time.<ref name="GOF8">{{GOF|B|8}}</ref>
+
+==Behind the scenes==
+*Aidan shares his last name with Irish-born actress [[Evanna Lynch]], who plays [[Luna Lovegood]] in the [[Harry Potter (film series)|films]].
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Lynch, Aidan}}
+
+[[de:Aidan Lynch]]
+[[es:Aidan Lynch]]
+[[fr:Aidan Lynch]]
+[[pl:Aidan Lynch]]
+[[de2:Aidan Lynch]]
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

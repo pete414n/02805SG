@@ -36,14 +36,14 @@
 |romances = 
 |animagus = 
 |boggart = 
-|wand = [[Salazar Slytherin's wand|Unknown length, snakewood, Basilisk horn]]<ref name="PM-ilvermorny" />
+|wand = [[Salazar Slytherin's wand|Unknown length, Snakewood, Basilisk horn]]<ref name="PM-ilvermorny" />
 |patronus = Non-corporeal<ref name="LEGOY2">{{LEGO|Y2}}</ref>
 |job = *[[Professor|Teacher]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS9"/>
 *[[Hogwarts founders|Founder]] of [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS9"/>
 |house = [[Slytherin]]<ref name="COS9"/>
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS9"/>
+|loyalty = *[[Slytherin family]]<ref name="COS9"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS9"/>
 **[[Slytherin]]<ref name="COS9"/>
-*[[Slytherin family]]<ref name="COS9"/>
 }}
 {{Quote|We'll teach just those whose ancestry's purest.|Slytherin's opinion regarding the running of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]|Harry Potter and the Order of the Phoenix}}
 '''Salazar Slytherin''' (fl. c. [[First millennium A.D.|993]]) was a [[pure-blood]] [[Wizardkind|wizard]], noted for his cunning and determination. He was regarded as one of the greatest wizards of the age, respectively as a [[Parseltongue|Parselmouth]] and as a skilled [[Legilimency|Legilimens]]. Slytherin was one of the [[Hogwarts founders|four founders]] of [[Hogwarts School of Witchcraft and Wizardry]] along with [[Godric Gryffindor]], [[Helga Hufflepuff]] and [[Rowena Ravenclaw]]. He was also the namesake of the [[Slytherin|Slytherin House]].<ref name="COS9"/>
@@ -81,7 +81,7 @@ Another popular historical theory mentioned on the [[Wizards' Ordinary Magic and
 
 One girl the Basilisk actually killed was a [[ghost]] known by the name of [[Myrtle Warren|Moaning Myrtle]]. The opening to the Chamber of Secrets is located in the bathroom she now haunted, and can only be opened by speaking Parseltongue, as Slytherin could.<ref name="COS16">{{COS|B|16}}</ref> Riddle opened the Chamber again in [[1993]] through the use of one of his seven [[Horcrux]]es, his diary. Using the bit of his soul encompassed by the diary, he possessed [[Ginevra Weasley|Ginny Weasley]] and forced her to do his bidding. While he still attacked Muggle-born students, his ultimate goal was to lure Harry Potter into the Chamber and kill him.<ref name="COS17">{{COS|B|17}}</ref>
 
-Salazar Slytherin owned a [[Slytherin's Locket|locket]] emblazoned with the letter ''S'' that became an heirloom of his last known line of descendants, the [[House of Gaunt|Gaunts]]. [[Merope Riddle|Merope Gaunt]] sold the locket to [[Caractacus Burke]]. It was then bought up by [[Hepzibah Smith]], who had a love for antiques. It was subsequently stolen from her by [[Tom Riddle|Tom Marvolo Riddle]].<ref name="HBP20">{{HBP|B|20}}</ref> Riddle would later turn the locket into a Horcrux,<ref name="HBP23">{{HBP|B|23}}</ref> and conceal it in a [[The Cave|seaside cave]] he had visited in his youth.<ref name="HBP26">{{HBP|B|26}}</ref> The same locket was later removed from the cave by [[Regulus Black]] with aid from his [[house-elf]], [[Kreacher]]. Kreacher was ordered to destroy the locket, but was unable to do so.<ref name="DH10">{{DH|B|10}}</ref>
+Salazar Slytherin owned a [[Slytherin's Locket|locket]] emblazoned with the letter ''S'' that became an heirloom of his last known line of descendants, the [[House of Gaunt|Gaunts]]. [[Merope Riddle|Merope Gaunt]] sold the locket to [[Caractacus Burke]]. It was then bought up by [[Hepzibah Smith]], who had a love for antiques. It was subsequently stolen from her by [[Tom Riddle]].<ref name="HBP20">{{HBP|B|20}}</ref> Riddle would later turn the locket into a Horcrux,<ref name="HBP23">{{HBP|B|23}}</ref> and conceal it in a [[The Cave|seaside cave]] he had visited in his youth.<ref name="HBP26">{{HBP|B|26}}</ref> The same locket was later removed from the cave by [[Regulus Black]] with aid from his [[house-elf]], [[Kreacher]]. Kreacher was ordered to destroy the locket, but was unable to do so.<ref name="DH10">{{DH|B|10}}</ref>
 
 It was later stolen from the [[House of Black|Black family]] home at [[12 Grimmauld Place]] by [[Mundungus Fletcher]], and eventually found its way into the hands of the Ministry of Magic employee, [[Dolores Umbridge]]. Umbridge used it as a credential by wearing it and claiming the ''S'' stood for [[Selwyn family|Selwyn]], a [[pure-blood]] family line. She either did not know better or wanted to conceal its real meaning from the public.<ref name="DH13">{{DH|B|13}}</ref>
 

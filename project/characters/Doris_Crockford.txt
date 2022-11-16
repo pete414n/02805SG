@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = wizard
+|image = Doris Crockford.JPG
+|name = Doris Crockford
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS5"/>
+|gender = Female<ref name="PS5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = Unknown length, wood and core<ref name="LEGOY1"/>
+|patronus = Non-corporeal<ref name="LEGOY1"/>
+|job = 
+|house = 
+|loyalty = [[Leaky Cauldron]]<ref name="PS5"/>
+}}
+{{Quote|Doris Crockford, Mr Potter, can't believe I'm meeting you at last.|Doris introducing herself to Harry Potter|Harry Potter and the Philosopher's Stone}}
+'''Doris Crockford''' was a [[Wizardkind|witch]] who greeted [[Harry Potter]] in the [[Leaky Cauldron]] on the way to Harry's first trip into [[Diagon Alley]] on [[31 July]] [[1991]]. She was enthusiastic to see him, and was noted to have shaken Harry's hand many times.<ref name="PS5">{{PS|B|5}}</ref>
+
+==Etymology==
+The name "Doris" is from the ancient Greek name Δωρις (''Doris'') which meant "Dorian woman". The Dorians were a Greek tribe who occupied the Peloponnese starting in the 12th century BC. In Greek mythology Doris was a sea nymph, one of the many children of Oceanus and Tethys. "Doris" was also the name of Herod the Great's first wife. It began to be used as an English name in the 19th century.
+
+==Behind the scenes==
+[[File:Doris Crockford-HP 14.png|thumb|Doris Crockford as she appears in {{LEGO|Y1}}]]
+*In {{PS|FA}}, Crockford had long, white, straight hair.<ref name="PSF">{{PS|F}} - Chapter 5 (''Diagon Alley'')</ref>
+**There is a site<!-- what site? --> where it is rumoured that [[J. K. Rowling]] was the actress who portrayed Doris Crockford.<ref>According to the site: ''"In the scene where Hagrid takes Harry through the Leaky Cauldron to get to Diagon Alley, everyone stops and stares at Harry. One man says to Harry, "It's a pleasure to have you back, Mr Potter," and then a woman speaks to him and gives a name, but this woman is not credited at the end of the film (it goes by order of appearance, so she would be right before Professor Quirrell.) The reason she is not credited is because she is none other than J.K. Rowling, author of the Harry Potter books."''</ref> This turned out to be false, since Rowling has stated on her website that she has never been in any of the films, she was asked but declined.
+**According to the German dubbing site Synchronkartei.de, this role is played by [[Nina Young]], who also played [[Helena Ravenclaw]] in the same film.<ref name="actress">[https://www.synchronkartei.de/darsteller/6122/ Synchronkartei]</ref>
+*The name of the character may be a homage to an author known as Doris Crockford who, in 1937, published a book about The [[Flying Scotsman]] - a real-life train that departed from [[King's Cross Station]], platform 10. In Doris's story, the train went on a magical adventure.<ref name="Flying Scotsman">[https://www.scotsman.com/news/why-harry-potter-went-loco-flying-scotsman-627366/ The Scotsman - Flying Scotsman]</ref>
+*[[Felicitas Bauer]], the actress portraying [[Polly Chapman]] in the Hamburg production of {{CC}}, also portrayed Doris Crockford, voicing her when the [[Harry Potter and the Cursed Child cast lists|cast]] of {{CC}} read aloud {{PS|B|5}} together, organised by [[Bloomsbury Publishing]] for the [[2021]] [[Harry Potter Book Night]].<ref>(see [[:File:Harry Potter and the Cursed Child Reading|this video]]) {{c|video currently set to private}}</ref><ref name="CC cast">[https://twitter.com/BloomsburyBooks/status/1357342410527809536 #HarryPotterBookNight has moved to 24th June (although if you have an event planned today then go for it, and have fun!). Ahead of that, here’s a sneak peek of the wonderful casts of the Cursed Child reading from the chapter ‘Diagon Alley’ (from Philosopher's Stone)] - {{Twitter|BloomsburyBooks|Bloomsbury UK}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Doris Crockford}}
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{LEGO|Y1}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Crockford, Doris}}
+[[es:Doris Crockford]]
+[[de:Doris Crockford]]
+[[fr:Doris Crockford]]
+[[it:Doris Crockford]]
+[[ru:Дорис Крокфорд]]
+[[pl:Doris Crockford]]
+
+[[Category:Females]]
+[[Category:Wizards]]

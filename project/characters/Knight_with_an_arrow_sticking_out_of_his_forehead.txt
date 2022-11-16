@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = spirit
+|image = [[File:KnightArrowForehead.png|250px]]
+|name = Knight with an arrow sticking out of his forehead
+|born = 
+|died = Before [[1992]]<ref name="COS8"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Knight<ref name="COS8"/>
+|signature = 
+|species = *[[Human]] (formerly)<ref name="COS8"/>
+*[[Ghost]]<ref name="COS8"/>
+|gender = Male<ref name="COS8"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Knight<ref name="COS8"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|They passed a group of gloomy nuns, a ragged man wearing chains, and the Fat Friar, a cheerful Hufflepuff ghost, who was talking to a knight with an arrow sticking out of his forehead. Harry wasn't surprised to see that the Bloody Baron, a gaunt, staring Slytherin ghost covered in silver bloodstains, was being given a wide berth by the other ghosts.|Description|Harry Potter and the Chamber of Secrets}}
+This '''individual''' was a knight and a [[Wizardkind|wizard]] in his life, who died when he was shot by an arrow in his forehead. He returned after his death as a ghost.
+
+==Biography==
+On [[31 October]], [[1992]], he attended [[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]]'s [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party|five-hundredth deathday party]] at [[Hogwarts Castle]] and engaged in conversation with the [[Fat Friar]].<ref name="COS8">{{COS|B|8}}</ref>
+
+==Behind the scenes==
+*It is unknown if this ghost resided at [[Hogwarts Castle]], or if he only came there to celebrate Sir Nicholas's Deathday. If the former is true, he may be intended to be the [[Black Knight]], a ghost ultimately cut from [[Harry Potter and the Philosopher's Stone|the first book]].
+*It has also been speculated that he is the ghost of [[Wikipedia:Harold Godwinson|Harold II]] (1022—1066), the last Saxon king of [[England]]. Harold was defeated at the Battle of Hastings in 1066 by William the Conqueror when an arrow pierced his eye.
+
+==Appearances==
+*{{COS}} {{1st}} {{Ghost}}
+*{{PM}} {{Ghost}}
+*{{WW}} {{Ghost}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Caballero con una flecha clavada en su frente]]
+[[pl:Rycerz z wystającą z głowy strzałą]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Unidentified ghosts]]
+[[Category:Wizards]]

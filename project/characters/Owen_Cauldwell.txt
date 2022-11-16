@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Owen Cauldwell
+|born = Between [[1 September]] [[1982]] and [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF12"/>
+|gender = Male<ref name="GOF12"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="GOF12"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF12"/>
+**[[Hufflepuff]]<ref name="GOF12"/>
+}}
+{{Dialogue a-b|Professor McGonagall|Cauldwell, Owen!|Sorting Hat|HUFFLEPUFF!|The [[Sorting Hat]] Sorting Owen into Hufflepuff in [[1994]]|Harry Potter and the Goblet of Fire}}
+'''Owen Cauldwell''' was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. He was [[Sorting ceremony|sorted]] into [[Hufflepuff]].<ref name="GOF12">{{GOF|B|12}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cauldwell, Owen}}
+[[de:Owen Cauldwell]]
+[[fr:Owen Cauldwell]]
+[[nl:Vincent Wapenaar]]
+[[pl:Owen Cauldwell]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

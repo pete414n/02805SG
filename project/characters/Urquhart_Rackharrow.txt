@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = portrait
+|image = 
+|name = Urquhart Rackharrow
+|born = [[1610s|1612]]<ref name="OOTP22">{{OOTP|B|22}}</ref>
+|died = [[1690s|1697]] (aged 84 - 85)<ref name="OOTP22" />
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP22" />
+|gender = Male<ref name="OOTP22" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]<ref name="OOTP22" />
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22" />
+}}
+'''Urquhart Rackharrow''' ([[1610s|1612]]–[[1690s|1697]]) was a [[Wizardkind|wizard]], [[Healer]] and the [[Spell creation|inventor]] of the [[Entrail-Expelling Curse]]. His [[portrait]] hung in the [['Dangerous' Dai Llewellyn Ward: Serious Bites|Dai Llewellyn Ward]] in [[St Mungo's Hospital for Magical Maladies and Injuries]].<ref name="OOTP22" />
+
+==Appearances==
+*{{OOTP}} {{1st Mention}} {{Portrait}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Urquhart Rackharrow]]
+[[fr:Urquhart Rackharrow]]
+[[es:Urquhart Rackharrow]]
+[[pl:Urquhart Rackharrow]]
+[[ru:Уркхарт Ракплуг]]
+
+{{DEFAULTSORT:Rackharrow, Urquhart}}
+[[Category:1612 births]]
+[[Category:1697 deaths]]
+[[Category:Healers]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Spell inventors]]
+[[Category:Wizards]]

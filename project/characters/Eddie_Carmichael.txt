@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Eddie Carmichael
+|born = Between [[1 September]] [[1978]] and [[31 August]] [[1979]], (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP31"/>
+|gender = Male<ref name="OOTP31"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="OOTP31"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP31"/>
+**[[Ravenclaw]]<ref name="OOTP31"/>
+}}{{Quote|Harry and Ron were much tempted by the bottle of Baruffio’s Brain Elixir offered to them by Ravenclaw sixth year Eddie Carmichael, who swore it was solely responsible for the nine “Outstanding” O.W.L.s he had gained the previous summer and was offering the whole pint for a mere twelve [[Galleon|Galleons]].|Description of Eddie's actions|Harry Potter and the Order of the Phoenix}}
+'''Eddie Carmichael''' (born c. [[1978]]-[[1979]]) was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1990]].
+
+==Biography==
+He was a member of [[Ravenclaw]] house and claimed that he achieved nine "[[Outstanding]]s" in his [[Ordinary Wizarding Level|O.W.L]] exams. Eddie swore his success was solely as a result of [[Baruffio's Brain Elixir]] and [[Hogwarts black-market trade|attempted to sell it to younger students preparing for their exams]], including [[Harry Potter]] and [[Ronald Weasley]]. However, [[Hermione Granger]] stopped him, confiscated the [[potion]] and poured its contents down a toilet.<ref name="OOTP31">{{OOTP|B|31}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Carmichael, Eddie}}
+[[de:Eddie Carmichael]]
+[[es:Eddie Carmichael]]
+[[fr:Eddie Carmichael]]
+[[ru:Эдди Кармайкл]]
+[[pl:Eddie Carmichael]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Con artists]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in 1990]]
+[[Category:Wizards]]

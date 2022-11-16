@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gringotts
+|image = [[File:TallGoblin.jpg|250px]]
+|name = Tall goblin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = Black
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Bank Teller at [[Gringotts Wizarding Bank]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+This '''tall goblin''' worked at [[Gringotts Wizarding Bank]] during the [[wizardkind|wizard management]] in [[1997]]-[[1998]], after the [[British Ministry of Magic|Ministry of Magic]] [[Fall of the Ministry of Magic|fell]] to the [[Death Eaters]].<ref name="DHpt2">{{DH|F2}} - DVD 2 (''The Goblins of Gringotts'')</ref>
+
+He was present at the bank when [[Harry Potter]], [[Hermione Granger]], [[Ronald Weasley]] and [[Griphook]] hosted a [[Break-in of Gringotts Wizarding Bank (1998)|break-in]] in order to retrieve one of [[Tom Riddle|Lord Voldemort's]] [[Horcrux]]es, [[Helga Hufflepuff's Cup]], from the [[Lestrange Vault]].<ref name="DHpt2"/>
+
+==Behind the scenes==
+*This goblin was played by [[Binde Johal]] in {{DH|F2}}. Despite not being credited, the character is identified as "Tall Goblin" in a Behind the Scenes feature in DVD2.<ref name="DHpt2"/>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[Category:Bankers]]
+[[Category:Black-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Unidentified goblins]]
+
+[[es:Duende alto]]
+[[ru:Высокий гоблин]]

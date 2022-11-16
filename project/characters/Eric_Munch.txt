@@ -1,0 +1,72 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = mom
+|image = Eric Munch.jpg
+|name = Eric Munch
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="op7"/><ref name="op14"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="op7"/><ref name="op14"/>
+|gender = Male<ref name="op7"/><ref name="op14"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Watchwizard]] at the [[British Ministry of Magic]]<ref name="op7"/><ref name="op14"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="op7"/><ref name="op14"/>
+}}
+{{Quote|Eleven inches, [[Phoenix feather|phoenix-feather]] [[Wand core|core]], been in use four years. That correct?|Munch measuring [[Harry Potter]]'s [[Harry Potter's wand|wand]] with a [[Wand weigher|brass instrument]]|Harry Potter and the Order of the Phoenix}}
+'''Eric Munch'''<ref name="op14"/> was a [[Great Britain|British]] [[Wizardkind|wizard]], who was employed as a [[watchwizard]] at the [[British Ministry of Magic]].<ref name="op7"/><ref name="op14">{{OOTP|B|14}}</ref> He was poorly-shaven and wore [[peacock]] blue [[robes]] when on duty.<ref name="op7">{{OOTP|B|7}}</ref>
+
+==Biography==
+{{Quote|No credentials, no entry.|Eric Munch dismissing [[Jacob's sibling]]|Harry Potter: Hogwarts Mystery}}
+[[File:HM75NoCredentials.jpg|250px|thumb|left|Munch stopping [[Jacob's sibling]] when [[Arthur Weasley|Arthur]] and [[William Weasley|Bill Weasley]] came by]]
+Munch was working for the [[British Ministry of Magic]] during the [[1990–1991 school year]]. When several [[Seventh year|seventh-year]] students at [[Hogwarts School of Witchcraft and Wizardry]] arrived at the Ministry to receive their [[Ministry of Magic student programme|outdoors assignments]], Munch checked them with a [[Probity Probe]], examined their [[wand]]s and credentials. When Jacob's sibling arrived late without credentials, Munch refused to let them enter. [[Arthur Weasley|Arthur]] and [[William Weasley|Bill Weasley]] stopped by at the moment and gave their vouch for them, prompting Munch to give them clearance.<ref name="hm75">{{HM|7|5}}</ref> Munch was later joined by Jacob's sibling and [[Nymphadora Tonks]] in examining visitors' wands, with it being one of the first assignments of the students.<ref name="HM76">{{HM|7|6}}</ref>
+
+{{Dialogue a-b|Arthur Weasley|I'm escorting a visitor.|Eric Munch|Step over here.|Munch to [[Arthur Weasley]] and [[Harry Potter]] at the Ministry security desk|Harry Potter and the Order of the Phoenix}}
+On [[12 August]] [[1995]], Munch sat at the [[Ministry of Magic Security Desk|security desk]] on the left side of the Atrium, checking visitors with a [[Probity Probe]] and registering their [[wand]]s with a [[Wand weigher|brass instrument]] before giving them clearance to enter. Munch seemed to find this portion of his job very tedious, as his voice sounded bored whilst on the job. When [[Harry Potter]] stopped by the security desk on the way to a hearing, Munch went through the check-in protocols mechanically, only noticing the famous [[Harry Potter's scars#The lightning-bolt scar|lightning-bolt scar]] when he had finished. Realising who Harry was, Munch asked him to wait, but [[Arthur Weasley]] dragged Harry away from the security desk.<ref name="op7" />
+
+Munch apparently also worked the night shift on occasion. He caught an unknowingly [[Imperius Curse|bewitched]] [[Sturgis Podmore]] trying to break into [[Department of Mysteries]] at one o'clock in the morning on [[31 August]], [[1995]] and arrested him on charges of trespass and attempted robbery.<ref name="op14" />
+
+Sometime in the [[2010]]s, Munch had to be rescued from the [[Department of Mysteries]]' [[Brain Room]] by the more recently hired [[Grim Fawley]].<ref name="WU">{{WU}} - [https://wizardsunite.gamepress.gg/foundable/redacted-report Redacted Report]: "A thorough reading of the report shows that Grim Fawley appears to have come to the rescue of Ministry Watchwizard Eric Munch in the Department of Mysteries' Brain Room."</ref>
+
+==Etymology==
+The name "Eric" comes from the Old Norse name Eiríkr, derived from the elements ei "ever" and ríkr "ruler". A notable bearer was Eiríkr inn Rauda (Eric the Red in English), a 10th-century navigator and explorer who discovered Greenland. This was also the name of several early kings of Sweden, Denmark and Norway. "Munch" is a Norwegian surname, meaning "monk".{{Fact}}
+
+==Behind the scenes==
+*Munch was featured on a conceptual art for {{OOTP|FA}}. He was not, however, featured in the actual film.
+*Eric Munch's conspicuous absence during the [[Battle of the Department of Mysteries]] is noted by Harry when he arrives, apparently not being on duty that night. Alternatively, unless he was incapacitated by the Death Eaters and put somewhere out of sight as not to arouse the suspicion of those who might pass through the Atrium after their arrival,  it is possible that Lucius Malfoy or one of the other Death Eaters present with ties to the Ministry was able to arrange a distraction that would keep him occupied elsewhere so that the Death Eaters could enter the Department of Mysteries unseen.
+
+==Appearances==
+{{Imagecat|Images of Eric Munch}}
+*{{OOTP}} {{1st}}
+*{{OOTP|F}} {{C|Concept art only}}
+*{{HM}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Munch, Eric}}
+[[de:Eric Munch]]
+[[es:Eric Munch]]
+[[fr:Éric Munch]]
+[[ru:Эрик Манч]]
+[[pl:Eryk Munch]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Security guards]]
+[[Category:Wizards]]

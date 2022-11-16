@@ -1,0 +1,290 @@
+{{Spoiler|HM|PAS|MA|HL}}
+{{Creature infobox
+|image = Thestral.png
+|name = Thestral
+|skin = Black<ref name="PM"/>
+|eyes = White<ref name="PM"/>
+|hair = Black<ref name="PM"/>
+|feathers = 
+|related = *[[Winged horse]]<ref name="FB"/>
+**[[Abraxan]]<ref name="FB"/>
+**[[Aethonan]]<ref name="FB"/>
+**[[Granian]]<ref name="FB"/>
+|native = *British Isles<ref name="PM"/>
+*[[France]]<ref name="PM"/>
+*[[Iberian Peninsula]]<ref name="PM"/>
+*[[Ireland]]<ref name="PM"/>
+|alias = 
+|height = Larger than a wingless horse<ref name="FB"/>
+|length = Larger than a wingless horse<ref name="FB"/>
+|wingspan = 
+|mortality = 
+|distinction = *Only visible to those who have witnessed [[death]] and accepted its reality<ref name="OP10"/><ref name="PM"/>
+*Carnivorous<ref name="PM"/>
+|affiliation = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OP10"/><ref name="OOTP21"/>
+*[[Rubeus Hagrid]]<ref name="OOTP21"/>
+*[[Luna Lovegood]]<ref name="OP10"/>
+*[[Harry Potter]]<ref name="OOTP33"/><ref name="DH36"/>
+*[[Dark Arts]]<ref name="WU">{{WU}} "[[Registry: Exploration]]"</ref>
+|class = [[Beast]]<ref name="FB"/><br/>[[XXXX]]<ref name="ootp21">{{OOTP|B|21}} - Dolores Umbridge tells Rubeus Hagrid that the Ministry has classified Thestrals as "dangerous", which, according to [[Newton Scamander|Newt Scamander]]'s {{FB}}, is a description of the XXXX rating.</ref>
+|status = Extant<ref name="PM"/><ref name="FB"/>
+}}
+{{Dialogue a-b-a|Rubeus Hagrid|Don' worry, it won' hurt yeh. Righ', now, who can tell me why some o' you can see them an' some can't? Go on then.|Hermione Granger|The only people who can see thestrals are people who have seen death.|Tha's exactly right, [[House points|ten points]] ter [[Gryffindor]]. Now, thestrals —|[[Rubeus Hagrid]] and [[Hermione Granger]] discussing Thestrals in a [[Care of Magical Creatures]] lesson|Harry Potter and the Order of the Phoenix}}
+The '''Thestral''' was a breed of [[winged horse]] with a skeletal body, face with reptilian features, and wide, leathery wings that resemble a bat's. They were native to the [[Great Britain|British Isles]] and [[Ireland]], though they had been spotted in parts of [[France]] and the [[Iberian Peninsula]].<ref name="PM"/> They were very rare, and were considered dangerous by the [[British Ministry of Magic]].<ref name="ootp21"/> Thestrals were, undeservedly, known as omens of misfortune and aggression by many [[Wizardkind|wizards]] because they were visible only to those who had witnessed [[death]] at least once.<ref name="OP10">{{OOTP|B|10}}</ref><ref name="OP17">{{OOTP|B|17}}</ref><ref name="OOTP33"/><ref name="OP34">{{OOTP|B|34}}</ref><ref name="FB">{{FB|R}} - ''Winged Horses''</ref>
+
+Due to Thestrals' classification as XXXX, only experienced wizards should try to handle Thestrals. Breeding as well as owning these beasts might be discouraged or even illegal without Ministry consent; in fact, wizards that lived in areas not protected against Muggles were forced by law to perform [[Disillusionment Charm]]s on their Thestrals regularly.<ref name="FB" />
+
+A Thestral was also one possible corporeal form of the [[Patronus Charm]].<ref name="Patronus">{{see image|File:Thestral-patronus.jpg}}</ref>
+
+==Description==
+===Physical appearance===
+{{Quote|If he had had to give them a name, he supposed he would have called them horses, though there was something reptilian about them, too. They were completely fleshless, their black coats clinging to their skeletons, of which every bone was visible. Their heads were dragonish, and their pupil-less eyes white and staring. Wings sprouted from each wither — vast, black leathery wings that looked as though they ought to belong to giant bats. Standing still and quiet in the gathering gloom, the creatures looked eerie and sinister.|Description|Harry Potter and the Order of the Phoenix}}
+[[File:Thestrals WB F5 ThestralCloseUpPortrait Illust 100615 Port.jpg|200px|thumb|left|An adult Thestral]]
+Thestrals had quite a disturbing appearance and the wizards who were capable of seeing them often described these creatures as being sinister and spooky. This was because they were seen as having big, bony figures and their dragon-like faces which bore white, glittering eyes that lacked both expression and pupils. Additionally, they were lured by the scent of blood, which was bad for their reputation. 
+
+Being a type of winged horse, most of their anatomy was identical to a horse, excluding their large wings that sprouted from their back. Unlike the [[Abraxan]], another breed of winged horses, Thestral's wings did not possess any feathers at all; they had vast, black and leathery wings that were more similar to those of bats.<ref name="FB" />
+
+Their fleshless, lustrous bodies were covered with a translucent and glossy coat. This smooth and dark skin was a bit slippery and so thin that Thestral's bones were clearly defined through the entire extension of their sleek bodies. These eerie horses had long black manes, as well as a large tail, either with flowing black hair, like horses or ending in a tuft, like zebras.<ref name="JK" /> Another distinction was their sharp fangs used to seize and slash their prey.
+
+===Behaviour===
+{{Quote|...they're dead clever an' useful!|[[Rubeus Hagrid|Hagrid]] during a fifth year Care of Magical Creatures lesson|Harry Potter and the Order of the Phoenix}}
+[[File:Thestral on land.gif|250px|thumb|A Thestral stretching its wings]]
+Thestrals were social creatures who lived in herds. [[Professor]] [[Rubeus Hagrid]] stated that they were "dead clever".<ref name="OOTP21"/> In fact, trained Thestrals were smart enough to understand their rider's words when they ask to travel to a specific location.<ref name="OOTP33">{{OOTP|B|33}}</ref>
+
+These magical creatures could be found in dark environments and the forest was their natural habitat. They communicate with each other through a shrill and strange shriek that resembled some sort of monstrous bird.<ref name="OOTP21">{{OOTP|B|21}}</ref>
+
+They appeared to be loyal creatures, able to discern a friend from an enemy and offer help to humans in need of transportation. Thestrals would forcefully attack anyone or anything they saw as a threat and in the unusual case of domesticated Thestrals, any enemy of its owners.<ref name="DH4">{{DH|B|4}}</ref><ref name="DHEpilogue">{{DH|B|E}}</ref> Thestrals were not marks of ill omen, nor (their spooky appearance notwithstanding) were they in any way threatening to humans, always allowing for the fright that the first sight of them tended to give the observer.<ref name="PM">{{WW|thestrals}}</ref>
+
+In the [[Battle of Hogwarts]], Hogwarts' trained flock of Thestrals cooperated with [[Buckbeak]], the [[Hippogriff]], to attack the [[Giant]]s fighting for Voldemort. It's unclear whether or not wild herds could similarly cooperate with other species.<ref name="DH36">{{DH|B|36}}</ref>
+
+===Diet===
+[[File:Order-of-the-phoenix- Thestrals.jpg|250px|thumb|left|Thestral foal eating a piece of raw meat]]
+Thestrals were carnivorous animals and were attracted to the smell of [[blood]].<ref name="PM"/> [[Professor]] [[Wilhelmina Grubbly-Plank]] mentioned that they often attacked birds. This indicates that, naturally, they hunted not only for food in the ground, but also to pursue flying prey.<ref name="OOTP15">{{OOTP|B|15}}</ref>
+
+The Thestrals that lived within the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] grounds, in the [[Forbidden Forest]], were properly fed and well trained. They didn't attack other creatures or students unless seriously disturbed.<ref name="OOTP15"/>
+
+===Abilities===
+{{Quote|The horse crouched slowly, then rocketed upwards so fast and so steeply that Harry had to clench his arms and legs tightly around the horse to avoid sliding backwards over its bony rump. He closed his eyes and pressed his face down into the horses silky mane as they burst through the topmost branches of the trees and soared out into a blood-red sunset. Harry did not think he had ever moved so fast: the Thestral streaked over the castle, its wide wings hardly beating...|A Thestral taking off and in mid flight|Harry Potter and the Order of the Phoenix}}
+The [[Thestral tail hair]] was a powerful and tricky substance that could be mastered only by a witch or wizard capable of facing death. It should be noted that this substance could be used as a core in a wand's conception and it was used to create the most powerful wand known by [[Wizardkind|wizards]], the [[Elder Wand]].<ref name="JK" />
+
+The most well-known ability of these beasts was their [[invisibility]] to those who had not seen [[death]]. In other words, they were only visible to people who had seen someone dying and fully accepted, understood and internalised the concept.<ref name="OP10"/>
+
+Thestrals had an extraordinary sense of smell and would easily recognise the smell of [[blood]] and fresh flesh, even if the source of the scent was rather distanced.<ref name="OOTP21"/>
+
+They also had quite a useful sense of direction. The Thestral could understand exactly where their riders needed to go, even if the beast itself might or might not be familiar with the terminus in question. If their riders had a certain destination in mind, they only needed to say the destination and the creature would diligently carry them to the intended location — much like owls do with letters.<ref name="OOTP33"/>
+
+[[File:Thestral on air.gif|250x250px|thumb|Thestrals mid-flight, flying at very high-speeds]]
+These gentle, winged beasts were very capable and fast fliers and could travel long distances hardly beating their large wings. For example, in 1996, six members of the Hogwarts herd (ridden by [[Harry Potter]], [[Hermione Granger]], [[Ronald Weasley|Ron Weasley]], [[Ginevra Weasley|Ginny Weasley]], [[Neville Longbottom]], [[Luna Lovegood]]) were capable of flying from Hogwarts ([[Scotland]]) to the [[Ministry of Magic]] ([[London]]) in a brief amount of time, with the only trouble they experienced being that they risked falling off the mounts they rode given the beasts' insubstantial physique whilst moving airborne at that speed; and this was even more unsettling for those of them who couldn't actually see the Thestrals. It is possible that they were faster than even the fastest [[broomstick]], as when Harry rode his, he did not think he had ever moved so fast, and he was the owner of a top-of-the-line broomstick, the [[Firebolt]].<ref name="OOTP33"/>
+
+Their powerful wings were capable of lifting, at least, the burden of two [[human]]s. They could even lift something that weighs as much as them.<ref name="OOTP33"/>
+
+==Thestrals in the wizarding world==
+{{Quote|But they're really, really unlucky! They're supposed to bring all sorts of horrible misfortune on people who see them. Professor Trelawney told me once —|Wizarding superstition regarding Thestrals|Harry Potter and the Order of the Phoenix}}
+
+===Interaction with humans===
+Thestrals could be domesticated and mounted, so they were used as an alternative to [[Broomstick|broom]]s, [[Apparition]], and other methods of transportation. Once trained, they were very diligent and would quickly carry their owners wherever they wish to go. However, travel by Thestral was technically illegal, as it was a breach of the [[International Statute of Wizarding Secrecy]].<ref>[[Wizards' Ordinary Magic and Basic Aptitude Test]] - Grade 1, Question 11</ref>
+
+[[File:Thestral flight.gif|250px|left|frame|Thestrals transporting wizards]]
+Even with all their useful abilities, Thestrals were rarely used as methods of transportation due to their reputation as omens of evil and their somewhat dreadful and even distasteful appearance.<ref name="OOTP21"/>
+
+When riding a Thestral, the traveller usually holded the creature's mane to ensure balance. To aid the mounting, the wizards also placed their legs behind the wing joints to provide safety. Flying on the back of a Thestral during a long journey was frequently an unpleasant experience, particularly to those who dared riding them without seeing the creature. The high speed flight on an invisible steed could be terrifying. The wind would, eventually, cause a temporary deafness and force the riders to close their eyes. It was often difficult to keep balance on their slick backs.<ref name="OOTP33"/>
+
+The Hogwarts herd was gentle towards humans, they reacted satisfactorily to caresses and avoided attacking owls. However, taking into consideration the Ministry of Magic classification as "dangerous",<ref name="ootp21"/> this behaviour might be exclusive to well-trained Thestrals,<ref name="FB" /> or just mere prejudice from the Ministry.
+
+===Hogwarts herd===
+{{Quote|Hogwarts has got a whole herd of 'em in here.|Hagrid referring to the Thestral herd at Hogwarts|Harry Potter and the Order of the Phoenix}}
+{{Main|Hogwarts Thestral Herd}}
+[[File:Thestrals WB F5 ThestralsHarryAndLunaInTheForest Illust 100615 Land.jpg|250px|thumb|Harry Potter and Luna Lovegood visiting the Hogwarts Thestral herd]]
+[[Hogwarts School of Witchcraft and Wizardry]] had a very loyal flock of Thestrals used mainly to pull the [[Hogwarts Carriages|carriages]] that lead elder students from [[Hogsmeade station]] to the [[Entrance Gates|gates of the Castle]]. To people who couldn't see Thestrals, it appeared that the carriages were autonomous.<ref name="OP10"/> The herd at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] started with a male and five females. A number of them had been born since, beginning with one named [[Tenebrus]], which was a special favourite of Hagrid's, the Hogwarts gamekeeper.<ref name="OOTP21"/> Harry and a group of students flew Thestrals from Hogwarts to the [[British Ministry of Magic|Ministry of Magic]] in an attempt to rescue [[Sirius Black]].<ref name="OOTP33"/> They were also used by [[Albus Dumbledore]], when he needed to travel but didn't care to [[Apparition|Apparate]].<ref name="OOTP36">{{OOTP|B|36}}</ref>
+
+Rubeus Hagrid, the trainer and breeder of this specific herd, strongly suspected that this was the only trained large group of Thestrals in the whole of [[Great Britain]].<ref name="OOTP21"/>
+
+During the [[1989–1990 school year]], [[Professor]] [[Silvanus Kettleburn]] taught his [[sixth year|sixth-year]] [[Nastily Exhausting Wizarding Test|N.E.W.T.]] students about Thestrals in [[Care of Magical Creatures]], which involved members of the Thestral herd.<ref name="HM620cmc">{{HM|6|20|cmc}}</ref>
+
+In the aftermath of the [[Second Wizarding War]], newly-appointed [[Headmaster|Headmistress]] [[Minerva McGonagall]] noticed that most students were able to see Thestrals for many years to come. This served as a constant, painful reminder of the cost of all the miseries and sacrifices made to achieve peace.<ref name="WUBE Back to Hogwarts">{{WU}} "Brilliant Event: Back to Hogwarts"</ref>
+
+===At the Magical Creatures Reserve===
+{{Main|Thestral at the Magical Creatures Reserve}}
+During the [[1986–1987 school year]], [[Albus Dumbledore]] asked Hagrid to give a presentation on Thestrals to the [[International Confederation of Wizards]], hoping to clear up some of the misconceptions around them. More specifically that even a Thestral with limited exposure to strangers will be comfortable working with a large group of them.<ref name="TDH">{{HM|3|The Dark Horse}}</ref>
+
+To this end, Hagrid asked [[Jacob's sibling]] and [[Merula Snyde]] to help prepare a Thestral at the [[Magical Creatures Reserve]] for the presentation.<ref name="TDH"/>
+
+Hagrid later reported that he considered the presentation a huge success, though given that prejudices against the creatures still seemed to be common in later years, it's unclear how accurate his assessment was.<ref name="TDH"/>
+
+===Harry Potter's encounters with Thestrals===
+[[File:Order-of-the-phoenix-Thestrals.jpg.jpg|250px|thumb|left|Harry Potter's first encounter with a Thestral that was pulling a Hogwarts carriage]]
+[[Harry Potter]] first saw the Thestrals at Hogwarts in [[September]] of [[1995]], after having witnessed the murder of [[Cedric Diggory]] in [[June]]. Harry could not see them that [[June]] because he had not yet dealt with what he had witnessed. At first, he wondered why the supposedly horseless carriages were suddenly pulled by such sinister creatures when they were able to move on their own. He pointed the Thestrals out to [[Ronald Weasley|Ron Weasley]], and realised that Ron could not see them. Sensing his desperation, [[Luna Lovegood]] assured him that she had always been able to see the horses and that he was just as sane as she was. Given Luna's odd habits and beliefs, this statement did not completely reassure Harry.<ref name="OP10"/>
+
+They were first identified by name by [[Professor]] [[Wilhelmina Grubbly-Plank]], after [[Hedwig]] was found injured, when she mentioned that Thestrals sometimes go after birds. They were next mentioned by Hagrid in a [[Care of Magical Creatures]] class, where the students were told that they could be used as mounts, and introduced their navigation abilities.<ref name="OOTP15"/>
+
+In June of 1996, Harry, [[Hermione Granger]], [[Ronald Weasley|Ron]], [[Ginevra Weasley|Ginny Weasley]], [[Luna Lovegood]], and [[Neville Longbottom]] flew to [[London]] atop the Thestrals in order to find [[Sirius Black]], whom Harry believed to be in danger in the [[British Ministry of Magic|Ministry of Magic]].<ref name="OOTP33"/> (Hermione, Ron, and Ginny had trouble mounting their Thestrals for the ride since, at least to the three of them, the Thestrals were invisible).<ref name="OP34">{{OOTP|B|34}}</ref>
+
+[[File:Billfleurdesta.jpg|250px|thumb|[[William Weasley|Bill Weasley]] and Fleur Delacour use a Thestral as transportation during the Battle of the Seven Potters]]
+The [[Order of the Phoenix]] made use of Thestrals in the summer of 1997 during the [[Battle of the Seven Potters]]. Six of the Order's members took [[Polyjuice Potion]] to disguise themselves as Harry, and then the "seven Potters" and their protectors fled [[4 Privet Drive]] to safe houses of other members. Thestrals were used as transportation by the Order, seeing as they are incredibly fast and very clever.  [[Hermione Granger]] and [[Kingsley Shacklebolt]] flew on a Thestral (Hermione was not confident on a broom), and so did Bill Weasley and [[Fleur Delacour]] (Fleur did not like brooms).<ref name="DH4"/>
+
+[[File:Hogwarts Big Battle at Hogwarts Moment Pottermore.jpg|250px|thumb|left|Thestrals were seen attacking Lord Voldemort's Giant soldiers from the air]]
+During the second stage of the [[Battle of Hogwarts]], Thestrals were seen attacking [[Tom Riddle|Lord Voldemort]]'s [[Giant]] soldiers from the air. They were lead by the [[Hippogriff]] [[Buckbeak]].<ref name="DH36"/>
+
+After the battle and thus the [[Second Wizarding War]] had ended, the great loss of life from the conflict led to more people than ever before gaining the ability to see Thestrals, initially only exacerbating their negative reputation. However, public opinion on Thestrals finally started to soften as a result of activists instituting a series of outreach programmes to combat negative misconceptions about the creatures, leading to Thestrals gradually being treated with more respect than they had been previously and being considered not as unlucky as they were always believed to be.{{fact}}
+
+Nineteen years later, [[James Potter II]] teasingly warned his younger brother [[Albus Potter|Albus]] about the Thestrals before they left for Hogwarts. This teasing however was stopped by Harry Potter, by informing his son that Thestrals were not dangerous without reason to be.<ref name="DHEpilogue" />
+
+===The Calamity===
+During the [[Calamity]] which affected the [[wizarding world]] during the [[2010]]s, Thestrals were amongst the various magical creatures turned into [[Foundable]]s, guarded by shackle [[Confoundable]]s, with members of the [[Statute of Secrecy Task Force]] having to use the [[Unlocking Charm]] to release these foundables and return them to their rightful place.<ref name="WU"/>
+
+==Known people who could see Thestrals==
+<!-- This list contains only people confirmed to be able to see Thestrals, not just people who have seen death. Keep this in mind when editing. -->
+{| class="wikitable" border="1"
+! width="12%" align="center" |Viewer
+! width="12%" align="center" |First death witnessed
+! align="center" |Notes
+|-
+|[[Albus Dumbledore]] {{C|possibly}}
+|[[Ariana Dumbledore]] {{C|possibly}}
+|As he rode them when he did not feel like using other forms of transportation, it would be odd if he could not see them.
+|-
+|[[Rubeus Hagrid]]
+|[[Rubeus Hagrid's father|His father]] {{C|possibly}}
+|Hagrid witnessed several deaths over the course of his life, including his father, and could see Thestrals.<ref name="WB">[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html 30 July, 2007 webchat] on Accio! Quote</ref>
+|-
+|[[Neville Longbottom]]
+|[[Frank Longbottom's father|His grandfather]]
+|Neville mentioned being able to see Thestrals in a fifth-year [[Care of Magical Creatures]] class.<ref name="OOTP21"/>
+|-
+|[[Luna Lovegood]]
+|[[Pandora Lovegood|Her mother Pandora]]
+|Luna witnessed her mother die during a magical experiment gone wrong when she was nine years old, circa [[1990]]-[[1991]], and thus could see Thestrals when she first came to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="OP10"/>
+|-
+|[[Theodore Nott]]
+|[[Theodore Nott's mother|His mother]]  {{C|possibly}}
+|Theodore was one of only three students who could see Thestrals in the aforementioned [[Fifth year]] [[Care of Magical Creatures]] lesson, and found them distasteful-looking.<ref name="OOTP21"/>
+|-
+|[[Harry Potter]]
+|[[Cedric Diggory]]
+|Harry did not see Thestrals immediately after Cedric's death in [[June]] of [[1995]]; it took a few weeks before he accepted this tragic event, and then was able to see Thestrals.<ref name="OP10"/>
+|-
+|[[Kingsley Shacklebolt]] {{C|possibly}}
+|[[Sirius Black]] {{C|possibly}}
+|As he chose to ride a Thestral during the Battle of the Seven Potters, it is likely that he could see them.<ref name="DH4"/>
+|-
+|[[Severus Snape]]
+|Unknown
+|Snape could see Thestrals,<ref name="EBF">[http://www.accio-quote.org/articles/2004/0804-ebf.htm 15 August, 2004 Edinburgh Book Festival] on Accio! Quote</ref> presumably as a result of seeing people killed in the [[First Wizarding War|First]] and [[Second Wizarding War]]s, as Dumbledore once asked him 'how many men and women have you watched die lately' and Snape replied 'lately only those whom I could not save'.
+|-
+|[[Merula Snyde]]
+|An [[Auror]] {{C|possibly}}
+|Merula could see Thestrals. According to her, it was due to an incident involving her parents and an Auror.<ref name="TDH"/>
+|-
+|[[William Weasley|Bill Weasley]] {{C|possibly}}
+|[[Gibbon]] {{C|possibly}}
+|As he rode a Thestral with Fleur (because she wasn't fond of riding a broom) during the Battle of the Seven Potters, it is likely that he could see them (it would be odd if he couldn't) 
+|-
+|[[Fleur Delacour]] {{C|possibly}}
+|Unknown 
+|She chose to ride a Thestral with Bill during the Battle of the Seven Potters, as she wasn't too fond of riding a broomstick, so it is most likely she could see them.<ref name="DH4"/>
+|-
+|[[Jacob's sibling]]
+|[[Rowan Khanna]] {{C|possibly}}
+|They could see Thestrals by the time there was a [[Care of Magical Creatures]] class covering Thestrals after the death of Rowan.<ref name="HM620cmc">{{HM|6|20|cmc}}</ref> However, they may have previously worked with Thestrals, suggesting that they could see them before this.<ref name="TDH"/>
+|-
+|[[Ben Copper]]
+|[[Rowan Khanna]]
+|He could see Thestrals by his sixth year.<ref name="HM633">{{HM|6|33}}</ref>
+|-
+|[[Unidentified 19th-century Hogwarts student]]
+|
+|It is unknown when or how they acquired the ability to see Thestrals.<ref name="HL-gameplay">{{HL}} ([https://www.youtube.com/watch?v=aOx7D1PSt9A see video])</ref>
+|-
+|[[Draco Malfoy]] <sup>(possibly)</sup>
+|[[Charity Burbage]]
+|Draco could possibly see Thestrals after witnessing Charity's death at The Malfoy Manor.
+|-
+|Likely most participants in the [[Battle of Hogwarts]]
+|Numerous casualties on both sides
+|Although there is no exact number it is likely that most of the people in the battle saw someone die.
+|}
+
+==Etymology==
+The name thestral comes from the archaic English word ''thester'', meaning "dark" or "gloomy",<ref>https://en.wiktionary.org/wiki/thester</ref> and the suffix ''-al'', meaning "of or pertaining to".<ref>https://en.wiktionary.org/wiki/-al#Suffix</ref> Together, the name ultimately means "of/pertaining to the dark" or "to gloom."
+
+==Behind the scenes==
+[[File:ThestralPOP.jpg|thumb|A Thestral as a [[POP! Vinyl]]]]
+[[File:ThestralWU.png|thumb|A Thestral as shown in {{WU}}]]
+[[File:Thestral WU.png|thumb|A Thestral as shown in {{WU}}]]
+[[File:American 2013 paperback 05 OOTP.jpg|thumb|Thestrals on the cover of ''Harry Potter and the Order of the Phoenix'', U.S. 15th Anniversary Edition]]
+*[[J. K. Rowling]] stated that the core of the [[Elder Wand]] is a [[Thestral tail hair]].<ref name="JK">{{JKRS}}: Extra Stuff</ref>
+*J. K. Rowling also stated that the reason Harry was not able to see Thestrals until the beginning of his fifth year was that when he left Hogwarts in [[June]] he had not yet fully come to terms with [[Cedric Diggory|Cedric]]'s death.<ref name="EBF" />
+**As described in ''Goblet of Fire'', when Harry and Cedric are transported into the graveyard, Harry's scar begins to hurt and then Wormtail kills Cedric. It mentions "A blast of green light blazed through Harry's eyelids, and he felt something heavy fall to the ground beside him." That meant that Harry had his eyes closed when Cedric died and did not know what fell next to him. Therefore, Harry did not actually witness Cedric's death and should not have been able to see Thestrals as a result of it. Despite this, it is canon that Harry can see Thestrals, as it was clearly stated that he could see them in ''Phoenix'', and thus the way in which he witnessed Cedric's death can be described as a consistency error. If one considers it a mistake that Harry was able to see Thestrals, then he should not have been able to see them until either the death of Sirius Black, or Albus Dumbledore, depending on whether witnessing Black falling through the Veil would count.<!-- See talk page discussion. --> Thestrals, however, can be seen by someone who has gained a sufficient understanding of what death means, and it is possible this was enough for Harry to see them, even though he had not witnessed Cedric's death directly.<ref name="PM"/>
+*Harry also had the chance to witness at least two people die before the death of [[Cedric Diggory]] in {{GOF}}. His mother was murdered by [[Tom Riddle|Lord Voldemort]] when he was one, and [[Quirinus Quirrell|Professor Quirrell]] in his first year. Despite this, [[Harry Potter|Harry]] is not able to see the Thestrals until the beginning of his [[Harry Potter and the Order of the Phoenix|fifth year]]. [[J. K. Rowling]] has explained this stating that he was in his crib when [[Lily J. Potter|his mother]] was murdered, and passed out before Quirrell died.<ref name="JK2">{{JKRS}}</ref> It's also possible that when his parents died, Harry was too young to truly understand the concept of accepting someone's death. This creates a paradox in the films, since the first film appears to show Harry seeing Quirrell die.
+**This can be attributed to the fact that the ''Order of the Phoenix'' novel was published two years after the first film was released.
+**If Harry witnessing his parents die wasn't enough for him to be able to see Thestrals, it seems inconsistent that it was enough for him to be especially susceptible to [[Dementor]]s.
+*It may be possible that [[William Weasley|Bill]], [[Fleur Delacour|Fleur]] and [[Kingsley Shacklebolt]] all saw someone die as they all rode a Thestral during the [[Battle of the Seven Potters]]. The explanation is that Kingsley Shacklebolt most likely saw a death during the [[First Wizarding War]]. However, who Fleur and Bill saw die is unknown. It is possible that, like Hermione, Fleur could not see Thestrals, since she lived in [[France]] where the [[First Wizarding War]] wasn't as effective, and she was only four years old when Voldemort was defeated the first time; however, it is equally possible that she witnessed another death during her life.
+*In the films, Thestrals do not seem to have visible [[Thestral tail hair|hair]].
+*Thestrals also don't seem to have fangs in the film, at least in the young foals. Instead they have a pointed beak which they use to grab food and then they swallow it, almost without chewing, much like birds eat worms.
+*[[Neville Longbottom]] does not seem to be able to see Thestrals in {{OOTP|FA}}.
+*[[Kazu Kibuishi]] illustrated the cover of the Scholastic special edition version of {{OOTP}} which features Harry riding a Thestral, and two other people (possibly Ron and Hermione) riding Thestrals in the background.
+*In an interview for the fifth film, [[Daniel Radcliffe]] described the Thestrals as resembling something the Four Horsemen would ride, alluding to the Four Horsemen of the Apocalypse of the Christian Bible, among whom [[Death]] is a member.
+*After the [[Second Wizarding War]], many individuals were likely able to see Thestrals as many witnessed the death of Voldemort.
+*It is possible that [[Scorpius Malfoy]] was able to see thestrals after possibly witnessing the death of his mother Astoria in the summer of [[2019]].
+*It is unknown whether [[Albus Potter]] was able to see thestrals after witnessing the death of [[Craig Bowker Junior|Craig Bowker Jnr]].
+*In {{HM}}, Rubeus Hagrid demonstrated the usefulness of Thestrals to the International Confederation of Wizards. It is unknown why this was necessary, considering that Thestrals had already been used by the International Confederation in the 1920s.<ref name="TDH"/><ref name="COG">{{COG}}</ref>
+**In the game, Hagrid states that Dumbledore wanted to to try to clear up some misconceptions regarding the creatures, including their willingness to work with strangers. It is possible that, though they were used, some members were opposed to the practice, due to those misconceptions.
+
+==Appearances==
+{{Imagecat|Images of Thestrals}}
+*{{POA}} {{indirect}}
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}} {{Mention}}
+*{{HBP|F}} {{C|Flashback on Disc 2}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{COG|S}}
+*{{COG}}
+*{{FB|R}}
+*{{PM}}
+*{{WW}}
+*{{HPPU}}
+*{{LEGO}}
+*{{LEGO|Y2}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|D}}
+*{{DH|ME}}
+*{{HPV|CR}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+*{{HM}}
+*{{WU}}
+*{{PAS}}
+*{{MA}}
+*{{HL}}
+
+==Notes and references==
+{{Reflist}}
+{{Care of Magical Creatures}}
+{{Creatures by classification}}
+[[de:Thestral]]
+[[es:Thestral]]
+[[fi:Thestral]]
+[[fr:Sombral]]
+[[it:Thestral]]
+[[pl:Testral]]
+[[pt-br:Testrálio]]
+[[ru:Фестрал]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Care of Magical Creatures]]
+[[Category:Creatures from France]]
+[[Category:Creatures from Great Britain]]
+[[Category:Creatures from Ireland]]
+[[Category:Creatures from Portugal]]
+[[Category:Creatures from Spain]]
+[[Category:Forbidden Forest]]
+[[Category:Foundables]]
+[[Category:Invisibility]]
+[[Category:Patronus forms]]
+[[Category:Thestrals]]
+[[Category:Transportation]]

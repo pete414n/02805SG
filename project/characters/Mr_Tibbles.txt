@@ -1,0 +1,41 @@
+{{Pet individual infobox
+|image = 
+|name = Mr Tibbles
+|born = Before [[1991]]<ref name="PS2"/>
+|died = 
+|alias = 
+|title = 
+|species = Part-[[Kneazle]] [[cat]]<ref name="JKRS">[https://web.archive.org/web/20060316221040/https://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=19 Extra Stuff: Squibs] from {{JKRS}} (via the Internet Archive)</ref>
+|gender = Male<ref name="PS2"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Arabella Figg]]<ref name="PS2"/><ref name="OOTP2"/>
+}}
+'''Mr Tibbles''' was a part-[[kneazle]] [[cat]]<ref name="JKRS"/> owned by [[Arabella Figg]].<ref name="PS2">{{PS|B|2}}</ref> He appeared to have the ability to communicate with [[human]]s, as he was able to inform his owner when Harry and his cousin, [[Dudley Dursley]], were [[Attack in Little Whinging|attacked]] by two [[Dementor]]s in [[August]] [[1995]].<ref name="OOTP2">{{OOTP|B|2}}</ref>
+
+==Etymology==
+The name "Tibbles" is spelling variant of "Tibbals" and means "son of Tibbal" which is an English form of the name Theobald. The name is deriving from the Old High German first name Dietbald which means "people" + "bold".
+
+"Tibbles" and the variant "Tibby" became popular cat names in the Middle Ages due to popularity of the cat Tibert in the {{W|Reynard the Fox}} stories. The character Tybalt in ''[[Romeo and Juliet]]'' was named after Tibert and is mocked in the play as "the Prince of Cats".
+
+==Appearances==
+*{{PS}} {{1st mention}}
+*{{OOTP}} {{1st}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{JKRS}} {{Indirect}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Mr Tibbles]]
+[[es:Señor Tibbles]]
+[[fr:Pompom]] 
+[[ru:Мистер Тибблс]]
+[[pl:Maleństwo]]
+[[Category:Arabella Figg's cats]]
+[[Category:Kneazles]]
+[[Category:Males]]
