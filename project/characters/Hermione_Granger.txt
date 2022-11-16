@@ -1,5 +1,5 @@
 {{Spoiler|PAS|MA}}
-{{Protected}}
+{{Semiprotected}}
 {{Individual infobox
 |theme = mom
 |image = Hermione Granger.jpg<!--Please do not change this. It was voted on by the users of the Harry Potter Wiki. Any change to the main image will subsequently be undone. If you wish to change the image, please hold another vote on the talk page.-->

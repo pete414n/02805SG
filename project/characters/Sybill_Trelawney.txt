@@ -2,7 +2,7 @@
 {{FA}}
 {{Individual infobox
 |theme = hogwarts-staff
-|image = Trelawney ootp.jpg
+|image = Sybill Trelawney.JPG
 |name = Sybill Patricia Trelawney
 |born = [[9 March]],<ref name="PM">{{WW|sybill-trelawney}}</ref> [[1960s|prior to 1963]]<ref name="birth">Trelawney was hired in [[1981]] and was at least 17. Thus, she had to be sorted by 1973 (at the latest to have graduated for 1980 - graduating that June/July) and be born by 1963 (to be old enough) to be sorted in 1974.</ref>
 |died = 
