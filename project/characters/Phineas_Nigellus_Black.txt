@@ -116,7 +116,10 @@ Despite his views on blood purity he did not support the [[Death Eaters]], and w
 ==Magical abilities and skills==
 *'''[[Magic]]al mastery''':  While a notoriously unpopular among the students throughout his tenure, his healthy respect of learning, as well as the fact that Professor Black was trusted with the oversight of one of the most prestigious schools in the world testified to the fact that he was nevertheless a great wizard in his own right, as he was able to competently oversee the training of its students. Indeed: This was highlighted even further by the fact that the extent to which a portrait could interact with those that looked at it depended not on the skill of the painter, but rather on the power of the witch or wizard depicted,<ref>{{WW|hogwarts-portraits}}</ref> and that the gallery of [[Headmaster portraits|headteacher portraits]] in the [[Headmaster's Tower]], including that of Professor Black, were all so lifelike that the [[Hogwarts Board of Governors]] found it prudent to remind new appointees to the post.<ref>{{CC}}</ref>
 *'''Intelligence''': Black took great pride in his knowledge, looking down upon those who did not appear to appreciate the value of learning, having taught his portrait to mock whoever appeared to be less knowledgeable than it and, by extension, himself, by having it refer to them as "ignorant". Having taught his portrait to talk and act like himself, he also educated it on things he believed later generations of Headmasters and Headmistresses would find useful, among them specifics of the metalwork of goblins.<ref name="DH15">{{DH|B|15}}</ref>
+<<<<<<< HEAD
 *'''[[Charms]]''': Professor Black was very proficient with charms, as [[Nellie Oggspire]] implied that he had the skill, but not the interest, needed to disenchant the [[Daedalian Keys]] that had been previously been bewitched by former Headmistress [[Eupraxia Mole]].<ref name="YT">[https://m.youtube.com/watch?v=ecgrvh4kQRU Hogwarts Legacy - Gameplay Showcase] (11.11.2022)</ref>
+=======
+>>>>>>> added books and started on extracting characters from book
 
 ==Relationships==
 ===Family===

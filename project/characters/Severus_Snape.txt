@@ -110,15 +110,24 @@ There was also some overlap between his school career and that of a younger stud
 
 ====Half-Blood Prince====
 {{Quote|This book is the property of the Half Blood Prince.|The inside cover of the textbook|Harry Potter and the Half-Blood Prince}}
+<<<<<<< HEAD
 [[File:Severus Snape student MA.png|200px|thumb|right|Severus Snape authoring curses of his own making]]
+=======
+[[File:Severus Snape student MA.png|thumb|[[Severus Snape]] authoring curses of his own making.]]
+>>>>>>> added books and started on extracting characters from book
 Severus was a talented wizard even in his childhood. It was apparent through the notes and scribbles in [[Severus Snape's copy of Advanced Potion-Making|his potions textbook]] that he made time during classes to invent [[curse]]s, [[charm]]s, and clever [[potion]] innovations, while simultaneously learning the required textbook lessons.<ref name="HBP9" /><ref name="HBP28" />
 
 Severus's potions textbook contained a few spells and curses which he was credited with inventing: ''[[Dangling Jinx|Levicorpus]]'', which grabbed the victim by the ankle and dangled him/her upside-down,<ref name="HBP12"/> and ''[[Sectumsempra]]'', which caused slashing bloody cuts (guided by the wand gestures of the caster, like a blade/sword) which bled extensively.<ref name="HBP24"/> ''Levicorpus'' somehow escaped from Severus's secrecy, and became very popular around Hogwarts towards the end of his fifth year at school. Some other spells included ''[[Muffliato Charm|Muffliato]]'', which filled the ears of anyone nearby with an unidentifiable buzzing sound and [[Toenail-growing hex|another hex]] that caused toenails to grow at an unnaturally fast rate.<ref name="HBP12"/> 
 
 Severus's book later fell into the hands of [[Harry Potter]] in September 1996. Harry used the Half-Blood Prince's tips and earned praise with that year's Potions master, [[Horace Slughorn|Professor Slughorn]]. Harry considered the Half-Blood Prince to be a better teacher than Severus, unaware at that point that Severus ''was'' the Prince, much to Harry's later displeasure.<ref name="HBP28" />
 
+<<<<<<< HEAD
 [[File:Advanced Potion Making pages.png|250px|thumb|left|The Half-Blood Prince's many annotations and corrections]]
+=======
+[[File:Advanced Potion Making pages.png|229x229px|thumb|The Half-Blood Prince's many annotations and corrections|left]]
+>>>>>>> added books and started on extracting characters from book
 The [[Potions (class)|potions]] textbook has an inscription indicating it is ''Property of the Half-Blood Prince''.<ref name="HBP9"/> [[Hermione Granger]]'s research revealed that Prince was the maiden name of Severus's mother and so the nickname was revealed to be a combination of his mother's maiden name and his blood status. Harry Potter also pointed out the similarities between Snape's nickname and the name Voldemort gave himself. This nickname was apparently a secret, as [[Remus Lupin|Remus]] did not remember it ever being used publicly by Severus.
+
 
 ===First Wizarding War {{C|1978–1981}}===
 ====As a Death Eater====

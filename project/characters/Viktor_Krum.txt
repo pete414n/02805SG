@@ -47,8 +47,12 @@ He retired from Quidditch after the Bulgarian defeat in the final of the [[2002 
 
 ==Biography==
 ===Early life===
+<<<<<<< HEAD
 {{Quote|...this is [[Sign of the Deathly Hallows|his symbol]], I recognised it at vunce: [[Gellert Grindelwald|Grindelvald]] carved it into a vall at Durmstrang ven he vos a pupil there. Some idiots copied it onto their books and clothes thinking to shock, make themselves impressive — until those of us who had lost family members to Grindelvald taught them better.|Viktor on the wizard who murdered his grandfather|Harry Potter and the Deathly Hallows}}
 Viktor was born to [[Viktor Krum's father|Krum]] and [[Viktor Krum's mother|his wife]] between [[April]] and [[August]] [[1976]].<ref name="BD" /> He grew up in Bulgaria, and attended the [[Durmstrang Institute]].<ref name="GF">{{GOF}}</ref> He was one of the last people to purchase a [[Viktor Krum's wand|wand]] from [[Gregorovitch Zauberstäbe]] before [[Mykew Gregorovitch]]'s retirement.<ref name="GOF18"/><ref name="DH"/>
+=======
+{{Quote|...this is [[Sign of the Deathly Hallows|his symbol]], I recognised it at vunce: [[Gellert Grindelwald|Grindelvald]] carved it into a vall at Durmstrang ven he vos a pupil there. Some idiots copied it onto their books and clothes thinking to shock, make themselves impressive — until those of us who had lost family members to Grindelvald taught them better.|Viktor on the wizard who murdered his grandfather|Harry Potter and the Deathly Hallows}}Viktor was born to [[Viktor Krum's father|Krum]] and [[Viktor Krum's mother|his wife]] between [[April]] and [[August]] [[1976]].<ref name="BD" /> He grew up in Bulgaria, and attended the [[Durmstrang Institute]].<ref name="GF">{{GOF}}</ref> He was one of the last people to purchase a [[Viktor Krum's wand|wand]] from [[Gregorovitch Zauberstäbe]] before [[Mykew Gregorovitch]]'s retirement.<ref name="GOF18"/><ref name="DH"/>
+>>>>>>> added books and started on extracting characters from book
 
 During his time at the school, Viktor was confronted by what he believed to be the [[Sign of the Deathly Hallows|symbol]] of [[Gellert Grindelwald]], which was indeed the symbol of the [[Deathly Hallows]], that had been carved into the walls by the wizard himself. Other students at the school began copying the symbol onto their books and clothing as a way of trying to shock and impress. Highly insulted, since his grandfather had been murdered by Grindelwald, Viktor and several other students who had also lost family at the hands of the [[Dark Wizard]] taught them the error of their ways.<ref name="DH">{{DH}}</ref>
 
@@ -62,8 +66,12 @@ A skilled [[Quidditch]] [[Seeker]], Viktor was selected to play for the [[Bulgar
 During the final match, Viktor fooled the Irish Seeker, [[Aidan Lynch]], by performing a ''[[Wronski Feint]]'' that resulted in Lynch ploughing into the ground. Despite his skills, the Irish side were too good for the Bulgarians, and Viktor decided to end the match by catching the [[Golden Snitch]]. During his pursuit of the Snitch, he was hit in the face by a [[Bludger]] which broke his nose and gave him two black eyes. However, he caught the Snitch and ended the match on his own terms. He received a runners-up medal along with the rest of the Bulgarian team following the conclusion of the match.<ref name="GF" />
 
 ===Triwizard Tournament===
+<<<<<<< HEAD
 {{Quote|Vell, ve have a castle also, not as big as this, nor as comfortable, I am thinking. Ve have just four floors, and the fires are lit only for magical purposes. But ve have grounds larger even than these — though in vinter we have very little day-light, so ve are not enjoying them. But in summer ve are flying every day, over the lakes and the mountains —|Viktor comparing Hogwarts and Durmstrang|Harry Potter and the Goblet of Fire}}
 [[File:The_champions.png|240px|thumb|Three of the four champions; [[Cedric Diggory]], [[Fleur Delacour]], and Viktor]]
+=======
+{{Quote|Vell, ve have a castle also, not as big as this, nor as comfortable, I am thinking. Ve have just four floors, and the fires are lit only for magical purposes. But ve have grounds larger even than these — though in vinter we have very little day-light, so ve are not enjoying them. But in summer ve are flying every day, over the lakes and the mountains —|Viktor comparing Hogwarts and Durmstrang|Harry Potter and the Goblet of Fire}}[[File:The_champions.png|240px|thumb|Three of the four champions; [[Cedric Diggory]], [[Fleur Delacour]], and Viktor]]
+>>>>>>> added books and started on extracting characters from book
 
 Viktor was part of the Durmstrang delegation that travelled with [[Igor Karkaroff]] to [[Hogwarts School of Witchcraft and Wizardry]] to compete in the [[Triwizard Tournament]] on 30 October. His presence at the school caused a stir amongst the student body since he was famous, and he was constantly followed by groups of giggling girls. One of the few exceptions to this was Hermione Granger.
 
@@ -111,8 +119,12 @@ Following the Tournament and the murder of [[Cedric Diggory]], Viktor attended t
 
 ===Second Wizarding War===
 ====After the Triwizard Tournament====
+<<<<<<< HEAD
 {{Quote|Vot is the point of being an international Quidditch player if all the good-looking girls are taken?|Viktor regarding his status as a famous Quidditch player|Harry Potter and the Deathly Hallows}}
 Despite his offer, Hermione never visited Viktor in Bulgaria, but the two continued to correspond through letters.<ref name="OP">{{OOTP}}</ref>
+=======
+{{Quote|Vot is the point of being an international Quidditch player if all the good-looking girls are taken?|Viktor regarding his status as a famous Quidditch player|Harry Potter and the Deathly Hallows}}Despite his offer, Hermione never visited Viktor in Bulgaria, but the two continued to correspond through letters.<ref name="OP">{{OOTP}}</ref>
+>>>>>>> added books and started on extracting characters from book
 
 By [[1996]], Viktor Krum appeared on a [[Chocolate Frog Card]]. During the [[1996–1997 school year]] at Hogwarts, his card could be won by beating [[Roderick Seaton]] at a [[Gobstones]] challenge.<ref name="HBPG">{{HBP|G}} {{c|NDS edition}}</ref>
 
@@ -133,7 +145,11 @@ Being a young man of great strength of character, as well as his loyalty as a fr
 
 Krum continued his Quidditch career, representing [[Bulgaria]] in international [[Quidditch]] matches, until [[2002]]. On the final of the [[2002 Quidditch World Cup|424th Quidditch World Cup]] (held that year), Bulgaria suffered a crushing disappointment when outstanding [[Egyptian National Quidditch team|Egyptian]] [[Seeker]] [[Rawya Zaghloul]] narrowly beat Krum to the Snitch, making them lose 450 to 300. After the match, a tearful Krum announced his retirement.<ref name="PM">{{PM}} - [[Quidditch World Cup 1990 - 2014]] (Archived)</ref>
 
+<<<<<<< HEAD
 However, Krum's ambition to help Bulgaria win the [[Quidditch World Cup]] made him come out of retirement to compete in the [[2014 Quidditch World Cup]]. At 38 years old, Krum was old for a Seeker, but his dramatic return caused Bulgaria to attract support from those whose own countries had not qualified.<ref name="PM" /> He ended up catching the Snitch and secured Bulgaria's victory over Brazil in the [[2014 Quidditch World Cup final|World Cup Final]]. Bulgaria's success was described by [[Ginevra Weasley|Ginny Potter]] as being mostly due to Viktor Krum's excellent performance.
+=======
+However, Krum's ambition to help Bulgaria win the [[Quidditch World Cup]] made him come out of retirement to compete in the 2014 Quidditch World Cup. At 38 years old, Krum was old for a Seeker, but his dramatic return caused Bulgaria to attract support from those whose own countries had not qualified.<ref name="PM" /> He ended up catching the Snitch and secured Bulgaria's victory over Brazil in the [[2014 Quidditch World Cup final|World Cup Final]]. Bulgaria's success was described by [[Ginevra Weasley|Ginny Potter]] as being mostly due to Viktor Krum's excellent performance.
+>>>>>>> added books and started on extracting characters from book
 
 During the [[Calamity]], Viktor appeared as a [[Foundable]] alongside Hermione as the pair appeared at the Yule Ball, trapped in a giant Christmas ornament [[Confoundable]]. Volunteer members of the [[Statute of Secrecy Task Force]] had to cast the [[Exploding Charm]] in order to free them and return the two to their proper time.<ref>Harry Potter: Wizards Unite</ref>
 
