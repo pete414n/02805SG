@@ -3,7 +3,7 @@
 |theme = wizard
 |image = [[File:Ambrosius Flume.jpg|250px]]
 |name = Ambrosius Flume
-|born = between [[1914]] and [[1970]]<ref>Slughorn became Potions Master in 1931 and resigned from his teaching position in 1981, meaning Flume would have been a member of the Slug Club by at least then.</ref>
+|born = between [[1914]] and [[1970]]
 |died = 
 |blood = 
 |marital = Married
@@ -15,7 +15,7 @@
 |gender = Male
 |height = 
 |weight = 
-|hair = Bald<ref name="PA10"/>
+|hair = Bald
 |eyes = 
 |skin = White
 |family = [[Ambrosius Flume's wife|Mrs Flume]] (wife)
@@ -34,13 +34,13 @@
 
 ==Biography==
 ===Early life===
-Ambrosius Flume attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] in his youth and was taught [[Potions (class)|Potions]] by [[Horace Slughorn]]. Ambrosius became a member of the [[Slug Club]].<ref name="HBP4">{{HBP|B|4}}</ref>
+Ambrosius Flume attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] in his youth and was taught [[Potions (class)|Potions]] by [[Horace Slughorn]]. Ambrosius became a member of the [[Slug Club]].
 
 ===Employment===
-As he was a member of the [[Slug Club]], [[Horace Slughorn]] introduced Ambrosius to [[Ciceron Harkiss]] and thus had him employed. As repayment for Horace's kindness, Flume sent a hamper of Slughorn's favourite sweets ([[Crystallised Pineapple|Crystallised pineapple]]) to him annually on his birthday.<ref name="HBP4" />
+As he was a member of the [[Slug Club]], [[Horace Slughorn]] introduced Ambrosius to [[Ciceron Harkiss]] and thus had him employed. As repayment for Horace's kindness, Flume sent a hamper of Slughorn's favourite sweets ([[Crystallised Pineapple|Crystallised pineapple]]) to him annually on his birthday.
 
 ===Marriage and Honeydukes===
-At some point in his life, Ambrosius married [[Ambrosius Flume's wife|Mrs Flume]].<ref name="HBP4" /> By [[1993]], the couple lived in a flat above [[Honeydukes|Honeydukes Sweetshop]] and together ran said shop. In [[1993]], during one of the weekend trips to Hogsmeade, [[Ambrosius Flume's wife|Mrs Flume]] asked Ambrosius to get some [[Jelly Slug]]s, as the shop was filled with Hogwarts students.<ref name="PA10">{{POA|B|10}}</ref>
+At some point in his life, Ambrosius married [[Ambrosius Flume's wife|Mrs Flume]].
 
 ===Battle of Hogwarts===
 It is most likely that as a former Hogwarts student Ambrosius participated in the [[Battle of Hogwarts]] alongside his [[Ambrosius Flume's wife|wife]], and fellow [[Hogsmeade]] residents [[Aberforth Dumbledore]], [[Rosmerta|Madam Rosmerta]] and [[Puddifoot|Madam Puddifoot]].
@@ -51,7 +51,7 @@ It is most likely that as a former Hogwarts student Ambrosius participated in th
 ==Behind the scenes==
 *Flume may have been the one who told [[Tom Riddle]] that [[Horace Slughorn]] was quite fond of [[Crystallised Pineapple]]. Tom used this sweet as a casual bribe the night he asked Slughorn on the method and effects of creating [[Horcrux]]es.
 *It is possible, as he was a former [[Slug Club]] member, that he attended the [[Slug Club Christmas party|Christmas party]] in [[1996]].
-*In {{HBP|FA}}, Ambrosius only appears in a flashback on disc 2 from {{POA|FA}} and is mentioned on the original script.<ref>[http://www.imsdb.com/Movie%20Scripts/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20Script.html ''Half-Blood Prince'' script] on the Internet Movie Script Database (archived [http://web.archive.org/web/20110101193134/http://www.imsdb.com/scripts/Harry-Potter-and-the-Half-Blood-Prince.html here])</ref>
+*In {{HBP|FA}}, Ambrosius only appears in a flashback on disc 2 from {{POA|FA}} and is mentioned on the original script.
 **Also in the novel, Slughorn said that Ambrosius sent a hamper of his favourite sweets, which were [[Crystallised Pineapple]], every birthday, while on the original script from the film Slughorn said that Ambrosius sent him a hamper of chocolate each birthday. This is possibly why it was cut from the film, as it contradicts the novel and would totally ruin later events, such as Slughorn's memory about the [[Slug Club]] dinner with [[Tom Riddle]], in which Tom gave Slughorn crystallised pineapple.
 
 ==Appearances==

@@ -10,8 +10,8 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="GOF12"/>
-|gender = Female<ref name="GOF12"/>
+|species = [[Human]]
+|gender = Female
 |height = 
 |weight = 
 |hair = 
@@ -24,11 +24,11 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Hufflepuff]]<ref name="GOF12"/>
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF12"/>
-**[[Hufflepuff]]<ref name="GOF12"/>
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
 }}
-'''Laura Madley''' (born c. [[1983]]) was a [[Wizardkind|witch]] that started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]], and was [[Sorting ceremony|sorted]] into [[Hufflepuff]]. Laura would share a dormitory with [[Eleanor Branstone]] who was also sorted into Hufflepuff that year.<ref name="GOF12">{{GOF|B|12}}</ref>
+'''Laura Madley''' (born c. [[1983]]) was a [[Wizardkind|witch]] that started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]], and was [[Sorting ceremony|sorted]] into [[Hufflepuff]]. Laura would share a dormitory with [[Eleanor Branstone]] who was also sorted into Hufflepuff that year.
 
 ==Etymology==
 Laura is the feminine form of the Late Latin name ''Laurus'', which meant "laurel". This name was favourable, because in ancient Rome the leaves of laurel trees were used to create victors' garlands.

@@ -3,16 +3,16 @@
 |theme = gryffindor
 |image = [[James Sirius Potter DHF2.jpg]]
 |name = James Sirius Potter
-|born = Between [[1 September]] [[2003]] and [[31 August]] [[2004]]<ref name="JKR-twitter-James-Potter">[https://twitter.com/jk_rowling/status/638641255094853632 I'm in Edinburgh, so could somebody at King's Cross wish James S Potter good luck for me? He's starting at Hogwarts today. ] posted by JKR on Twitter on 1 September 2015</ref>
+|born = Between [[1 September]] [[2003]] and [[31 August]] [[2004]]
 |died = 
-|blood = [[Half-blood]]<ref name="blood">[https://web.archive.org/web/20060316221500/https://www.jkrowling.com/textonly/en/faq_view.cfm?id=58 FAQ] (Internet Archive) from {{JKRS}} - For an individual to be pure-blood, the witch or wizard should at least have no Muggle or Muggle-born parents or grandparents. Therefore, the children of Harry and Ginny Weasley are also half-blood as Muggle-born Lily is their grandmother.</ref>
+|blood = [[Half-blood]]
 |marital =Single 
-|nationality = [[England|English]]<ref name="DHE"/>
+|nationality = [[England|English]]
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="DHE"/>
-|gender = Male<ref name="DHE"/>
+|species = [[Human]]
+|gender = Male
 |height = 
 |weight = 
 |hair = 
@@ -48,9 +48,9 @@
 *[[Hugo Granger-Weasley]] (maternal first cousin)
 *[[Hardwin Potter]] (paternal ancestor) †
 *[[Iolanthe Peverell|Iolanthe Potter]] (née [[Peverell family|Peverell]]) (paternal ancestor) †
-*[[Linfred of Stinchcombe]]<ref name="Pottermore">{{WW|the-potter-family}}</ref> (paternal ancestor) †
-*[[Ignotus Peverell's son|Mr Peverell]]<ref name="Pottermore" /> (paternal ancestor) †
-*[[Ignotus Peverell]]<ref name="Pottermore" /> (paternal ancestor) †
+*[[Linfred of Stinchcombe]] (paternal ancestor) †
+*[[Ignotus Peverell's son|Mr Peverell]] (paternal ancestor) †
+*[[Ignotus Peverell]] (paternal ancestor) †
 *[[Tom Riddle|Lord Voldemort]] (paternal distant cousin) †
 *[[Delphini]] (paternal distant cousin)
 *[[Potter family]] (paternal family)
@@ -68,14 +68,14 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Gryffindor]]<ref name="JKR-twitter-Gryffindor">[https://twitter.com/jk_rowling/status/638778021663666176 Have just heard that James S Potter has been Sorted (to nobody's surprise) into Gryffindor. Teddy Lupin (Head Boy, Hufflepuff) disappointed.] posted by JKR on Twitter on 1 September 2015</ref>
-|loyalty = *[[Potter family]]<ref name="DHE"/>
-*[[Weasley family]]<ref name="DHE"/>
+|house = [[Gryffindor]]
+|loyalty = *[[Potter family]]
+*[[Weasley family]]
 *[[Hogwarts School of Witchcraft and Wizardry]]
 **[[Gryffindor]]
 }}
 {{Quote|You may not want to believe everything he tells you about Hogwarts. He likes a laugh, your brother.|James' teasing personality|Harry Potter and the Cursed Child}}
-'''James Sirius'''<ref>[https://www.pottermore.com/features/the-potter-family-tree Features: "The Potter family tree"] at {{PM}}</ref><ref name="WFT">[http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article3105517.ece Times Online - The Unwritten Story of Harry's Friends and Their Children]</ref> '''Potter''' (b. c. [[2004]])<ref name="JKR-twitter-James-Potter" /> was an [[England|English]] [[half-blood]]<ref name="blood" /> [[Wizardkind|wizard]], the eldest child and first son of [[Harry Potter|Harry]] and [[Ginevra Weasley|Ginevra Potter]] {{c|née Weasley}}. James was two years older than his brother [[Albus Potter|Albus Severus]] and four years older than his sister [[Lily L. Potter|Lily Luna]]. His godparents, as well as his uncle and aunt were [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]].<ref>[http://www.mugglenet.com/app/news/full_story/1414 Video clip of J.K. Rowling from her new documentary: ''J.K. Rowling: A Year in the Life'']</ref>
+'''James Sirius''' '''Potter''' (b. c. [[2004]])
 
 James was named in honour of his late paternal grandfather and his father's godfather ([[James Potter I|James Potter]] and [[Sirius Black]]). In [[2015]], he began attending [[Hogwarts School of Witchcraft and Wizardry]] and was to no one's surprise sorted into [[Gryffindor|Gryffindor House]].
 
@@ -87,15 +87,15 @@ James Sirius Potter was born sometime between [[1 September]] [[2003]] and [[31 
 [[File:The Potters at the 2014 Quidditch World Cup final.png|250px|thumb|left|James attending the [[2014 Quidditch World Cup]] with his family]]
 In 2014, James, along with his family, attended the finale of the Quidditch World Cup in the Patagonian Desert. A few days before the match, his father introduced him and his younger brother [[Albus Potter|Albus]] to the [[Bulgarian National Quidditch team]] [[Seeker]], and an old associate of his father, [[Viktor Krum]]. James along with the rest of his family, with the exception of his mother (who was in the journalists' enclosure) and Albus (who was wearing Brazilian green), sported Bulgarian red. 
 
-James laughed when Albus almost toppled out of the VIP box cheering when [[Gonçalo Flores]] scored the first goal of the game, but his uncle [[Ronald Weasley|Ron]] grabbed the back of his robes and saved him. Due to James laughing, ''[[Daily Prophet]]'' correspondent [[Rita Skeeter]] (who was covering the match live with Ginny) suggested that he may have pushed Albus.<ref name="the-qwc2014-final">[[2014 Quidditch World Cup final]] from {{PM}} {{see image|File:Quidditch World Cup Final (Evening Prophet).png}}</ref> James was seen applauding after Bulgaria won the tournament.
+James laughed when Albus almost toppled out of the VIP box cheering when [[Gonçalo Flores]] scored the first goal of the game, but his uncle [[Ronald Weasley|Ron]] grabbed the back of his robes and saved him. Due to James laughing, ''[[Daily Prophet]]'' correspondent [[Rita Skeeter]] (who was covering the match live with Ginny) suggested that he may have pushed Albus. James was seen applauding after Bulgaria won the tournament.
 
 ===Hogwarts years {{C|2015–?}}===
 {{Dialogue a-b-c|Albus Potter|I ''won't''! I ''won't'' be in Slytherin!|Ginny Potter|James, give it a rest!|James|I only said he ''might'' be. There's nothing wrong with that.|James teasing his younger brother|Harry Potter and the Deathly Hallows}}
-James first started attending [[Hogwarts School of Witchcraft and Wizardry]] on [[1 September]], [[2015]], and was [[Sorting ceremony|Sorted]] into [[Gryffindor|Gryffindor House]], to nobody's surprise and [[Edward Lupin|Teddy Lupin]]'s disappointment.<ref name="JKR-twitter-Gryffindor" />
+James first started attending [[Hogwarts School of Witchcraft and Wizardry]] on [[1 September]], [[2015]], and was [[Sorting ceremony|Sorted]] into [[Gryffindor|Gryffindor House]], to nobody's surprise and [[Edward Lupin|Teddy Lupin]]'s disappointment.
 
-Two years later, James was seen going to Hogwarts with Albus on 1 September [[2017]], who was just starting his [[first year]]. James was starting his [[third year]].<ref name="third year">If he started his first year in 2015, he would've started his third year in 2017.</ref> Contemporaries at school include his cousins [[Victoire Weasley|Victoire]] and [[Rose Granger-Weasley]], as well as [[Draco Malfoy]]'s son [[Scorpius Malfoy|Scorpius]], though they are in different years.<ref name="DHE"/>
+Two years later, James was seen going to Hogwarts with Albus on 1 September [[2017]], who was just starting his [[first year]]. James was starting his [[third year]]. Contemporaries at school include his cousins [[Victoire Weasley|Victoire]] and [[Rose Granger-Weasley]], as well as [[Draco Malfoy]]'s son [[Scorpius Malfoy|Scorpius]], though they are in different years.
 
-When his family gathered to see him and his brother off at [[Platform Nine and Three-Quarters]], [[King's Cross Station]] on 1 September, 2017, James interrupted his cousin Victoire snogging [[Edward Lupin|Teddy Lupin]], and then ran off to tell his family and other relatives. He was disappointed when they did not react strongly.<ref name="DHE">{{DH|B|E}}</ref> At some point, James would also steal the [[Marauder's Map]] from his father's desk drawer.<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html 31 July, 2007 Bloomsbury webchat]</ref>
+When his family gathered to see him and his brother off at [[Platform Nine and Three-Quarters]], [[King's Cross Station]] on 1 September, 2017, James interrupted his cousin Victoire snogging [[Edward Lupin|Teddy Lupin]], and then ran off to tell his family and other relatives. He was disappointed when they did not react strongly. At some point, James would also steal the [[Marauder's Map]] from his father's desk drawer.
 
 ==Personality and traits==
 {{Quote|You interrupted them? You are ''so'' like Ron —|Ginny regarding her son's personality|Harry Potter and the Deathly Hallows}}
@@ -107,16 +107,16 @@ He was also very much like his two namesakes, in his mischievous and trouble-mak
 [[File:Marauders Map.png|200px|thumb|The Marauder's Map]]
 *'''[[Marauder's Map]]''': The Marauder's Map was made by his [[James Potter I|grandfather]] and namesake James, along with his friends during their time at [[Hogwarts School of Witchcraft and Wizardry]]. It once belonged to his father Harry and was one of his most treasured possessions. At some point, he stole the map out of his father's desk.
 *'''[[Wand]]''': It can be assumed that before boarding the Hogwarts Express, James and his family travelled to Ollivander's wand shop in Diagon Alley and there he bought his wand. His wand was of an unknown length, wood, and core type. 
-*'''[[James Potter II's owl|Owl]]''': When boarding the Hogwarts Express it was shown that he had an owl in a cage resting on top of his school bag and trunk.<ref name="DHE"/>
+*'''[[James Potter II's owl|Owl]]''': When boarding the Hogwarts Express it was shown that he had an owl in a cage resting on top of his school bag and trunk.
 *'''[[Cloak of Invisibility]]''': Before starting his sixth year at Hogwarts, James was given his [[Potter family|family]]'s invisibility cloak from his father. His younger [[Albus Potter|brother]] stole it from him at some point during the year from James' trunk after correctly guessing the combination, which was the year he got his first broom. 
-*'''[[James Potter II's comb|Comb]]''': James was gifted a comb by [[Ronald Weasley|Ron Weasley]] the night before he was to return to Hogwarts. This comb was presumably a joke item, as it made his hair turn a shade of pink.<ref name="CC17">{{CC|B|1|7}}</ref>
+*'''[[James Potter II's comb|Comb]]''': James was gifted a comb by [[Ronald Weasley|Ron Weasley]] the night before he was to return to Hogwarts. This comb was presumably a joke item, as it made his hair turn a shade of pink.
 
 ==Relationships==
 ===Family===
 ====The Potters====
 {{Dialogue|James Potter|Slythering Slytherin, stop with your dithering, time to get on the train.|Harry Potter|Unnecessary, James.|James teasing Albus about being in Slytherin|Harry Potter and the Cursed Child}}
 [[File:Potter family1.png|250px|thumb|left|James with his parents and siblings]]
-James had a very strong connection with both of his parents, even though he did not want to show it in front of other people. Still, he permitted his parents' hugs and kisses, before rushing off to the [[Hogwarts Express]] in [[2017]].<ref name="DHE"/> He also wrote to them three times a week the previous year at [[Hogwarts School of Witchcraft and Wizardry]]. His parents often chastised him for teasing his brother and James usually stopped at their glares, suggesting that he knew not to push his boundaries with them.
+James had a very strong connection with both of his parents, even though he did not want to show it in front of other people. Still, he permitted his parents' hugs and kisses, before rushing off to the [[Hogwarts Express]] in [[2017]]. He also wrote to them three times a week the previous year at [[Hogwarts School of Witchcraft and Wizardry]]. His parents often chastised him for teasing his brother and James usually stopped at their glares, suggesting that he knew not to push his boundaries with them.
 
 James was the oldest of three children, and he enjoyed teasing his younger siblings [[Albus Potter|Albus]] and [[Lily L. Potter|Lily]]. However, he was on good terms with both of them. James was willing to move into Albus's room if Teddy moved in; Harry, however, thought such an act would be a disaster, saying that James and Albus "''will share a room only when I want the house demolished.''" This might imply that James and Albus frequently argued with one another — more than what was seen at King's Cross in 2017, anyway.
 
@@ -124,7 +124,7 @@ James was the oldest of three children, and he enjoyed teasing his younger sibli
 James had many cousins, like [[Rose Granger-Weasley|Rose]] who was close in age with his brother and in the same year at Hogwarts, and [[Hugo Granger-Weasley|Hugo]], who is the same age as his sister, Lily.
 
 ===Teddy Lupin===
-When James saw [[Edward Lupin|Teddy]] kissing [[Victoire Weasley]], he ran to tell his family, but he was disappointed with their reaction. However, he shared his younger sister's and Albus's desire for Teddy to become an official member of the extended [[Potter family|Potter]]-[[Weasley family|Weasley]] family.<ref name="DHE"/>
+When James saw [[Edward Lupin|Teddy]] kissing [[Victoire Weasley]], he ran to tell his family, but he was disappointed with their reaction. However, he shared his younger sister's and Albus's desire for Teddy to become an official member of the extended [[Potter family|Potter]]-[[Weasley family|Weasley]] family.
 
 ==Etymology==
 *''James'' is a Hebrew name from the name Jacob (יַעֲקֹב), meaning ''"Heel"'' as in Genesis narrative, Jacob was born grasping Esau's heel and later bought his birthright. This was the name of James's grandfather and the middle name of his father.
@@ -137,7 +137,7 @@ When James saw [[Edward Lupin|Teddy]] kissing [[Victoire Weasley]], he ran to te
 [[File:Tom-Milligan-572x714.jpg|150px|thumb|Tom Milligan, who portrays James in [[Harry Potter and the Cursed Child (play)|Harry Potter and the Cursed Child]]]]
 *James is portrayed in the film {{DH|F2}} by [[Will Dunn]].
 *James is portrayed in {{CC|P1}} by [[Tom Milligan]].
-*James Potter II is the main character of the [[James Potter (series)|''James Potter'' series]], a non-canonical continuation of the ''Harry Potter'' series endorsed by (though not actually connected or affiliated with) [[J. K. Rowling]].<ref>[http://www.elderscrossing.com/wizard.html The James Potter series]</ref>
+*James Potter II is the main character of the [[James Potter (series)|''James Potter'' series]], a non-canonical continuation of the ''Harry Potter'' series endorsed by (though not actually connected or affiliated with) [[J. K. Rowling]].
 *James was given the names of two Marauders and it is said that he stole the [[Marauder's Map]] from his father's desk drawer. It is unknown if he shared the map with his [[James Potter II's friends|friends]] or [[Potter family|siblings]].
 *It is also interesting to note that James picked on his younger brother Albus, who was named partially after Severus Snape, just like how his paternal grandfather James Potter I picked on Severus Snape. It is also implied that they occasionally quarrel since their father wouldn't let James share his room with Albus and added that he would do so if he wanted their house demolished.
 *On 1 September 2015, J.K. Rowling tweeted that James was starting at Hogwarts, officially marking the year that James started Hogwarts, also revealing his age and year.

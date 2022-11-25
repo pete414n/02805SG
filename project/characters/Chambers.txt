@@ -8,10 +8,10 @@
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
-|title = [[Chaser]]<ref name="OOTP31"/>
+|title = [[Chaser]]
 |signature = 
-|species = [[Human]]<ref name="OOTP31"/>
-|gender = Unknown<ref name="OOTP31"/>
+|species = [[Human]]
+|gender = Unknown
 |height = 
 |weight = 
 |hair = 
@@ -24,15 +24,15 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Ravenclaw]]<ref name="OOTP31"/>
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP31"/>
-**[[Ravenclaw]]<ref name="OOTP31"/>
-**[[Ravenclaw Quidditch team]]<ref name="OOTP31"/>
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+**[[Ravenclaw Quidditch team]]
 }}
-'''Chambers''' was a [[Wizardkind|witch or wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="OOTP31"/>
+'''Chambers''' was a [[Wizardkind|witch or wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]].
 
 ==Biography==
-Chambers played as [[Chaser]] for the [[Ravenclaw Quidditch team]] during the [[1995–1996 school year]]. In the [[Quidditch]] final that year [[Ronald Weasley]] deflected a goal attempt by Chambers.<ref name="OOTP31">{{OOTP|B|31}}</ref>
+Chambers played as [[Chaser]] for the [[Ravenclaw Quidditch team]] during the [[1995–1996 school year]]. In the [[Quidditch]] final that year [[Ronald Weasley]] deflected a goal attempt by Chambers.
 
 ==Etymology==
 "Chambers" is a surname that arrived in England with the Norman Conquest. It was an occupational surname for a servant in the bedroom of a nobleman.

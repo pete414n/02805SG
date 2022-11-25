@@ -3,7 +3,7 @@
 |theme = hogwarts-staff
 |image = [[File:Professor Vector PSF.jpg]]
 |name = Septima Vector
-|born = Before [[1974]]<ref name="age">Professor Vector must have been born before 1975 in order to be old enough for a job at Hogwarts (older than 17).</ref>
+|born = Before [[1974]]
 |died = 
 |blood = 
 |marital = 
@@ -21,9 +21,9 @@
 |family = 
 |romances = 
 |animagus = 
-|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
-|wand = Unknown length, wood and core<ref name="LEGOY1"/>
-|patronus = Non-corporeal<ref name="LEGOY1"/>
+|boggart = [[Tom Riddle|Lord Voldemort]]
+|wand = Unknown length, wood and core
+|patronus = Non-corporeal
 |job = *[[Arithmancer]]
 *[[Professor]] of [[Arithmancy (class)|Arithmancy]] at [[Hogwarts School of Witchcraft and Wizardry]] (before [[1993]] - ?)
 *[[Professor]] of [[Advanced Arithmancy Studies]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (possibly)
@@ -31,7 +31,7 @@
 |loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
 }}
 {{Quote|Professor Vector's supposed to be ''really'' strict. I'm not sure I want to do Arithmancy.|A Hogwarts student mentioning Vector|Harry Potter and the Order of the Phoenix (video game)}}
-'''Professor Septima Vector'''<ref name="JKRS">{{JKRS}}</ref> (fl. [[1974]] – [[1996]]) was a [[Wizardkind|witch]] and [[Professor]] of [[Arithmancy]] at [[Hogwarts School of Witchcraft and Wizardry]] from at least the [[1991–1992 school year]]. She may have also been the [[Advanced Arithmancy Studies]] teacher.
+'''Professor Septima Vector''' (fl. [[1974]] – [[1996]]) was a [[Wizardkind|witch]] and [[Professor]] of [[Arithmancy]] at [[Hogwarts School of Witchcraft and Wizardry]] from at least the [[1991–1992 school year]]. She may have also been the [[Advanced Arithmancy Studies]] teacher.
 
 Professor Vector was known among students as a "really strict" teacher, so much so that some pupils were unsure whether to take her classes. She was also known for giving her pupils plenty of highly complicated and difficult homework. Her subject was [[Hermione Granger]]'s favourite subject while she was in school, but [[Unidentified red-haired Gryffindor girl|one of her roommates]] did not like it because she found it too difficult.
 
@@ -50,54 +50,54 @@ Another class, called [[Advanced Arithmancy Studies]], was known to be taught at
 ====[[1991-1992 school year]]====
 {{Quote|Hogwarts, Hogwarts, Hoggy Warty Hogwarts, Teach us something please...|Professor Vector and the rest of the school singing the [[Hoggy Warty Hogwarts|Hogwarts school song]]|Harry Potter and the Philosopher's Stone}}[[File:Septina ps.jpg|245px|thumb|Septima sitting next to unknown professors]]
 
-Professor Vector worked at Hogwarts School of Witchcraft and Wizardry in the early 1990s and was present at the [[Sorting Hat|Sorting]] of [[Harry Potter]] and his classmates.<ref name="PSF"/>
+Professor Vector worked at Hogwarts School of Witchcraft and Wizardry in the early 1990s and was present at the [[Sorting Hat|Sorting]] of [[Harry Potter]] and his classmates.
 
-In the 1991 [[Start-of-Term Feast]], she sat next to [[Keeper of Keys and Grounds]], [[Rubeus Hagrid]]. She listened attentively to fellow Professor Minerva McGonagall, who was telling the first-years how the Sorting ceremony would proceed. She also witnessed as Harry Potter was [[Sorting ceremony|sorted]] into [[Gryffindor|Gryffindor House]].<ref name="PSF">{{PS|F}}</ref>
+In the 1991 [[Start-of-Term Feast]], she sat next to [[Keeper of Keys and Grounds]], [[Rubeus Hagrid]]. She listened attentively to fellow Professor Minerva McGonagall, who was telling the first-years how the Sorting ceremony would proceed. She also witnessed as Harry Potter was [[Sorting ceremony|sorted]] into [[Gryffindor|Gryffindor House]].
 
 ====[[1993-1994 school year]]====
 {{Quote|I heard ''[Hermione]'' talking to Professor Vector, that Arithmancy witch, this morning. They were going on about yesterday's lesson, but Hermione can't've been there, because she was with us in Care of Magical Creatures!|[[Ronald Weasley|Ron Weasley]] concerning [[Hermione Granger]]'s impossible timetable.|Harry Potter and the Prisoner of Azkaban}}
-In 1993, Hermione Granger began studying Arithmancy with Professor Vector and excelled in the class. After one lesson, they had a talk about their lesson the following day, which [[Ronald Weasley]] overheard, and was confused, as Hermione had [[Care of Magical Creatures]] the day before, and so could not have been in Arithmancy. In reality, she had been using a [[Time-Turner]] to get to all her lessons.<ref name="POA12">{{POA|B|12}}</ref>
+In 1993, Hermione Granger began studying Arithmancy with Professor Vector and excelled in the class. After one lesson, they had a talk about their lesson the following day, which [[Ronald Weasley]] overheard, and was confused, as Hermione had [[Care of Magical Creatures]] the day before, and so could not have been in Arithmancy. In reality, she had been using a [[Time-Turner]] to get to all her lessons.
 
 ====[[1994-1995 school year]]====
 {{Dialogue a-b|Hermione|Lots of homework? [[Professor]] Vector didn't give ''us'' any at all.|Ron|Well, bully for Professor Vector.|[[Hermione Granger]] and [[Ronald Weasley|Ron Weasley]] in [[1994]].|Harry Potter and the Goblet of Fire}}
-On 2nd September, 1994, the first day of classes of the [[1994-1995 school year]], Professor Vector did not give her fourth year students any homework, an unusual occurrence, which [[Hermione Granger]] mentioned after [[Ronald Weasley]] told her that he had had a lot of homework.<ref name="GOF13">{{GOF|B|13}}</ref> She was also presumably present for the arrival of the Triwizard Tournament participants, the [[Yule Ball]] and the memorial feast for Cedric Diggory at the end of the year.<ref name="GOF">{{GOF}}</ref>
+On 2nd September, 1994, the first day of classes of the [[1994-1995 school year]], Professor Vector did not give her fourth year students any homework, an unusual occurrence, which [[Hermione Granger]] mentioned after [[Ronald Weasley]] told her that he had had a lot of homework. She was also presumably present for the arrival of the Triwizard Tournament participants, the [[Yule Ball]] and the memorial feast for Cedric Diggory at the end of the year.
 
 ====[[1995–1996 school year]]====
 {{Quote| ''[Hagrid]'' waved a hand and narrowly missed concussing a frightened-looking Professor Vector, who was passing.|Professor Vector leaving the [[Great Hall]] one morning.|Harry Potter and the Order of the Phoenix}}
-Professor Vector was once again teaching at Hogwarts in 1995, where she was present at the Start-of-Term Feast. When the new DADA teacher, [[Dolores Umbridge]], rudely interrupted Dumbledore to give a speech, Professor Vector and her colleagues were stunned at her audacity. Like her student Hermione Granger, Professor Vector and the other teachers understood the true gravity of the speech (the Ministry was interfering at Hogwarts) and did not clap when Umbridge finished her speech. Professor Umbridge was later appointed High Inquisitor with powers to inspect and dismiss teachers she felt were not up to scratch (or rather, those that were loyal to Dumbledore). Professor Vector's classes were presumably inspected, but she likely proved to be a competent teacher as she was not dismissed or put on probation.<ref name="OOTP">{{OOTP}}</ref>
+Professor Vector was once again teaching at Hogwarts in 1995, where she was present at the Start-of-Term Feast. When the new DADA teacher, [[Dolores Umbridge]], rudely interrupted Dumbledore to give a speech, Professor Vector and her colleagues were stunned at her audacity. Like her student Hermione Granger, Professor Vector and the other teachers understood the true gravity of the speech (the Ministry was interfering at Hogwarts) and did not clap when Umbridge finished her speech. Professor Umbridge was later appointed High Inquisitor with powers to inspect and dismiss teachers she felt were not up to scratch (or rather, those that were loyal to Dumbledore). Professor Vector's classes were presumably inspected, but she likely proved to be a competent teacher as she was not dismissed or put on probation.
 
-When Rubeus Hagrid returned from a mission given to him by Headmaster [[Albus Dumbledore|Dumbledore]], he had a conversation with [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and Hermione Granger, Professor Vector walked past them and was almost knocked off her feet by Hagrid. As she was passing them and they were entering the [[Entrance Hall]], she had presumably come downstairs to the [[Great Hall]] to eat.<ref name="OOTP20">{{OOTP|B|20}}</ref>
+When Rubeus Hagrid returned from a mission given to him by Headmaster [[Albus Dumbledore|Dumbledore]], he had a conversation with [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and Hermione Granger, Professor Vector walked past them and was almost knocked off her feet by Hagrid. As she was passing them and they were entering the [[Entrance Hall]], she had presumably come downstairs to the [[Great Hall]] to eat.
 
-Also that year, one boy told someone that he was unsure if he wanted to do [[Arithmancy (class)|Arithmancy]] because of Professor Vector's strict demeanour<ref name="OTPg">{{OOTP|G}}</ref>.
+Also that year, one boy told someone that he was unsure if he wanted to do [[Arithmancy (class)|Arithmancy]] because of Professor Vector's strict demeanour.
 
-Later in the year, Umbridge became Headmistress after Dumbledore was ousted from Hogwarts, but Professor Vector and her fellow staff members did nothing to help her and instead found means of annoying or hindering her. Indeed, when fireworks went berserk all over the place and a corridor was turned into a swamp (both times courtesy of the Weasley twins), Professor Vector did not attempt to remove either obstacle and took great pleasure in having the Headmistress run all over the castle getting rid of escaped fireworks in the classrooms. When Hogwarts was restored to normalcy and Umbridge was ousted and pursued from the premises by Peeves, Professor Vector and the other teachers did nothing to halt the students from chasing after her.<ref name="OOTP">{{OOTP}}</ref>
+Later in the year, Umbridge became Headmistress after Dumbledore was ousted from Hogwarts, but Professor Vector and her fellow staff members did nothing to help her and instead found means of annoying or hindering her. Indeed, when fireworks went berserk all over the place and a corridor was turned into a swamp (both times courtesy of the Weasley twins), Professor Vector did not attempt to remove either obstacle and took great pleasure in having the Headmistress run all over the castle getting rid of escaped fireworks in the classrooms. When Hogwarts was restored to normalcy and Umbridge was ousted and pursued from the premises by Peeves, Professor Vector and the other teachers did nothing to halt the students from chasing after her.
 
 ====1996-1997 school year====
 {{Quote|[[Hermione Granger|Hermione]] ''[...]'' dashed off to see Professor Vector about a mistake she thought she might have made in her last [[Arithmancy essay]].|Professor Vector being visited by [[Hermione Granger]] in May.|Harry Potter and the Half-Blood Prince}}
-In 1996, Hermione Granger thought she may have made a mistake in her homework and visited Professor Vector to discuss it.<ref name="HBP24">{{HBP|B|24}}</ref>
+In 1996, Hermione Granger thought she may have made a mistake in her homework and visited Professor Vector to discuss it.
 
 ===Later life===
 It is likely that Professor Vector participated in the [[Battle of Hogwarts]] in [[May]], [[1998]]. Her later life is unknown. If she did participate in the Battle, she presumably survived, as her name was not given among the [[Fallen Fifty]].
 
 ==Physical appearance==
-She often wore red robes with a matching pointed hat.<ref name="PSF"/>
+She often wore red robes with a matching pointed hat.
 
 ==Personality and traits==
-Professor Vector was described as very strict by a student who was not sure if he should take her lessons.<ref name="OTPg"/> She was also said to have given out masses of complicated homework to her students, who were all [[third year]]s or over, though appeared to be rather sociable with the other teachers. In addition to her strictness, she was shown to be a competent and skilled teacher, as her lessons passed inspection by Dolores Umbridge; furthermore, she taught Arithmancy for at least six years at Hogwarts, proving her competency and experience as a professor.
+Professor Vector was described as very strict by a student who was not sure if he should take her lessons. She was also said to have given out masses of complicated homework to her students, who were all [[third year]]s or over, though appeared to be rather sociable with the other teachers. In addition to her strictness, she was shown to be a competent and skilled teacher, as her lessons passed inspection by Dolores Umbridge; furthermore, she taught Arithmancy for at least six years at Hogwarts, proving her competency and experience as a professor.
 
 ==Magical abilities and skills==
 *'''[[Arithmancy]]''': Vector was a highly accomplished [[Arithmancer]], teaching the [[Arithmancy (class)|subject]] for at least six years, showing her expertise in this very difficult and complicated branch of [[magic]].
-*'''[[Charm]]s''': Professor Vector was capable of conjuring a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOY1"/> which is a mark of superior [[magic]]al ability and skill.
+*'''[[Charm]]s''': Professor Vector was capable of conjuring a non-corporeal [[Patronus Charm|Patronus]], which is a mark of superior [[magic]]al ability and skill.
 
 ==Etymology==
 Septima most likely comes directly from Latin ''Septima'' which translates to "the seventh" (female form). As seven is the most powerful magical number, and Arithmancy deals with the numbers appearing in magic, this name suits the character well. A "vector" is a concept in physics and mathematics, specifying a quantity that has both magnitude and direction, and represented by an arrow.
 
 ==Behind the scenes==
 [[File:Lego_Professeurs_Sinistra_et_Vector.jpg|thumb|[[Aurora Sinistra]] and Septima Vector in the [[Great Hall]] in {{LEGO|Y1}}]]
-*Professor Vector was played by actress [[Hazel Showham]]<ref name="Aveleyman">[http://www.aveleyman.com/ActorCredit.aspx?ActorID=86483 Aveleyman - Hazel Showham]</ref> in the {{PS|FA}}, appearing as an unnamed background extra. In an instance of additive [[Wikipedia:retroactive continuity|retroactive continuity]], the physical appearance of this extra was later used to depict Vector in {{LEGO|Y1}}.
+*Professor Vector was played by actress [[Hazel Showham]] in the {{PS|FA}}, appearing as an unnamed background extra. In an instance of additive [[Wikipedia:retroactive continuity|retroactive continuity]], the physical appearance of this extra was later used to depict Vector in {{LEGO|Y1}}.
 *In {{LEGO|Y1}}, Septima's character token can be found in the Tom Riddle's diary level. This may indicate she already worked at Hogwarts in the [[1940s]]. Other characters' tokens can be found in matching places, i.e. Minerva McGonagall in the Transfiguration classroom; however, there is another possibility that Septima's token location has no particular meaning.
 *Professor Vector's first name only appeared on a list of the Hogwarts professors which was released on [[J. K. Rowling]]'s website.
-*Originally, she was a male named Septimus and her last name was intended to be Vecta.<ref>[http://www.hplex.info/about/sources/jkr.com/jkr-com-trans-jottings1.html HP Lexicon´s transcript of JKR´s notes]</ref>
+*Originally, she was a male named Septimus and her last name was intended to be Vecta.
 
 ==Appearances==
 {{Imagecat|Images of Septima Vector}}

@@ -4,16 +4,16 @@
 |theme = wizard
 |image = [[File:WillyWiddershins.png|250px]]
 |name = Willy Widdershins
-|born = Before [[1990]]<ref name="age">In {{HM}}, [[Alastor Moody]] described him as a young wizard in the early [[1990s]], meaning he was likely at least 18 by then.</ref>
+|born = Before [[1990]]
 |died = 
 |blood = 
 |marital = 
-|nationality = [[Great Britain|British]]<ref name="OOTP22"/>
+|nationality = [[Great Britain|British]]
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="OOTP22"/>
-|gender = Male<ref name="OOTP22"/>
+|species = [[Human]]
+|gender = Male
 |height = 
 |weight = 
 |hair = 
@@ -27,31 +27,31 @@
 |patronus = 
 |job = 
 |house = 
-|loyalty = [[British Ministry of Magic]]<ref name="OOTP27"/>
+|loyalty = [[British Ministry of Magic]]
 }}
 {{Dialogue a-b-c|Dolores Umbridge|I have testimony from Willy Widdershins, Minerva, who happened to be in the bar at the time. He was heavily bandaged, it is true, but his hearing was quite unimpaired. He heard every word Potter said and hastened straight to the school to report to me —|Minerva McGonagall|Oh, so that's why he wasn't prosecuted for setting up all those regurgitating toilets! What an interesting insight into our justice system!|Dexter Fortescue|Blatant corruption! The Ministry did not cut deals with petty criminals in my day, no sir, they did not!|[[Dolores Umbridge]], [[Minerva McGonagall]], and the portrait of [[Dexter Fortescue]] discussing the Ministry's actions about Willy Widdershins|Harry Potter and the Order of the Phoenix}}
 
-'''Willy Widdershins''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who repeatedly engaged in [[Muggle-baiting]] pranks.<ref name="OOTP22"/> He was arrested by the [[British Ministry of Magic|Ministry of Magic]] for enchanting a series of [[Regurgitating Toilet|regurgitating toilets]] in [[Non-magic people|Muggle]] areas, but he made a deal with the Ministry, that if he spied on [[Harry Potter]] and his friends, they would let him go. He carried out his assignment, and the Ministry kept their end of the bargain and released him.<ref name="OOTP27">{{OOTP|B|27}}</ref> He was later caught selling [[biting doorknob]]s and was subsequently given a prison sentence that he could not avoid.<ref name="OOTP22"/>
+'''Willy Widdershins''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who repeatedly engaged in [[Muggle-baiting]] pranks. He was later caught selling [[biting doorknob]]s and was subsequently given a prison sentence that he could not avoid.
 
 ==Biography==
 {{Dialogue a-b-a-b|Jacob's sibling|What's the trouble?|Arthur Weasley|Willy Widdershins.|Willy Widderwhat?|A young wizard prankster called Willy Widdershins is playing jokes on innocent Muggles. He's a wily one. He's evaded all of our efforts so far. In order to outsmart him, we need someone smarter. Someone like you!|Arthur Weasley to Jacob's sibling regarding Willy's activities|Harry Potter: Hogwarts Mystery}}
-In adulthood, he repeatedly engaged in [[Muggle-baiting]] pranks.<ref name="OOTP22"/> In the [[1990–1991 school year]], Widdershins caused trouble for the [[British Ministry of Magic]] by pranking innocent Muggles, and was sneaky enough to evade capture. He sold one hapless Muggle man some [[Frog Spawn Soap]]. [[Arthur Weasley]] and [[Alastor Moody]] had [[Jacob's sibling]] investigate his offences for the Ministry, and thanks to their help, he was caught so he could face proper consequences for his actions, with [[magic]] being kept secret from the Muggles he targeted.<ref name="HM732">{{HM|7|32|To Catch a Prankster}}</ref>
+In adulthood, he repeatedly engaged in [[Muggle-baiting]] pranks.
 
 {{Quote|I was just reading about Willy Widdershins’s arrest when you arrived. You know Willy turned out to be behind those regurgitating toilets last summer? One of his jinxes backfired, the toilet exploded, and they found him lying unconscious in the wreckage covered from head to foot in —|Arthur Weasley regarding Willy's 1995 arrest detailed in the [[Daily Prophet]]|Harry Potter and the Order of the Phoenix}}  
-In [[1995]], he was arrested by the British Ministry of Magic for [[jinx]]ing a series of [[Regurgitating Toilet|regurgitating toilets]] in [[Non-magic people|Muggle]] areas such as [[Bethnal Green]], one of which backfired against him during its creation, as well as covering him in the toilet's contents. He was badly injured in his capture and was wrapped heavily in bandages.<ref name="OOTP22">{{OOTP|B|22}}</ref> To avoid prosecution, he made a deal with the Ministry, that if he spied on [[Harry Potter]] and his friends, they would let him go. He did so, and reported to [[Hogwarts High Inquisitor]] [[Dolores Umbridge]] and [[Cornelius Fudge]] that they were planning on making a [[Dumbledore's Army|secret Defence Against the Dark Arts group]] while they were in a meeting at the [[Hog's Head Inn]]. The fact that the Ministry was willing to work with a petty criminal who had violated wizarding law highlighted how corrupt and immoral they were at the time.<ref name="OOTP27" /> Whilst he spied on Harry and his friends in the Hog's Head, he was covered in dirty grey bandages as a result of his injury, and also to likely obscure his face.<ref name="OOTP16">{{OOTP|B|16}}</ref><ref name="OOTP27" />
+In [[1995]], he was arrested by the British Ministry of Magic for [[jinx]]ing a series of [[Regurgitating Toilet|regurgitating toilets]] in [[Non-magic people|Muggle]] areas such as [[Bethnal Green]], one of which backfired against him during its creation, as well as covering him in the toilet's contents. He was badly injured in his capture and was wrapped heavily in bandages. To avoid prosecution, he made a deal with the Ministry, that if he spied on [[Harry Potter]] and his friends, they would let him go. He did so, and reported to [[Hogwarts High Inquisitor]] [[Dolores Umbridge]] and [[Cornelius Fudge]] that they were planning on making a [[Dumbledore's Army|secret Defence Against the Dark Arts group]] while they were in a meeting at the [[Hog's Head Inn]]. The fact that the Ministry was willing to work with a petty criminal who had violated wizarding law highlighted how corrupt and immoral they were at the time.
 
-Despite being given a second chance, Widdershins soon resumed his criminal activity and was later caught selling [[biting doorknob]]s, which bit off the fingers of two Muggles, and was subsequently given a prison sentence.<ref name="OOTP22" />
+Despite being given a second chance, Widdershins soon resumed his criminal activity and was later caught selling [[biting doorknob]]s, which bit off the fingers of two Muggles, and was subsequently given a prison sentence.
 
 ==Personality and traits==
-Widdershins was an extremely mischievous wizarding prankster who enjoyed using [[magic]] to play pranks on unsuspecting [[Non-magic people|Muggles]], which was a violation of [[International Statute of Wizarding Secrecy|wizarding law]], showing he appeared to have little regard for the law and saw no problem in breaking it.<ref name="OOTP22"/> He also appeared rather underhand in nature, given how he willingly spied on [[Harry Potter]] and his friends in the Hog's Head for the Ministry.<ref name="OOTP27"/> [[Arthur Weasley]] once commented that he was "a wily one".<ref name="HM732"/>
+Widdershins was an extremely mischievous wizarding prankster who enjoyed using [[magic]] to play pranks on unsuspecting [[Non-magic people|Muggles]], which was a violation of [[International Statute of Wizarding Secrecy|wizarding law]], showing he appeared to have little regard for the law and saw no problem in breaking it. He also appeared rather underhand in nature, given how he willingly spied on [[Harry Potter]] and his friends in the Hog's Head for the Ministry. [[Arthur Weasley]] once commented that he was "a wily one".
 
-His feeling towards Muggles was unknown; he could have felt his pranks on them were harmless jokes, but according to Arthur Weasley, [[Muggle-baiting]] pranks were often a sign of sinister [[Wizarding supremacy|supremacist]] attitudes towards Muggles.<ref name="OOTP9">{{OOTP|B|9}}</ref> He also seemed to be unrepentant and stubborn, as even after one of his pranks backfired, resulting in him being injured and arrested, he continued to create such harmful prank despite the "second chance" he received from his deal with the Ministry.<ref name="OOTP22"/>
+His feeling towards Muggles was unknown; he could have felt his pranks on them were harmless jokes, but according to Arthur Weasley, [[Muggle-baiting]] pranks were often a sign of sinister [[Wizarding supremacy|supremacist]] attitudes towards Muggles. He also seemed to be unrepentant and stubborn, as even after one of his pranks backfired, resulting in him being injured and arrested, he continued to create such harmful prank despite the "second chance" he received from his deal with the Ministry.
 
 ==Magical abilities and skills==
-*'''[[Dark Arts]]''': Widdershins was proficient with using amusing [[jinx]]es to [[Charm|enchant]] Muggle toilets, making them [[Regurgitating Toilet|regurgitate]], although one of his jinxes backfired, badly injuring him.<ref name="OOTP22"/>
+*'''[[Dark Arts]]''': Widdershins was proficient with using amusing [[jinx]]es to [[Charm|enchant]] Muggle toilets, making them [[Regurgitating Toilet|regurgitate]], although one of his jinxes backfired, badly injuring him.
 
 ==Etymology==
-''Widdershins'' (sometimes ''withershins'', ''widershins'' or ''widderschynnes'') means to take a course opposite the apparent motion of the sun (in the Northern hemisphere), going anti-clockwise, lefthandwise, or to circle an object, by always keeping it on the left.<ref name="wiki">[http://en.wikipedia.org/wiki/Widdershins/ Widdershins at Wikipedia]</ref>
+''Widdershins'' (sometimes ''withershins'', ''widershins'' or ''widderschynnes'') means to take a course opposite the apparent motion of the sun (in the Northern hemisphere), going anti-clockwise, lefthandwise, or to circle an object, by always keeping it on the left.
 
 ==Behind the scenes==
 *It is possible that Willy may be the same [[Will]] mentioned by [[Mundungus Fletcher]] earlier in the [[Harry Potter and the Order of the Phoenix|same book]].

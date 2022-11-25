@@ -4,15 +4,15 @@
 |name=Wailing Widow
 |hideb=
 |born=
-|died=Before [[1992]]<ref name="COS8"/>
+|died=Before [[1992]]
 |blood=
-|marital=Widowed<ref name="COS8"/>
+|marital=Widowed
 |alias=
 |title=
-|nationality=[[England|English]]<ref name="COS8"/>
-|species=*[[Human]] (formerly)<ref name="COS8"/>
-*[[Ghost]]<ref name="COS8"/>
-|gender=Female<ref name="COS8"/>
+|nationality=[[England|English]]
+|species=*[[Human]] (formerly)
+*[[Ghost]]
+|gender=Female
 |height=
 |hair=
 |eyes=
@@ -30,7 +30,7 @@
 |loyalty=
 }}
 {{Quote|Not a bad turnout. The Wailing Widow came all the way up from Kent… It's nearly time for my speech, I'd better go and warn the orchestra...|[[Nicholas de Mimsy-Porpington]] to [[Harry Potter]], [[Ronald Weasley]], and [[Hermione Granger]] during his [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party|five-hundredth Deathday Party]]|Harry Potter and the Chamber of Secrets}}
-The '''Wailing Widow''' was a female [[ghost]] from [[Kent]]. She was a close friend of [[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]] as she attended [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party|his five-hundredth Deathday Party]], having had to travel all the way from [[Kent]] to [[Scotland]].<ref name="COS8">{{COS|B|8}}</ref>
+The '''Wailing Widow''' was a female [[ghost]] from [[Kent]]. She was a close friend of [[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]] as she attended [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party|his five-hundredth Deathday Party]], having had to travel all the way from [[Kent]] to [[Scotland]].
 
 ==Behind the scenes==
 *In the Danish dub of the Disc 2 of {{COS|FA}}, the title for ''[[Travels with Trolls]]'' was mistranslated as ''Danser med Den Hvide Dame'', which means ''Dacing with the White Lady'', and Den Hvide Dame are coincidentally also the Danish translation for "''the Wailing Widow",'' meaning it was both mistranslated as well as using the same words to describe two different things.

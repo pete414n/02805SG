@@ -4,14 +4,14 @@
 |name = Herbert Chorley
 |born = Before [[1979]] (most likely)
 |died = 
-|blood = [[Non-magic people|Muggle]]<ref name="HBP1"/>
+|blood = [[Non-magic people|Muggle]]
 |marital = 
-|nationality = [[Great Britain|British]]<ref name="HBP1"/>
+|nationality = [[Great Britain|British]]
 |alias = 
-|title = [[Junior minister]]<ref name="HBP1"/>
+|title = [[Junior minister]]
 |signature = 
-|species = [[Human]]<ref name="HBP1"/>
-|gender = Male<ref name="HBP1"/>
+|species = [[Human]]
+|gender = Male
 |height = 
 |weight = 
 |hair = 
@@ -20,12 +20,12 @@
 |family = 
 |romances = 
 |boggart = 
-|job = [[Junior minister]] in the [[Great Britain|British]] Government<ref name="HBP1"/>
+|job = [[Junior minister]] in the [[Great Britain|British]] Government
 |house = 
-|loyalty = [[Great Britain|British]] Government<ref name="HBP1"/>
+|loyalty = [[Great Britain|British]] Government
 }}
 {{Dialogue a-b-a-b|Rufus Scrimgeour|Now, about Herbert Chorley, your Junior Minister. The one who has been entertaining the public by impersonating a duck.|Muggle Prime Minister|What about him?|He has clearly reacted to a poorly performed Imperius Curse. It’s addled his brains, but he could still be dangerous.|He’s only quacking! Surely a bit of a rest... Maybe go easy on the [[Alcohol|drink]]...|[[Rufus Scrimgeour]] and the [[British Prime Minister in 1996|Muggle Prime Minister]] discussing Chorley's peculiar mental state|Harry Potter and the Half-Blood Prince}}
-'''Herbert Chorley''' was a [[Non-magic people|Muggle]] [[Junior minister]] in [[1996]]. He was placed under a botched [[Imperius Curse]], leaving him acting like a [[duck]]. [[British Ministry of Magic|Ministry of Magic]] officials placed him in [[St Mungo's Hospital for Magical Maladies and Injuries]] for treatment. It was stated that he nearly strangled three of the [[healer]]s, and therefore had to be removed from [[Muggle world|Muggle society]] for a while.<ref name="HBP1">{{HBP|B|1}}</ref> It is unknown if he ever recovered.
+'''Herbert Chorley''' was a [[Non-magic people|Muggle]] [[Junior minister]] in [[1996]]. He was placed under a botched [[Imperius Curse]], leaving him acting like a [[duck]]. [[British Ministry of Magic|Ministry of Magic]] officials placed him in [[St Mungo's Hospital for Magical Maladies and Injuries]] for treatment. It was stated that he nearly strangled three of the [[healer]]s, and therefore had to be removed from [[Muggle world|Muggle society]] for a while. It is unknown if he ever recovered.
 
 ==Etymology==
 The name "Herbert" is derived from the Germanic elements hari "army" and beraht "bright". The Normans introduced this name to England, where it replaced an Old English cognate Herebeorht.

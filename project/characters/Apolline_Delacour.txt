@@ -5,16 +5,16 @@
 |born =[[France]] 
 |died = 
 |blood = [[Part-Human]] ([[Half-Veela]])
-|marital = Married<ref name="GOF31"/>
-|nationality = [[France|French]]<ref name="GOF31"/>
+|marital = Married
+|nationality = [[France|French]]
 |alias = 
 |title = [[Madam]](e)
 |signature = 
-|species = [[Part-Human|Half-Human]]/[[Half-Veela]]<ref name="GOF31"/>
-|gender = Female<ref name="GOF31"/>
+|species = [[Part-Human|Half-Human]]/[[Half-Veela]]
+|gender = Female
 |height = 
 |weight = 
-|hair = Blonde<ref name="hair">{{DH|B|6}} - "...leading a beautiful blonde woman in long, leaf-green robes, who could only be Fleur’s mother."</ref>
+|hair = Blonde
 |eyes = 
 |skin = 
 |family = *[[Apolline Delacour's mother|Mother]]
@@ -34,7 +34,7 @@
 |patronus = 
 |job = 
 |house = 
-|loyalty = [[Delacour family]]<ref name="GOF31"/>
+|loyalty = [[Delacour family]]
 }}
 {{Quote|...Mr Weasley, who appeared at the gate moments later, laden with luggage and leading a beautiful blonde woman in long, leaf green robes, who could only be Fleur's mother.|Description of Apolline's appearance|Harry Potter and the Deathly Hallows}}
 '''[[Madam]]e Apolline Delacour''' was a [[half-Veela]] [[France|French]] [[Wizardkind|witch]] who was married to [[Delacour sisters' father|Monsieur Delacour]]. She was described as beautiful with silver-blonde hair like her daughters, [[Fleur Delacour|Fleur]] and [[Gabrielle Delacour|Gabrielle]]; these traits were inherited from Apolline's [[Veela]] mother.
@@ -42,15 +42,15 @@
 ==Biography==
 Apolline lived in France with her husband, whom she married at an unknown time. She had two daughters: the elder Fleur and the younger Gabrielle.
 
-In [[1995]], Apolline and her husband visited Fleur before the Third Task of the [[Triwizard Tournament]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="GOF31">{{GOF|B|31}}</ref>
+In [[1995]], Apolline and her husband visited Fleur before the Third Task of the [[Triwizard Tournament]] at [[Hogwarts School of Witchcraft and Wizardry]].
 
 [[File:Delacour.png|250x250px|thumb|left|The [[Delacour family|Delacours]], The [[Weasley family|Weasleys]], [[Muriel]], [[Elphias Doge]] and the [[Lupin family|Lupins]]]]
-In the summer of [[1997]], the Delacours came to visit the [[Weasley family|Weasleys]] at [[the Burrow]] to prepare for Fleur's [[Wedding of William Weasley and Fleur Delacour|wedding]] to [[William Weasley|Bill Weasley]].<ref name="DH6">{{DH|B|6}}</ref> While there, Apolline enjoyed [[Molly Weasley]]'s cooking and hospitality and helped with the preparations, as she was noted to be very accomplished with [[Household magic|household spells]]. During their visit, Apolline and her husband were shown to be very helpful, pleasant guests and people in general. She was seen listening to [[Kingsley Shacklebolt]]'s corporeal [[Lynx]] [[Patronus Charm|Patronus]], which warned the Wedding guests that the [[British Ministry of Magic|Ministry]] had [[Fall of the Ministry of Magic|fallen]] and that [[Death Eaters]] would soon be arriving. She, her husband and Gabrielle then safely evacuated the wedding, and returned to [[France]], with Bill and Fleur retreating to [[Shell Cottage]].<ref name="DH8">{{DH|B|8}}</ref>
+In the summer of [[1997]], the Delacours came to visit the [[Weasley family|Weasleys]] at [[the Burrow]] to prepare for Fleur's [[Wedding of William Weasley and Fleur Delacour|wedding]] to [[William Weasley|Bill Weasley]]. While there, Apolline enjoyed [[Molly Weasley]]'s cooking and hospitality and helped with the preparations, as she was noted to be very accomplished with [[Household magic|household spells]]. During their visit, Apolline and her husband were shown to be very helpful, pleasant guests and people in general. She was seen listening to [[Kingsley Shacklebolt]]'s corporeal [[Lynx]] [[Patronus Charm|Patronus]], which warned the Wedding guests that the [[British Ministry of Magic|Ministry]] had [[Fall of the Ministry of Magic|fallen]] and that [[Death Eaters]] would soon be arriving. She, her husband and Gabrielle then safely evacuated the wedding, and returned to [[France]], with Bill and Fleur retreating to [[Shell Cottage]].
 
 Through her daughter [[Fleur Delacour|Fleur]] and son-in-law [[William Weasley|Bill]], Apolline was the maternal grandmother of [[Victoire Weasley|Victoire]], [[Dominique Weasley|Dominique]] and [[Louis Weasley]].
 
 ==Physical appearance==
-Apolline, due to her [[Veela]] heritage, was described as a beautiful woman with silver-blonde hair,<ref name="hair"/> who wore long, green leafy robes to her [[Fleur Delacour|daughter's]] [[Wedding of William Weasley and Fleur Delacour|wedding]].<ref name="DH8"/>
+Apolline, due to her [[Veela]] heritage, was described as a beautiful woman with silver-blonde hair, who wore long, green leafy robes to her [[Fleur Delacour|daughter's]] [[Wedding of William Weasley and Fleur Delacour|wedding]].
 
 ==Personality and traits==
 Apolline was shown to be a very gracious and sophisticated woman, as she and her husband both happily helped the [[Weasley family]] prepare for the wedding of her daughter and son-in-law, and other wedding guests noted to her to have been pleasant and polite. She was also very grateful of Molly Weasley's cooking and hospitality whilst she stayed at her [[The Burrow|house]]. Furthermore, she was shown to be a good mother who loved and cared for her family, as she visited her daughter [[Fleur Delacour|Fleur]] before she took part in the Third Task of the [[Triwizard Tournament]], showing her to have been very supportive and proud of her daughter's achievements.

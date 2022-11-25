@@ -4,7 +4,7 @@
 |name = Kevin Entwhistle
 |born = Between [[1 September]] [[1979]] and [[31 August]] [[1980]]
 |died = 
-|blood =[[Muggle-born]]<ref name="HPM">On {{HPM}}, Kevin is listed as a Muggle-born.</ref> 
+|blood =[[Muggle-born]] 
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
@@ -25,12 +25,12 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Ravenclaw]] or [[Hufflepuff]]<ref name=house>[[Anthony Goldstein]] and [[Michael Corner]] (whose houses were initially Hufflepuff) were moved to Ravenclaw, therefore two of the original Ravenclaw students ([[Stephen Cornfoot]], Kevin Entwhistle, [[Roger Malone]] and [[Oliver Rivers]]) were moved to Hufflepuff.</ref>
+|house = [[Ravenclaw]] or [[Hufflepuff]]
 |loyalty = *[[Entwhistle family]]
 *[[Hogwarts School of Witchcraft and Wizardry]]
 **[[Ravenclaw]] or [[Hufflepuff]]
 }}
-'''Kevin Entwhistle''' (c. [[1979]]-[[1980]]) was a [[Muggle-born]]<ref name="HPM"/> [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. He was in the same year as [[Harry Potter]] and was [[Sorting Ceremony|Sorted]] into either [[Hufflepuff]] or [[Ravenclaw]] house.<ref name="PM-forty">{{WW|the-original-forty}}</ref>
+'''Kevin Entwhistle''' (c. [[1979]]-[[1980]]) was a [[Muggle-born]]
 
 ==Etymology==
 *Anglicised form of the Irish name Caoimhín, derived from the older Irish Cóemgein, composed of the Old Irish elements cóem "kind, gentle, handsome" and gein "birth". Saint Caoimhín established a monastery in Glendalough, Ireland in the 6th century and is the patron saint of Dublin.

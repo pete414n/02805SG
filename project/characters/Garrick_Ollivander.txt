@@ -4,21 +4,21 @@
 |theme = ravenclaw
 |image = Garrick Ollivander.png
 |name = Garrick Ollivander
-|born = [[25 September]],<ref name="pottermore">[https://web.archive.org/web/20160125054901/https://www.pottermore.com/explore-the-story/garrick-ollivander Explore the story: Garrick Ollivander] from {{PM}} (via Internet Archive) {{See image|File:Garrick Ollivander fact file - PM via Internet Archive.png}}</ref> pre [[1909]]<ref name="yearage">{{See image|File:Wand Permit - full.png}} - Garrick Ollivander was a known wandmaker by [[1926]] as seen on [[Magical Congress of the United States of America|MACUSA]]'s [[wand permit]] Application. In order to be of age by this time he would have to be born in [[1909]] at the latest.</ref><br/>[[Great Britain]]<ref>[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm Accio Quote]</ref>
+|born = [[25 September]], pre [[1909]]<br/>[[Great Britain]]
 |died = 
-|blood = [[Half-blood]]<ref name="pottermore" />
-|marital = Married<ref name="pottermore" />
+|blood = [[Half-blood]]
+|marital = Married
 |nationality = {{GBorIE}}
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="PS5"/>
-|gender = Male<ref name="PS5"/>
+|species = [[Human]]
+|gender = Male
 |height = 
 |weight = 
 |hair = 
-|eyes = Silvery<ref name="eyes">{{PS|B|5}} - "Those silvery eyes were a bit creepy."</ref>
-|skin = White<ref name="skin">{{PS|B|5}} - "Mr Ollivander touched the lightning scar on Harry’s forehead with a long, white finger."</ref>
+|eyes = Silvery
+|skin = White
 |family = *[[Gervaise Ollivander]] (father)
 *[[Garrick Ollivander's mother|Mrs Ollivander]] (mother)
 *[[Garrick Ollivander's wife|Wife]]
@@ -30,156 +30,156 @@
 *[[Ollivander family]]
 |romances = 
 |animagus = 
-|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
-|wand = [[Garrick Ollivander's wand|12¾", Hornbeam, dragon heartstring]]<ref name="pottermore" />
-|patronus = Non-corporeal<ref name="LEGOY1"/><ref name="LEGOY2">{{LEGO|Y2}}</ref>
-|job = [[Wandmaker]]<ref name="pottermore"/>
-|house = [[Ravenclaw]]<ref name="pottermore"/>
-|loyalty = *[[Ollivander family]]<ref name="pottermore"/>
-*[[Ollivanders]]<ref name="PS5"/>
-*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="pottermore"/>
-**[[Ravenclaw]]<ref name="pottermore"/>
-*[[Harry Potter]]<ref name="PS5"/><ref name="DH24"/>
+|boggart = [[Tom Riddle|Lord Voldemort]]
+|wand = [[Garrick Ollivander's wand|12¾", Hornbeam, dragon heartstring]]
+|patronus = Non-corporeal
+|job = [[Wandmaker]]
+|house = [[Ravenclaw]]
+|loyalty = *[[Ollivander family]]
+*[[Ollivanders]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+*[[Harry Potter]]
 }}
 {{Quote|Curious indeed how these things happen. The wand chooses the wizard, remember... I think we must expect great things from you, Mr Potter... After all, [[Tom Riddle|He-Who-Must-Not-Be-Named]] did great things — terrible, yes, but great.|Ollivander's interest in what powerful wizards can do with wands|Harry Potter and the Philosopher's Stone}}
-'''Garrick Ollivander''' (b. [[25 September]],<ref name="pottermore" /> pre-[[1909]])<ref name="yearage" /> was a [[half-blood]]<ref name="pottermore" /> [[Wizardkind|wizard]] who was the proprietor of [[Ollivanders]] in [[Diagon Alley]] during most of the [[20th century]]. Ollivander was widely considered the best [[wandmaker]] in the world, and many [[Wizardkind|wizards and witches]] bought their [[wand]]s from him.
+'''Garrick Ollivander''' (b. [[25 September]], pre-[[1909]]) was a [[half-blood]] [[Wizardkind|wizard]] who was the proprietor of [[Ollivanders]] in [[Diagon Alley]] during most of the [[20th century]]. Ollivander was widely considered the best [[wandmaker]] in the world, and many [[Wizardkind|wizards and witches]] bought their [[wand]]s from him.
 
 In [[1996]], Ollivander was captured and [[Cruciatus Curse|tortured]] by [[Tom Riddle|Lord Voldemort]]. He was rescued in [[1998]] by [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], [[Hermione Granger]], and [[Dobby]]. He imparted important information regarding [[wandlore]] to Harry, it helped him in his understanding of the [[Deathly Hallows]].
 
 ==Biography==
 ===Early life===
-Garrick Ollivander was born to [[Gervaise Ollivander]],<ref name="wandwoods">{{WW|wand-woods}}</ref> a wizard, and his [[Garrick Ollivander's mother|wife]], a [[Muggle-born]] witch,<ref name="pottermore" /> on the [[25 September]],<ref name="pottermore" /> in or before the year [[1909]].<ref name="yearage" />
+Garrick Ollivander was born to [[Gervaise Ollivander]], a wizard, and his [[Garrick Ollivander's mother|wife]], a [[Muggle-born]] witch, on the [[25 September]], in or before the year [[1909]].
 
-The [[Ollivander family]] had long been associated with the profession of [[Wandlore|wandcraft]]. The surname means 'he who owns the olive wand' which is of [[Mediterranean Sea|Mediterranean]] origin, suggesting that the family emigrated to Britain from elsewhere, probably arriving in Britain with the Romans and set up a shop, to sell wands that were superior to the unreliable, poorly constructed ones fashioned by British wizards at the time.<ref name="PM-ollivander" />
+The [[Ollivander family]] had long been associated with the profession of [[Wandlore|wandcraft]]. The surname means 'he who owns the olive wand' which is of [[Mediterranean Sea|Mediterranean]] origin, suggesting that the family emigrated to Britain from elsewhere, probably arriving in Britain with the Romans and set up a shop, to sell wands that were superior to the unreliable, poorly constructed ones fashioned by British wizards at the time.
 
-Garrick Ollivander attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, where he was [[Sorting Ceremony|Sorted]] into [[Ravenclaw|Ravenclaw House]].<ref name="pottermore" /> He became a fan of the [[Opera singer|opera diva]] [[Zenith Xeep]] and followed her career ever since he was "a lad".<ref name="HM712">{{HM|7|12}}</ref>
+Garrick Ollivander attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, where he was [[Sorting Ceremony|Sorted]] into [[Ravenclaw|Ravenclaw House]].
 
 ===Career as a wandmaker===
 {{Quote|Renowned wandmaker Mr Ollivander owns the wand shop Ollivanders: Makers of Fine Wands Since 382 BC in Diagon Alley. His shop is widely considered the best place to purchase a wand.|Description|Pottermore}}
 [[File:Harry-potter1-ollivander.jpg|250px|thumb|left|Ollivander holding one of the many wands inside his shop]]
-Ollivander grew up in the family business and showed precocious talent in [[wandlore|wandmaking]]. Soon, he developed an ambition to improve upon the cores and wand woods he made and developed a determination to pursue the ideal wand.<ref name="PM-ollivander" />
+Ollivander grew up in the family business and showed precocious talent in [[wandlore|wandmaking]]. Soon, he developed an ambition to improve upon the cores and wand woods he made and developed a determination to pursue the ideal wand.
 
-Before Garrick Ollivander's proprietorship of [[Ollivanders]], wizards used a wide variety of wand cores; the customer would often present their [[wandmaker]] with a magical substance to which they were attached, and he would turn it into their wand core.<ref name="PM-ollivander" /> Mr Ollivander believed that doing so altered the wand's temperament,<ref name="GOF18">{{GOF|B|18}}</ref> and he revolutionised the way [[wand]]s were crafted by having cores of immensely powerful magical substances expertly enclosed in specially selected and complementary [[wand wood]]s, with the result being that the wand would be matched to an owner that the wand itself felt an affinity for.<ref name="PM-ollivander" />
+Before Garrick Ollivander's proprietorship of [[Ollivanders]], wizards used a wide variety of wand cores; the customer would often present their [[wandmaker]] with a magical substance to which they were attached, and he would turn it into their wand core. and he revolutionised the way [[wand]]s were crafted by having cores of immensely powerful magical substances expertly enclosed in specially selected and complementary [[wand wood]]s, with the result being that the wand would be matched to an owner that the wand itself felt an affinity for.
 
 [[File:Sorcerers-stone-ollivander.jpg|250px|thumb|right|Ollivander talking with a customer]]
-While there was initially substantial resistance to this new way wands were made, it soon became clear that wands made by Ollivander were far superior to any others. His methods of locating wand woods and core substances, marrying them together, and matching them to ideal owners were all jealously guarded secrets that were coveted by rival wandmakers.<ref name="PM-ollivander" />
+While there was initially substantial resistance to this new way wands were made, it soon became clear that wands made by Ollivander were far superior to any others. His methods of locating wand woods and core substances, marrying them together, and matching them to ideal owners were all jealously guarded secrets that were coveted by rival wandmakers.
 
-As with other wandmakers, Ollivander made it his business to study the mystifying [[Elder Wand]] in depth, such as its history and distinctive characteristics. Unlike [[Hermione Granger]], he believed that the Elder Wand was not a myth or tale, and showed great enthusiasm with the powerful object despite the fact that it was dangerous and has had a bloody history. When held captive by Lord Voldemort, he was forced to relate all information he had known about the powerful wand. He also revealed that the last person rumoured to own the wand was [[Mykew Gregorovitch|Gregorovitch]], a foreign wandmaker, though he did not believe the rumour and thought that Gregorovitch spread it to boost his business.<ref name="DH24" />
+As with other wandmakers, Ollivander made it his business to study the mystifying [[Elder Wand]] in depth, such as its history and distinctive characteristics. Unlike [[Hermione Granger]], he believed that the Elder Wand was not a myth or tale, and showed great enthusiasm with the powerful object despite the fact that it was dangerous and has had a bloody history. When held captive by Lord Voldemort, he was forced to relate all information he had known about the powerful wand. He also revealed that the last person rumoured to own the wand was [[Mykew Gregorovitch|Gregorovitch]], a foreign wandmaker, though he did not believe the rumour and thought that Gregorovitch spread it to boost his business.
 
-Sometime into his career, in the summer of [[1938]], Ollivander sold [[Tom Riddle]] his [[Tom Riddle's wand|wand]].<ref name="PS5">{{PS|B|5}}</ref>
+Sometime into his career, in the summer of [[1938]], Ollivander sold [[Tom Riddle]] his [[Tom Riddle's wand|wand]].
 
 ====1984–1985 school year====
-Shortly before the [[1984–1985 school year]], Ollivander sold a [[Jacob's sibling's first wand|wand]] to [[Jacob's sibling]], just as he did with [[Jacob (Hogwarts student)|Jacob]] before them.<ref name="HM11">{{HM|1|1}}</ref>
+Shortly before the [[1984–1985 school year]], Ollivander sold a [[Jacob's sibling's first wand|wand]] to [[Jacob's sibling]], just as he did with [[Jacob (Hogwarts student)|Jacob]] before them.
 
 ====1988–1989 school year====
-During the [[1988–1989 school year]], [[Mundungus Fletcher]] visited Ollivander and asked about the wand of [[Wizard in white robes|an opponent]] whom he had lost a duel to. Ollivander couldn't tell much because of the lack of the real wand, and advised him to go see [[Villanelle|Madam Villanelle]] for his questions of the way his opponent had shouted incantations. Shortly afterwards, [[Jacob's sibling]] and a friend visited him to find out about Fletcher, and he told them about the previous encounter with him.<ref name="HM510">{{HM|5|10}}</ref>
+During the [[1988–1989 school year]], [[Mundungus Fletcher]] visited Ollivander and asked about the wand of [[Wizard in white robes|an opponent]] whom he had lost a duel to. Ollivander couldn't tell much because of the lack of the real wand, and advised him to go see [[Villanelle|Madam Villanelle]] for his questions of the way his opponent had shouted incantations. Shortly afterwards, [[Jacob's sibling]] and a friend visited him to find out about Fletcher, and he told them about the previous encounter with him.
 
-After [[Patricia Rakepick]] broke [[Jacob's sibling's first wand|Jacob's sibling's wand]], they went to Ollivanders to purchase [[Jacob's sibling's second wand|a second wand]].<ref name="HM517">{{HM|5|17}}</ref>
+After [[Patricia Rakepick]] broke [[Jacob's sibling's first wand|Jacob's sibling's wand]], they went to Ollivanders to purchase [[Jacob's sibling's second wand|a second wand]].
 
 ====1989–1990 school year====
-At some point near the end of the [[1989–1990 school year]], Ollivander told [[Jacob's sibling]] and [[Jae Kim]] information of a dark witch who had been gathering information about Jacob's sibling and [[Jacob's sibling's second wand|their wand]] (who turned out to be [[Verucca Buckthorn-Snyde]]).<ref name="HM645">{{HM|6|45}}</ref>
+At some point near the end of the [[1989–1990 school year]], Ollivander told [[Jacob's sibling]] and [[Jae Kim]] information of a dark witch who had been gathering information about Jacob's sibling and [[Jacob's sibling's second wand|their wand]] (who turned out to be [[Verucca Buckthorn-Snyde]]).
 
 ====1990–1991 school year====
 [[File:Ollivander drinking the counter-serum HM715.jpg|250px|thumb|left|Ollivander drinking the [[Counter-serum for Xeep's Luscious Locks Solution|counter-serum]]]]
 During the [[1990–1991 school year]], Ollivander had a [[Garrick Ollivander's misfiring wand|misfiring wand]] in his store. [[Jacob's sibling]] and [[Ben Copper]] came to investigate it as a part of the [[Ministry of Magic student programme]], but Ollivander couldn't wait to meet [[Zenith Xeep]] in the [[Leaky Cauldron]], where she was holding a Meet-and-Greet for her beauty-and-lifestyle company, [[Xeep]]. He had been using [[Xeep's Luscious Locks Solution]] for a week, and sometimes couldn't remember the existence of the misfiring wand at all, due to the memory-erasing properties of the solution. 
 
-After the Meet-and-Greet, they returned to [[Ollivanders]], and Jacob's sibling and Ben reached the conclusion that the misfiring wand was fake, and that the [[Wand stolen by Zenith Xeep|real wand]] had been stolen.<ref name="HM712">{{HM|7|12}}</ref> After Jacob's sibling, [[Penny Haywood]] and [[Severus Snape|Professor Snape]] successfully brewed a [[counter-serum for Xeep's Luscious Locks Solution]], Jacob's sibling offered it to Ollivander, who drank it and said he felt marvellous.<ref name="HM715">{{HM|7|15}}</ref>
+After the Meet-and-Greet, they returned to [[Ollivanders]], and Jacob's sibling and Ben reached the conclusion that the misfiring wand was fake, and that the [[Wand stolen by Zenith Xeep|real wand]] had been stolen. After Jacob's sibling, [[Penny Haywood]] and [[Severus Snape|Professor Snape]] successfully brewed a [[counter-serum for Xeep's Luscious Locks Solution]], Jacob's sibling offered it to Ollivander, who drank it and said he felt marvellous.
 
 ====Harry Potter's wand====
 {{Quote|Ah yes. Yes, yes. I thought I’d be seeing you soon. Harry Potter. You have your [[Lily J. Potter|mother]]’s eyes. It seems only yesterday she was in here herself, buying her first wand. Ten and a quarter inches long, swishy, made of willow. Nice wand for charm work.|Ollivander greeting Harry Potter for the first time in his shop|Harry Potter and the Philosopher's Stone}}
 [[File:Harry-potter1-ollivander_harry.jpg|250px|thumb|right|Mr Ollivander presents [[Harry Potter]] with his first wand]]
 Before the [[1991–1992 school year]], Ollivander supplied [[Harry Potter]] with a [[Harry Potter's wand|wand]], and as he did so, he told Harry a few facts about wands. He explained that a wand has a [[wand core|core]], in Harry's case a [[phoenix]] [[Phoenix feather|feather]]. He told Harry that the body of the wand is made from a choice of different [[wand wood|woods]] with different magical properties. 
 
-Ollivander said he made a similar wand using another feather from the [[Fawkes|same phoenix]], but using a different wood. Harry's wand is [[holly]], which symbolises protection, rather than Voldemort's [[yew]], which is symbolic of death. He also explained that the wand chooses the wizard, rather than the other way around.<ref name="PS5" /> Immediately after Harry left the shop, Ollivander sent a [[Garrick Ollivander's letter to Albus Dumbledore|letter]] to [[Albus Dumbledore]] informing him of the wand's sale.<ref name="GOF36">{{GOF|B|36}}</ref>
+Ollivander said he made a similar wand using another feather from the [[Fawkes|same phoenix]], but using a different wood. Harry's wand is [[holly]], which symbolises protection, rather than Voldemort's [[yew]], which is symbolic of death. He also explained that the wand chooses the wizard, rather than the other way around.
 
 ====1994–1995 Triwizard Tournament====
 {{Quote|May I introduce Mr Ollivander? He will be checking your wands to ensure that they are in good condition before the tournament.|[[Wand weighing ceremony]]|Harry Potter and the Goblet of Fire}}
 [[File:Harry-potter1-ollivander2.jpg|left|thumb|250px|Ollivander in his wand shop talking to customers]]
-On [[13 November]], [[1994]] Ollivander presided over the [[Wand weighing ceremony]] during the [[Triwizard Tournament]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref>{{GOF|B|18}} - "He had already struggled through one Friday’s worth, with Hermione sitting next to him intoning “ignore them, ignore them, ignore them” under her breath, and he couldn’t see why today should be any better."<br/>The weighing of the wands was during Double Potions on the second Friday after Harry's name comes out the the Goblet of Fire on Hallowee'en, which was Saturday 31 October.</ref> As a very recognised wandmaker, Ollivander was asked to inspect the wands of the champions in the [[1994–1995 school year|1994–1995]] [[Triwizard Tournament]] before the competition started, to make sure they were all working properly. While he found no problems with any of the wands' performance, he expressed doubts of [[Mykew Gregorovitch]]'s styling of [[Viktor Krum]]'s [[Viktor Krum's wand|wand]] and the use of [[Veela hair]] as a core in [[Fleur Delacour]]'s [[Fleur Delacour's wand|wand]].<ref name="GOF18" />
+On [[13 November]], [[1994]] Ollivander presided over the [[Wand weighing ceremony]] during the [[Triwizard Tournament]] at [[Hogwarts School of Witchcraft and Wizardry]]. As a very recognised wandmaker, Ollivander was asked to inspect the wands of the champions in the [[1994–1995 school year|1994–1995]] [[Triwizard Tournament]] before the competition started, to make sure they were all working properly. While he found no problems with any of the wands' performance, he expressed doubts of [[Mykew Gregorovitch]]'s styling of [[Viktor Krum]]'s [[Viktor Krum's wand|wand]] and the use of [[Veela hair]] as a core in [[Fleur Delacour]]'s [[Fleur Delacour's wand|wand]].
 
 ===Second Wizarding War===
 ====Attempted robbery of his shop====
-In [[1996]], [[Alexandra Walker]] attempted to rob [[Ollivanders]]. She could not, however, and she was arrested. This event made ''[[Daily Prophet]]'' headlines.<ref name="OOTPF">{{OOTP|F}} - {{See image|File:Alexandra Walker Daily Prophet.JPG}}</ref>
+In [[1996]], [[Alexandra Walker]] attempted to rob [[Ollivanders]]. She could not, however, and she was arrested. This event made ''[[Daily Prophet]]'' headlines.
 
 ====Kidnapped by Death Eaters====
 {{Dialogue a-b-c|Arthur Weasley|Shop's empty. No sign of a struggle. No one knows whether he left voluntarily or was kidnapped.|Ginny Weasley|But what'll people do for wands?|Remus Lupin|They'll make do with other makers. But Ollivander was the best, and if the other side have got him it's not so good for us.|News of the kidnappings of Ollivander and [[Florean Fortescue]]|Harry Potter and the Half-Blood Prince}}
 [[File:Fenrir greyback.jpg|thumb|250px|Fenrir Greyback and other Death Eaters kidnap Ollivander from outside of his shop]]
-In [[July]] [[1996]], Ollivander was kidnapped by [[Tom Riddle|Voldemort]]'s [[Death Eaters]], leaving behind an empty, locked up shop and no signs of a struggle.<ref name="HBP6">{{HBP|B|6}}</ref> It is believed that [[Neville Longbottom's second wand|one of the last wands]] he sold was to [[Neville Longbottom]], as he disappeared the next day.<ref name="HBP11">{{HBP|B|11}}</ref>
+In [[July]] [[1996]], Ollivander was kidnapped by [[Tom Riddle|Voldemort]]'s [[Death Eaters]], leaving behind an empty, locked up shop and no signs of a struggle. It is believed that [[Neville Longbottom's second wand|one of the last wands]] he sold was to [[Neville Longbottom]], as he disappeared the next day.
 
-Ollivander was captured by Lord Voldemort and his Death Eaters and was held prisoner at [[Malfoy Manor]], where he was forced to make a [[Peter Pettigrew's wand|new wand]] for [[Peter Pettigrew]].<ref name="DH24">{{DH|B|24}}</ref> He was [[Cruciatus Curse|tortured]] by Lord Voldemort for information regarding the [[Reverse Spell|twin cores]] of [[Harry Potter]]'s wand and his own. Ollivander told him that he merely needed to use a wand other than his own to face Harry Potter.<ref name="HBP5">{{HBP|B|5}}</ref>
+Ollivander was captured by Lord Voldemort and his Death Eaters and was held prisoner at [[Malfoy Manor]], where he was forced to make a [[Peter Pettigrew's wand|new wand]] for [[Peter Pettigrew]]. He was [[Cruciatus Curse|tortured]] by Lord Voldemort for information regarding the [[Reverse Spell|twin cores]] of [[Harry Potter]]'s wand and his own. Ollivander told him that he merely needed to use a wand other than his own to face Harry Potter.
 
-After using [[Lucius Malfoy]]'s [[Lucius Malfoy's wand|wand]] and seeing its destruction when faced with Harry Potter and his Phoenix wand, Voldemort rounded on Ollivander for an explanation of why Harry's wand acted as it had. Although he had no answer to give since no wandmaker had ever witnessed such an event, Ollivander was tortured again by Lord Voldemort and questioned about the most powerful wand in existence, the [[Elder Wand]].<ref name="DH24" />
+After using [[Lucius Malfoy]]'s [[Lucius Malfoy's wand|wand]] and seeing its destruction when faced with Harry Potter and his Phoenix wand, Voldemort rounded on Ollivander for an explanation of why Harry's wand acted as it had. Although he had no answer to give since no wandmaker had ever witnessed such an event, Ollivander was tortured again by Lord Voldemort and questioned about the most powerful wand in existence, the [[Elder Wand]].
 
 ====Skirmish at Malfoy Manor and escape====
 {{Main|Skirmish at Malfoy Manor}}
 [[File:06 Dobby rescuing Mr. Ollivander and Luna Lovegood.jpg|250px|thumb|Ollivander and Luna are saved from Malfoy Manor by [[Dobby]] the House-Elf|left]]
-Harry Potter, Ron Weasley, Hermione Granger, and Dean Thomas and Griphook, were later captured and taken to Malfoy Manor, where they were reunited with Mr Ollivander and [[Luna Lovegood]]. While in the cellar Harry noted that Ollivander was not looking well, due to being repeatedly tortured for a long period of time. Ollivander and the others were subsequently rescued by [[Dobby]] the [[House-Elf]] in the [[Skirmish at Malfoy Manor|Skirmish]].<ref name="DH23">{{DH|B|23}}</ref> 
+Harry Potter, Ron Weasley, Hermione Granger, and Dean Thomas and Griphook, were later captured and taken to Malfoy Manor, where they were reunited with Mr Ollivander and [[Luna Lovegood]]. While in the cellar Harry noted that Ollivander was not looking well, due to being repeatedly tortured for a long period of time. Ollivander and the others were subsequently rescued by [[Dobby]] the [[House-Elf]] in the [[Skirmish at Malfoy Manor|Skirmish]]. 
 
 Ollivander seemed to have bonded with Luna during their captivity together, and thanked her for being "''an inexpressible comfort ''[to him]'' in that terrible place''".
 
 ====Stay at Shell Cottage====
 {{Quote|The wandmaker was lying on the twin bed farthest from the window. He had been held in the cellar for more than a year, and tortured, Harry knew, on at least one occasion. He was emaciated, the bones of his face sticking out sharply against the yellowish skin. His great silver eyes seemed vast in their sunken sockets. The hands that lay upon the blanket could have belonged to a skeleton|Description of Ollivander's appearance after his mistreatment in [[Malfoy Manor]]|Harry Potter and the Deathly Hallows}}
 [[File:Mr Ollivander inside the Shell Cottage.JPG|250px|thumb|Ollivander at Shell Cottage after being rescued from Malfoy Manor explaining about the [[Elder Wand]] to [[Harry Potter]]]]
-Ollivander was taken to [[Shell Cottage]], where he recovered from months of imprisonment and torture. While at Shell Cottage he was interrogated by Harry Potter who wanted to know information about the [[Elder Wand]] that Voldemort was so obsessively searching for and to have a better understanding of the unique connection that existed between his wand and Voldemort's.<ref name="DH24" /> 
+Ollivander was taken to [[Shell Cottage]], where he recovered from months of imprisonment and torture. While at Shell Cottage he was interrogated by Harry Potter who wanted to know information about the [[Elder Wand]] that Voldemort was so obsessively searching for and to have a better understanding of the unique connection that existed between his wand and Voldemort's. 
 
-He later departed to [[Muriel]]'s house, where he remained in hiding for the rest of the war.<ref name="DH25">{{DH|B|25}}</ref> He later crafted and sent a [[Luna Lovegood's second wand|new wand]] to Luna Lovegood.<ref name="DH26">{{DH|B|26}}</ref>
+He later departed to [[Muriel]]'s house, where he remained in hiding for the rest of the war. He later crafted and sent a [[Luna Lovegood's second wand|new wand]] to Luna Lovegood.
 
 ===21st century===
-Ollivander returned to his shop and business some time after the Second Wizarding War ended. Before [[September]] [[2008]], he sold a wand to [[Unidentified 2000s Hogwarts student|a new student]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="MA">{{MA}}</ref>{{MATimeRef}}
+Ollivander returned to his shop and business some time after the Second Wizarding War ended. Before [[September]] [[2008]], he sold a wand to [[Unidentified 2000s Hogwarts student|a new student]] at [[Hogwarts School of Witchcraft and Wizardry]].{{MATimeRef}}
 
-During the [[2010s]], Ollivander appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free him, allowing Ollivander to return to his original time.<ref name="WU">{{WU}}</ref>
+During the [[2010s]], Ollivander appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free him, allowing Ollivander to return to his original time.
 
 ==Physical appearance==
 {{Quote|An old man was standing before them, his wide, pale eyes shining like moons through the gloom of the shop.|Harry Potter meeting Ollivander|Harry Potter and the Philosopher's Stone}}
 [[File:Ollivander ProfileClearer.gif|thumb|250px|An elderly Garrick Ollivander in 1991]]
-When first meeting him, Harry Potter described Garrick Ollivander as an old man with pale silvery eyes and white skin.<ref name="eyes"/><ref name="skin"/> However, after he was kidnapped by Voldemort's Death Eaters, Ollivander's appearance changed for the worse as a result of the torture and maltreatment he suffered at the hands of Voldemort along with his two-year imprisonment in Malfoy Manor. By the time he was rescued, he became emaciated, with yellow skin, his facial bones sticking out, skeleton-like hands, and vast, sunken eyes.<ref name="DH24"/>
+When first meeting him, Harry Potter described Garrick Ollivander as an old man with pale silvery eyes and white skin. However, after he was kidnapped by Voldemort's Death Eaters, Ollivander's appearance changed for the worse as a result of the torture and maltreatment he suffered at the hands of Voldemort along with his two-year imprisonment in Malfoy Manor. By the time he was rescued, he became emaciated, with yellow skin, his facial bones sticking out, skeleton-like hands, and vast, sunken eyes.
 
 ==Personality and traits==
 {{Quote|I remember every wand I’ve ever sold, Mr Potter. Every single wand. It so happens that the phoenix whose tail feather is in your wand, gave another feather — just one other. It is very curious indeed that you should be destined for this wand when its brother — why, its brother gave you that scar.|Ollivander's excellent memory and deep knowledge of wands|Harry Potter and the Philosopher's Stone}}
 [[File:Olivander.png|250px|thumb|Ollivander and his many wands|left]]
-Ollivander was an intelligent man, with a perfect memory when it came to his work; he remembered the details of every wand he ever sold. He seemed to become happier the more difficult the challenge to find exactly the right wand for a difficult customer was. He used a magical [[Garrick Ollivander's tape measure|tape measure]] to help assess customers for their wand.<ref name="PS5"/>
+Ollivander was an intelligent man, with a perfect memory when it came to his work; he remembered the details of every wand he ever sold. He seemed to become happier the more difficult the challenge to find exactly the right wand for a difficult customer was. He used a magical [[Garrick Ollivander's tape measure|tape measure]] to help assess customers for their wand.
 
-Ollivander had a professorial enthusiasm for wandlore and was immensely learned in it. A less savoury aspect of his personality was that his fascination with wandlore sometimes eclipsed his sense of right and wrong; he was so fascinated with what a powerful wizard could do when matched with the right wand that he became detached from the good or evil nature of their actions.<ref name="PS5"/> 
+Ollivander had a professorial enthusiasm for wandlore and was immensely learned in it. A less savoury aspect of his personality was that his fascination with wandlore sometimes eclipsed his sense of right and wrong; he was so fascinated with what a powerful wizard could do when matched with the right wand that he became detached from the good or evil nature of their actions. 
 
-A prime example of this would be [[Tom Riddle]], who became Lord Voldemort. Even after the [[First Wizarding War]], Ollivander remembered him as having done "great things" with his wand — "''terrible, yes, but great''".<ref name="PS5" /> An even more extreme example was during the [[Second Wizarding War]], when Ollivander, having just been rescued from a year of imprisonment and torture at Voldemort's hands, was briefly enthralled by the thought of what Voldemort might do when matched with the [[Elder Wand]].<ref name="DH24" />
+A prime example of this would be [[Tom Riddle]], who became Lord Voldemort. Even after the [[First Wizarding War]], Ollivander remembered him as having done "great things" with his wand — "''terrible, yes, but great''". An even more extreme example was during the [[Second Wizarding War]], when Ollivander, having just been rescued from a year of imprisonment and torture at Voldemort's hands, was briefly enthralled by the thought of what Voldemort might do when matched with the [[Elder Wand]].
 
-However, Ollivander still valued his own life and well-being, and divulged information to Voldemort whenever threatened with [[death]] and tortured by the Cruciatus Curse.<ref name="DH24"/> The wandmaker feared the Dark Lord's wrath and begged for mercy when informed that his (Ollivander's) advice about using another wand was incorrect.<ref name="DH24"/>
+However, Ollivander still valued his own life and well-being, and divulged information to Voldemort whenever threatened with [[death]] and tortured by the Cruciatus Curse. The wandmaker feared the Dark Lord's wrath and begged for mercy when informed that his (Ollivander's) advice about using another wand was incorrect.
 
 ==Magical abilities and skills==
 {{Quote|"Avis!" The [[Viktor Krum's wand|hornbeam wand]] let off a blast like a gun, and a number of small, twittering [[bird]]s flew out of the end and through the open window into the watery sunlight.|Ollivander performing the [[Bird-Conjuring Charm]]|Harry Potter and the Goblet of Fire}}
-*'''[[Wandmaker|Wandmaking]]/[[Wandlore]]''': Garrick Ollivander, just as other Ollivander family members, was considered as the best British wand-maker, and arguably the finest wandmaker in the world,<ref name="PM-ollivander">{{WW|mr-ollivander}}</ref> with an immense knowledge of wandlore. He was very knowledgeable of the different magical properties possessed by different wands, in particular relation to their [[Wand wood|woods]] and [[Wand core|cores]].<ref name="PS5"/><ref name="GOF18"/><ref name="DH24"/>
-*'''[[Non-verbal magic]]''': Ollivander had the ability to perform non-verbal spells, as no incantation was spoken by him when he produced [[Silver smoke spell|silver smoke rings]] in 1994. Given the high level of difficulty required in the casting of spells non-verbally, this shows he was a wizard of very impressive magical skills.<ref name="GOF18"/>   
-*'''[[Apparition]]''': Like most accomplished adult wizards, he could Apparate, but failed in 1998 at Malfoy Manor due to [[Anti-Disapparition Jinx|enchantments]] placed on the cellar.<ref name="DH23"/>
-*'''[[Transfiguration]]''': He was highly skilled with [[conjuration]], a highly difficult and complex branch of transfiguration, as he was able to successfully conjure [[Bouquet Spell|flowers]], [[Bird-Conjuring Charm|birds]], and [[Fountain of wine|wine]] in 1994.<ref name="GOF18"/>
-*'''[[Charm]]s''': Ollivander was able to produce a non-corporeal [[Patronus Charm]],<ref name="LEGOY1"/><ref name="LEGOY2"/> a mark of superior [[magic]]al ability given the immense difficulty required in the casting of the spell. He was also proficient with the [[Knockback Jinx]].<ref name="PSG"/>
-*'''[[Wand]] versatility''': In [[1994]], Ollivander used Cedric's, Fleur's, Viktor's and Harry's wands, each with successful effect.<ref name="GOF18"/>
-*'''Eidetic memory''': Ollivander was able to recite the precise details of every wand he ever crafted or sold. This eidetic — or photographic — memory of these details borders on perfect recall, a very rare ability.<ref name="PS5"/>
-*'''Business''': Ollivander also possessed excellent business skills, being highly able to successfully operate and manage his own wand shop for at least sixty years.<ref name="PS5"/>
+*'''[[Wandmaker|Wandmaking]]/[[Wandlore]]''': Garrick Ollivander, just as other Ollivander family members, was considered as the best British wand-maker, and arguably the finest wandmaker in the world, with an immense knowledge of wandlore. He was very knowledgeable of the different magical properties possessed by different wands, in particular relation to their [[Wand wood|woods]] and [[Wand core|cores]].
+*'''[[Non-verbal magic]]''': Ollivander had the ability to perform non-verbal spells, as no incantation was spoken by him when he produced [[Silver smoke spell|silver smoke rings]] in 1994. Given the high level of difficulty required in the casting of spells non-verbally, this shows he was a wizard of very impressive magical skills.   
+*'''[[Apparition]]''': Like most accomplished adult wizards, he could Apparate, but failed in 1998 at Malfoy Manor due to [[Anti-Disapparition Jinx|enchantments]] placed on the cellar.
+*'''[[Transfiguration]]''': He was highly skilled with [[conjuration]], a highly difficult and complex branch of transfiguration, as he was able to successfully conjure [[Bouquet Spell|flowers]], [[Bird-Conjuring Charm|birds]], and [[Fountain of wine|wine]] in 1994.
+*'''[[Charm]]s''': Ollivander was able to produce a non-corporeal [[Patronus Charm]], a mark of superior [[magic]]al ability given the immense difficulty required in the casting of the spell. He was also proficient with the [[Knockback Jinx]].
+*'''[[Wand]] versatility''': In [[1994]], Ollivander used Cedric's, Fleur's, Viktor's and Harry's wands, each with successful effect.
+*'''Eidetic memory''': Ollivander was able to recite the precise details of every wand he ever crafted or sold. This eidetic — or photographic — memory of these details borders on perfect recall, a very rare ability.
+*'''Business''': Ollivander also possessed excellent business skills, being highly able to successfully operate and manage his own wand shop for at least sixty years.
 
 ==Possessions==
 [[File:Ollivander wand.jpeg|thumb|250px|Ollivander's wand]]
-*'''[[Garrick Ollivander's wand|Wand]]''': Mr Ollivander's own [[wand]] was made of [[hornbeam]] [[Wand wood|wood]] with a [[dragon heartstring]] [[Wand core|core]].<ref name="pottermore"/>
-*'''[[Ollivanders|Wand shop]]''': Mr Ollivander took over the family wandmaking business, and thus was the successful owner of this shop for at least sixty years.<ref name="pottermore"/>
-*'''[[Magical tape measure]]''': He owned a magical tape measure which he used to measure wands before selling them to his customers.<ref name="PS5"/>
-*'''[[Garrick Ollivander's peacock|Peacock]]''': He kept a [[peacock]] as a pet.<ref name="PSG">{{PS|G}}</ref>
-*'''[[Flipendo spellbook]]''': He owned this spellbook which contained information on and how to cast the [[Knockback Jinx]], which he kept in his shop.<ref name="PSG"/>
+*'''[[Garrick Ollivander's wand|Wand]]''': Mr Ollivander's own [[wand]] was made of [[hornbeam]] [[Wand wood|wood]] with a [[dragon heartstring]] [[Wand core|core]].
+*'''[[Ollivanders|Wand shop]]''': Mr Ollivander took over the family wandmaking business, and thus was the successful owner of this shop for at least sixty years.
+*'''[[Magical tape measure]]''': He owned a magical tape measure which he used to measure wands before selling them to his customers.
+*'''[[Garrick Ollivander's peacock|Peacock]]''': He kept a [[peacock]] as a pet.
+*'''[[Flipendo spellbook]]''': He owned this spellbook which contained information on and how to cast the [[Knockback Jinx]], which he kept in his shop.
 
 ==Relationships==
 ===Harry Potter===
 {{Quote|I think we must expect great things from you, Mr Potter...|Garrick Ollivander's belief in Harry Potter's great potential and power as a wizard|Harry Potter and the Philosopher's Stone}}
-[[File:Harry Potter.jpg|220x220px|thumb|right|[[Harry Potter]], a good friend]]Like most of the [[wizarding world]], Ollivander heard of Harry Potter and his [[Attack at Godric's Hollow (1981)|defeat]] of [[Tom Riddle|Lord Voldemort]] in 1981. He first met Harry in 1991 and sold him his [[Harry Potter's wand|wand]]. The [[phoenix feather]] in [[Harry Potter's wand|Harry's]] and [[Tom Riddle's wand|Riddle's]] wands came from the same phoenix, [[Fawkes]], something that Ollivander considered "curious". However, Harry was unsure whether he liked Ollivander due to the wandmaker's fascination by what Voldemort did with his wand, despite the terrible things he did with it.<ref name="PS5"/>
+[[File:Harry Potter.jpg|220x220px|thumb|right|[[Harry Potter]], a good friend]]Like most of the [[wizarding world]], Ollivander heard of Harry Potter and his [[Attack at Godric's Hollow (1981)|defeat]] of [[Tom Riddle|Lord Voldemort]] in 1981. He first met Harry in 1991 and sold him his [[Harry Potter's wand|wand]]. The [[phoenix feather]] in [[Harry Potter's wand|Harry's]] and [[Tom Riddle's wand|Riddle's]] wands came from the same phoenix, [[Fawkes]], something that Ollivander considered "curious". However, Harry was unsure whether he liked Ollivander due to the wandmaker's fascination by what Voldemort did with his wand, despite the terrible things he did with it.
 
-Ollivander's relationship with [[Harry Potter]] grew after the [[Skirmish at Malfoy Manor]] when Harry rescued him from imprisonment and during their subsequent stay at the [[Shell Cottage]]. Harry would go on to obtain vital information about the [[Elder Wand]] from Ollivander, which would later prove instrumental for bringing about the final defeat of Lord Voldemort.<ref name="DH24"/>
+Ollivander's relationship with [[Harry Potter]] grew after the [[Skirmish at Malfoy Manor]] when Harry rescued him from imprisonment and during their subsequent stay at the [[Shell Cottage]]. Harry would go on to obtain vital information about the [[Elder Wand]] from Ollivander, which would later prove instrumental for bringing about the final defeat of Lord Voldemort.
 
 ===Luna Lovegood===
 [[File: Luna Lovegood.jpg|220x220px|thumb|left|[[Luna Lovegood]], a good friend]]
 {{Dialogue a-b|Luna Lovegood|I'm going to miss you, Mr Ollivander.|Ollivander|And I you, my dear. You were an inexpressible comfort to me in [[Malfoy Manor|that terrible place]].|Luna says goodbye to Mr Ollivander|Harry Potter and the Deathly Hallows}}
-Ollivander also developed a close relationship with Luna Lovegood, for she was a comfort to him during their imprisonment in Malfoy Manor.<ref name="DH23"/> Ollivander later repaid her kindness to him by creating a new wand for her.<ref name="DH24"/>
+Ollivander also developed a close relationship with Luna Lovegood, for she was a comfort to him during their imprisonment in Malfoy Manor. Ollivander later repaid her kindness to him by creating a new wand for her.
 
 ===Lord Voldemort===
 [[File:Voldemort Headshot DHP1.png|220x220px|thumb|right|[[Tom Riddle|Lord Voldemort]], a feared enemy]]
 {{Quote|He tortured me, you must understand that! The [[Cruciatus Curse]], I — I had no choice but to tell him what I knew, what I guessed — |Ollivander regarding how Voldemort tortured him to procure information about the [[Elder Wand]]|Harry Potter and the Deathly Hallows}}
-Ollivander was very much afraid of Lord Voldemort, and referred to him as "You-Know-Who" like almost all other wizards. He was kidnapped by [[Death Eaters]] and [[Cruciatus Curse|tortured]] by Voldemort for information about Voldemort's wand's relationship with Harry's wand, which further developed his fear of the Dark Lord.<ref name="DH24"/> However, despite his intense fear and hatred of Voldemort, Ollivander was nevertheless fascinated by what Voldemort did both with his phoenix wand and the Elder Wand.<ref name="PS5"/>
+Ollivander was very much afraid of Lord Voldemort, and referred to him as "You-Know-Who" like almost all other wizards. He was kidnapped by [[Death Eaters]] and [[Cruciatus Curse|tortured]] by Voldemort for information about Voldemort's wand's relationship with Harry's wand, which further developed his fear of the Dark Lord. However, despite his intense fear and hatred of Voldemort, Ollivander was nevertheless fascinated by what Voldemort did both with his phoenix wand and the Elder Wand.
 
 ===Mykew Gregorovitch===
 [[File:Mykew Gregorovitch.jpg|left|thumb|[[Mykew Gregorovitch]] a fellow wandmaker|220x220px]]
@@ -200,19 +200,19 @@ Under torture Ollivander revealed to Voldemort that there was once a rumour that
 |Cherry
 |8¾"
 |[[Unicorn hair]]
-|[[Dolores Umbridge]] falsely accused [[Mary Cattermole|Mary]] of stealing this [[Mary Cattermole's wand|wand]], though she informed her she bought it at [[Ollivanders]] in [[Diagon Alley]] when she was eleven years old.<ref name="DHF1">{{DH|F1}}</ref>
+|[[Dolores Umbridge]] falsely accused [[Mary Cattermole|Mary]] of stealing this [[Mary Cattermole's wand|wand]], though she informed her she bought it at [[Ollivanders]] in [[Diagon Alley]] when she was eleven years old.
 |-
 |[[Cedric Diggory]]
 |Ash
 |12¼"
 |[[Unicorn hair]]
-|This [[Cedric Diggory's wand|wand]] was "pleasantly springy"; hair from particularly fine male unicorn (seventeen hands high), which nearly gored Mr Ollivander with its horn after he plucked its tail hair.<ref name="GOF18"/>
+|This [[Cedric Diggory's wand|wand]] was "pleasantly springy"; hair from particularly fine male unicorn (seventeen hands high), which nearly gored Mr Ollivander with its horn after he plucked its tail hair.
 |-
 |[[Lily J. Potter|Lily Evans]]
 |Willow
 |10¼"
 |Unknown
-|This [[Lily Evans's wand|wand]] was "swishy" and "nice for Charm work".<ref name="PS5"/>
+|This [[Lily Evans's wand|wand]] was "swishy" and "nice for Charm work".
 |-
 |[[Hermione Granger]]
 |Vine
@@ -224,61 +224,61 @@ Under torture Ollivander revealed to Voldemort that there was once a rumour that
 |Oak
 |16"
 |Unknown
-|This [[Rubeus Hagrid's wand|wand]] was "rather bendy"; snapped in half when Hagrid was expelled from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] during his third year - the pieces were almost certainly hidden in Hagrid's pink umbrella.<ref name="PS5"/>
+|This [[Rubeus Hagrid's wand|wand]] was "rather bendy"; snapped in half when Hagrid was expelled from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] during his third year - the pieces were almost certainly hidden in Hagrid's pink umbrella.
 |-
 |[[Bellatrix Lestrange]]
 |Walnut
 |12¾"
 |[[Dragon heartstring]]
-|This [[Bellatrix Lestrange's wand|wand]] was described as "unyielding"; passed into the possession of Hermione Granger after the [[Skirmish at Malfoy Manor|Battle of Malfoy Manor]] in 1998.<ref name="DH24"/>
+|This [[Bellatrix Lestrange's wand|wand]] was described as "unyielding"; passed into the possession of Hermione Granger after the [[Skirmish at Malfoy Manor|Battle of Malfoy Manor]] in 1998.
 |-
 |[[Neville Longbottom]]
 [[Neville Longbottom's second wand|second wand]]
 |Cherry
 |13"
 |[[Unicorn hair]]
-|May have been one of the last wands Mr Ollivander sold before he disappeared in [[1996]].<ref name="HBP6"/>
+|May have been one of the last wands Mr Ollivander sold before he disappeared in [[1996]].
 |-
 |[[Draco Malfoy]]
 |Hawthorn
 |10"
 |[[Unicorn hair]]
-|"Reasonably springy"; this [[Draco Malfoy's wand|wand]] passed into the possession of Harry Potter after the [[Skirmish at Malfoy Manor|Battle of Malfoy Manor]] in 1998 until Harry came into possession of the Elder Wand and mended his first wand.<ref name="DH24"/>
+|"Reasonably springy"; this [[Draco Malfoy's wand|wand]] passed into the possession of Harry Potter after the [[Skirmish at Malfoy Manor|Battle of Malfoy Manor]] in 1998 until Harry came into possession of the Elder Wand and mended his first wand.
 |-
 |[[Harry Potter]]
 |Holly
 |11"
 |[[Phoenix feather]]
-|Nice and supple; Costs 7 [[Galleon]]s;<ref name="PS5"/> The only known wand to cause [[Reverse Spell|''Priori Incantatem'']] (caused with [[Tom Riddle|Voldemort]]'s Phoenix-Feather-wand); Can hurt but can not kill its [[Tom Riddle's wand|Brother]];<ref name="GOF36"/> broken in December [[1997]] while [[Attack at Godric's Hollow (1997)|fleeing from Godric's Hollow]]; [[Mending Charm|repaired]] with the [[Elder Wand]] in May 1998.
+|Nice and supple; Costs 7 [[Galleon]]s; The only known wand to cause [[Reverse Spell|''Priori Incantatem'']] (caused with [[Tom Riddle|Voldemort]]'s Phoenix-Feather-wand); Can hurt but can not kill its [[Tom Riddle's wand|Brother]]; broken in December [[1997]] while [[Attack at Godric's Hollow (1997)|fleeing from Godric's Hollow]]; [[Mending Charm|repaired]] with the [[Elder Wand]] in May 1998.
 |-
 |[[James Potter I|James Potter]]
 |Mahogany
 |11"
 |Unknown
-|This [[James Potter's wand|wand]] was "pliable" and "excellent for transfiguration".<ref name="PS5"/>
+|This [[James Potter's wand|wand]] was "pliable" and "excellent for transfiguration".
 |-
 |[[Peter Pettigrew]] x2 
 |Chestnut
 |9¼"
 |[[Dragon heartstring]]
-|This [[Peter Pettigrew's wand|wand]] was "brittle"; owned by Pettigrew only since Ollivander had been kidnapped of [[1996]]; passed into the possession of Ron Weasley after the [[Skirmish at Malfoy Manor|skirmish in Malfoy Manor]] in 1998.<ref name="DH24"/>
+|This [[Peter Pettigrew's wand|wand]] was "brittle"; owned by Pettigrew only since Ollivander had been kidnapped of [[1996]]; passed into the possession of Ron Weasley after the [[Skirmish at Malfoy Manor|skirmish in Malfoy Manor]] in 1998.
 |-
 |[[Tom Riddle|Tom Marvolo Riddle]]/[[Tom Riddle|Voldemort]]
 |Yew
 |13½"
 |[[Phoenix feather]]
-|This [[Tom Riddle's wand|wand]] was "brother" to [[Harry Potter's wand]] - the core tail feathers are both from [[Fawkes]].<ref name="PS5"/><ref name="GOF36"/>
+|This [[Tom Riddle's wand|wand]] was "brother" to [[Harry Potter's wand]] - the core tail feathers are both from [[Fawkes]].
 |-
 |
 [[Ronald Weasley|Ron Weasley]]
 |Willow
 |14"
 |[[Unicorn hair]]
-|Purchased with [[Arthur Weasley|his father]]'s winnings from a ''[[Daily Prophet]]'' draw.<ref name="POA4">{{POA|B|4}}</ref>
+|Purchased with [[Arthur Weasley|his father]]'s winnings from a ''[[Daily Prophet]]'' draw.
 |}
 
 ==Etymology==
-Garrick is an Old English name meaning "one who governs with a spear".<ref>{{Wikilink|Garrick (name)}}</ref> Ollivander is of Mediterranean origin meaning "he who owns an olive wand".<ref name="PM-ollivander"/>
+Garrick is an Old English name meaning "one who governs with a spear". Ollivander is of Mediterranean origin meaning "he who owns an olive wand".
 
 ==See also==
 *[[Wand]]
@@ -289,13 +289,13 @@ Garrick is an Old English name meaning "one who governs with a spear".<ref>{{Wik
 [[File:LEGOollivander.png|thumb|220x220px|Ollivander as a LEGO mini-figure]]
 [[File:Garrick Ollivander LEGO HP1-4.png|thumb|220x220px|Ollivander in {{LEGO|Y1}}]]
 [[File:Garrick Ollivander – Lego Potter.png|thumb|220x220px|Garrick Ollivander in {{LEGO|Y2}}]]
-*Garrick Ollivander is played by the late [[John Hurt]] in {{PS|FA}}, {{DH|FA1}} and {{DH|FA2}}. He was originally set to appear in the {{GOF|FA}},<ref>[http://www.snitchseeker.com/harry-potter-news/hurt-to-return-as-ollivander-in-goblet-of-fire-13201/ Snitchseeker.com: Hurt to return as Ollivander in Goblet of Fire]</ref> but the character's scenes were cut from the final film and have not been released.
+*Garrick Ollivander is played by the late [[John Hurt]] in {{PS|FA}}, {{DH|FA1}} and {{DH|FA2}}. He was originally set to appear in the {{GOF|FA}}, but the character's scenes were cut from the final film and have not been released.
 *Ollivander is one of the only people before {{PS}} who knew Voldemort's real name. He said in the first book he knows that Voldemort's wand caused Harry's scar. While this is not stated in any explicit way, the very fact that Voldemort has only ever had one wand (except for his use of the wand of [[Lucius Malfoy]] and the [[Elder Wand]] very late in life) would ensure that Ollivander would have sold him a wand at age 11, when he still used his former name. It is possible that he somehow deduced the secret sometime before July 1991, be it through mere deduction or that Dumbledore himself told him, since Dumbledore did say that Ollivander contacted him to tell him that Harry had bought the only other wand in existence crafted with one of Fawkes's feathers. He might simply have recognised the wand in the hands of Lord Voldemort.
 *Ollivander's first name, Garrick, was revealed via his shop in {{PM}}.
 *In {{DH}}, Ollivander has no knowledge of the term "Deathly Hallows", being only aware of the Elder Wand, but not of its status as one of these fabled objects. In the film adaptation, {{DH|F2}}, however, he is fully aware of the legend and even provides some information about it not provided by [[Xenophilius Lovegood]]. He denies the tale having any truth, however, until Harry forces him to admit that he told Voldemort about the Elder Wand.
-*Originally published on {{PM}} and later transferred to {{WW}}, there is a feature called "5 things we learned from wise Mr Ollivander" that highlights facts about wandlore.<ref>''[https://www.wizardingworld.com/features/5-things-we-learned-from-wise-mr-ollivander 5 things we learned from wise Mr Ollivander]'' at {{WW}}</ref>
+*Originally published on {{PM}} and later transferred to {{WW}}, there is a feature called "5 things we learned from wise Mr Ollivander" that highlights facts about wandlore.
 *In {{HBP|FA}}, Ollivander being kidnapped by Death Eaters at the start of the film is shown (as opposed to just being mentioned in the [[Harry Potter and the Half-Blood Prince|novel]]), with his face being obscured with a sack. In the novel, his shop was left with no signs of a struggle, but in the film the Death Eaters left it in shambles after attacking it.
-*[[James Howard]], the actor who was first a part of the Ensemble and eventually portrayed [[Draco Malfoy]] in {{CC|P1}}, also portrayed Garrick Ollivander, voicing him when the [[Harry Potter and the Cursed Child cast lists|cast]] of {{CC}} read aloud {{PS|B|5}} together, organised by [[Bloomsbury Publishing]] for the [[2021]] [[Harry Potter Book Night]].<ref>(see [[:File:Harry Potter and the Cursed Child Reading|this video]]) {{c|video currently set to private}}</ref><ref name="CC cast">[https://twitter.com/BloomsburyBooks/status/1357342410527809536 #HarryPotterBookNight has moved to 24th June (although if you have an event planned today then go for it, and have fun!). Ahead of that, here’s a sneak peek of the wonderful casts of the Cursed Child reading from the chapter ‘Diagon Alley’ (from Philosopher's Stone)] - {{Twitter|BloomsburyBooks|Bloomsbury UK}}</ref>
+*[[James Howard]], the actor who was first a part of the Ensemble and eventually portrayed [[Draco Malfoy]] in {{CC|P1}}, also portrayed Garrick Ollivander, voicing him when the [[Harry Potter and the Cursed Child cast lists|cast]] of {{CC}} read aloud {{PS|B|5}} together, organised by [[Bloomsbury Publishing]] for the [[2021]] [[Harry Potter Book Night]].
 
 ==Appearances==
 {{Imagecat|Images of Garrick Ollivander}}
@@ -303,7 +303,7 @@ Garrick is an Old English name meaning "one who governs with a spear".<ref>{{Wik
 *{{PS|F}}
 *{{PS|G}} {{C|Except PC version}}
 *{{GOF}}
-*{{GOF|F}} {{C|Cut from final edit}}<ref>[http://www.snitchseeker.com/harry-potter-news/hurt-to-return-as-ollivander-in-goblet-of-fire-13201/ Snitchseeker.com: Hurt to return as Ollivander in Goblet of Fire]</ref>
+*{{GOF|F}} {{C|Cut from final edit}}
 *{{HBP}} {{Mention}}
 *{{HBP|F}}
 *{{HBP|G}} {{Mention}}

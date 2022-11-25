@@ -3,21 +3,21 @@
 |theme = hogwarts-staff
 |image = Dilys Derwent HM.png
 |name = Dilys Derwent
-|born = Before [[1705]]<ref name="OP22">{{OOTP|B|22}}</ref> {{c|most likely}}
-|died = [[1768]]<ref name="OP22" />
+|born = Before [[1705]] {{c|most likely}}
+|died = [[1768]]
 |blood = 
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
-|title = *[[Healer]]<ref name="OP22" />
-*[[Professor]]<ref name="OP22" />
-*[[Headmaster|Headmistress]]<ref name="OP22" />
+|title = *[[Healer]]
+*[[Professor]]
+*[[Headmaster|Headmistress]]
 |signature = 
-|species = [[Human]]<ref name="OP22" />
-|gender = Female<ref name="OP22" />
+|species = [[Human]]
+|gender = Female
 |height = 
 |weight = 
-|hair = Silver<ref name="OP22" />
+|hair = Silver
 |eyes = 
 |skin = 
 |family = 
@@ -26,30 +26,30 @@
 |boggart = 
 |wand = 
 |patronus = 
-|job = *[[Healer]]<ref name="OP22" />
-*[[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]<ref name="OP22" />
+|job = *[[Healer]]
+*[[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
 |house = 
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OP22" />
-*[[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OP22" />
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[St Mungo's Hospital for Magical Maladies and Injuries]]
 }}
 {{Quote|Everard and Dilys were two of Hogwarts's most celebrated Heads. Their renown is such that both have portraits hanging in other important Wizarding institutions. As they are free to move between their own portraits they can tell us what may be happening elsewhere....|Albus Dumbledore telling Harry Potter about Derwent and [[Everard]]|Harry Potter and the Order of the Phoenix}}
-'''Professor Dilys Derwent''' (d. [[1768]])<ref name="OP22"/> was a [[Wizardkind|witch]] who worked as a [[Healer]] at [[St Mungo's Hospital for Magical Maladies and Injuries]] and was a celebrated [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]]. Her [[portrait]] hangs not only in the [[Headmaster's office|Headmaster's Office]] along with the [[Headmaster portraits|portraits of previous headmasters and headmistresses]], but also in [[St Mungo's Hospital for Magical Maladies and Injuries]]' main admitting area.<ref name="OP22" />
+'''Professor Dilys Derwent''' (d. [[1768]]) was a [[Wizardkind|witch]] who worked as a [[Healer]] at [[St Mungo's Hospital for Magical Maladies and Injuries]] and was a celebrated [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]]. Her [[portrait]] hangs not only in the [[Headmaster's office|Headmaster's Office]] along with the [[Headmaster portraits|portraits of previous headmasters and headmistresses]], but also in [[St Mungo's Hospital for Magical Maladies and Injuries]]' main admitting area.
 
 ==Biography==
 ===As a Healer and Headmistress===
-Derwent started working at [[St Mungo's Hospital for Magical Maladies and Injuries]] in [[1722]].<ref name="OP22" />
+Derwent started working at [[St Mungo's Hospital for Magical Maladies and Injuries]] in [[1722]].
 
-Derwent left the job in [[1741]] and became the [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]] that same year. She proved very popular among students and teachers, gaining her the status of one of the "most celebrated [[Headmaster|Heads]]" among Dumbledore and Everard. She died in the post in 1768.<ref name="OP22" />
+Derwent left the job in [[1741]] and became the [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]] that same year. She proved very popular among students and teachers, gaining her the status of one of the "most celebrated [[Headmaster|Heads]]" among Dumbledore and Everard. She died in the post in 1768.
 
 ===Post-mortem===
 {{Dialogue a-b|Albus Dumbledore|Good, I take it Dilys will have seen him arrive, then —|Dilys Derwent|Yes, they've taken him to St. Mungo's, Dumbledore.... They carried him past under my portrait.... He looks bad....|Albus Dumbledore communicating with Derwent's portrait|Harry Potter and the Order of the Phoenix}}
-When [[Arthur Weasley]] was [[Attack on Arthur Weasley|attacked]] by Voldemort's [[snake]] [[Nagini]] in the [[Department of Mysteries]] in late [[1995]], [[Albus Dumbledore]], then-[[Headmaster]], asked Derwent to go to her portrait at [[St Mungo's Hospital for Magical Maladies and Injuries]]'s main admitting area in order to keep Dumbledore apprised on Mr Weasley's condition.<ref name="OP22" />
+When [[Arthur Weasley]] was [[Attack on Arthur Weasley|attacked]] by Voldemort's [[snake]] [[Nagini]] in the [[Department of Mysteries]] in late [[1995]], [[Albus Dumbledore]], then-[[Headmaster]], asked Derwent to go to her portrait at [[St Mungo's Hospital for Magical Maladies and Injuries]]'s main admitting area in order to keep Dumbledore apprised on Mr Weasley's condition.
 
-When [[Harry Potter]] went to the [[Headmaster's office]], shortly after [[Tom Riddle|Lord Voldemort]]'s defeat and the end of the [[Second Wizarding War]], Dilys Derwent joined the ovation made by the previous Hogwarts Headmasters, sobbing unashamedly.<ref name="DH36">{{DH|B|36}}</ref>
+When [[Harry Potter]] went to the [[Headmaster's office]], shortly after [[Tom Riddle|Lord Voldemort]]'s defeat and the end of the [[Second Wizarding War]], Dilys Derwent joined the ovation made by the previous Hogwarts Headmasters, sobbing unashamedly.
 
 ==Magical abilities and skills==
-*'''[[Healing magic]]''': As a professional [[Healer]] who worked at [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]], Derwent would have been very accomplished and talented in the field of medical magic.<ref name="OP22" />
-*'''Leadership skills''': As a former [[Headmaster|Headmistress]] of Hogwarts school, Derwent was presumably a very capable headmistress and school leader, given her widespread popularity amongst both staff and students.<ref name="OP22" />
+*'''[[Healing magic]]''': As a professional [[Healer]] who worked at [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]], Derwent would have been very accomplished and talented in the field of medical magic.
+*'''Leadership skills''': As a former [[Headmaster|Headmistress]] of Hogwarts school, Derwent was presumably a very capable headmistress and school leader, given her widespread popularity amongst both staff and students.
 
 ==Etymology==
 The name "Dilys" means "genuine" in Welsh. Derwent may be from the name of an English lake in Cumbria, in the Lake District called "Derwent Water".

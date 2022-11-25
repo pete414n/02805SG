@@ -3,16 +3,16 @@
 |theme = slytherin
 |image = [[File:Avery (Riddle-era).png|250px]]
 |name = Avery I
-|born = Between [[1926]] and [[1932]]<ref name="age">If Avery was at Hogwarts in 1943, with Tom Riddle, he must have been born in between the gap of [[1926]] (at the time he would be 17) and [[1932]] (where he would be 11).</ref>
+|born = Between [[1926]] and [[1932]]
 |died = 
-|blood = [[Pure-blood]] or [[half-blood]] (likely)<ref name="blood">{{WW|pure-blood}} - The Sacred Twenty-Eight Pure-blood directory includes the Avery family. As this Avery was born around 1930, he could have been factored in and would not have been a Muggle or Muggle-born</ref><ref name="malfoy">{{WW|the-malfoy-family}} </ref>
+|blood = [[Pure-blood]] or [[half-blood]] (likely)
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="HBP17" /><ref name="HBP23" />
-|gender = Male<ref name="HBP17" /><ref name="HBP23" />
+|species = [[Human]]
+|gender = Male
 |height = 
 |weight = 
 |hair = Blonde
@@ -26,19 +26,19 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Slytherin]]<ref name="HBP17" /><ref name="HBP23" />
-|loyalty = *[[Avery family]]<ref name="HBP17" /><ref name="HBP23" />
-*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP17" /><ref name="HBP23" />
-**[[Slytherin]]<ref name="HBP17" /><ref name="HBP23" />
-***[[Tom Riddle's gang]]<ref name="HBP17" /><ref name="HBP23" />
-**[[Slug Club]]<ref name="HBP17" /><ref name="HBP23" />
+|house = [[Slytherin]]
+|loyalty = *[[Avery family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+***[[Tom Riddle's gang]]
+**[[Slug Club]]
 }}
 {{Quote|[[Lestrange]], I want that essay on my desk by tomorrow or it's detention. Same goes for you, Avery.|[[Horace Slughorn]] regarding Lestrange's and Avery's slacking off|Harry Potter and the Half-Blood Prince}}
-'''Avery I'''<ref name="name">''[https://web.archive.org/web/20180128180318/https://www.pottermore.com/about/a-guide-to-lord-voldemorts-death-eaters A guide to Lord Voldemort's Death Eaters]'' at {{PM}} (via The Internet Archive)</ref> (born c. [[1920s]]) was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was sorted into [[Slytherin|Slytherin House]]. He was a member of [[Tom Riddle's gang]] when they attended Hogwarts, and was a member of the [[Slug Club]].<ref name="HBP17">{{HBP|B|17}}</ref><ref name="HBP23">{{HBP|B|23}}</ref>
+'''Avery I''' (born c. [[1920s]]) was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was sorted into [[Slytherin|Slytherin House]]. He was a member of [[Tom Riddle's gang]] when they attended Hogwarts, and was a member of the [[Slug Club]].
 
 ==Biography==
 [[File:Young Death Eaters.jpg|250px|thumb|left|Avery at a [[Slug Club]] supper with his school friends Tom Riddle, Lestrange, and others]]
-Avery attended Hogwarts at the same time as [[Tom Riddle]], and was [[Sorting ceremony|sorted]] into [[Slytherin|Slytherin House]]. He became a member of [[Tom Riddle's gang|Riddle's gang]], and was a favourite student of [[Horace Slughorn]]. Avery was present at the same Slug Club meeting in [[1944]] or [[1945]] as [[Tom Riddle]] and was reprimanded by the Potions Master for failing to hand in a particular essay.<ref name="HBP17" /><ref name="HBP23" />
+Avery attended Hogwarts at the same time as [[Tom Riddle]], and was [[Sorting ceremony|sorted]] into [[Slytherin|Slytherin House]]. He became a member of [[Tom Riddle's gang|Riddle's gang]], and was a favourite student of [[Horace Slughorn]]. Avery was present at the same Slug Club meeting in [[1944]] or [[1945]] as [[Tom Riddle]] and was reprimanded by the Potions Master for failing to hand in a particular essay.
 
 ==Etymology==
 ''Avery'' is an English surname derived from an Old French version of the name Alfred. The meaning of the name is derived from the Old English words ''aelf'', meaning elf, and ''raed'', meaning counsel.

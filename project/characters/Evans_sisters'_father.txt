@@ -3,8 +3,8 @@
 |theme = muggle
 |image = [[File:Mr. Evans.jpg|250px]]
 |name = Mr Evans
-|born =Pre [[1960]]<ref>In order to have had Lily in 1960, he would have to have been born before this date.</ref> 
-|died = Between [[1 September]] [[1971]] and [[31 October]] [[1981]]<ref name="wbd2004">[http://www.accio-quote.org/articles/2004/0304-wbd.htm 2004 World Book Day webchat]</ref><ref name="2005interview">[http://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-3.htm 2005 interview with Emerson Spartz and Melissa Anelli]</ref><ref name="dodexplanation">In {{OOTP|B|37}}, it is stated that, at the time of [[Lily J. Potter|Lily's]] death on 31 October 1981, Petunia was "her only remaining relative," and thus the sisters' parents must have died sometime before that date.</ref>
+|born =Pre [[1960]] 
+|died = Between [[1 September]] [[1971]] and [[31 October]] [[1981]]
 |blood = [[Non-magic people|Muggle]]
 |marital = Married
 |nationality =[[Great Britain|British]] 
@@ -44,21 +44,21 @@
 |loyalty = [[Evans family]]
 }}
 {{Quote|I was the only one who saw her for what she was... a freak! But for my mother and father, oh no, it was Lily this and Lily that, they were proud of having a witch in the family!|[[Petunia Dursley]] on her parents|Harry Potter and the Philosopher's Stone}}
-'''Mr Evans''' (died between [[1 September]] [[1971]] and [[31 October]] [[1981]]<ref name="wbd2004" /><ref name="2005interview" /><ref name="dodexplanation" />) was a [[Great Britain|British]] [[Non-magic people|Muggle]] and the father of [[Petunia Dursley|Petunia]] and [[Lily J. Potter|Lily Evans]]. He had two grandsons, [[Dudley Dursley]] and [[Harry Potter]], through his daughters' marriages to [[Vernon Dursley]] and [[James Potter I|James Potter]].
+'''Mr Evans''' (died between [[1 September]] [[1971]] and [[31 October]] [[1981]]) was a [[Great Britain|British]] [[Non-magic people|Muggle]] and the father of [[Petunia Dursley|Petunia]] and [[Lily J. Potter|Lily Evans]]. He had two grandsons, [[Dudley Dursley]] and [[Harry Potter]], through his daughters' marriages to [[Vernon Dursley]] and [[James Potter I|James Potter]].
 
 ==Biography==
-Mr Evans and [[Evans sisters' mother|his wife]] lived in [[Cokeworth]], [[England]].<ref name="cokeworth">{{WW|cokeworth}}</ref> The couple had two daughters: [[Petunia Dursley|Petunia]], born in the late [[1950s]], and [[Lily J. Potter|Lily]], born [[30 January]] [[1960]].<ref name="dh16">{{DH|B|16}}</ref><ref name="dh33">{{DH|B|33}}</ref>
+Mr Evans and [[Evans sisters' mother|his wife]] lived in [[Cokeworth]], [[England]]. The couple had two daughters: [[Petunia Dursley|Petunia]], born in the late [[1950s]], and [[Lily J. Potter|Lily]], born [[30 January]] [[1960]].
 
-The couple's elder daughter was a [[Non-magic people|Muggle]] like them.<ref name="ps4">{{PS|B|4}}</ref> Their younger daughter, on the other hand, turned out to be a [[Muggle-born]] [[wizardkind|witch]].<ref name="ps4" /> Mr Evans and his wife were proud to have a magical daughter, but Petunia thought differently, considering her sister to be a "freak."<ref name="ps4" /> According to Petunia, Mr and Mrs Evans favoured Lily, talking about her constantly.<ref name="ps4" />
+The couple's elder daughter was a [[Non-magic people|Muggle]] like them. Their younger daughter, on the other hand, turned out to be a [[Muggle-born]] [[wizardkind|witch]]. Mr Evans and his wife were proud to have a magical daughter, but Petunia thought differently, considering her sister to be a "freak." According to Petunia, Mr and Mrs Evans favoured Lily, talking about her constantly.
 
-On [[1 September]], [[1971]], Mr Evans and his wife took Lily and Petunia to [[Platform Nine and Three-Quarters]], in order to see Lily off to her first year at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="dh33" />
+On [[1 September]], [[1971]], Mr Evans and his wife took Lily and Petunia to [[Platform Nine and Three-Quarters]], in order to see Lily off to her first year at [[Hogwarts School of Witchcraft and Wizardry]].
 
 ===Death and legacy===
-Mr Evans and his wife died "normal Muggle death[s]" sometime before the murder of their daughter Lily and son-in-law [[James Potter I|James Potter]], on the night of [[31 October]], [[1981]].<ref name="wbd2004" /><ref name="2005interview" /><ref name="dodexplanation" /> This meant that their grandson, [[Harry Potter]] was left in the care of Petunia, his only surviving blood relation.<ref name="ootp37">{{OOTP|B|37}}</ref>
+Mr Evans and his wife died "normal Muggle death[s]" sometime before the murder of their daughter Lily and son-in-law [[James Potter I|James Potter]], on the night of [[31 October]], [[1981]].
 
 [[File:MirrorOfErised_PM.jpg|250px|thumb|left|Harry standing before the [[Mirror of Erised]] and seeing his family for the first time]]
 
-When Harry looked into the Mirror of Erised in [[1991]], he saw both his maternal and paternal grandparents, among a number of other relatives he had never met.<ref name="PS12">{{PS|B|12}}</ref>
+When Harry looked into the Mirror of Erised in [[1991]], he saw both his maternal and paternal grandparents, among a number of other relatives he had never met.
 
 ==Appearances==
 *{{PS}} {{1st Mention}} {{Comment|Appears in [[Mirror of Erised]]}}

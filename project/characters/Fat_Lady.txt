@@ -11,8 +11,8 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="PS7"/>
-|gender = Female<ref name="PS7"/>
+|species = [[Human]]
+|gender = Female
 |height = 
 |weight = 
 |hair = 
@@ -24,14 +24,14 @@
 |boggart = 
 |wand = 
 |patronus = 
-|job = [[Gryffindor Tower]] door guard<ref name="PS7"/>
-|house = [[Gryffindor]]<ref name="PS7"/>
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS7"/>
-**[[Gryffindor Tower]]<ref name="PS7"/>
-**[[Gryffindor]]<ref name="PS7"/>
+|job = [[Gryffindor Tower]] door guard
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor Tower]]
+**[[Gryffindor]]
 }}
 {{Quote|Password?|The Fat Lady guarding Gryffindor Tower|Harry Potter and the Philosopher's Stone}}
-The '''Fat Lady''' was a [[portrait]] who guarded the entrance to [[Gryffindor Tower]] at [[Hogwarts Castle]]. She asked for a [[password]] before letting anyone in, then swung her picture backward so that students could enter through a portrait hole.<ref name="PS7"/>
+The '''Fat Lady''' was a [[portrait]] who guarded the entrance to [[Gryffindor Tower]] at [[Hogwarts Castle]]. She asked for a [[password]] before letting anyone in, then swung her picture backward so that students could enter through a portrait hole.
 
 ==Biography==
 ===Lifetime===
@@ -41,74 +41,74 @@ It is unknown when or how she died, but it was by some time in the 1890s at the 
 
 ===As a portrait===
 [[File:Fat lady.JPG|250px|thumb|left|The Fat Lady's portrait]]
-After the Fat Lady died, a painting depicting her was hung at [[Hogwarts Castle]], guarding the [[Gryffindor Tower|Gryffindor Common Room]]. It is also unknown who or what, if anything, guarded the common room before her. The Fat Lady was a dutiful guardian to the Gryffindor Tower, only granting entrance to those who produce the correct password.<ref name="OOTP11"/> She had, however, been known for reprimanding students when they returned late, annoyed that they woke her up from her sleep.<ref name="PS9"/><ref name="GOF31"/> She had been known to move about occasionally and had a friend, [[Violet]], who visited her, especially during such holidays as Christmas break. The two drank together frequently, once consuming several vats of wine that were in a picture of some drunk monks.<ref name="HBP17"/>
+After the Fat Lady died, a painting depicting her was hung at [[Hogwarts Castle]], guarding the [[Gryffindor Tower|Gryffindor Common Room]]. It is also unknown who or what, if anything, guarded the common room before her. The Fat Lady was a dutiful guardian to the Gryffindor Tower, only granting entrance to those who produce the correct password. She had, however, been known for reprimanding students when they returned late, annoyed that they woke her up from her sleep. She had been known to move about occasionally and had a friend, [[Violet]], who visited her, especially during such holidays as Christmas break. The two drank together frequently, once consuming several vats of wine that were in a picture of some drunk monks.
 
 ====[[1960s]]====
-When [[Molly Weasley|Molly Prewett]] was a student, she returned to Gryffindor Tower at four o'clock in the morning after taking a late night stroll with her then boyfriend (now husband), [[Arthur Weasley]], and they both got a telling-off from the Fat Lady.<ref name="GOF31">{{GOF|B|31}}</ref>
+When [[Molly Weasley|Molly Prewett]] was a student, she returned to Gryffindor Tower at four o'clock in the morning after taking a late night stroll with her then boyfriend (now husband), [[Arthur Weasley]], and they both got a telling-off from the Fat Lady.
 
 ====[[1975]]====
-After the end of their friendship, Severus Snape remained outside the Gryffindor Common Room until Lily came out to talk to him.<ref name="DH33">{{DH|B|33}}</ref>
+After the end of their friendship, Severus Snape remained outside the Gryffindor Common Room until Lily came out to talk to him.
 
 ====[[1991–1992 school year]]====
 {{Quote|Where on earth have you all been?|The Fat Lady scolding first year Gryffindors for being out late|Harry Potter and the Philosopher's Stone}} 
-In [[1991]], the Fat Lady allowed [[first year]] Gryffindors into Gryffindor tower with the correct password.<ref name="PS7">{{PS|B|7}}</ref> When [[Harry Potter]] and [[Ronald Weasley]] had left the dormitory late one night to [[Duelling|duel]] [[Draco Malfoy]] at the third floor, she went off for a nightime visit, therefore meaning they, [[Hermione Granger]] (who had tried to stop them leaving) and [[Neville Longbottom]] (who had forgotten the password), could not enter, resulting in all four of them heading down to the third floor. By the time she had returned to her portrait and the four of them had returned back to the dormitory, she questioned them on where they had been.<ref name="PS9">{{PS|B|9}}</ref> Later in December [[1991]], when Harry Potter left the dormitory at night under his [[Cloak of Invisibility|Invisbility Cloak]], she questioned who was there when Harry came through her portrait, as she could not see him due to him being fully [[Invisibility|invisible]].<ref name="PS12">{{PS|B|12}}</ref>
+In [[1991]], the Fat Lady allowed [[first year]] Gryffindors into Gryffindor tower with the correct password. When [[Harry Potter]] and [[Ronald Weasley]] had left the dormitory late one night to [[Duelling|duel]] [[Draco Malfoy]] at the third floor, she went off for a nightime visit, therefore meaning they, [[Hermione Granger]] (who had tried to stop them leaving) and [[Neville Longbottom]] (who had forgotten the password), could not enter, resulting in all four of them heading down to the third floor. By the time she had returned to her portrait and the four of them had returned back to the dormitory, she questioned them on where they had been. Later in December [[1991]], when Harry Potter left the dormitory at night under his [[Cloak of Invisibility|Invisbility Cloak]], she questioned who was there when Harry came through her portrait, as she could not see him due to him being fully [[Invisibility|invisible]].
 
 ====[[1992–1993 school year]]====
-At the start of the school year when [[Harry Potter]] and [[Ronald Weasley]] arrived late to the castle, due to missing the [[Hogwarts Express]] and being forced to drive the [[Flying Ford Anglia]] to school (and crashing it into the [[Whomping Willow]]), the two initially did not know the password to enter. However, their friend [[Hermione Granger]] soon arrived to tell them the password.<ref name="COS5"/>
+At the start of the school year when [[Harry Potter]] and [[Ronald Weasley]] arrived late to the castle, due to missing the [[Hogwarts Express]] and being forced to drive the [[Flying Ford Anglia]] to school (and crashing it into the [[Whomping Willow]]), the two initially did not know the password to enter. However, their friend [[Hermione Granger]] soon arrived to tell them the password.
 
 ====[[1993–1994 school year]]====
 {{Dialogue a-b|Percy Weasley|And the Fat Lady, sir?|Albus Dumbledore|Hiding in a map of Argyllshire on the second floor. Apparently she refused to let Black in without the password, so he attacked. She’s still very distressed, but once she’s calmed down, I’ll have Mr Filch restore her.|[[Albus Dumbledore]] telling [[Percy Weasley]] about the Fat Lady's mental state after the attack|Harry Potter and the Prisoner of Azkaban}}
 [[File:Attack on the Fat Lady.png|thumb|left|Sirus Black's attack on the Fat Lady]]
-On [[Hallowe'en]] [[1993]], the Fat Lady's portrait was [[Sirius Black's break-in of Hogwarts Castle (1993)|ruined]] by [[Sirius Black]] and pulled off the wall.<ref name="POA8">{{POA|B|8}}</ref> She was temporarily replaced by [[Cadogan|Sir Cadogan]] because nobody else wanted the job.<ref name="POA9">{{POA|B|9}}</ref> After Sir Cadogan was fired when Sirius Black used the list of passwords he obtained by getting Hermione's cat, [[Crookshanks]], to steal it from [[Neville Longbottom]] to enter the Gryffindor tower to (unseccessfully) murder Ron's pet rat, [[Scabbers]] and returned to the seventh floor, the Fat Lady's portrait was restored by [[Argus Filch]] at this time. She agreed to return to her original location and duties in exchange for protection. This caused several [[security troll]]s to be hired to patrol the hallways to prevent further vandalism and fight off any intruders.<ref name="POA14">{{POA|B|14}}</ref>
+On [[Hallowe'en]] [[1993]], the Fat Lady's portrait was [[Sirius Black's break-in of Hogwarts Castle (1993)|ruined]] by [[Sirius Black]] and pulled off the wall. She was temporarily replaced by [[Cadogan|Sir Cadogan]] because nobody else wanted the job. After Sir Cadogan was fired when Sirius Black used the list of passwords he obtained by getting Hermione's cat, [[Crookshanks]], to steal it from [[Neville Longbottom]] to enter the Gryffindor tower to (unseccessfully) murder Ron's pet rat, [[Scabbers]] and returned to the seventh floor, the Fat Lady's portrait was restored by [[Argus Filch]] at this time. She agreed to return to her original location and duties in exchange for protection. This caused several [[security troll]]s to be hired to patrol the hallways to prevent further vandalism and fight off any intruders.
 
 ====[[1994–1995 school year]]====
 {{Quote|Well, well, well, Violet’s just told me everything. Who’s just been chosen as school champion, then?|The Fat Lady congratulating Harry Potter|Harry Potter and the Goblet of Fire}}
-In [[1994]], when [[Harry Potter]] had been chosen as the fourth [[Triwizard Tournament|Triwizard]] champion, the Fat Lady was informed of this by her friend and fellow portrait [[Violet]]. She seemed very eager to meet Harry when he went back to the common room, even bringing her friends from portraits with her.<ref name="GOF17">{{GOF|B|17}}</ref>
+In [[1994]], when [[Harry Potter]] had been chosen as the fourth [[Triwizard Tournament|Triwizard]] champion, the Fat Lady was informed of this by her friend and fellow portrait [[Violet]]. She seemed very eager to meet Harry when he went back to the common room, even bringing her friends from portraits with her.
 
-When Harry Potter and [[Ronald Weasley|Ron Weasley]] were called by [[Hermione Granger]] to go to the [[Hogwarts kitchens|kitchen]], the Fat Lady was annoyed that she had to open the door just after they planned to not use it.<ref name="GOF21">{{GOF|B|21}}</ref> Later that year, after the [[Yule Ball]] ended, the Fat Lady and Violet were both drunk, and Harry Potter had some trouble getting her to open the door. Again, when Harry tried to enter the tower, the Fat Lady was asleep and he had to yell the password to wake her up, much to her irritation.<ref name="GOF23">{{GOF|B|23}}</ref>
+When Harry Potter and [[Ronald Weasley|Ron Weasley]] were called by [[Hermione Granger]] to go to the [[Hogwarts kitchens|kitchen]], the Fat Lady was annoyed that she had to open the door just after they planned to not use it. Later that year, after the [[Yule Ball]] ended, the Fat Lady and Violet were both drunk, and Harry Potter had some trouble getting her to open the door. Again, when Harry tried to enter the tower, the Fat Lady was asleep and he had to yell the password to wake her up, much to her irritation.
 
 ====[[1995–1996 school year]]====
 {{Quote|Are you going to give me the password or will I have to stay awake all night waiting for you to finish your conversation?|The Fat Lady's annoyance at the [[trio]]|Harry Potter and the Order of the Phoenix}}
-At the start of the school year, the Fat Lady initially refused to allow Harry to enter as he did not know the password, but [[Neville Longbottom]] arrived and gave the correct password (''[[Mimbulus mimbletonia]]'') and she allowed them entry. When Harry, Ron and Hermione were discussing [[Dolores Umbridge]]'s [[Black Quill|draconian]] detentions for Harry outside the common room, the Fat Lady was annoyed at them for waking her up with their talking.<ref name="OOTP13">{{OOTP|B|13}}</ref> At the end of the school year, when Harry Potter sprinted out of the common room, she called upon him not to miss the [[End-of-Term Feast]].<ref name="OOTP38">{{OOTP|B|38}}</ref>
+At the start of the school year, the Fat Lady initially refused to allow Harry to enter as he did not know the password, but [[Neville Longbottom]] arrived and gave the correct password (''[[Mimbulus mimbletonia]]'') and she allowed them entry. When Harry, Ron and Hermione were discussing [[Dolores Umbridge]]'s [[Black Quill|draconian]] detentions for Harry outside the common room, the Fat Lady was annoyed at them for waking her up with their talking. At the end of the school year, when Harry Potter sprinted out of the common room, she called upon him not to miss the [[End-of-Term Feast]].
 
 ====[[1996–1997 school year]]====
 {{Dialogue a-b-a-b-a|Fat Lady|What sort of time do you call this?|Harry Potter|I’m really sorry — I had to go out for something important —|Well, the password changed at midnight, so you’ll just have to sleep in the corridor, won’t you?|You’re joking! Why did it have to change at midnight?|That’s the way it is. If you’re angry, go and take it up with the headmaster, he’s the one who’s tightened security.|Harry Potter arguing with the Fat Lady|Harry Potter and the Half Blood Prince}}
-She and her friend Violet had overindulged on an entire vat of five-hundred year old [[wine]] over [[Christmas]] [[1996]], meaning she was rather hungover and pale looking when Harry and Ron returned to Hogwarts in the castle a few days after the New Year in [[1997]].<ref name="HBP17"/>
+She and her friend Violet had overindulged on an entire vat of five-hundred year old [[wine]] over [[Christmas]] [[1996]], meaning she was rather hungover and pale looking when Harry and Ron returned to Hogwarts in the castle a few days after the New Year in [[1997]].
 
-Once, when Harry Potter returned late and woke her up, she refused to let him in, claiming that the password changed overnight. When Harry ran off to see Dumbledore regarding Slughorn's memory, she called after him and admitted that she was just kidding, though Harry proceeded to Dumbledore's office anyway.<ref name="HBP23"/>
+Once, when Harry Potter returned late and woke her up, she refused to let him in, claiming that the password changed overnight. When Harry ran off to see Dumbledore regarding Slughorn's memory, she called after him and admitted that she was just kidding, though Harry proceeded to Dumbledore's office anyway.
 
-Later that year, when Dumbledore was seemingly [[Killing Curse|murdered]] by [[Severus Snape]], the Fat Lady was in sorrow and she allowed Harry to enter the Tower without the password, while she cried.<ref name="HBP29">{{HBP|B|29}}</ref> She presumably continued to carry out her same role after the [[Second Wizarding War|war]].
+Later that year, when Dumbledore was seemingly [[Killing Curse|murdered]] by [[Severus Snape]], the Fat Lady was in sorrow and she allowed Harry to enter the Tower without the password, while she cried. She presumably continued to carry out her same role after the [[Second Wizarding War|war]].
 
 ==Known passwords used to enter the Gryffindor Common Room==
-*''Abstinence ''(1996–97)<ref name="HBP17">{{HBP|B|17}}</ref>
-*''Balderdash ''(1994–95)<ref name="GOF12">{{GOF|B|12}}</ref>
-*''[[Banana]] Fritters'' (1994–95)<ref name="GOF25">{{GOF|B|25}}</ref>
-*''[[Bauble]]s ''(1996–97)<ref name="HBP15">{{HBP|B|15}}</ref>
-*''Caput Draconis'' (Latin for "''[[dragon]]'s head''") (1991–92)<ref name="PS7"/>
-*''Dilligrout ''(1996–97)<ref name="HBP12">{{HBP|B|12}}</ref>
-*''Fairy Lights ''(1994-95)<ref name="GOF22">{{GOF|B|22}}</ref>
-*''Flibbertigibbet ''(1993–94)<ref name="POA15">{{POA|B|15}}</ref>
-*''Fortuna Major'' (Latin for'' ''"''greater fortune''") (1993–94)<ref name="POA5">{{POA|B|5}}</ref>
-*''[[Mimbulus mimbletonia]]'' (The only one that [[Neville Longbottom]] was able to remember) (1995–96)<ref name="OOTP11"/>
-*''Oddsbodikins ''(1993–94)<ref name="POA12">{{POA|B|12}}</ref>
-*''[[Pig]] Snout ''(1991–92)<ref name="PS9">{{PS|B|9}}</ref>
-*''Quid Agis? ''(Latin for'' ''"What are you doing''?''") (1996–97)<ref name="HBP24">{{HBP|B|24}}</ref>
-*''Scurvy Cur ''(1993–94)<ref name="POA11">{{POA|B|11}}</ref>
-*''Tapeworm ''(1996–97)<ref name="HBP23">{{HBP|B|23}}</ref>
-*''Wattlebird ''(1992–93)<ref name="COS5">{{COS|B|5}}</ref>
+*''Abstinence ''(1996–97)
+*''Balderdash ''(1994–95)
+*''[[Banana]] Fritters'' (1994–95)
+*''[[Bauble]]s ''(1996–97)
+*''Caput Draconis'' (Latin for "''[[dragon]]'s head''") (1991–92)
+*''Dilligrout ''(1996–97)
+*''Fairy Lights ''(1994-95)
+*''Flibbertigibbet ''(1993–94)
+*''Fortuna Major'' (Latin for'' ''"''greater fortune''") (1993–94)
+*''[[Mimbulus mimbletonia]]'' (The only one that [[Neville Longbottom]] was able to remember) (1995–96)
+*''Oddsbodikins ''(1993–94)
+*''[[Pig]] Snout ''(1991–92)
+*''Quid Agis? ''(Latin for'' ''"What are you doing''?''") (1996–97)
+*''Scurvy Cur ''(1993–94)
+*''Tapeworm ''(1996–97)
+*''Wattlebird ''(1992–93)
 
 ==Physical appearance==
-The Fat Lady was, as suggested by her nickname, a "very fat woman" who was painted wearing a pink silk dress.<ref name="PS7"/> On one occasion, her dress was said to be "satin,"<ref name="OOTP11">{{OOTP|B|11}}</ref> which is either a mistake or evidence that the Fat Lady was capable of changing her clothes. 
+The Fat Lady was, as suggested by her nickname, a "very fat woman" who was painted wearing a pink silk dress. which is either a mistake or evidence that the Fat Lady was capable of changing her clothes. 
 
-She looked "rather paler than usual" while suffering the effects of a hangover,<ref name="HBP17"/> which might suggest that she had a pale complexion under normal circumstances.
+She looked "rather paler than usual" while suffering the effects of a hangover, which might suggest that she had a pale complexion under normal circumstances.
 
 ==Personality and traits==
 {{Quote|No password, no entrance.|The Fat Lady's strict attitude|Harry Potter and the Order of the Phoenix}}
-The Fat Lady was well known during her life for her indulgence in good food and drink, as well as a passion for "tip-top security," traits that her portrait would later possess.<ref name="PM">{{WW|hogwarts-portraits}}</ref>
+The Fat Lady was well known during her life for her indulgence in good food and drink, as well as a passion for "tip-top security," traits that her portrait would later possess.
 
-As the guardian of the [[Gryffindor Tower]]'s entrance, she was very dutiful, refusing entry to students who did not know the correct password.<ref name="OOTP11"/> She was often irritated by those who would return late, waking her from her sleep.<ref name="PS9"/> At such times, she would not hesitate to even lie to such students that the password has changed overnight, making them believe they have to sleep outside for the night.<ref name="HBP23"/>
+As the guardian of the [[Gryffindor Tower]]'s entrance, she was very dutiful, refusing entry to students who did not know the correct password. She was often irritated by those who would return late, waking her from her sleep. At such times, she would not hesitate to even lie to such students that the password has changed overnight, making them believe they have to sleep outside for the night.
 
-Despite her dutiful and strict nature, she did have a sensitive side. After [[Sirius Black]] slashed her portrait, the Fat Lady was too scared to continue her duties<ref name="POA8"/><ref name="POA9"/> until [[Albus Dumbledore|Dumbledore]] provided her corridor with several [[Security troll]]s.<ref name="POA14"/> After Dumbledore's death, she was so distraught that she allowed [[Harry Potter]] entry without the password and she began to cry.<ref name="HBP29"/>
+Despite her dutiful and strict nature, she did have a sensitive side. After [[Sirius Black]] slashed her portrait, the Fat Lady was too scared to continue her duties until [[Albus Dumbledore|Dumbledore]] provided her corridor with several [[Security troll]]s. After Dumbledore's death, she was so distraught that she allowed [[Harry Potter]] entry without the password and she began to cry.
 
 ==Behind the scenes==
 [[File:Lego Fat Lady.jpg|150px|thumb|The Fat Lady as she appears in {{LEGO|Y1}}]]

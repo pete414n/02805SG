@@ -1,25 +1,25 @@
-{{HogwartsMysterySpoiler}}
+{{Spoiler|HM|HL}}
 {{Individual infobox
 |theme = hogwarts-staff
 |image = PhineasNBlack.jpg
 |name = Phineas Nigellus Black
-|born = [[1847]]<ref name="family">''[[House of Black|Black family tree]]''</ref>
+|born = [[1847]]
 [[Great Britain]]
-|died = [[1925]] (aged 77 - 78)<ref name="family"/>
-|blood = [[Pure-blood]]<ref name="OOP"/>
-|marital = Married<ref name="family"/>
+|died = [[1925]] (aged 77 - 78)
+|blood = [[Pure-blood]]
+|marital = Married
 |nationality = 
 |alias = 
 |title = *[[Professor]]
-*[[Headmaster]]<ref name="OOP">{{OOTP}}</ref>
+*[[Headmaster]]
 |signature = 
 |species = [[Human]]
 |gender = Male
 |height = 
 |weight = 
-|hair = Black<ref name="family" />
-|eyes = Dark,<ref name="family" /> shrewd and narrow
-|skin = Pale<ref name="family" />
+|hair = Black
+|eyes = Dark, shrewd and narrow
+|skin = Pale
 |family = *[[Cygnus Black I]] (possible father)
 *[[Ella Max|Ella Black]] (née Max) (possible mother)
 *[[Sirius Black I]] (older brother)
@@ -60,15 +60,15 @@
 |boggart = 
 |wand = 
 |patronus = 
-|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOP" />
-|house = [[Slytherin]]<ref name="OOP" />
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]
+|house = [[Slytherin]]
 |loyalty = *[[House of Black]]
-*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOP" />
+*[[Hogwarts School of Witchcraft and Wizardry]]
 **[[Slytherin]]
 *[[Flint family]]
 }}
 {{Dialogue a-b-a|Phineas Nigellus|I thought that to belong in Gryffindor House you were supposed to be brave? It looks to me as though you would have been better off in my own house. We Slytherins are brave, yes, but not stupid. For instance, given the choice, we will always choose to save our own necks.|Harry Potter|It's not my own neck I'm saving.|Oh I ''see''. This is no cowardly flight — you are being ''noble''.|Phineas Nigellus talking to [[Harry Potter]]|Harry Potter and the Order of the Phoenix}}
-'''Professor Phineas Nigellus Black''' ([[1847]] – [[1925]])<ref name="family" /> was a [[pure-blood]] [[Wizardkind|wizard]], possibly the son of [[Cygnus Black I|Cygnus]] and [[Ella Max|Ella Black]], and brother of [[Sirius Black I|Sirius]], [[Elladora Black|Elladora]] and [[Iola Black]]. He attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] as a member of [[Slytherin|Slytherin House]], later becoming the school's least popular [[Hogwarts Headmaster|Headmaster]], loathing his profession. Following his death in [[1925]], his [[portrait]] was hung in the [[Headmaster's office]] to offer advice to the current headmaster.
+'''Professor Phineas Nigellus Black''' ([[1847]] – [[1925]]) was a [[pure-blood]] [[Wizardkind|wizard]], possibly the son of [[Cygnus Black I|Cygnus]] and [[Ella Max|Ella Black]], and brother of [[Sirius Black I|Sirius]], [[Elladora Black|Elladora]] and [[Iola Black]]. He attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] as a member of [[Slytherin|Slytherin House]], later becoming the school's least popular [[Hogwarts Headmaster|Headmaster]], loathing his profession. Following his death in [[1925]], his [[portrait]] was hung in the [[Headmaster's office]] to offer advice to the current headmaster.
 
 ==Biography==
 ===Early life===
@@ -79,7 +79,7 @@ The siblings were raised in a household that strongly believed in the importance
 
 At the age of eleven, circa [[1858]], Phineas Nigellus began his schooling at [[Hogwarts School of Witchcraft and Wizardry]], where he was [[Sorting ceremony|sorted]] into [[Slytherin|Slytherin House]].
 
-Sometime after completing his schooling in c. [[1865]], Phineas Nigellus married [[Ursula Flint]], and, at the age of 30, the two had a son, [[Sirius Black II|Sirius Black]], named after his deceased brother. Four more children followed the first; [[Phineas Black|Phineas]], who did not take his father and namesake's view on the topic of [[pure-blood]] supremacy and was disowned by the family for supporting [[Non-magic people|Muggle]] rights; [[Cygnus Black II|Cygnus]], [[Belvina Black|Belvina]], and [[Arcturus Black II|Arcturus]].<ref name="family" />
+Sometime after completing his schooling in c. [[1865]], Phineas Nigellus married [[Ursula Flint]], and, at the age of 30, the two had a son, [[Sirius Black II|Sirius Black]], named after his deceased brother. Four more children followed the first; [[Phineas Black|Phineas]], who did not take his father and namesake's view on the topic of [[pure-blood]] supremacy and was disowned by the family for supporting [[Non-magic people|Muggle]] rights; [[Cygnus Black II|Cygnus]], [[Belvina Black|Belvina]], and [[Arcturus Black II|Arcturus]].
 
 ===As Headmaster of Hogwarts===
 {{Quote|There's Phineas Nigellus... my great-great-grandfather, see? ... least popular Headmaster Hogwarts ever had.|[[Sirius Black]] on Phineas's legacy as Hogwarts Headmaster|Harry Potter and the Order of the Phoenix}}
@@ -87,7 +87,7 @@ At some point during his adult life, Black returned to [[Hogwarts School of Witc
 
 ===Death and post-mortem===
 {{Quote|We are honour-bound to give service to the present Headmaster of Hogwarts! Shame on you, Phineas!|[[Armando Dippet]]'s portrait to a sleepy Phineas|Harry Potter and the Order of the Phoenix}}
-Professor Black died in [[1925]] at age 78. At the time of his death, Phineas Nigellus had five children, at least thirteen grandchildren, and two great-grandchildren,<ref name="family" /> although more would be born after he died.
+Professor Black died in [[1925]] at age 78. At the time of his death, Phineas Nigellus had five children, at least thirteen grandchildren, and two great-grandchildren, although more would be born after he died.
 
 Phineas Nigellus's portrait in the [[Headmaster's office]] did not seem to enjoy assisting [[Albus Dumbledore]], believing that he was eccentric and disagreeing with his pro-[[Muggle-born]] beliefs. The second portrait of Black was hung at [[12 Grimmauld Place]], and like other portrait subjects in the wizarding world, Black could travel between his portraits, which he did often.
 
@@ -101,11 +101,11 @@ During this time, Phineas reluctantly dropped certain snippets of information on
 
 Phineas Nigellus possibly watched the [[Battle of Hogwarts]] in [[1998]]. After Lord Voldemort's defeat, he saw Harry Potter, Ron Weasley and Hermione Granger at the Headmaster's office; like all the headmaster portraits, he looked very happy and proudly brought up the fact that Slytherin house had contributed to the victory, referring to his own contribution, as well as those of Snape, Slughorn, and the Malfoys. He probably would have continued to help future headteachers when the [[Second Wizarding War]] was over.
 
-In [[2019]], the portrait Phineas Nigellus stand was captured by the [[Calamity]] and began to appear around the world as a [[Foundable]].<ref name="WU">{{WU}}, "Brilliant Event: Fighting Forces</ref>
+In [[2019]], the portrait Phineas Nigellus stand was captured by the [[Calamity]] and began to appear around the world as a [[Foundable]].
 
 ==Physical description==
 {{Quote|When the clever-looking wizard continued to feign sleep, some of them shouted his name too.|Brief description|Harry Potter and the Order of the Phoenix}}
-Professor Black was a clever looking wizard, with black hair, dark eyes, a pointed beard and thin eyebrows. He was depicted posthumously in his portrait as wearing the green and silver colours associated with Slytherin House.<ref name="OOP">{{OOTP}}</ref>
+Professor Black was a clever looking wizard, with black hair, dark eyes, a pointed beard and thin eyebrows. He was depicted posthumously in his portrait as wearing the green and silver colours associated with Slytherin House.
 
 ==Personality and traits==
 {{Quote|Never try to understand the students. They hate it. They would much rather be tragically misunderstood, wallow in self-pity, stew in their own —|Phineas Nigellus's portrait|Harry Potter and the Order of the Phoenix}}
@@ -114,12 +114,9 @@ In his portrait form, Phineas was shown to be a snide, sarcastic individual. He 
 Despite his views on blood purity he did not support the [[Death Eaters]], and was overjoyed when [[Tom Riddle|Lord Voldemort]] was finally defeated. He seemed sentimental of the Black family possessions, as he was quite dismayed upon learning that [[Mundungus Fletcher]] was stealing and selling them. He also seemed to care for his family members, even ones who were disowned, as he was upset at learning about the death of his great-great-grandson, [[Sirius Black]]. He appeared to hold many of the qualities that are fitting of Slytherin House: Cleverness, Ambition, Cunning, Self-preservation, Determination, Fraternity, Traditionalism and Pride.
 
 ==Magical abilities and skills==
-*'''[[Magic]]al mastery''':  While a notoriously unpopular among the students throughout his tenure, his healthy respect of learning, as well as the fact that Professor Black was trusted with the oversight of one of the most prestigious schools in the world testified to the fact that he was nevertheless a great wizard in his own right, as he was able to competently oversee the training of its students. Indeed: This was highlighted even further by the fact that the extent to which a portrait could interact with those that looked at it depended not on the skill of the painter, but rather on the power of the witch or wizard depicted,<ref>{{WW|hogwarts-portraits}}</ref> and that the gallery of [[Headmaster portraits|headteacher portraits]] in the [[Headmaster's Tower]], including that of Professor Black, were all so lifelike that the [[Hogwarts Board of Governors]] found it prudent to remind new appointees to the post.<ref>{{CC}}</ref>
-*'''Intelligence''': Black took great pride in his knowledge, looking down upon those who did not appear to appreciate the value of learning, having taught his portrait to mock whoever appeared to be less knowledgeable than it and, by extension, himself, by having it refer to them as "ignorant". Having taught his portrait to talk and act like himself, he also educated it on things he believed later generations of Headmasters and Headmistresses would find useful, among them specifics of the metalwork of goblins.<ref name="DH15">{{DH|B|15}}</ref>
-<<<<<<< HEAD
-*'''[[Charms]]''': Professor Black was very proficient with charms, as [[Nellie Oggspire]] implied that he had the skill, but not the interest, needed to disenchant the [[Daedalian Keys]] that had been previously been bewitched by former Headmistress [[Eupraxia Mole]].<ref name="YT">[https://m.youtube.com/watch?v=ecgrvh4kQRU Hogwarts Legacy - Gameplay Showcase] (11.11.2022)</ref>
-=======
->>>>>>> added books and started on extracting characters from book
+*'''[[Magic]]al mastery''':  While a notoriously unpopular among the students throughout his tenure, the fact that Professor Black was judged to be the best man for the job of heading one of the most prestigious schools in the world and oversee the training of its students testified the fact that he was nevertheless a great wizard in his own right. Indeed: This was highlighted even further by the fact that the extent to which a portrait could interact with those that looked at it depended not on the skill of the painter, but rather on the power of the witch or wizard depicted, and that the gallery of [[Headmaster portraits|headteacher portraits]] in the [[Headmaster's Tower]], including that of Professor Black, were all so lifelike that the [[Hogwarts Board of Governors]] found it prudent to remind new appointees to the post.
+*'''Intelligence''': Black took great pride in his knowledge, looking down upon those who did not appear to appreciate the value of learning, having taught his portrait to mock whoever appeared to be less knowledgeable than it and, by extension, himself, by having it refer to them as "ignorant". Having taught his portrait to talk and act like himself, he also educated it on things he believed later generations of Headmasters and Headmistresses would find useful, among them specifics of the metalwork of goblins.
+*'''[[Charms]]''': Professor Black was very proficient with charms, as [[Nellie Oggspire]] implied that he had the skill, but not the interest, needed to disenchant the [[Daedalian Keys]] that had been previously been bewitched by former Headmistress [[Eupraxia Mole]].
 
 ==Relationships==
 ===Family===
@@ -167,7 +164,7 @@ Furthermore, when Harry tried to convince Dumbledore that both [[Draco Malfoy]] 
 *It can be briefly seen that the name Phineas is misspelled Phineus on the tapestry in the [[Harry Potter and the Order of the Phoenix (film)|film]].
 *Phineas Nigellus was possibly the son of [[Cygnus Black I]] and nephew of [[Arcturus Black I]], two wizards who appeared only in {{OOTP|FA}}.
 *It is quite possible that Phineas Nigellus's portrait was moved from another location to its current one when the [[Order of the Phoenix|Order]] moved into [[12 Grimmauld Place|Grimmauld Place]] so that he could keep an eye on Harry for [[Albus Dumbledore|Dumbledore]].
-*Phineas's appearance in the films was quite different, with grey hair and a large beard, wearing, instead of his Slytherin-coloured robes, eccentric headdresses quite common to the wizarding world, such as a pointed red cap with a fur brim and a turban.<ref name="film">{{OOTP|F}}</ref>
+*Phineas's appearance in the films was quite different, with grey hair and a large beard, wearing, instead of his Slytherin-coloured robes, eccentric headdresses quite common to the wizarding world, such as a pointed red cap with a fur brim and a turban.
 
 ==Appearances==
 {{Imagecat|Images of Phineas Nigellus Black}}

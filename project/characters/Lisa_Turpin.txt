@@ -14,7 +14,7 @@
 |gender = Female
 |height = 
 |weight = 
-|hair = Brown<ref>{{PM}} - [http://www.pottermore.com/en/book1/chapter7/moment2 Book 1, Chapter 7, Moment 2]</ref>
+|hair = Brown
 |eyes = 
 |skin = 
 |family = 
@@ -24,12 +24,12 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Ravenclaw]]<ref name="PS7">{{PS|B|7}}</ref>
+|house = [[Ravenclaw]]
 |loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
 **[[Ravenclaw]]
 }}
 {{Quote|'Turpin, Lisa' became a Ravenclaw...|Lisa Turpin being sorted into her house|Harry Potter and the Philosopher's Stone}}
-'''Lisa Turpin''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was [[Sorting ceremony|sorted]] into [[Ravenclaw]] house.<ref name="PS7">{{PS|B|7}}</ref>
+'''Lisa Turpin''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was [[Sorting ceremony|sorted]] into [[Ravenclaw]] house.
 
 ==Appearances==
 *{{PS}} {{1st}}

@@ -10,8 +10,8 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="GOF12"/>
-|gender = Male<ref name="GOF12"/>
+|species = [[Human]]
+|gender = Male
 |height = 
 |weight = 
 |hair = 
@@ -24,12 +24,12 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Hufflepuff]]<ref name="GOF12"/>
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF12"/>
-**[[Hufflepuff]]<ref name="GOF12"/>
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
 }}
 {{Dialogue a-b|Professor McGonagall|Cauldwell, Owen!|Sorting Hat|HUFFLEPUFF!|The [[Sorting Hat]] Sorting Owen into Hufflepuff in [[1994]]|Harry Potter and the Goblet of Fire}}
-'''Owen Cauldwell''' was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. He was [[Sorting ceremony|sorted]] into [[Hufflepuff]].<ref name="GOF12">{{GOF|B|12}}</ref>
+'''Owen Cauldwell''' was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. He was [[Sorting ceremony|sorted]] into [[Hufflepuff]].
 
 ==Appearances==
 *{{GOF}} {{1st}}

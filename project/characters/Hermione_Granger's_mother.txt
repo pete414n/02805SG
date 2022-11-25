@@ -3,7 +3,7 @@
 |theme = muggle
 |image = Hermione's mother 1.jpeg
 |name = Mrs Granger
-|born =Pre [[1979]]<ref>This is the date her daughter, Hermione, was born.</ref> 
+|born =Pre [[1979]] 
 |died = 
 |blood = [[Non-magic people|Muggle]]
 |marital = Married
@@ -21,8 +21,8 @@
 |family = *[[Hermione Granger's father|Mr Granger]] (husband)
 *[[Hermione Granger]] (daughter)
 *[[Ronald Weasley]] (son-in-law)
-*[[Rose Granger-Weasley]]<ref name="A1">"[https://www.pottermore.com/news/cursed-child-first-look-at-weasleys-in-character New Cursed Child character portraits of Ron, Hermione and Rose Granger-Weasley]" on {{PM}}</ref> (granddaughter)
-*[[Hugo Granger-Weasley]]<ref name="A1">"[https://www.pottermore.com/news/cursed-child-first-look-at-weasleys-in-character New Cursed Child character portraits of Ron, Hermione and Rose Granger-Weasley]" on {{PM}}</ref> (grandson)
+*[[Rose Granger-Weasley]] (granddaughter)
+*[[Hugo Granger-Weasley]] (grandson)
 *[[Granger family]]
 *[[Weasley family]]
 |romances = [[Hermione Granger's father|Mr Granger]] (husband)
@@ -35,11 +35,11 @@
 |loyalty = [[Granger family]]
 }}
 {{Dialogue a-b|Mr Granger|Is this in [[Australia]]?|Mrs Granger|Looks wonderful, doesn't it?|Mrs Granger and [[Hermione Granger's father|her husband]] looking at houses|Harry Potter and the Deathly Hallows: Part 1}}
-'''Mrs Granger''' (temporarily known as '''Monica Wilkins''')<ref name="DH">{{DH}}</ref> was an [[England|English]] [[Non-magic people|Muggle]] woman, the wife of [[Hermione Granger's father|Mr Granger]], and mother of [[Hermione Granger|Hermione Jean Granger]]. Working as a [[dentist]] alongside her husband, she and her family lived in a [[Grangers' house|house]] located in [[England]].<ref name="DHPO">{{DH|F1}}</ref>
+'''Mrs Granger''' (temporarily known as '''Monica Wilkins''') was an [[England|English]] [[Non-magic people|Muggle]] woman, the wife of [[Hermione Granger's father|Mr Granger]], and mother of [[Hermione Granger|Hermione Jean Granger]]. Working as a [[dentist]] alongside her husband, she and her family lived in a [[Grangers' house|house]] located in [[England]].
 
-She and her husband were proud and accepting of their daughter's identity as a [[Wizardkind|witch]], which explained some strange things which happened around her when she was a child. They entered the magical world in 1992 to buy Hermione's school supplies, and were assisted by [[Arthur Weasley]].<ref name="COS">{{COS}}</ref> Several years later, however, Hermione was forced to alter her parents' memories and give them new identities as Wendell and Monica Wilkins, to protect them from the [[Death Eaters]].<ref name="DH" />
+She and her husband were proud and accepting of their daughter's identity as a [[Wizardkind|witch]], which explained some strange things which happened around her when she was a child. They entered the magical world in 1992 to buy Hermione's school supplies, and were assisted by [[Arthur Weasley]]. Several years later, however, Hermione was forced to alter her parents' memories and give them new identities as Wendell and Monica Wilkins, to protect them from the [[Death Eaters]].
 
-After the [[Second Wizarding War]] ended, Hermione found Mrs Granger and her husband in [[Australia]] and returned their memories.<ref name="BLC">[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html "J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007 (2.00-3.00pm BST)"] at [http://www.accio-quote.org/index.html Accio Quote]</ref> They gained grandchildren through Hermione and [[Ronald Weasley|Ron Weasley]]'s marriage, [[Rose Granger-Weasley|Rose]] and [[Hugo Weasley|Hugo Granger-Weasley]].<ref name="DH" /><ref name="A1">"[https://www.pottermore.com/news/cursed-child-first-look-at-weasleys-in-character New Cursed Child character portraits of Ron, Hermione and Rose Granger-Weasley]" on {{PM}}</ref>
+After the [[Second Wizarding War]] ended, Hermione found Mrs Granger and her husband in [[Australia]] and returned their memories. They gained grandchildren through Hermione and [[Ronald Weasley|Ron Weasley]]'s marriage, [[Rose Granger-Weasley|Rose]] and [[Hugo Weasley|Hugo Granger-Weasley]].
 
 ==Biography==
 ===Early life===
@@ -54,11 +54,11 @@ She and Mr Granger both achieved a Licentiate in Dental Surgery, earning the pre
 ===Motherhood===
 {{Quote|The Forest of Dean. I came camping here once, with my mum and dad.|[[Hermione Granger|Hermione]] mentioning her parents during the Horcrux hunt|Harry Potter and the Deathly Hallows}}[[File:Infant Hermione.jpg|160px|thumb|Mrs Granger with an infant Hermione]]
 
-Mrs Granger later became pregnant with the couple's child around 1978, and gave birth to a baby girl on [[19 September]], [[1979]]. They named her Hermione Jean Granger,<ref name="DH" /> choosing "a nice, unusual" first name because they wanted to establish how educated and intelligent they were.<ref>[http://www.accio-quote.org/articles/1999/1099-pressclubtransc.htm J. K. Rowling 1999 National Press Club luncheon Q&A]</ref>
+Mrs Granger later became pregnant with the couple's child around 1978, and gave birth to a baby girl on [[19 September]], [[1979]]. They named her Hermione Jean Granger,
 
-The couple gave Hermione a [[Hermione Granger's bedroom|bedroom]] on the first-floor,<ref name="DHPO" /> and they lived happily for many years.
+The couple gave Hermione a [[Hermione Granger's bedroom|bedroom]] on the first-floor, and they lived happily for many years.
 
-At some point, Mr and Mrs Granger took Hermione camping in the [[Forest of Dean]].<ref name="DH" /> They also went to a theatre on [[Shaftesbury Avenue]] in London,<ref name="DHPO" /> and at least once went to [[Tottenham Court Road]] with her.<ref name="DH" />
+At some point, Mr and Mrs Granger took Hermione camping in the [[Forest of Dean]]. They also went to a theatre on [[Shaftesbury Avenue]] in London, and at least once went to [[Tottenham Court Road]] with her.
 
 ===Discovering the wizarding world===
 
@@ -67,9 +67,9 @@ At some point, Mr and Mrs Granger took Hermione camping in the [[Forest of Dean]
 
 In 1991, Mrs Granger and her husband were visited by a staff member from [[Hogwarts School of Witchcraft and Wizardry]], who gave them the letter inviting their daughter to the school.
 
-Hermione, at least, was shocked, as her parents presumably were, but was pleased.<ref name="PS">{{PS}}</ref> Mr and Mrs Granger went to Diagon Alley to purchase her school supplies, including her wand from [[Ollivanders]].
+Hermione, at least, was shocked, as her parents presumably were, but was pleased. Mr and Mrs Granger went to Diagon Alley to purchase her school supplies, including her wand from [[Ollivanders]].
 
-Mrs and Mr Granger were separated from their daughter after she took the [[Hogwarts Express]] to her new school. They were bemused by Hermione's new identity, but were proud of her, as she had memorised all of her school books before leaving.<ref name="PS" />
+Mrs and Mr Granger were separated from their daughter after she took the [[Hogwarts Express]] to her new school. They were bemused by Hermione's new identity, but were proud of her, as she had memorised all of her school books before leaving.
 
 ====1992-1993====
 {{Quote| ''[...]'' [Arthur Weasley] was distracted almost at once by the sight of Hermione's parents, who were standing nervously at the counter that ran all along the great marble hall, waiting for Hermione to introduce them.|Description|Harry Potter and the Chamber of Secrets}}For the 1992–1993 school year, Mr and Mrs Granger had to purchase more school equipment for their daughter. Firstly, in order to buy the supplies, they went to [[Gringotts Wizarding Bank]] to exchange [[Muggle money]] with the [[wizarding currency]].
@@ -82,7 +82,7 @@ The Grangers went with the [[Weasley family|Weasleys]] to Flourish and Blotts to
 
 The Grangers left with the Weasleys, shocked and frightened by what they had just witnessed. They went to the [[Leaky Cauldron]] Inn, sitting by the fireplace, before saying farewell to the Weasleys and [[Harry Potter]] and leaving with their daughter for the Muggle world.
 
-After the school term ended, Mr and Mrs Granger took Hermione on holiday to France during the summer holidays. During their visit, Hermione ate [[bouillabaisse]], which she found quite tasty.<ref name="GOF">{{GOF}}</ref>
+After the school term ended, Mr and Mrs Granger took Hermione on holiday to France during the summer holidays. During their visit, Hermione ate [[bouillabaisse]], which she found quite tasty.
 
 ====1995-1996====
 {{Dialogue a-b|Harry|What are you doing here? I thought you were skiing with your mum and dad.|Hermione|Well, to tell the truth, skiing's not really my thing. So I've come for Christmas... Anyway, Mum and Dad are a bit disappointed, but I've told them that everyone who's serious about the exams is staying at Hogwarts to study. They want me to do well, they'll understand.|[[Hermione Granger|Hermione]] speaking with [[Harry Potter]]|Harry Potter and the Order of the Phoenix}}During the 1995–1996 school year, Mr and Mrs Granger arranged a skiing trip over the Christmas holidays, possibly in France, where they had gone once before.
@@ -92,7 +92,7 @@ However, Hermione told them at the last minute that she wanted to stay at Hogwar
 ====1997-1998====
 {{Dialogue a-b|Mrs Granger|Hermione. Tea's ready, darling.|Hermione|Coming, Mum!|Mrs Granger shortly before becoming Monica Wilkins|Harry Potter and the Deathly Hallows: Part 1}}[[File:Harry-potter-deathly-hallows1-memory charm.jpg|250x250px|thumb|left|Hermione modifying her parents memories]]
 
-One afternoon, Mrs Granger called upstairs to Hermione's bedroom, telling her that she had cooked her dinner. She and her husband were sitting in the living room looking at a house in [[Australia]] on an unnamed television programme.<ref name="DHPO" />
+One afternoon, Mrs Granger called upstairs to Hermione's bedroom, telling her that she had cooked her dinner. She and her husband were sitting in the living room looking at a house in [[Australia]] on an unnamed television programme.
 
 Hermione came downstairs with her wand and secretly cast a [[False memory spell]] on both of her parents. She made them believe that they were called Wendell and Monica Wilkins, a couple with a desire to go to Australia and live there. She did this in order to keep them safe should the [[Death Eaters]] come after them.
 
@@ -100,7 +100,7 @@ Hermione came downstairs with her wand and secretly cast a [[False memory spell]
 
 It is possible that the "Wilkinses" moved into a house along Australia's coast which they had been admiring before their daughter bewitched them. Otherwise, it is unknown exactly where they went or what they did there.
 
-After the conclusion of the [[Second Wizarding War]], Hermione sought out her parents and returned their memories.<ref name="BLC"/> They presumably then returned to England.
+After the conclusion of the [[Second Wizarding War]], Hermione sought out her parents and returned their memories. They presumably then returned to England.
 
 ===Later life===
 Mrs Granger and her husband gained a son-in-law when Hermione married [[Ronald Weasley|Ron Weasley]]. The two of them proceeded to have two children, [[Rose Granger-Weasley|Rose]] and [[Hugo Granger-Weasley|Hugo]].
@@ -108,7 +108,7 @@ Mrs Granger and her husband gained a son-in-law when Hermione married [[Ronald W
 The Grangers were presumably close to their grandchildren, as Ron referred to his father as "Granddad Weasley", implying that Mr Granger was "Granddad Granger".
 
 ==Physical description==
-Mrs Granger had dark brown hair, green eyes, and pale skin. She was only slightly shorter than her husband and appeared to favour dark clothing, such as black and blue, especially when she was younger.<ref>As evident from the photographs seen in {{DH|F1}}.</ref>
+Mrs Granger had dark brown hair, green eyes, and pale skin. She was only slightly shorter than her husband and appeared to favour dark clothing, such as black and blue, especially when she was younger.
 
 ==Relationships==
 ===Family===
@@ -130,10 +130,10 @@ The couple came to trust the Weasleys very much, allowing their daughter to stay
 The two families were brought even closer when Hermione married [[Ronald Weasley]] and had [[Rose Granger-Weasley|Rose]] and [[Hugo Granger-Weasley|Hugo]].
 
 ==Behind the scenes==
-*Mrs Granger was portrayed by [[Heather Bleasdale]] in {{COS|FA}}. She was replaced by [[Michelle Fairley]] for {{DH|F1}}.<ref>[http://harrypotterupdate.multiply.com/journal/item/140/Actress_Michelle_Fairley_confirmed_as_Mrs._Granger_on_Deathly_Hallows_movies Daily Potter: Actress "Michelle Fairley" confirmed as Mrs Granger on "Deathly Hallows" movies]</ref>
-*In a deleted scene from {{DH|F1}}, [[Corban Yaxley]] comes searching for the Grangers at their home, but only finds it empty after their memory modification and relocation to Australia.<ref name="deleted">[https://www.youtube.com/watch?v=-Qo24-YQ8bM/ Deleted scene from the ''Deathly Hallows: Part 1'']</ref>
+*Mrs Granger was portrayed by [[Heather Bleasdale]] in {{COS|FA}}. She was replaced by [[Michelle Fairley]] for {{DH|F1}}.
+*In a deleted scene from {{DH|F1}}, [[Corban Yaxley]] comes searching for the Grangers at their home, but only finds it empty after their memory modification and relocation to Australia.
 *It is possible that Mrs Granger's name is Jean Granger, as [[J. K. Rowling]] repeatedly gives the firstborn son or daughter their parent of the same sex's given name as a middle name. Notable examples include [[Harry Potter|Harry James]], [[William Weasley|William Arthur]], [[Ginevra Weasley|Ginevra Molly]], and [[Albus Dumbledore|Albus Percival]].
-*In the earliest draft of {{PS}} the Potters lived on an island, and the Grangers lived on the shore nearby. When Voldemort killed James and Lily, Mr Granger noticed an explosion. He got on his boat and rowed out to the island to see what had happened, and found Harry.<ref>[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=1 J.K.Rowling Official Site]</ref>
+*In the earliest draft of {{PS}} the Potters lived on an island, and the Grangers lived on the shore nearby. When Voldemort killed James and Lily, Mr Granger noticed an explosion. He got on his boat and rowed out to the island to see what had happened, and found Harry.
 *Mrs Granger was originally intended to have another [[Hermione Granger's sister|daughter]], but she was cut because, by {{OOTP}}, she still had not made an appearance and [[J. K. Rowling]] felt that it was too late to introduce her.
 *"[[Wilkins family|Wilkins]]" is the surname of a magical family.
 ===Name etymology===
@@ -142,9 +142,9 @@ The two families were brought even closer when Hermione married [[Ronald Weasley
 The name "Monica" is of unknown meaning, most likely of North African or Phoenician origin. In the 4th century this name was borne by the North African saint Monica of Hippo, the mother of Saint Augustine, whom she converted to Christianity. Since the Middle Ages it has been associated with Latin moneo "advisor" and Greek monos "one". As an English name, Monica has been in general use since the 18th century.
 
 ===J. K. Rowling===
-On Mr and Mrs Granger, [[J. K. Rowling]] said "''I have deliberately kept Hermione's family in the background. You see so much of Ron’s family so I thought that I would keep Hermione's family, by contrast, quite ordinary. They are dentists, as you know. They are a bit bemused by their odd daughter but quite proud of her all the same''"<ref name="HPL">[http://hp-lexicon.org/?d6b118c375924cd658a2cb3f65846ce3=325467165&6fa970d50480e816942b6fab7c4e7a23=506683626&5f17a83ba43604eb3d1c06f73d82e119=634393955241675761 Harry Potter Lexicon]</ref>.
+On Mr and Mrs Granger, [[J. K. Rowling]] said "''I have deliberately kept Hermione's family in the background. You see so much of Ron’s family so I thought that I would keep Hermione's family, by contrast, quite ordinary. They are dentists, as you know. They are a bit bemused by their odd daughter but quite proud of her all the same''".
 
-After a ''[[Harry Potter series|Harry Potter]]'' fan asked if the Grangers would appear again, Rowling said, "''Well we've seen them very briefly, but they're dentists so they're not that interesting''".<ref name="HPL" />
+After a ''[[Harry Potter series|Harry Potter]]'' fan asked if the Grangers would appear again, Rowling said, "''Well we've seen them very briefly, but they're dentists so they're not that interesting''".
 
 ==Appearances==
 {{Imagecat|images of Hermione Granger's mother}}

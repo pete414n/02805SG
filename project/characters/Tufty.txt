@@ -2,11 +2,11 @@
 {{Pet individual infobox
 |image = 
 |name = Tufty
-|born = Before [[1991]]<ref name="PS2"/>
+|born = Before [[1991]]
 |died = 
 |alias = 
 |title = 
-|species = Part-[[Kneazle]] [[cat]]<ref name="JKRS">[https://web.archive.org/web/20060316221040/https://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=19 Extra Stuff: Squibs] from {{JKRS}} (via the Internet Archive)</ref>
+|species = Part-[[Kneazle]] [[cat]]
 |gender = 
 |height = 
 |hair = 
@@ -14,9 +14,9 @@
 |eyes = 
 |skin = 
 |family = 
-|loyalty = [[Arabella Figg]]<ref name="PS2"/>
+|loyalty = [[Arabella Figg]]
 }}
-'''Tufty''' was one of [[Arabella Figg|Mrs Figg]]'s part-[[Kneazle]] cats. The other three were [[Mr Tibbles]], [[Snowy]] and [[Mr Paws]]. [[Harry Potter]] saw it (or possibly its picture) when he went to stay with Mrs Figg when [[Dudley Dursley|Dudley]] got to go to places on his birthday. Harry found a hard time being remorseful when Mrs Figg broke her leg after reminding himself that it would be a while before he had to see Mr Tibbles, Snowy, Tufty and Mr Paws again.<ref name="PS2">{{PS|B|2}}</ref>
+'''Tufty''' was one of [[Arabella Figg|Mrs Figg]]'s part-[[Kneazle]] cats. The other three were [[Mr Tibbles]], [[Snowy]] and [[Mr Paws]]. [[Harry Potter]] saw it (or possibly its picture) when he went to stay with Mrs Figg when [[Dudley Dursley|Dudley]] got to go to places on his birthday. Harry found a hard time being remorseful when Mrs Figg broke her leg after reminding himself that it would be a while before he had to see Mr Tibbles, Snowy, Tufty and Mr Paws again.
 
 ==Appearances==
 *{{PS}} {{1st Mention}}

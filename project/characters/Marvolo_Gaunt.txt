@@ -2,9 +2,9 @@
 |theme = wizard
 |image = [[File:MarvoloGaunt.jpeg]]
 |name = Marvolo Gaunt
-|born = Pre [[1890]]<ref>{{HBP|B|10}} - His daughter Merope is about eighteen and his son Morfin is at least seventeen in the summer of [[1925]] when Marvolo and Morfin are arrested; Marvolo must have been at least seventeen when his daughter was born. He must have been much older than thirty-five that summer, however, since Harry described him as "elderly" with a wrinkled face.</ref>
-|died = Between [[1925]] and [[1928]]<ref>{{HBP|B|10}} - Sentenced after Ogden's visit in the summer of 1925 to six months in Azkaban, Marvolo Gaunt returns to an empty house. In order for Merope Riddle to have been married for a year by the time of the birth of her son, she must have eloped mid-to-late 1925, so Marvolo Riddle returned sometime afterwards between late 1925 and mid 1926.  Morfin Gaunt, sentenced to three years in Azkaban at the same time as his father, returns home mid-to-late 1928 find Marvolo already dead</ref> <br/>near [[Little Hangleton]]
-|blood = [[Pure-blood]]<ref name="blood">{{HBP|B|10}} - "“Don’t you go talking to us as if we’re dirt on your shoes! Generations of purebloods, wizards all — more than you can say, I don’t doubt!”"</ref>
+|born = Pre [[1890]]
+|died = Between [[1925]] and [[1928]] <br/>near [[Little Hangleton]]
+|blood = [[Pure-blood]]
 |marital = 
 |nationality = 
 |alias = 
@@ -12,10 +12,10 @@
 |signature = 
 |species = [[Human]]
 |gender = Male
-|height = Short<ref name="heighteyes"/>
+|height = Short
 |weight = 
 |hair = Grey
-|eyes = Bright brown<ref name="heighteyes">{{HBP|B|10}} - "''This man was shorter than the first, and oddly proportioned; his shoulders were very broad and his arms overlong, which, with his bright brown eyes, short scrubby hair, and wrinkled face, gave him the look of a powerful, aged monkey.''"</ref>
+|eyes = Bright brown
 |skin = White
 |family = *[[Morfin Gaunt]] (son) †
 *[[Merope Riddle|Merope Gaunt]] (daughter) †
@@ -40,9 +40,9 @@
 }}
 {{Quote|He, as you saw, was left in squalor and poverty, with a very nasty temper, a fantastic amount of arrogance and pride, and a couple of family heirlooms that he treasured just as much as his son, and rather more than his daughter.|Dumbledore's description of Marvolo's nature|Harry Potter and the Half-Blood Prince}}
 
-'''Marvolo Gaunt''' (fl. [[1925]]) was a [[pure-blood]]<ref name="blood" /> [[Wizardkind|wizard]] of the [[House of Gaunt]] and descendant of [[Salazar Slytherin]]. He was the maternal grandfather of [[Tom Riddle|Tom Marvolo Riddle]] (later known as Lord Voldemort) through his daughter [[Merope Riddle|Merope]], and the great-grandfather of [[Delphini]]. Marvolo and his two children lived in poverty and squalor. 
+'''Marvolo Gaunt''' (fl. [[1925]]) was a [[pure-blood]] [[Wizardkind|wizard]] of the [[House of Gaunt]] and descendant of [[Salazar Slytherin]]. He was the maternal grandfather of [[Tom Riddle|Tom Marvolo Riddle]] (later known as Lord Voldemort) through his daughter [[Merope Riddle|Merope]], and the great-grandfather of [[Delphini]]. Marvolo and his two children lived in poverty and squalor. 
 
-Violent and bigoted, Marvolo died soon after being released from [[Azkaban]], where he was briefly imprisoned for assaulting [[British Ministry of Magic|Ministry]] personnel.<ref name="HBP10">{{HBP|B|10}}</ref> He was also the owner of a [[Marvolo Gaunt's Ring|large golden ring]] and [[Slytherin's Locket|Salazar Slytherin's Locket]], both of which he prized as heirlooms of his pure-blood heritage.
+Violent and bigoted, Marvolo died soon after being released from [[Azkaban]], where he was briefly imprisoned for assaulting [[British Ministry of Magic|Ministry]] personnel. He was also the owner of a [[Marvolo Gaunt's Ring|large golden ring]] and [[Slytherin's Locket|Salazar Slytherin's Locket]], both of which he prized as heirlooms of his pure-blood heritage.
 
 ==Biography==
 ===Early life===
@@ -59,20 +59,20 @@ Unlike his relationship with Morfin, Marvolo hated his daughter, whom he called 
 
 Morfin, being mentally deranged and having little regard for secrecy, frequently used magic in front of, and upon, Muggles, with his father approving of his actions. This inevitably brought him into conflict with the [[British Ministry of Magic|Ministry of Magic]]. When the Head of the [[Magical Law Enforcement Patrol|Magical Law Enforcement Squad]], [[Bob Ogden]], visited the Gaunts to address the issue, they resisted violently. Marvolo justified Morfin's actions and resisted Ogden's calm attempts at discussion. 
 
-Just as Ogden rose to leave, Morfin ruthlessly revealed that Merope had a romantic admiration for the Muggle he had attacked: [[Tom Riddle Senior|Tom Riddle Snr]]. Marvolo became absolutely infuriated (seeing as they were purebloods and only associated with their kind) and attacked his "''filthy little [[blood traitor]]''" daughter, though Ogden stopped him from strangling her by using a [[Revulsion Jinx]].<ref name="HBP10" />
+Just as Ogden rose to leave, Morfin ruthlessly revealed that Merope had a romantic admiration for the Muggle he had attacked: [[Tom Riddle Senior|Tom Riddle Snr]]. Marvolo became absolutely infuriated (seeing as they were purebloods and only associated with their kind) and attacked his "''filthy little [[blood traitor]]''" daughter, though Ogden stopped him from strangling her by using a [[Revulsion Jinx]].
 
 [[File:Marvolo Gaunt in Azkaban.png|240px|thumb|Marvolo Gaunt during his imprisonment in [[Azkaban]]|alt=]]
 Morfin then defended his father from further attacks by firing a storm of [[jinx]]es towards Ogden. Ogden [[Apparition|Apparated]] back to the Ministry and returned with reinforcements within fifteen minutes. Marvolo and Morfin both resisted, injuring several Ministry officials, but they were eventually subdued and placed under arrest. Both men were brought before the [[Wizengamot]]. Marvolo was brought to trial, being charged with attacking the Squad, resisting arrest, obstruction of justice, attempted assault on a witch, and contempt of [[Wizengamot]]. 
 
-Marvolo Gaunt was found guilty on all counts, and in mid-to-late [[1925]], was sentenced to six months imprisonment.<ref name="sentencingdate">{{HBP|B|10}} - While her brother and father are incarcerated, Merope Gaunt married Tom Riddle and gave birth to their son ("But not until a year after they were married.") on 31 December 1926. As Marvolo returns to an empty house after six months in Azkaban, the earliest date of sentencing is around June 1925 and the latest is around December 1926.</ref> His son also stood trial with Marvolo for being an accomplice during Marvolo's fight with the police, in addition to a trial for separate charges, and was sentenced to three years' imprisonment.<ref name="HBP10" />
+Marvolo Gaunt was found guilty on all counts, and in mid-to-late [[1925]], was sentenced to six months imprisonment. His son also stood trial with Marvolo for being an accomplice during Marvolo's fight with the police, in addition to a trial for separate charges, and was sentenced to three years' imprisonment.
 
 ===Death===
 {{Dialogue a-b|Morfin Gaunt|She likes looking at that Muggle. Always in the garden when he passes, peering through the hedge at him, isn’t she? And last night —|Marvolo|Is it true? My daughter — pure-blooded descendant of Salazar Slytherin — hankering after a ''filthy'', dirt-veined Muggle?|Discussion of Merope’s infatuation with Tom Riddle Snr|Harry Potter and the Half-Blood Prince}}
-Merope, once Marvolo and Morfin were safely in prison, found herself alone and free for the first time in her life, and her [[magic]]al abilities, which were suppressed by years of torment from her father and brother, flourished. She took the opportunity to escape from the desperate life she had led. Using either the [[Imperius Curse]] or a [[Love Potion]] Merope seduced and married [[Tom Riddle Senior]].<ref name="HBP10" />
+Merope, once Marvolo and Morfin were safely in prison, found herself alone and free for the first time in her life, and her [[magic]]al abilities, which were suppressed by years of torment from her father and brother, flourished. She took the opportunity to escape from the desperate life she had led. Using either the [[Imperius Curse]] or a [[Love Potion]] Merope seduced and married [[Tom Riddle Senior]].
 
 While Bob Ogden's visit was the last time Marvolo saw his daughter, his imprisonment was the last time he saw his son (albeit the two were likely split apart by prison guards). When Marvolo became a free man again and returned to Little Hangleton, his expectation of his return to his shack would be to see Merope behaving sweetly, hugging her father and having a hot meal waiting for him in anticipation of his homecoming. Instead he returned to an empty house, with plenty of dust and a letter from Merope addressed to Marvolo and Morfin telling them she had gotten married. Marvolo was surprised to learn of this, but likely held some reserved expectation that one of the men of [[Sacred Twenty-Eight|his alliance]] might have come courting Merope, if not to [[pure-blood supremacy|keep the blood pure]]. Marvolo was in for a rude awakening learning who was now his son-in-law.
 
-Marvolo's shock was so great that he never mentioned her name or existence from that time forth. The shock of Merope's desertion was so great that it led to his early death. Other factors included him being greatly weakened by his time in prison, and he possibly never learned to feed himself. The date of Marvolo's precise death is unknown, but Morfin Gaunt did speak of that when he himself was released from prison. When he returned to Little Hangleton, he found his father's dead body in the [[Gaunt Shack|cottage]].<ref name="HBP10" /> 
+After the truth emerged, Marvolo never mentioned Merope's name or acknowledged her existence from that day forward; indeed, the shock of her desertion likely led to his early death. Furthermore, he had been greatly weakened by his time in prison, and he had possibly never learned to feed himself. The date of Marvolo's precise death is unknown, but he did not live to see his son released from Azkaban. When Morfin Gaunt returned to Little Hangleton, he found his father's dead body in the [[Gaunt Shack|cottage]]. 
 
 It is unknown what happened to Marvolo's corpse following his death, however it is mostly likely that Morfin Gaunt sought the services of a Muggle funeral director, and had his father's earthly remains interred in the [[Little Hangleton graveyard]].
 
@@ -88,7 +88,7 @@ By 2020, so much research had been made about Voldemort's past that [[Marvolo: T
 ==Physical appearance==
 {{Quote|An elderly man had come hurrying out of the cottage, banging the door behind him so that the dead [[snake]] swung pathetically. This man was shorter than the first, and oddly proportioned; his shoulders were very broad and his arms overlong, which, with bright brown eyes, short scrubby hair, and wrinkled face, gave him the look of a powerful, aged monkey.|Description of Marvolo's outward appearance|Harry Potter and the Half-Blood Prince}}
 
-Marvolo is described as being shorter than his son, though oddly proportioned; his shoulders were very broad and his arms rather long for his body type. This, along with his bright brown eyes, short scrubby hair, and wrinkled face, made him look like a powerful, aged monkey like his ancestor, [[Salazar Slytherin]].<ref name="HBP10" />
+Marvolo is described as being shorter than his son, though oddly proportioned; his shoulders were very broad and his arms rather long for his body type. This, along with his bright brown eyes, short scrubby hair, and wrinkled face, made him look like a powerful, aged monkey like his ancestor, [[Salazar Slytherin]].
 
 ==Personality and traits==
 {{Quote|Marvolo Gaunt was an ignorant old git who lived like a pig, all he cared about was his ancestry. If that ring had been passed down through the centuries, he might not have known what it really was. There were no books in that house, and trust me, he wasn’t the type to read fairy tales to his kids. He’d have loved to think the scratches on the stone were a coat of arms, because as far as he was concerned, having pure blood made you practically royal.|[[Harry Potter]]'s opinion of Marvolo|Harry Potter and the Deathly Hallows}}
@@ -97,14 +97,14 @@ A man who could most charitably be described as a violent, bigoted, mindless old
 
 His violence had led him to the point of being murderously unloving towards his daughter, though he respected his son enough to have a fair conversation with him. His hate for his daughter rendered him to treat her nothing short of a slave, and refused to acknowledge her existence ever again when she betrayed their clan, which may be one of the contributions that led to Marvolo's death. Another possibility is Marvolo simply never learning to feed himself, making him completely reliant on Merope to survive, despite his hatred towards her. 
 
-According to [[Albus Dumbledore|Dumbledore]] Marvolo cherished his family heirlooms as much as his son, and more than his daughter.<ref name="HBP10" /> Another sense of irony in Marvolo Gaunt's character was his anti-intellectualism, despite his boastfulness about being a wizard. While he may have been too poor to afford tuition to Hogwarts or any other wizarding school, Marvolo did nothing in his power to improve his wizarding skills, as he did not own any wizarding books nor borrow them from friends or a library. 
+According to [[Albus Dumbledore|Dumbledore]] Marvolo cherished his family heirlooms as much as his son, and more than his daughter. Another sense of irony in Marvolo Gaunt's character was his anti-intellectualism, despite his boastfulness about being a wizard. While he may have been too poor to afford tuition to Hogwarts or any other wizarding school, Marvolo did nothing in his power to improve his wizarding skills, as he did not own any wizarding books nor borrow them from friends or a library. 
 
-More than likely, Marvolo was ingrained with an imperious attitude and the belief that his own natural ability and blood status was all that he needed to be a successful wizard. When encountered by Bob Ogden and being told that he should have some awareness about his son's running afoul of the law due to an [[owl]] serving Morfin's warrant, Marvolo rebuked "''I have no use for owls. I don't open letters''", causing Ogden to rebut ''ignorantia juris non excusat'' (ignorance of the law excuses no one).<ref name="HBP10" />
+More than likely, Marvolo was ingrained with an imperious attitude and the belief that his own natural ability and blood status was all that he needed to be a successful wizard. When encountered by Bob Ogden and being told that he should have some awareness about his son's running afoul of the law due to an [[owl]] serving Morfin's warrant, Marvolo rebuked "''I have no use for owls. I don't open letters''", causing Ogden to rebut ''ignorantia juris non excusat'' (ignorance of the law excuses no one).
 
 ==Magical abilities and skills==
 {{Quote|Get in the [[Gaunt Shack|house]]. Don't argue.|Marvolo speaking to Morfin in Parseltongue|Harry Potter and the Half-Blood Prince}}
-*'''[[Parseltongue|Parselmouth]]''': Like his [[Salazar Slytherin|ancestor]], [[Morfin Gaunt|son]], [[Merope Riddle|daughter]], and [[Tom Riddle|grandson]], Marvolo had the ability to speak to [[snake]]s from their ancestor and even communicated with his children that way.<ref name="HBP10"/>
-*'''[[Martial magic]]''': Marvolo opened fire on Merope to punish her for lusting after a Muggle, but he was thwarted from this attack by Bob Ogden, who stunned him in order to defend her. It is also said that he injured some of the Ministry wizards that [[Bob Ogden]] brought back with him leading to his arrest, showing he had some skill in [[duelling]].<ref name="HBP10"/>
+*'''[[Parseltongue|Parselmouth]]''': Like his [[Salazar Slytherin|ancestor]], [[Morfin Gaunt|son]], [[Merope Riddle|daughter]], and [[Tom Riddle|grandson]], Marvolo had the ability to speak to [[snake]]s from their ancestor and even communicated with his children that way.
+*'''[[Martial magic]]''': Marvolo opened fire on Merope to punish her for lusting after a Muggle, but he was thwarted from this attack by Bob Ogden, who stunned him in order to defend her. It is also said that he injured some of the Ministry wizards that [[Bob Ogden]] brought back with him leading to his arrest, showing he had some skill in [[duelling]].
 
 ==Relationships==
 ===Children===
@@ -117,7 +117,7 @@ Despite Morfin's mostly positive relationship with his father, he nevertheless f
 ====Merope Gaunt====
 Marvolo seemed to have no care whatsoever for his daughter Merope, whom he derided as being a [[Squib]] and expected to do all the cooking and cleaning. He and Morfin were both emotionally and physically abusive towards Merope. 
 
-When Marvolo learned of his daughter's limerence for Tom Riddle, he flew into a rage and attempted to harm her, totally oblivious to the fact a Ministry Official was in his home and he was caught red-handed. Marvolo also conversed with his children in [[Parseltongue]].<ref name="HBP10" /> It was never mentioned about Marvolo's wife or how she was absent from the Gaunt shack (arguably most likely dying sometime before the arrest of her husband and son), but it could be surmised that given his terrible treatment of Merope, Marvolo also made for a horrible husband.
+When Marvolo learned of his daughter's limerence for Tom Riddle, he flew into a rage and attempted to harm her, totally oblivious to the fact a Ministry Official was in his home and he was caught red-handed. Marvolo also conversed with his children in [[Parseltongue]]. It was never mentioned about Marvolo's wife or how she was absent from the Gaunt shack (arguably most likely dying sometime before the arrest of her husband and son), but it could be surmised that given his terrible treatment of Merope, Marvolo also made for a horrible husband.
 
 Marvolo never saw Merope again after he was imprisoned since she abandoned the shack for good, which led to her father to never speak of her existence again either. Despite genuinely hating Merope to the point of attempting to execute her for her crimes against the family's belief, [[Albus Dumbledore]] speculated that her abandonment was what contributed to Marvolo's early death, either due to the shock or that he never learned how to feed himself (as he had foolishly believed that Merope would be dutifully wait for his return from prison with a hot meal on the table). This shows that he is at least dependent on her for survival. Marvolo never saw Morfin again either after being released from Azkaban since Marvolo died before his son's sentence was complete; his family signet ring, the last heirloom, was left for Morfin to wear.
 
@@ -141,7 +141,7 @@ Despite this, it can be assumed that, had they met in person, Marvolo would have
 
 ==Etymology==
 *The name Marvolo may have its roots from the Latin "''malivolo''", which translates accurately to "malevolent". It may also be derived from ''[[Wikipedia:Malvolio|Malvolio]]'', the name of a character from William Shakespeare's ''Twelfth Night''. Malvolio is a Puritan who despises all kinds of fun and games, perhaps alluding to Marvolo's extreme prejudice and cruelty. An antithetical character, Benvolio, appears in ''Romeo & Juliet'', who is a man of good cheer and tries to see the best in Romeo and his friends, translating accurately to "benevolent".
-*The word ''gaunt'' is defined as "haggard, drawn and emaciated" and "bleak, desolate".<ref>[http://en.wiktionary.org/wiki/gaunt Wikitionary Definition: Gaunt]</ref>
+*The word ''gaunt'' is defined as "haggard, drawn and emaciated" and "bleak, desolate".
 
 ==Behind the scenes==
 *The name "Marvolo" changes in some translations so that the "TOM MARVOLO RIDDLE" anagram can translate.

@@ -10,8 +10,8 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="OOTP11"/>
-|gender = Female<ref name="OOTP11"/>
+|species = [[Human]]
+|gender = Female
 |height = 
 |weight = 
 |hair = 
@@ -24,11 +24,11 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Hufflepuff]]<ref name="OOTP11"/>
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP11"/>
-**[[Hufflepuff]]<ref name="OOTP11"/>
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
 }}
-'''Rose Zeller''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1995]] and was sorted into [[Hufflepuff]] house, as the last person.<ref name="OOTP11">{{OOTP|B|11}}</ref>
+'''Rose Zeller''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1995]] and was sorted into [[Hufflepuff]] house, as the last person.
 
 ==Etymology==
 The name "Rose" was originally a Norman form of a Germanic name, which was composed of the elements hrod "fame" and heid "kind, sort, type". It was introduced to England by the Normans in the forms Roese or Rohese. From an early date it was associated with the word for the fragrant flower rose (derived from Latin rosa). When the name was revived in the 19th century, it was probably with the flower in mind.
@@ -37,7 +37,7 @@ The name Rose Zeller is pronounced similarly to "rosella", one of six species of
 
 ==Appearances==
 *{{OOTP}} {{1st}}
-*{{OOTP|F}} {{Possible}}<ref>The French wikipedia names another cast named [[Jena Wilhelmson]], playing Rose Zeller, in this film adaption. But it is unclear if this is a real cast.</ref>
+*{{OOTP|F}} {{Possible}}
 
 ==Notes and references==
 {{Reflist}}

@@ -6,39 +6,39 @@
 |died = 
 |blood = 
 |marital = 
-|nationality = [[Bulgaria]]n<ref name="GOF8"/>
+|nationality = [[Bulgaria]]n
 |alias = 
-|title = [[Beater]]<ref name="GOF8"/>
+|title = [[Beater]]
 |signature = 
-|species = [[Human]]<ref name="GOF8"/>
-|gender = Male<ref name="GOF8"/>
+|species = [[Human]]
+|gender = Male
 |height = 
 |weight = 
 |hair = 
-|eyes = Blue<ref name="QWC">{{QWC}}</ref>
-|skin = White<ref name="QWC"/>
+|eyes = Blue
+|skin = White
 |family = 
-*[[Boris Vulchanov]] (son)<ref name="PM"/>
+*[[Boris Vulchanov]] (son)
 *[[Nerida Vulchanova]] (possible ancestor)
-*[[Vulchanov family]]<ref name="PM"/>
+*[[Vulchanov family]]
 |romances = 
 |animagus = 
 |boggart = 
 |wand = 
 |patronus = 
-|job = [[Beater]] for the [[Bulgarian National Quidditch team]]<ref name="GOF8"/>
+|job = [[Beater]] for the [[Bulgarian National Quidditch team]]
 |house = 
-|loyalty = *[[Vulchanov family]]<ref name="PM"/>
-*[[Bulgarian National Quidditch team]]<ref name="GOF8"/>
+|loyalty = *[[Vulchanov family]]
+*[[Bulgarian National Quidditch team]]
 }}
-'''Pyotr Vulchanov''' was a [[Bulgaria]]n [[Wizardkind|wizard]] who played as a [[Beater]] for the [[Bulgarian National Quidditch team]].<ref name="GOF8"/>
+'''Pyotr Vulchanov''' was a [[Bulgaria]]n [[Wizardkind|wizard]] who played as a [[Beater]] for the [[Bulgarian National Quidditch team]].
 
 ==Biography==
-He played as [[Beater]] for his team during the [[1994 Quidditch World Cup]].<ref name="GOF8">{{GOF|B|8}}</ref>
+He played as [[Beater]] for his team during the [[1994 Quidditch World Cup]].
 
-By [[1996]], he was included on a [[Chocolate Frog Card]] for his achievements in [[Quidditch]].<ref name="HBPG">{{HBP|G}}</ref>
+By [[1996]], he was included on a [[Chocolate Frog Card]] for his achievements in [[Quidditch]].
 
-His son [[Boris Vulchanov|Boris]] participated in the [[2014 Quidditch World Cup]] as a [[Beater]] for [[Bulgarian National Quidditch team|Bulgaria]] in the same way his father had, and the team made it to the finals, much the way Pyotr's had.<ref name="PM">{{PM}}</ref>
+His son [[Boris Vulchanov|Boris]] participated in the [[2014 Quidditch World Cup]] as a [[Beater]] for [[Bulgarian National Quidditch team|Bulgaria]] in the same way his father had, and the team made it to the finals, much the way Pyotr's had.
 
 ==Etymology==
 *The name "Pyotr" is a Russian form of the name Peter. The form used in Bulgaria is Petar.

@@ -5,38 +5,38 @@
 |name = Mary Cattermole's mother
 |born = 
 |died = 
-|blood = [[Non-magic people|Muggle]]<ref name="DH13"/>
-|marital = Married<ref name="DH13"/>
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
 |nationality = 
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="DH13"/>
-|gender = Female<ref name="DH13"/>
+|species = [[Human]]
+|gender = Female
 |height = 
 |weight = 
 |hair = 
 |eyes = 
 |skin = 
-|family = *[[Mary Cattermole's father|Husband]]<ref name="DH13"/>
-*[[Mary Cattermole]] (daughter)<ref name="DH13"/>
-*[[Reginald Cattermole]] (son-in-law)<ref name="DH13"/>
-*[[Maisie Cattermole]] (granddaughter)<ref name="DH13"/>
-*[[Ellie Cattermole]] (granddaughter)<ref name="DH13"/>
-*[[Alfred Cattermole]] (grandson)<ref name="DH13"/>
+|family = *[[Mary Cattermole's father|Husband]]
+*[[Mary Cattermole]] (daughter)
+*[[Reginald Cattermole]] (son-in-law)
+*[[Maisie Cattermole]] (granddaughter)
+*[[Ellie Cattermole]] (granddaughter)
+*[[Alfred Cattermole]] (grandson)
 |romances = 
 |animagus = 
 |boggart = 
 |wand = 
 |patronus = 
-|job = [[Greengrocer]]<ref name="DH13"/>
+|job = [[Greengrocer]]
 |house = 
 |loyalty = 
 }}
 {{Quote|...there are few pure-blood families to whom I am not related.... A pity that the same cannot be said for you. ''‘Parents professions: greengrocers’''.|[[Dolores Umbridge]] during [[Mary Cattermole]]'s trial|Harry Potter and the Deathly Hallows}}
-The '''mother''' of [[Mary Cattermole]] was a [[Non-magic people|Muggle]] [[greengrocer]], as was her [[Mary Cattermole's father|husband]].<ref name="DH13"/>
+The '''mother''' of [[Mary Cattermole]] was a [[Non-magic people|Muggle]] [[greengrocer]], as was her [[Mary Cattermole's father|husband]].
 
-Their daughter was a [[Muggle-born]] [[Wizardkind|witch]] who eventually married [[Reginald Cattermole]] and had three children. Her [[blood status]] got her into trouble with the [[Muggle-Born Registration Commission]] in [[1997]], when [[Tom Riddle|Lord Voldemort]] was in control of the [[British Ministry of Magic|Ministry of Magic]]. On her questionnaire, she mentioned her parents' professions, which was inadvisable, as it made it extremely obvious to the unsympathetic regime at the time that she had no [[magic]]al blood ancestry. Fortunately, Mary was saved by [[Harry Potter]], [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]].<ref name="DH13">{{DH|B|13}}</ref>
+Their daughter was a [[Muggle-born]] [[Wizardkind|witch]] who eventually married [[Reginald Cattermole]] and had three children. Her [[blood status]] got her into trouble with the [[Muggle-Born Registration Commission]] in [[1997]], when [[Tom Riddle|Lord Voldemort]] was in control of the [[British Ministry of Magic|Ministry of Magic]]. On her questionnaire, she mentioned her parents' professions, which was inadvisable, as it made it extremely obvious to the unsympathetic regime at the time that she had no [[magic]]al blood ancestry. Fortunately, Mary was saved by [[Harry Potter]], [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]].
 
 ==Appearances==
 *{{DH}} {{1st Mention}}

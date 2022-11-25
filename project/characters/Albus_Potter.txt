@@ -5,18 +5,18 @@
 |theme = slytherin
 |image = AlbusPotterWand.jpeg <!--Cursed Child is his main, more current, and only major appearance.-->
 |name = Albus Severus Potter
-|born = Between [[1 September]] [[2005]] and [[31 August]] [[2006]]<ref name="born">Albus has to have been born between these dates, otherwise he would be too old or too young to be starting Hogwarts on 1 September [[2017]]</ref> <br/>[[Great Britain]]<ref>[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm World Exclusive Interview with J K Rowling] - The Potter family are known to be British, making it most likely that Albus was born there as well.</ref>
+|born = Between [[1 September]] [[2005]] and [[31 August]] [[2006]] <br/>[[Great Britain]]
 |died = 
-|blood = [[Half-blood]]<ref name="blood">[https://web.archive.org/web/20060316221500/https://www.jkrowling.com/textonly/en/faq_view.cfm?id=58 FAQ] (Internet Archive) from {{JKRS}} - For an individual to be pure-blood, the witch or wizard should at least have no Muggle or Muggle-born parents or grandparents. Therefore, the children of Harry and Ginny Weasley are also half-blood as Muggle-born Lily is their grandmother.</ref>
+|blood = [[Half-blood]]
 |marital =Single 
 |nationality = [[England|English]]
 |alias = *Al (by [[Harry Potter]])
-*Slytherin [[Squib]]<ref name="CC|B|1|4">{{CC|B|1|4}}</ref> (by [[Karl Jenkins]])
+*Slytherin [[Squib]] (by [[Karl Jenkins]])
 *[[Ronald Weasley]] (under disguise of [[Polyjuice Potion]])
 |title = 
 |signature = 
-|species = [[Human]]<ref name="DHE"/>
-|gender = Male<ref name="DHE"/>
+|species = [[Human]]
+|gender = Male
 |height = 
 |weight = 
 |hair = Jet-black
@@ -52,9 +52,9 @@
 *[[Hugo Granger-Weasley]] (maternal first cousin)
 *[[Hardwin Potter]] (paternal ancestor) †
 *[[Iolanthe Peverell|Iolanthe Potter]] (née [[Peverell family|Peverell]]) (paternal ancestor) †
-*[[Linfred of Stinchcombe]]<ref name="Pottermore">{{WW|the-potter-family}}</ref> (paternal ancestor) †
-*[[Ignotus Peverell's son|Mr Peverell]]<ref name="Pottermore" /> (paternal ancestor) †
-*[[Ignotus Peverell]]<ref name="Pottermore" /> (paternal ancestor) †
+*[[Linfred of Stinchcombe]] (paternal ancestor) †
+*[[Ignotus Peverell's son|Mr Peverell]] (paternal ancestor) †
+*[[Ignotus Peverell]] (paternal ancestor) †
 *[[Tom Riddle|Lord Voldemort]] (paternal distant cousin) †
 *[[Delphini]] (paternal distant cousin)
 *[[Potter family]]
@@ -72,7 +72,7 @@
 |wand = [[Albus Potter's wand|Cherry, Unknown length and core]]
 |patronus = 
 |job = 
-|house = [[Slytherin]]<ref name="CC|B|1|4">{{CC|B|1|4}}</ref>
+|house = [[Slytherin]]
 |loyalty = *[[Potter family]] 
 *[[Weasley family]]
 *[[Hogwarts School of Witchcraft and Wizardry]]
@@ -80,7 +80,7 @@
 **[[Gryffindor]] (Alternate timeline)
 }}
 {{Quote|Albus Severus Potter, you were named for two [[headmaster]]s of Hogwarts. One of them was a Slytherin and he was probably the bravest man I ever knew.|Albus's fear of being sorted into Slytherin House|Harry Potter and the Deathly Hallows}}
-'''Albus Severus Potter''' (b. c. [[2006]]) was an [[England|English]] [[half-blood]]<ref name="blood" /> [[Wizardkind|wizard]], the second son of [[Harry Potter|Harry]] and [[Ginevra Weasley|Ginevra Potter]] {{c|née Weasley}} and the godson of [[Neville Longbottom]]. He was born two years after his older brother [[James Potter II|James Sirius]] and two years before his younger sister [[Lily L. Potter|Lily Luna]]. 
+'''Albus Severus Potter''' (b. c. [[2006]]) was an [[England|English]] [[half-blood]] [[Wizardkind|wizard]], the second son of [[Harry Potter|Harry]] and [[Ginevra Weasley|Ginevra Potter]] {{c|née Weasley}} and the godson of [[Neville Longbottom]]. He was born two years after his older brother [[James Potter II|James Sirius]] and two years before his younger sister [[Lily L. Potter|Lily Luna]]. 
 
 Albus was named in memory of [[Albus Dumbledore]] and [[Severus Snape]], two former headmasters of [[Hogwarts School of Witchcraft and Wizardry]] and both great wizards that his father knew. 
 
@@ -89,14 +89,14 @@ In [[2017]], Albus began his education at Hogwarts with [[Rose Granger-Weasley]]
 ==Biography==
 ===Early life {{C|2006–2017}}===
 {{Quote|The [[Potter family]] —  minus Mother, Ginny Potter, who of course is here in the journalists' enclosure with me —  have been given prime places in the front row. All are wearing the red of Bulgaria except middle child Albus, who is sporting Brazilian green.|The 2014 Quidditch World Cup|Pottermore}}
-Albus Severus Potter was born in or around the year 2006,<ref name="born" /> and was the second child of [[Harry Potter]] and [[Ginevra Weasley|Ginny Potter]].<ref name="DHE"/> He was named in honour of Albus Dumbledore and Severus Snape. His godfather was [[Neville Longbottom]].<ref name="the-qwc2014-final">{{PM}} - [[2014 Quidditch World Cup final]] (Archived)</ref>
+Albus Severus Potter was born in or around the year 2006,
 
 [[File:The Potters at the 2014 Quidditch World Cup final.png|250px|thumb|left|Albus attends the 2014 Quidditch World Cup with his family]]
-In 2014, Albus, aged roughly eight, attended the finals of the [[2014 Quidditch World Cup|427th Quidditch World Cup]] with his family.<ref name="the-qwc2014-final" /> He and his older brother [[James Potter II|James]] were introduced to [[Bulgarian National Quidditch team|Bulgarian]] [[Seeker]] [[Viktor Krum]] by their father.<ref name="dumbledores-army-reunites">{{PM}} - [[DUMBLEDORE'S ARMY REUNITES AT QUIDDITCH WORLD CUP FINAL]] (Archived)</ref> At the final game, Albus wore green clothes in support of [[Brazil]], while the rest of his family, with the exception of his mother (who was in the journalists' enclosure), sported Bulgarian red. According to his mother, this was due to him being a great fan of Brazilian [[Chaser]] [[Gonçalo Flores]].<ref name="the-qwc2014-final" /> 
+In 2014, Albus, aged roughly eight, attended the finals of the [[2014 Quidditch World Cup|427th Quidditch World Cup]] with his family. At the final game, Albus wore green clothes in support of [[Brazil]], while the rest of his family, with the exception of his mother (who was in the journalists' enclosure), sported Bulgarian red. According to his mother, this was due to him being a great fan of Brazilian [[Chaser]] [[Gonçalo Flores]]. 
 
-He almost toppled out of the VIP box cheering when Flores scored the first goal of the game, but his uncle [[Ronald Weasley|Ron]] grabbed the back of his robes and saved him. James laughed, causing ''[[Daily Prophet]]'' correspondent [[Rita Skeeter]], who was covering the match live with Ginny Potter, to suggest that he may have pushed Albus.<ref name="the-qwc2014-final" /> However, Harry was largely unconcerned by Albus's near fall, and simply handed him one of [[Luna Lovegood]]'s treats to get him to calm down and be distracted.<ref name="the-qwc2014-final" />
+He almost toppled out of the VIP box cheering when Flores scored the first goal of the game, but his uncle [[Ronald Weasley|Ron]] grabbed the back of his robes and saved him. James laughed, causing ''[[Daily Prophet]]'' correspondent [[Rita Skeeter]], who was covering the match live with Ginny Potter, to suggest that he may have pushed Albus. However, Harry was largely unconcerned by Albus's near fall, and simply handed him one of [[Luna Lovegood]]'s treats to get him to calm down and be distracted.
 
-Albus was seen applauding after Bulgaria won the tournament. Rita Skeeter reported that this was due to his "publicity-hungry" father's prompting. This provoked Ginny Potter, who was sitting near Skeeter in the journalists' enclosure, to hex her mid-sentence.<ref name="the-qwc2014-final" />
+Albus was seen applauding after Bulgaria won the tournament. Rita Skeeter reported that this was due to his "publicity-hungry" father's prompting. This provoked Ginny Potter, who was sitting near Skeeter in the journalists' enclosure, to hex her mid-sentence.
 
 ===Hogwarts years {{C|2017–?}}===
 ====First year====
@@ -104,7 +104,7 @@ Albus was seen applauding after Bulgaria won the tournament. Rita Skeeter report
 On 1 September, 2017, Albus left for his first year at [[Hogwarts School of Witchcraft and Wizardry]] along with his brother, his cousin [[Rose Granger-Weasley]], and [[Scorpius Malfoy]]. His older brother, James, had been at Hogwarts for two years already and was starting his third year. James has a habit of telling Albus untrue stories regarding Hogwarts, as a form of playful teasing between the two.
 
 [[File:Potter family.gif|250px|thumb|Albus at [[Platform Nine and Three-Quarters|Platform 9¾]] with his family|alt=|left]]
-Before boarding the [[Hogwarts Express]], Albus confided to his father that he feared he might be Sorted into [[Slytherin]]. In response, his father told him that the bravest man he ever knew — [[Severus Snape]], after whom Albus was named — had been a Slytherin student, making Slytherins not as bad as Albus believed. Harry also told Albus that if he preferred [[Gryffindor]], then the [[Sorting Hat]] would take this choice into account, as it did for him.<ref name="DHE">{{DH|B|E}}</ref> This was the first time he told any of his children that. As the train pulled out of the station, he was seen waving goodbye to his father.
+Before boarding the [[Hogwarts Express]], Albus confided to his father that he feared he might be Sorted into [[Slytherin]]. In response, his father told him that the bravest man he ever knew — [[Severus Snape]], after whom Albus was named — had been a Slytherin student, making Slytherins not as bad as Albus believed. Harry also told Albus that if he preferred [[Gryffindor]], then the [[Sorting Hat]] would take this choice into account, as it did for him. This was the first time he told any of his children that. As the train pulled out of the station, he was seen waving goodbye to his father.
 
 While on board, Albus and Rose wandered around the train looking for a compartment to sit in. Rose reminded Albus that their parents met on the train, so finding the right compartment to sit in was very important as they too could meet their lifelong friends here. Opening the door to one compartment, Albus and Rose found [[Scorpius Malfoy]] sitting alone and introduced themselves to him. Rose left to look for another compartment, yet Albus decided to stay and accompany Scorpius. The two kids struck up a friendship, sharing stories and sweets on the journey to Hogwarts.
 
@@ -168,7 +168,7 @@ Albus was the only child of the Potter family to inherit his paternal grandmothe
 Albus was a quiet, kind, and thoughtful young boy, unlike his older brother who was more brazen. He seemed to have inherited aspects of his father's personality. He inherited [[Harry Potter|Harry]]'s irrational and childish fear of being sorted into the [[Slytherin|Slytherin House]]. This was exhibited by Harry during his own sorting in 1991 and possibly due to possessing some Slytherin qualities like his father. Ultimately, Albus was, in fact, sorted into Slytherin. He also inherited the paternal line of general curiosity, showing an interest in his father's fame and past.
 
 [[File:Harry&Albus.gif|250px|thumb|Albus hugging his [[Harry Potter|father]] right before boarding the Hogwarts Express for his first year of school]]
-It seems that, out of his siblings, Albus had the closest relationship with his father. Even so, Albus struggled "''with the weight of a family legacy he never wanted''".<ref name="sequel">[https://www.pottermore.com/news/cursed-child-eighth-harry-potter-story New details on Cursed Child, the 'eighth Harry Potter story' by the Pottermore Team]</ref> During his time at Hogwarts, Albus was bullied by his peers for being different from his father, something that was already a great fear of his and he became emotionally shut off from most people. He never responded to nasty comments about him, only remaining quiet and keeping to himself.
+It seems that, out of his siblings, Albus had the closest relationship with his father. Even so, Albus struggled "''with the weight of a family legacy he never wanted''". During his time at Hogwarts, Albus was bullied by his peers for being different from his father, something that was already a great fear of his and he became emotionally shut off from most people. He never responded to nasty comments about him, only remaining quiet and keeping to himself.
 
 Albus also demonstrated a rather dry sense of humour, often responding to comments with sarcasm and jokes. This was particularly apparent when he was with Scorpius. When trying to get a message to Harry in the future from 1981, Scorpius suggested shouting "HELP" at baby Harry. He then remarked that ''"it might traumatise the baby slightly''" to which Albus replied, "''Only slightly''." When joking that the two may become trapped in time for the next forty years and would have to hide in a hole, Albus joked with his friend that he'd "''choose someone massive and really good at magic''" to hide with rather than him. Albus did seem to be able to work quickly under pressure, forming plans and ideas, even if they were slightly odd. He quickly determined that the way to contact his father from the past was to use his baby blanket, which Harry had given him as a gift and formulated a plan that even Scorpius agreed was brilliant.
 
@@ -177,11 +177,11 @@ He was shown to have a temper very similar to his father's and would become mock
 Albus appeared to have a need to prove himself and distance himself from his father's shadow. He refused to stand beside him on [[Platform Nine and Three-Quarters|Platform 9¾]] and even burned his permission slip to Hogsmeade in front of him. He went to great lengths to reverse the death of [[Cedric Diggory]], who he believed died because of Harry. However, Albus proved to be more like Harry than he knew. [[Delphini|Delphi]] claimed that his weakness was exactly the same as his father's — friendship — rather than her original suspicion of pride and the "need to impress" him. Albus is proud, like his father, but the events of the play are inspired by his desire for Harry to love him. By saving Cedric–a boy whose father, to Albus's observation, did love him very much–Albus is really trying to save himself. Albus became greatly distressed at Delphi murdering his fellow student, Craig, and torturing Scorpius and was willing to sacrifice his own life to save the world from her, much like his father had done 22 years previously.
 
 ==Magical abilities and skills==
-Albus failed to display any natural gift for [[magic]] in his youth, struggling to master even the most basic charms. During his first year [[Flying (class)|flying lessons]], Albus was the only one who failed to make his broom rise. Still, he was able to perform simple spells. However, Delphini stated that she sensed greatness and true talent in him, telling him that he was probably just a late bloomer.<ref name="CC">{{CC}}</ref> It appeared that his struggle with mastering magic stemmed from a psychological block. He had skill and talent, but the pressure of being [[Harry Potter]]'s son and the observation that went along with that, psyched him out and resulted in poor performances.  
-*'''[[Charm]]s''': Albus was capable of casting basic charms successfully such as the [[Unlocking Charm]], [[Engorgement Charm]], [[Cushioning Charm]] and the [[Fire-Making Spell]]. He was also shown to have a natural affinity at casting his father's [[signature spell]], the [[Disarming Charm]].<ref name="CC" />
+Albus failed to display any natural gift for [[magic]] in his youth, struggling to master even the most basic charms. During his first year [[Flying (class)|flying lessons]], Albus was the only one who failed to make his broom rise. Still, he was able to perform simple spells. However, Delphini stated that she sensed greatness and true talent in him, telling him that he was probably just a late bloomer. It appeared that his struggle with mastering magic stemmed from a psychological block. He had skill and talent, but the pressure of being [[Harry Potter]]'s son and the observation that went along with that, psyched him out and resulted in poor performances.  
+*'''[[Charm]]s''': Albus was capable of casting basic charms successfully such as the [[Unlocking Charm]], [[Engorgement Charm]], [[Cushioning Charm]] and the [[Fire-Making Spell]]. He was also shown to have a natural affinity at casting his father's [[signature spell]], the [[Disarming Charm]].
 
 ==Possessions==
-*'''[[Albus Potter's wand|Wand]]''': It is assumed that before boarding the Hogwarts Express, Albus and his family travelled to [[Ollivanders]] in [[Diagon Alley]] and there he bought his wand. It was made of [[cherry (tree)|cherry]],<ref name="CCJ">{{CC|J}}</ref><ref name="TLC2019">Pocock, Emma (1 November 2019). [http://www.the-leaky-cauldron.org/2019/11/01/preview-harry-potter-and-the-cursed-child-the-journey/ "PREVIEW: 'Harry Potter and the Cursed Child: The Journey'"]. ''[[The Leaky Cauldron (website)|The Leaky Cauldron]]''. Retrieved on 24 May 2021.</ref> and had an unknown length and core material. His wand was snapped in half by [[Delphini|Delphi Diggory]] during his fourth year at school, so it's highly probable that he bought another from Ollivanders.
+*'''[[Albus Potter's wand|Wand]]''': It is assumed that before boarding the Hogwarts Express, Albus and his family travelled to [[Ollivanders]] in [[Diagon Alley]] and there he bought his wand. It was made of [[cherry (tree)|cherry]], and had an unknown length and core material. His wand was snapped in half by [[Delphini|Delphi Diggory]] during his fourth year at school, so it's highly probable that he bought another from Ollivanders.
 *'''[[Albus Potter's ferret|Ferret]]''': When boarding the Hogwarts Express, it was shown that he had a ferret in a cage resting on top of his school bag and trunk.
 *'''[[Albus Potter's owl|Owl]]''': Albus owned an owl. He took it to Hogwarts School of Witchcraft and Wizardry in 2017.
 
@@ -219,7 +219,7 @@ Albus and his cousin, [[Rose Granger-Weasley|Rose]], are close in age and in the
 
 ===Neville Longbottom===
 {{Quote|The same cannot be said for Neville Longbottom, who appears to be spiritedly describing the precise manner in which Krum sustained his nosebleed for the benefit of his godson, Albus Potter.|[[Rita Skeeter]], reporting from the [[2014 Quidditch World Cup]] final|Pottermore}}
-Neville Longbottom was Albus Potter's godfather.<ref name="the-qwc2014-final" />
+Neville Longbottom was Albus Potter's godfather.
 
 ===Teddy Lupin===
 Albus had a close relationship with his father's godson [[Edward Lupin|Teddy Lupin]]. He and his siblings liked the idea that he would make a great addition to the family if he married their cousin [[Victoire Weasley]].
@@ -258,17 +258,17 @@ After Delphi is apprehended, the pair (and their family's) return to their own t
 ==Etymology==
 *Albus was named by his father, after [[Albus Dumbledore]] and [[Severus Snape]]. Albus Potter is worried about making it into [[Slytherin]], so Harry tells him the meaning of his name. He also says that [[Severus Snape|one of his namesakes]] was in Slytherin.
 *''Albus'' may be the masculine form of "Alba", the Scottish Gaelic and possibly Pictish for Scotland; It is also a Latin word for white, traditionally representing the forces of good. (See the [[Albus Dumbledore]] article for more information.)
-*''Severus'' means "stern" in [[Wikipedia:Latin|Latin]], and is the root of the English word "severe".<ref>[http://www.behindthename.com/name/severus Behind the Name: Severus]</ref> It was a [[Wikipedia:Roman|Roman]] cognomen, common to members of the [[Wikipedia:Severan dynasty|Severan dynasty]] of Emperors, including one notorious for his harsh persecution of the early Christians. (See the [[Severus Snape]] article for more information.)
+*''Severus'' means "stern" in [[Wikipedia:Latin|Latin]], and is the root of the English word "severe". It was a [[Wikipedia:Roman|Roman]] cognomen, common to members of the [[Wikipedia:Severan dynasty|Severan dynasty]] of Emperors, including one notorious for his harsh persecution of the early Christians. (See the [[Severus Snape]] article for more information.)
 *''Potter'' is a very common surname of English origin. It traditionally refers to the occupation of making pottery or other clay-work. Beatrix Potter was a well-known English children's author, writing many books based on the adventures of animals. Potter's Field is the name for a burial ground for the unknown or unclaimed dead, particularly soldiers and orphans; the Potter family had many members that fit that description. The Potter Box is a model for making ethical decisions developed at Harvard University.
 
 ==Behind the scenes==
 *Albus Potter is portrayed by [[Arthur Bowen]] in a brief scene of {{DH|F2}}.
 *In the [[Harry Potter and the Cursed Child (play)|play]] of {{CC}}, Albus is portrayed by the following actors:
-**[[Sam Clemmett]]<ref name="cast1">[https://www.pottermore.com/news/cursed-child-first-look-at-potters-in-character News: "Cursed Child reveals first look at Harry, Ginny, and Albus Potter in character"] at {{PM}}</ref> (original West End and original Broadway)
-**[[Theo Ancient]]<ref>[https://www.pottermore.com/news/new-cast-announced-for-harry-potter-and-the-cursed-child-london News: "New cast announced for Harry Potter and the Cursed Child London"] at {{PM}}</ref> (from [[May]] [[2017]]; West End Year 2)
+**[[Sam Clemmett]] (original West End and original Broadway)
+**[[Theo Ancient]] (from [[May]] [[2017]]; West End Year 2)
 **[[Joe Idris-Roberts]] (from May 2018; West End Year 3)
-**[[Nicholas Podany]]<ref>http://www.playbill.com/article/a-look-at-the-new-cast-of-broadways-harry-potter-and-the-cursed-child</ref> (from 2019; Broadway Year 2)
-**[[Sean Rees-Wemyss]]<ref>http://www.dscribe.net.au/2018/09/28/whos-who-meet-the-aussie-cast-of-harry-potter-and-the-cursed-child/</ref> (original Melbourne and Year 2)
+**[[Nicholas Podany]] (from 2019; Broadway Year 2)
+**[[Sean Rees-Wemyss]] (original Melbourne and Year 2)
 **[[Dominic Short]] (West End Years 4 & 5)
 **[[Benjamin Papac]] (original San Francisco and Year 2)
 **[[Vincent Lang]] (original Hamburg)

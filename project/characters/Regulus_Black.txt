@@ -3,19 +3,19 @@
 |theme = slytherin
 |image = Regulus PM.png
 |name = Regulus Arcturus Black
-|born = [[1961]]<ref name="Tree">{{See image|File:JKRBlackFamilyTree.jpg}}</ref><br/> [[Great Britain]]
-|died = [[1979]]<ref name="Tree"/> (aged 18)<br/>[[The Cave]], [[Great Britain]]
+|born = [[1961]]<br/> [[Great Britain]]
+|died = [[1979]] (aged 18)<br/>[[The Cave]], [[Great Britain]]
 |blood = [[Pure-blood]]
 |marital = Single
 |nationality = [[England|English]]
 |alias = R.A.B.
-|title = [[Seeker]]<ref name="Seeker">{{DH|B|10}} - ''"'He played Seeker,'' [...] ''He's sitting in the middle of the front row, that's where the Seeker … never mind,' said Harry"''</ref>
+|title = [[Seeker]]
 |signature = [[File:RAB sig.jpeg|85px]]
 |species = [[Human]]
 |gender = Male
 |height = 
 |weight = 
-|hair = Black<ref name="Physical">{{DH|B|10}} - ''"He had the same dark hair and slightly haughty look of his brother, though he was smaller, slighter, and rather less handsome than Sirius had been."''</ref>
+|hair = Black
 |eyes = 
 |skin = 
 |family = *[[Orion Black]] (father/second cousin once removed) †
@@ -38,18 +38,18 @@
 |animagus = 
 |boggart = 
 |wand = 
-|patronus = None<ref name="live-chat">[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|patronus = None
 |job = 
 |house = [[Slytherin]]
 |loyalty = *[[House of Black]]
 *[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Slytherin]]<ref name="Slytherin">{{HBP|B|4}} - ''"The whole Black family had been in my house, but Sirius ended up in Gryffindor! Shame – he was a talented boy. I got his brother Regulus when he came along, but I'd have liked the set."''</ref>
-***[[Slytherin Quidditch team]]<ref name="Seeker"/>
+**[[Slytherin]]
+***[[Slytherin Quidditch team]]
 *[[Death Eaters]] {{C|formerly}}
 }}
 {{Quote|I have stolen the real Horcrux and intend to destroy it as soon as I can. I face death in the hope that when you meet your match, you will be mortal once more...|Regulus' parting letter to Voldemort|Harry Potter and the Deathly Hallows}}
 
-'''Regulus Arcturus'''<ref name="Arcturus">{{DH|B|10}} - ''"Do Not Enter Without the Express Permission of Regulus Arcturus Black"''</ref> '''Black''' ([[1961]] – [[1979]]<ref name="Tree" />) was an [[England|English]] [[pure-blood]] [[Wizardkind|wizard]], born to [[Orion Black|Orion]] and [[Walburga Black]], and the younger brother of [[Sirius Black]]. He was a member of the noble [[House of Black]], an old wizarding family which probably started around the Middle Ages.
+'''Regulus Arcturus''' '''Black''' ([[1961]] – [[1979]]) was an [[England|English]] [[pure-blood]] [[Wizardkind|wizard]], born to [[Orion Black|Orion]] and [[Walburga Black]], and the younger brother of [[Sirius Black]]. He was a member of the noble [[House of Black]], an old wizarding family which probably started around the Middle Ages.
 
 He attended [[Hogwarts School of Witchcraft and Wizardry]] in [[1972]] and was sorted into the [[Slytherin]] house. Regulus became a [[Death Eaters|Death Eater]] in his youth, but defected when he found what [[Tom Riddle|Lord Voldemort]] would do in order to reach his aims. Regulus also learned about [[Slytherin's Locket|one of]] Voldemort's [[Horcrux]]es and decided to destroy it. He was killed after acquiring [[Salazar Slytherin]]'s [[Slytherin's Locket|locket]] in [[1979]].
 
@@ -68,14 +68,14 @@ Following this, Sirius left home at the age of sixteen and was subsequently diso
 [[File:1970sSlytherinQuidditchTeam.png|250px|thumb|Regulus with his teammates and [[Horace Slughorn|Slughorn]]]]
 
 ===Hogwarts years {{C|1972-1979}}===
-Regulus, unlike Sirius, was sorted into [[Slytherin]], and became a member of his house [[Quidditch]] [[Quidditch team|team]]. Harry Potter discovered a photograph of Regulus' team years later, which suggested that he played as [[Seeker]], based on the seating.<ref name="Seeker" /> He attended Hogwarts from about [[1972]] to [[1979]].
+Regulus, unlike Sirius, was sorted into [[Slytherin]], and became a member of his house [[Quidditch]] [[Quidditch team|team]]. Harry Potter discovered a photograph of Regulus' team years later, which suggested that he played as [[Seeker]], based on the seating. He attended Hogwarts from about [[1972]] to [[1979]].
 
 ===Life as a Death Eater===
 {{Quote|They're all about Voldemort. Regulus seems to have been a fan for a few years before he joined the Death Eaters...|A collage of news clippings in Regulus' room|Harry Potter and the Deathly Hallows}}
 
-From a young age, Regulus admired Lord Voldemort and had an ambition to become a Death Eater later on in his life. Regulus had photos and articles about the Dark Lord and his followers cut from the ''[[Daily Prophet]]'', which were hung in his bedroom near a painting of his family crest. Regulus received his [[Dark Mark]] around the age of sixteen, which his family approved of as Voldemort was seen as striving to achieve [[pure-blood]] supremacy over other wizards and [[Non-magic people|Muggle]]s. Even though his parents were never [[Death Eaters]] themselves, they agreed with many of Lord Voldemort's own beliefs.<ref name="OTP">{{OOTP}}</ref>
+From a young age, Regulus admired Lord Voldemort and had an ambition to become a Death Eater later on in his life. Regulus had photos and articles about the Dark Lord and his followers cut from the ''[[Daily Prophet]]'', which were hung in his bedroom near a painting of his family crest. Regulus received his [[Dark Mark]] around the age of sixteen, which his family approved of as Voldemort was seen as striving to achieve [[pure-blood]] supremacy over other wizards and [[Non-magic people|Muggle]]s. Even though his parents were never [[Death Eaters]] themselves, they agreed with many of Lord Voldemort's own beliefs.
 
-After becoming a Death Eater, Regulus began to consider abandoning Lord Voldemort, partly because his master mistreated and intended to kill the Black family's loyal [[house-elf]] [[Kreacher]], whilst setting up the security measures for [[Slytherin's Locket|one of his Horcruxes]].<ref name="DH">{{DH}}</ref>
+After becoming a Death Eater, Regulus began to consider abandoning Lord Voldemort, partly because his master mistreated and intended to kill the Black family's loyal [[house-elf]] [[Kreacher]], whilst setting up the security measures for [[Slytherin's Locket|one of his Horcruxes]].
 
 ===Discovery of Voldemort's [[Horcrux]]es===
 {{Main|Skirmish at the Cave (1979)}}
@@ -91,15 +91,15 @@ Regulus's father, [[Orion Black|Orion]], also died sometime in 1979.
 ===Legacy===
 {{Quote|Fight, fight for my master, the defender of the [[house-elf|House elves]]. Fight the [[Tom Riddle|Dark Lord]], in the name of brave Regulus! Fight!|[[Kreacher]] urging the house-elves of Hogwarts to fight in the name of Regulus and [[Harry Potter]]|Harry Potter and the Deathly Hallows}}
 [[File:Rabdarklordletter.gif|250px|thumb|left|The [[Regulus Black's letter to Lord Voldemort|note]] inside the [[Regulus Black's locket|fake locket Horcrux]]|alt=]]
-The true circumstances of Regulus's death were entirely unknown to the members of his family, as he had asked Kreacher to keep the events at the cave a secret, due to this being safer for the family.<ref name="DH10">{{DH|B|10}}</ref> Sirius Black, not knowing the truth of the matter, came to believe that Regulus had simply gotten in too far and was killed for trying to back out of being a Death Eater.<ref name="OP6">{{OOTP|B|6}}</ref> Remus Lupin believed that Regulus had tried to back out of being a Death Eater, commenting that he thought Regulus had lasted "a few days" after his defection before he had been killed. 
+The true circumstances of Regulus's death were entirely unknown to the members of his family, as he had asked Kreacher to keep the events at the cave a secret, due to this being safer for the family. Sirius Black, not knowing the truth of the matter, came to believe that Regulus had simply gotten in too far and was killed for trying to back out of being a Death Eater. Remus Lupin believed that Regulus had tried to back out of being a Death Eater, commenting that he thought Regulus had lasted "a few days" after his defection before he had been killed. 
 
 In [[1997]], Kreacher told Harry Potter, [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] of Regulus' attempt to destroy the Horcrux, having been there himself, as the trio also sought to destroy Voldemort's Horcruxes. They then realised that Regulus was ''R.A.B.'' that was signed on the note to Lord Voldemort. Following this, Harry gave Kreacher the counterfeit locket that Regulus had replaced the real one with, showing Harry's own respect for the house-elf. Kreacher later earned this respect by subsequently showing more respect towards Harry, Ron and Hermione. The real locket was later destroyed by Ron Weasley with [[Sword of Gryffindor|Gryffindor's Sword]], finally accomplishing what Regulus had set out to do.
 
-During the [[Battle of Hogwarts]], Kreacher, having rallied many of the school's house-elves to assist him, ordered them to fight for Regulus while wielding knives against the Death Eaters' knees and shins.<ref name="DH" />
+During the [[Battle of Hogwarts]], Kreacher, having rallied many of the school's house-elves to assist him, ordered them to fight for Regulus while wielding knives against the Death Eaters' knees and shins.
 
 ==Physical appearance==
 {{Quote|Regulus was instantly recognisable as the boy sitting in the middle of the front row: He had the same dark hair and slightly haughty look of his brother, though he was smaller, slighter, and rather less handsome than Sirius had been.|Description of Regulus|Harry Potter and the Deathly Hallows}}
-Regulus has been known to have resembled his older brother, with the black hair and haughty good looks common to their family history. Harry Potter made an opinion that Regulus was "smaller, slighter, and rather less handsome than Sirius had been."<ref name="DH" /> As a Death Eater, he bore the Dark Mark on his left inner forearm.
+Regulus has been known to have resembled his older brother, with the black hair and haughty good looks common to their family history. Harry Potter made an opinion that Regulus was "smaller, slighter, and rather less handsome than Sirius had been." As a Death Eater, he bore the Dark Mark on his left inner forearm.
 
 ==Personality and traits==
 {{Quote|For years he talked of the Dark Lord, who was going to bring the wizards out of hiding to rule the Muggles and the Muggle-borns... and when he was sixteen years old, Master Regulus joined the Dark Lord.|[[Kreacher]] remembering Regulus|Harry Potter and the Deathly Hallows}}
@@ -140,9 +140,9 @@ Knowing that he could not leave the Death Eaters and live, Regulus asked Kreache
 Kreacher was devastated by Regulus's death. It was the knowledge that Harry, Ron and Hermione were endeavouring to do the same thing as Regulus that brought Kreacher onto Harry's side. He fought the Death Eaters of Voldemort in [[1998]], during the [[Battle of Hogwarts]], in Regulus's name.
 
 ==Etymology==
-Members of [[House of Black|the Black family]] and their history seem to have made a tradition of naming their children after stars and constellations. As a name, it has also been applied to the star {{w|Regulus|Alpha Leonis}}, which is called "Heart of the Lion" in the constellation Leo.<ref>{{wikilink|Leo (constellation)}}</ref> It also happens to be the brightest star in that constellation.<ref>http://earthsky.org/brightest-stars/best-regulus-the-heart-of-the-lion#history</ref> It is noteworthy to consider that Rowling decidedly picked a name from the constellation that represents a Lion, who is also the animal to represent [[Gryffindor]]. Further more, she picked the star that is The Lion's Heart. The term "Lionheart" is defined as "a person of exceptional courage and bravery."<ref>http://www.dictionary.com/browse/lionheart</ref> Again the reference to courage being not only an association with the courage Regulus would exemplify when he sacrifices himself to obtain [[Slytherin's locket]], but also a reference to one of the characteristics of being in [[Gryffindor]]. This is a noticeable divergence from the origins of other [[Slytherin]] house member's names, which consistently reference terms which have a correlation with things that reflect the [[Slytherin family|Slytherin house]].
+Members of [[House of Black|the Black family]] and their history seem to have made a tradition of naming their children after stars and constellations. As a name, it has also been applied to the star {{w|Regulus|Alpha Leonis}}, which is called "Heart of the Lion" in the constellation Leo. It also happens to be the brightest star in that constellation. It is noteworthy to consider that Rowling decidedly picked a name from the constellation that represents a Lion, who is also the animal to represent [[Gryffindor]]. Further more, she picked the star that is The Lion's Heart. The term "Lionheart" is defined as "a person of exceptional courage and bravery." Again the reference to courage being not only an association with the courage Regulus would exemplify when he sacrifices himself to obtain [[Slytherin's locket]], but also a reference to one of the characteristics of being in [[Gryffindor]]. This is a noticeable divergence from the origins of other [[Slytherin]] house member's names, which consistently reference terms which have a correlation with things that reflect the [[Slytherin family|Slytherin house]].
 
-Regulus was also the family name of a Roman general, Marcus Atilius Regulus, who was known for his honour and self-sacrifice.<ref>{{wikilink|Regulus (disambiguation)}}</ref>
+Regulus was also the family name of a Roman general, Marcus Atilius Regulus, who was known for his honour and self-sacrifice.
 
 It is also possible that Orion named Regulus after his grand-uncle, [[Regulus Black I]].
 
@@ -153,20 +153,20 @@ It is interesting that in the Russian version of the book, Regulus initials tran
 ==Behind the scenes==
 [[File:Regulus Black.png|thumb|Regulus Black in {{LEGO|Y2}}]]
 *In the {{HBP|FA}}, Regulus was portrayed by [[Tom Moorcroft]] in Slughorn's photograph.
-*The glossary on the [[Scholastic]] official website, which appears to have been compiled before the release of ''Deathly Hallows'', it initially claimed that Regulus was killed by his fellow Death Eaters,<ref>[http://harrypotter.scholastic.com/glossary/ Scholastic Official Site - Glossary] ([https://web.archive.org/web/20130616202717/http://harrypotter.scholastic.com/glossary/#bb archived][[16 June]], [[2013]])</ref> but had been later modified to state "He was killed by Lord Voldemort" instead.<ref>[http://harrypotter.scholastic.com/glossary/ Scholastic Official Site - Glossary] ([https://web.archive.org/web/20130824162130/http://harrypotter.scholastic.com/glossary/#bb archived] [[24 August]], [[2013]])</ref>
+*The glossary on the [[Scholastic]] official website, which appears to have been compiled before the release of ''Deathly Hallows'', it initially claimed that Regulus was killed by his fellow Death Eaters, but had been later modified to state "He was killed by Lord Voldemort" instead.
 **Sirius similarly told Harry that Regulus was either killed by Voldemort or on his orders (most likely the latter). It is possible however that Sirius merely assumed that this is what happened or this was a lie told to him by Kreacher.
-*[[Remus Lupin]] once told Harry that Regulus only lasted two weeks after his betrayal before being killed,<ref>{{HBP|B|6}}</ref> suggesting that either it was known that he was working against Voldemort, or Remus (and probably the rest of the Order) assumed this to be what happened.
+*[[Remus Lupin]] once told Harry that Regulus only lasted two weeks after his betrayal before being killed, suggesting that either it was known that he was working against Voldemort, or Remus (and probably the rest of the Order) assumed this to be what happened.
 *It's unknown what Voldemort believes to have happened to Regulus as he would likely be aware that Regulus wasn't killed by the Death Eaters. It's possible that Voldemort assumed him to have died by other means.
 *On the [[House of Black|Black family tree]] depicted in {{OOTP|FA}}, Regulus' picture is depicted as a skull. [[Hesper Black]] was depicted in a similar way.
-*J. K. Rowling stated in an interview that Regulus learned of Voldemort's Horcruxes because the Dark Lord indirectly let it slip, like he did in the Little Hangleton Graveyard. Subsequently, Regulus was intelligent enough to realise what it meant.<ref name="live-chat"/>
+*J. K. Rowling stated in an interview that Regulus learned of Voldemort's Horcruxes because the Dark Lord indirectly let it slip, like he did in the Little Hangleton Graveyard. Subsequently, Regulus was intelligent enough to realise what it meant.
 *In {{LEGO|Y2}}, when Harry opens the fake locket, a ghost of Regulus appears and blows a raspberry at him to which Harry reacts by throwing the locket off the balcony.
-**Also in the game, his character is capable of casting the [[Patronus Charm]],<ref name="LEGOY2">{{LEGO|Y2}}</ref> which logically cannot be considered [[canon]]ical since [[J. K. Rowling]] has quoted that Death Eaters (aside from [[Severus Snape]]) were incapable of casting the charm,<ref name="live-chat"/> although it is unknown if an exemption exists for Regulus from this rule, given how similar to Snape, he defected from Voldemort and worked against him. 
+**Also in the game, his character is capable of casting the [[Patronus Charm]], which logically cannot be considered [[canon]]ical since [[J. K. Rowling]] has quoted that Death Eaters (aside from [[Severus Snape]]) were incapable of casting the charm, although it is unknown if an exemption exists for Regulus from this rule, given how similar to Snape, he defected from Voldemort and worked against him. 
 *Interestingly, Regulus possessed extreme bravery, chivalry and honesty and thus had all the traits required for a true [[Gryffindor]].
 *Regulus started at Hogwarts in [[1972]], one year after Severus Snape. As they were both sorted into Slytherin, it was likely that they knew each other but it is unknown how Severus would have acted towards Regulus since Regulus's brother, Sirius, was one of Snape's biggest rivals and a hated enemy.
 *It's possible that Regulus was a part of a [[Gang of Slytherins|group of future Death Eaters]] when he was a student as he was known to have attended Hogwarts at the same time as them, but this is unconfirmed. It should be noted however that his cousin, [[Bellatrix Lestrange]] was part of said group.
 
 ===Author's comments===
-[[J. K. Rowling]] compared Regulus to [[Draco Malfoy]], his first cousin once removed, who also became a [[Death Eaters|Death Eater]] at a young age and eventually defected. Like Draco, Regulus "''got in a little too deep... He was attracted to it, but the reality of what it meant was way too much to handle''".<ref>[http://www.mugglenet.com/jkrinterview2.shtml 16 July 2005 MuggleNet and The Leaky Cauldron interview Joanne Kathleen Rowling: Part II]</ref>
+[[J. K. Rowling]] compared Regulus to [[Draco Malfoy]], his first cousin once removed, who also became a [[Death Eaters|Death Eater]] at a young age and eventually defected. Like Draco, Regulus "''got in a little too deep... He was attracted to it, but the reality of what it meant was way too much to handle''".
 
 ==Appearances==
 {{Imagecat|Images of Regulus Black II}}

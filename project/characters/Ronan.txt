@@ -10,13 +10,13 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Centaur]]<ref name="PS15"/>
-|gender = Male<ref name="PS15"/>
+|species = [[Centaur]]
+|gender = Male
 |height = 
 |weight = 
-|hair = Red<ref name="PS15"/>
+|hair = Red
 |eyes = 
-|skin = White<ref name="PS15"/>
+|skin = White
 |family = 
 |romances = 
 |animagus = 
@@ -25,20 +25,20 @@
 |patronus = 
 |job = 
 |house = 
-|loyalty = *[[Forbidden Forest centaur colony]]<ref name="PS15"/>
-*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH36"/>
+|loyalty = *[[Forbidden Forest centaur colony]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
 }}
-'''Ronan''' was a male [[centaur]] who lived in the [[Forbidden Forest]].<ref name="PS15"/>
+'''Ronan''' was a male [[centaur]] who lived in the [[Forbidden Forest]].
 
 ==Biography==
-On the night of [[26 May]] [[1992]], Ronan along with fellow centaur [[Bane]] met [[Rubeus Hagrid]] in the Forbidden Forest, who was investigating that night why [[unicorn]]s in the forest were being slaughtered, although the two centaurs could not explain why and thus were unable to help him.<ref name="PS15">{{PS|B|15}}</ref>
+On the night of [[26 May]] [[1992]], Ronan along with fellow centaur [[Bane]] met [[Rubeus Hagrid]] in the Forbidden Forest, who was investigating that night why [[unicorn]]s in the forest were being slaughtered, although the two centaurs could not explain why and thus were unable to help him.
 
-He was distrustful of [[human]]s, although he tried to protect [[Harry Potter]] and [[Hermione Granger]] from the other centaurs in [[1996]], pointing out that they were "foals", during the [[Skirmish in the Forbidden Forest]] involving [[Dolores Umbridge]]. He was described as speaking with a doleful tone, and seemed rather peaceful compared to other centaurs.<ref name="OOTP33">{{OOTP|B|33}}</ref>
+He was distrustful of [[human]]s, although he tried to protect [[Harry Potter]] and [[Hermione Granger]] from the other centaurs in [[1996]], pointing out that they were "foals", during the [[Skirmish in the Forbidden Forest]] involving [[Dolores Umbridge]]. He was described as speaking with a doleful tone, and seemed rather peaceful compared to other centaurs.
 
-He led the charge of the centaurs from the [[Forbidden Forest]] during the [[Battle of Hogwarts]], breaking through the [[Death Eaters|Death Eater]] ranks into the [[Great Hall]]. It is likely that he witnessed the final battle between [[Tom Riddle|Lord Voldemort]] and Harry Potter.<ref name="DH36">{{DH|B|36}}</ref>
+He led the charge of the centaurs from the [[Forbidden Forest]] during the [[Battle of Hogwarts]], breaking through the [[Death Eaters|Death Eater]] ranks into the [[Great Hall]]. It is likely that he witnessed the final battle between [[Tom Riddle|Lord Voldemort]] and Harry Potter.
 
 ==Physical description==
-He was described as having red hair, and a red beard. Below the waist, he had a [[horse]]'s gleaming chestnut body with a long and reddish tail.<ref name="PS15"/>
+He was described as having red hair, and a red beard. Below the waist, he had a [[horse]]'s gleaming chestnut body with a long and reddish tail.
 
 ==Etymology==
 '''Rónán''' (anglicized '''Ronan''') is an Irish male given name meaning "little seal", ''Rón'' meaning "seal", and -''án'' being a diminutive suffix in Irish Gaelic).

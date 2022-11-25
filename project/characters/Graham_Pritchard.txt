@@ -10,8 +10,8 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="GOF12"/>
-|gender = Male<ref name="GOF12"/>
+|species = [[Human]]
+|gender = Male
 |height = 
 |weight = 
 |hair = 
@@ -24,12 +24,12 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Slytherin]]<ref name="GOF12"/>
+|house = [[Slytherin]]
 |loyalty = *[[Pritchard family]]
-*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF12"/>
-**[[Slytherin]]<ref name="GOF12"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
 }}
-'''Graham Pritchard''' (born c. [[1983]]) was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. He was [[Sorting ceremony|sorted]] into [[Slytherin]] [[Hogwarts Houses|House]].<ref name="GOF12">{{GOF|B|12}}</ref>
+'''Graham Pritchard''' (born c. [[1983]]) was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. He was [[Sorting ceremony|sorted]] into [[Slytherin]] [[Hogwarts Houses|House]].
 
 ==Etymology==
 Graham was originally a Scottish last name that meant "grey home" or "gravel homestead." Pritchard is Welsh and derived from Richard, a Germanic name meaning "brave power" and a popular name in Wales before the 15th century.

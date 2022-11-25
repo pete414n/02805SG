@@ -3,14 +3,14 @@
 |theme = gryffindor
 |image = [[File:GOF promo Angelina Johnson.jpg|250px]]
 |name = Angelina Weasley (née Johnson)
-|born = Between [[24 October|24]] and [[30 October]]<ref>{{GOF|B|16}} - "'I had my birthday last week,' said Angelina." This is mentioned on Saturday 31 October (Hallowe'en) 1994; her 17th birthday was the week before.</ref>, [[1977]]
+|born = Between [[24 October|24]] and [[30 October]] [[1977]]
 |died = 
-|blood = [[Pure-blood]], [[half-blood]], or [[Muggle-born]]
+|blood = [[Pure-blood]], [[half-blood]] or [[Muggle-born]]
 |marital = Married
 |nationality = {{GBorIE}}
 |alias = 
-|title = *[[Chaser]]<ref>{{PS|B|11}} - "'And women,' said Chaser Angelina Johnson."</ref>
-*[[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]<ref>{{OOTP|B|12}} - "And without waiting for an answer, 'Listen, I've been made Gryffindor Quidditch Captain.'"</ref>
+|title = *[[Chaser]]
+*[[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
 |signature = 
 |species = [[Human]]
 |gender = Female
@@ -18,7 +18,7 @@
 |weight = 
 |hair = Black
 |eyes = Brown
-|skin = Brown<ref>{{GOF|B|16}} - "A tall black girl who played Chaser on the Gryffindor Quidditch team, Angelina came over to them, sat down, and said, 'Well, I've done it! Just put my name in!'"</ref>
+|skin = Brown
 |family = *[[Angelina Johnson's father|Mr Johnson]] (father)
 *[[George Weasley]] (husband)
 *[[Fred Weasley II]] (son)
@@ -33,15 +33,15 @@
 *[[Ginevra Weasley|Ginevra Potter]] (née [[Weasley family|Weasley]]) (sister-in-law)
 *[[Fleur Delacour|Fleur Weasley]] (née [[Delacour family|Delacour]]) (sister-in-law)
 *[[Audrey Weasley]] (sister-in-law)
-*[[Hermione Granger]]<ref name="A1">{{PM}} - [https://www.pottermore.com/news/cursed-child-first-look-at-weasleys-in-character New Cursed Child character portraits of Ron, Hermione and Rose Granger-Weasley]"</ref> (sister-in-law)
+*[[Hermione Granger]] (sister-in-law)
 *[[Harry Potter]] (brother-in-law)
 *[[Victoire Weasley]] (niece)
 *[[Dominique Weasley]] (niece)
 *[[Louis Weasley]] (nephew)
 *[[Molly Weasley II]] (niece)
 *[[Lucy Weasley]] (niece)
-*[[Rose Granger-Weasley]]<ref name="A1"/> (niece)
-*[[Hugo Granger-Weasley]]<ref name="A1"/> (nephew)
+*[[Rose Granger-Weasley]] (niece)
+*[[Hugo Granger-Weasley]] (nephew)
 *[[James Potter II]] (nephew)
 *[[Albus Potter]] (nephew)
 *[[Lily L. Potter|Lily Potter II]] (niece)
@@ -50,8 +50,8 @@
 |romances = *[[Fred Weasley]] † (date)
 *[[George Weasley]] (husband)
 |animagus = 
-|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
-|wand = Unknown length, wood and core<ref name="LEGOY1"/>
+|boggart = [[Tom Riddle|Lord Voldemort]]
+|wand = Unknown length, wood and core
 |patronus = 
 |job = 
 |house = [[Gryffindor]]
@@ -63,51 +63,50 @@
 *[[Weasley family]]
 }}
 {{Quote|Angelina Johnson of Gryffindor — what an excellent Chaser that girl is, and rather attractive too.|[[Lee Jordan]] commentating on Angelina|Harry Potter and the Philosopher's Stone}}
-
-'''Angelina Weasley'''<ref>{{WU}} {{see image|File:Angelina Weasley nee Johnson - WU.png}}</ref> (née''' Johnson''') (b. [[24 October|24]] – [[30 October]], [[1977]]) was a [[Wizardkind|witch]] and a [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]]. She was also a member of [[Dumbledore's Army]], an organisation taught and led by [[Harry Potter]]. She was also the captain of the [[Gryffindor Quidditch team]] in her seventh year, which was also [[Harry Potter|Harry's]] fifth year.
+'''Angelina Weasley''' (née''' Johnson''') (b. [[24 October|24]] – [[30 October]] [[1977]]) was a [[Wizardkind|witch]] and a [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]]. She was also a member of [[Dumbledore's Army]], an organisation taught and led by [[Harry Potter]]. She was also the captain of the [[Gryffindor Quidditch team]] in her seventh year, which was also [[Harry Potter|Harry]]'s fifth year.
 
 In [[1998]], two years after she had left school, she returned and fought in the [[Battle of Hogwarts]] against the [[Dark Wizard]] [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters|followers]]. Sometime after the end of the [[Second Wizarding War]], she [[Marriage|married]] [[George Weasley]], and the couple had two children, [[Fred Weasley II|Fred II]] and [[Roxanne Weasley]].
 
 ==Biography==
 ===Early life {{C|1977-1989}}===
-Angelina was born in late [[October]], [[1977]] on or in between the [[24 October|24th]] and [[30 October|30th]]. When she was eleven, Angelina was accepted into [[Hogwarts School of Witchcraft and Wizardry]], and visited [[Diagon Alley]] to purchase the required equipment for school, including her wand.
+Angelina was born in late [[October]] [[1977]] on or in between the [[24 October|24th]] and [[30 October|30th]]. When she was eleven, Angelina was accepted into [[Hogwarts School of Witchcraft and Wizardry]], and visited [[Diagon Alley]] to purchase the required equipment for school, including her wand.
 
 ===Hogwarts years {{C|1989-1996}}===
 ====Early years====
 {{Dialogue a-b|Angelina|He's that tall, good-looking one, isn't he?|Katie Bell|Strong and silent.|Angelina and [[Katie Bell]] regarding Cedric Diggory's looks|Harry Potter and the Prisoner of Azkaban}}
 [[File:Angelins scores goal.gif|250px|thumb|left|Angelina has possession of the Quaffle during a 1991 match]]
-Angelina began attending Hogwarts in 1989, when she was nearly twelve years old, and was sorted into [[Gryffindor|Gryffindor House]].<ref name="PS"/> At some point in her education, Angelina Johnson borrowed {{QTA}} from the [[Hogwarts Library]], and was due to return the book on [[19 July]].<ref name="QTAR">{{QTA|R}}</ref> She became a [[Chaser]] on the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]] by or before her third year. Angelina was a popular student, and friends with fellow Gryffindors Alicia Spinnet, [[Fred Weasley|Fred]] and [[George Weasley]], Katie Bell, and [[Lee Jordan]]; the latter appeared to be attracted to Angelina, making various admiring comments about her when he commentated on [[Quidditch]] games.<ref name="OTP">{{OOTP}}</ref>
+Angelina began attending Hogwarts in 1989, when she was nearly twelve years old, and was sorted into [[Gryffindor|Gryffindor House]]. She became a [[Chaser]] on the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]] by or before her third year. Angelina was a popular student, and friends with fellow Gryffindors Alicia Spinnet, [[Fred Weasley|Fred]] and [[George Weasley]], Katie Bell, and [[Lee Jordan]]; the latter appeared to be attracted to Angelina, making various admiring comments about her when he commentated on [[Quidditch]] games.
 
-Angelina did not like the way that [[Oliver Wood]] referred to his players as "men" or "lads", as she, along with Katie Bell and Alicia Spinnet were female players and she would often have to correct him whilst he gave motivational speeches before games in the locker rooms. In 1991, the famous [[Harry Potter]] would arrive at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], and after Professor McGonagall witnessed his flying skills, she appointed him [[Seeker]] for the team and Angelina would play alongside him in his first game. During an early Quidditch match, [[Severus Snape]] officiated instead of [[Rolanda Hooch|Madam Hooch]] and he called a penalty against Angelina during a [[Hufflepuff Quidditch team|Hufflepuff]]-Gryffindor game.<ref name="PS">{{PS}}</ref>
+Angelina did not like the way that [[Oliver Wood]] referred to his players as "men" or "lads", as she, along with Katie Bell and Alicia Spinnet were female players and she would often have to correct him whilst he gave motivational speeches before games in the locker rooms. In 1991, the famous [[Harry Potter]] would arrive at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], and after Professor McGonagall witnessed his flying skills, she appointed him [[Seeker]] for the team and Angelina would play alongside him in his first game. During an early Quidditch match, [[Severus Snape]] officiated instead of [[Rolanda Hooch|Madam Hooch]] and he called a penalty against Angelina during a [[Hufflepuff Quidditch team|Hufflepuff]]-Gryffindor game.
 
 [[File:1992 Duelling Club.jpg|250px|thumb|The Duelling Club's first and last meeting that Angelina attended]]
-When playing against [[Slytherin]], Angelina seemed to be an open target for a group take-out: she was boxed in by two players and knocked off her broom during one game. In 1992, Hogwarts was under threat of closure as the [[Chamber of Secrets]] had been declared open once again and [[Muggle-born]] students were being attacked.<ref name="COS">{{COS}}</ref> As a precaution against this, a Duelling Club was organised and Angelina attended the first gathering with her friends Katie Bell and [[Alicia Spinnet]], and the three fought over Professor [[Gilderoy Lockhart]]'s cloak when he slung it into the audience.<ref name="COSF">{{COS|F}}</ref>
+When playing against [[Slytherin]], Angelina seemed to be an open target for a group take-out: she was boxed in by two players and knocked off her broom during one game. In 1992, Hogwarts was under threat of closure as the [[Chamber of Secrets]] had been declared open once again and [[Muggle-born]] students were being attacked. As a precaution against this, a Duelling Club was organised and Angelina attended the first gathering with her friends Katie Bell and [[Alicia Spinnet]], and the three fought over Professor [[Gilderoy Lockhart]]'s cloak when he slung it into the audience.
 
 [[File:Harry Potter Pottermore Harry Holding Quidditch Cup In A Crowd Moment.jpg|250px|thumb|left|Gryffindor wins the Quidditch Cup in 1994]]
-In her fifth year, Captain Oliver Wood would put a lot of pressure on the team as this was his final year in education and he wanted to win the [[Inter-House Quidditch Cup|Quidditch Cup]] for Gryffindor. Angelina and Katie discussed Hufflepuff player [[Cedric Diggory]]'s physical appearance before a game and the two both expressed interest. Angelina commented that he was tall and good-looking and Katie stating he was "''strong and silent''". Gryffindor later won the Quidditch cup that year.<ref name="POA15">{{POA|B|15}}</ref>
+In her fifth year, Captain Oliver Wood would put a lot of pressure on the team as this was his final year in education and he wanted to win the [[Inter-House Quidditch Cup|Quidditch Cup]] for Gryffindor. Angelina and Katie discussed Hufflepuff player [[Cedric Diggory]]'s physical appearance before a game and the two both expressed interest. Angelina commented that he was tall and good-looking and Katie stating he was "''strong and silent''". Gryffindor later won the Quidditch cup that year.
 
 ====Sixth year====
 {{Dialogue a-b-a-b|Fred Weasley|Oi! Angelina!|Angelina|What?|Want to come to the ball with me?|All right, then.|[[Fred Weasley|Fred]] asking Angelina to the Yule Ball|Harry Potter and the Goblet of Fire}}
 [[File:Angelind, Fed, and George.jpg|250px|thumb|Angelina, Fred, and George watch as the students from [[Beauxbatons Academy of Magic]] arrive]]
-In [[1994]], Hogwarts was the holding grounds to the [[Triwizard Tournament]], a tournament required to test the bravery and skills of a wizard that was thought to be too dangerous for wizards under a certain age. Angelina was among the many students who entered their names to the [[Goblet of Fire]], as she was just of age the previous week, but she was not selected as a champion. Her friends, Fred and George also entered, but under the influence of an [[Ageing Potion]] because they were still underage, which backfired on them. Due to the Tournament taking place, all [[Quidditch]] games and practise had been cancelled, and despite [[Oliver Wood]] leaving the previous year, Angelina would not yet take on the position of Captain of the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]] as it was not required to be filled.<ref name="GOF"/>
+In [[1994]], Hogwarts was the holding grounds to the [[Triwizard Tournament]], a tournament required to test the bravery and skills of a wizard that was thought to be too dangerous for wizards under a certain age. Angelina was among the many students who entered their names to the [[Goblet of Fire]], as she was just of age the previous week, but she was not selected as a champion. Her friends, Fred and George also entered, but under the influence of an [[Ageing Potion]] because they were still underage, which backfired on them. Due to the Tournament taking place, all [[Quidditch]] games and practise had been cancelled, and despite [[Oliver Wood]] leaving the previous year, Angelina would not yet take on the position of Captain of the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]] as it was not required to be filled.
 
 [[File:Fred&angela.jpg|250px|thumb|left|Fred and Angelina in their Yule Ball attire on [[Christmas|Christmas Day]]]]
-Throughout the Tournament Angelina was a supporter of champion [[Harry Potter]]. She was seen cheering loudly with Fred and George during the first task, in which Harry used his flying skills to avoid the Dragon and get the egg. Also in that same year as a requirement of the Triwizard Tournament traditions Hogwarts would hold a [[Yule Ball]]. Angelina was asked to the Yule Ball by Fred Weasley, which she accepted.<ref name="GOF"/>
+Throughout the Tournament Angelina was a supporter of champion [[Harry Potter]]. She was seen cheering loudly with Fred and George during the first task, in which Harry used his flying skills to avoid the Dragon and get the egg. Also in that same year as a requirement of the Triwizard Tournament traditions Hogwarts would hold a [[Yule Ball]]. Angelina was asked to the Yule Ball by Fred Weasley, which she accepted.
 
-In the final task, champions were required to enter a maze and fight their way to the [[Triwizard Cup]] to win the tournament. Harry Potter and [[Cedric Diggory]] both reached this cup, but it had been turned into a [[Portkey]] which transported both of them to the graveyard at [[Little Hangleton]]. Cedric was murdered by Peter Pettigrew on Voldemort's orders, while Harry's blood was used to revive the Dark Lord. Harry later returned Cedric's body back to the school grounds and Angelina was amongst the first to notice that all was not well and her short-lived cheers turned to loud screams. At the end of the school year Angelina attended the [[Memorial feast to Cedric Diggory]] that [[Albus Dumbledore]] held and she appeared quite emotional, after all Cedric was in her year, he was popular and a fan of Quidditch like herself. During this memorial service, Albus Dumbledore told the students, against the wishes of the [[British Ministry of Magic|Ministry of Magic]], exactly how Diggory had died and confirmed that [[Tom Riddle|Lord Voldemort]] had returned to power.<ref name="GOF">{{GOF}}</ref>
+In the final task, champions were required to enter a maze and fight their way to the [[Triwizard Cup]] to win the tournament. Harry Potter and [[Cedric Diggory]] both reached this cup, but it had been turned into a [[Portkey]] which transported both of them to the graveyard at [[Little Hangleton]]. Cedric was murdered by Peter Pettigrew on Voldemort's orders, while Harry's blood was used to revive the Dark Lord. Harry later returned Cedric's body back to the school grounds and Angelina was amongst the first to notice that all was not well and her short-lived cheers turned to loud screams. At the end of the school year Angelina attended the [[Memorial feast to Cedric Diggory]] that [[Albus Dumbledore]] held and she appeared quite emotional, after all Cedric was in her year, he was popular and a fan of Quidditch like herself. During this memorial service, Albus Dumbledore told the students, against the wishes of the [[British Ministry of Magic|Ministry of Magic]], exactly how Diggory had died and confirmed that [[Tom Riddle|Lord Voldemort]] had returned to power.
 
 ====Seventh year====
 {{Quote|Get back in position, she's fine! But as you're passing to a teammate, do try not to knock her off her broom, won't you? We've got Bludgers for that!|Angelina getting stressed at Ron during Quidditch practise|Harry Potter and the Order of the Phoenix}}
 [[File:AngelinaJohnson ootp.PNG|250px|thumb|Angelina thanking Harry for rescuing her from being locked in the trophy room]]
-In September [[1995–1996 school year|1995]], [[Minerva McGonagall|Professor McGonagall]] appointed Angelina [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch captain,]] which came with a badge, use of an office at the Quidditch Pitch, access to the [[Prefects' Bathroom]] and authority to determine the composition of the team (excepting those undergoing punishments). She proved to be at least as demanding of her team as [[Oliver Wood]] had been. She attributed this hard-driving attitude to the stress of the job, saying that she regretted having been so hard on Wood when he was Quidditch captain. Angelina had difficulty finding talent and was plagued with a year of practises most of them ending in shambles.<ref name="OTP"/>
+In September [[1995–1996 school year|1995]], [[Minerva McGonagall|Professor McGonagall]] appointed Angelina [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch captain,]] which came with a badge, use of an office at the Quidditch Pitch, access to the [[Prefects' Bathroom]] and authority to determine the composition of the team (excepting those undergoing punishments). She proved to be at least as demanding of her team as [[Oliver Wood]] had been. She attributed this hard-driving attitude to the stress of the job, saying that she regretted having been so hard on Wood when he was Quidditch captain. Angelina had difficulty finding talent and was plagued with a year of practises most of them ending in shambles.
 
-Her first duty as Quidditch captain was managing tryouts on the first Friday of term to fill Oliver Wood's keeper position. Upon learning Harry had to serve detention that day, Angelina was angry at him, deciding that it was his fault, and ordered him to say whatever he had to say to get out of detention and be there for tryouts, something he failed to do. After she had gone, Harry commented that they should check with [[Puddlemere United]] and see if Oliver Wood was still alive, as Angelina seemed to be channelling his spirit.<ref name="OTP"/>
+Her first duty as Quidditch captain was managing tryouts on the first Friday of term to fill Oliver Wood's keeper position. Upon learning Harry had to serve detention that day, Angelina was angry at him, deciding that it was his fault, and ordered him to say whatever he had to say to get out of detention and be there for tryouts, something he failed to do. After she had gone, Harry commented that they should check with [[Puddlemere United]] and see if Oliver Wood was still alive, as Angelina seemed to be channelling his spirit.
 
 Finding that Harry was not able to convince Umbridge to change his Friday detention, Angelina angrily suggested that people who wanted to stay on the team would find a way to make it to practises. Friday evening, after the try-outs, Angelina apologised to Harry for her earlier curtness, and said that she may have been too hard on Wood; she found managing the team to be a bit stressful. [[Ronald Weasley|Ron Weasley]] had not been the best [[Keeper]] she tried out; there were two better players, one was not willing to commit the time to practise and the other was a bit of a whiner, and Angelina hoped that Ron, being from a family with excellent [[Quidditch]] players, would develop over time. She likely had already decided to keep returning members on the team as she previously called them "Keeper tryouts," stated she wanted to see how candidates fitted in with the team, and didn't require Harry to try out.  Their first practise as a team was marred with jeers and catcalls by Slytherins, including an insult to Angelina's braided hair. 
 
 They drilled by passing the [[Quaffle]]. Ron missed it twice, but after catching it passed it so hard to Katie it hit her face and caused a nosebleed. Fred gave her a purple sweet. They released the other balls and took to flying until Angelina blew the whistle to stop, then criticised Ron for wandering off, letting in goals and told him to either stay in centre position or circle the goals.  Katie's nose was still bleeding, and three minutes later Angelina stopped and ended practise; saying Katie needed the hospital wing. Fred realised he gave her a Blood Blisterpod by mistake and, with George, flew her to the castle.
 
-When Harry got a week's worth of detentions from Professor Umbridge, causing him to miss one or more practises, Angelina was furious, shouting at him in the [[Great Hall]].  This caused Professor McGonagall to leave her table and take 5 points from Gryffindor, then another 5 points for Harry getting detention, which he thought unfair. She then threatened that if Angelina didn't confine her shouting to the Quidditch pitch, she might lose the team Captaincy.<ref name="OTP" />
+When Harry got a week's worth of detentions from Professor Umbridge, causing him to miss one or more practises, Angelina was furious, shouting at him in the [[Great Hall]].  This caused Professor McGonagall to leave her table and take 5 points from Gryffindor, then another 5 points for Harry getting detention, which he thought unfair. She then threatened that if Angelina didn't confine her shouting to the Quidditch pitch, she might lose the team Captaincy.
 
 [[File:B5C16M1 First meeting in the Hog's Head.png|250px|thumb|left|Angelina attended the meeting Hog's Head meeting along with several of her friends]]
 During a [[Hogsmeade weekend trips|Hogsmeade Weekend trip]], Angelina, all her Quidditch teammates and others including Ravenclaws and Hufflepuffs met at the [[Hog's Head Inn|Hog's Head]] to learn about a secret study group Harry was forming to learn [[Defence Against the Dark Arts|Defence Against the Dark Arts]] because [[Dolores Umbridge]] wouldn't allow spells to be cast in her class. Angelina was the first to say meetings shouldn't clash with Quidditch practice and again when they were considering a place and time to meet next.  She and all attendees at the table drank butterbeer and signed [[Dumbledore's Army parchment jinx|Hermione's contract]] agreeing not to tell Umbridge ''—'' or anybody else ''—'' what they were up to.  Due to the spy, [[Willy Widdershins]] overhearing them at the pub, on Monday Umbridge implemented [[Educational Decree Number Twenty-Four|Educational Decree Number 24]] to disband all groups, teams and meetings of three or more students, unless approved by her, under penalty of expulsion.   
@@ -119,7 +118,7 @@ Harry did attend that night's practise in the rain, which Angelina said might be
 
 She was taken aback when informing Harry, who said he was having his first Defence Against the Dark Arts study meeting that night, and to spread the word to Katie and Alicia. That night she followed Harry's instruction to a door on the 7th floor opposite the tapestry of Barnabas the Barmy and entered the [[Room of Requirement]]. As a group they decided Harry was leader, the group's name would be called [[Dumbledore's Army]], or the D.A. for short then Harry taught them ''[[Disarming Charm|Expeliarmus]].'' In later sessions Harry taught them the [[Impediment Jinx]] and [[Reductor Curse]]. [[Hermione Granger]] then gave Angelina and the other members [[Dumbledore's Army coin|fake Galleon]]<nowiki/>s with a [[Protean Charm]] to communicate timing of the next meeting.
 
-The Gryffindor-[[Slytherin Quidditch team|Slytherin]] rivalry was particularly intense leading up to their first match. Slytherins' normal taunts affected Ron more than the others, being new. Their Head of House, [[Severus Snape|Professor Snape,]] booked the pitch so often Gryffindor's had trouble practising. He also ignored Slytherins' attempts to hex Gryffindor players even when Alicia Spinnet was hospitalised. Meanwhile, McGonagall didn't give Transfiguration homework to Gryffindors the week of the match, saying "''I've been accustomed to seeing the Quidditch Cup in my study... use the extra time to practice.''"<ref name="OOTP18">{{OOTP|B|18}}</ref>
+The Gryffindor-[[Slytherin Quidditch team|Slytherin]] rivalry was particularly intense leading up to their first match. Slytherins' normal taunts affected Ron more than the others, being new. Their Head of House, [[Severus Snape|Professor Snape,]] booked the pitch so often Gryffindor's had trouble practising. He also ignored Slytherins' attempts to hex Gryffindor players even when Alicia Spinnet was hospitalised. Meanwhile, McGonagall didn't give Transfiguration homework to Gryffindors the week of the match, saying "''I've been accustomed to seeing the Quidditch Cup in my study... use the extra time to practice.''"
 
 [[File:Angelina Quaffle.jpg|250px|thumb|left|Angelina playing in a Quidditch match against Slytherin]]
 Before the match Slytherins were seen wearing "[[Weasley is Our King badge|WEASLEY IS OUR KING]]" badges. In the locker room, Angelina notified the team that she didn't know much about Slytherin's new beaters, Crabbe and Goyle, to which Harry and Ron said, "We do." She said they were the usual gorillas unlikely to fly very well. As they left the locker room they heard Slytherins singing for the first time "[[Weasley is Our King]]" having derogatory lyrics to unnerve Ron. When shaking hands with Slytherin captain, Montague, she didn't wince as he tried to crush her hand.  During the match she saw that Harry was stationary in midair watching Ron and the match and had to shout at him to get going. After Slytherin scored 4 goals, Angelina scored Gryffindor's first and only goal and heard the sound of Luna Lovegood's [[Luna Lovegood's lion-topped hat|lion]] hat roar. She then witnessed Crabbe hit a [[Bludger]] in Harry's back after he caught the [[Golden Snitch|Snitch]], knocking him off his broom six feet from the ground.  She landed nearby, asking frantically if he was alright, then after he said he was, informing him who hit him. Ron, shamed by letting in goals, left the pitch.  
@@ -134,7 +133,7 @@ D.A. meetings ended when [[Marietta Edgecombe]] reported their next meeting to P
 
 The final match of the Quidditch season, Gryffindor versus Ravenclaw took place on the last weekend in May.  Ravenclaw Captain Davies scored the first goal of the game, to which Slytherins sang "Weasley is Our King." After that, Ron made many more saves, so when Ginny caught the Snitch, the team won the match, and with the tie-breaker won the Quidditch Cup for a second year during her time at Hogwarts. Gryffindors carried Ron on their shoulders back to the castle, and sang "Weasley is Our King" with their own positive lyrics.  
 
-It being her seventh year, Angelina sat for her [[Nastily Exhausting Wizarding Test|N.E.W.T.s]]. At the end of exams she did not respond to the message on her fake coin signalling a D.A. meeting to help Harry break into Umbridge's office on the mistaken belief he needed to rescue [[Sirius Black|Sirius]] at the [[British Ministry of Magic|Ministry]]. Umbridge was sacked the next day and [[Albus Dumbledore]] was restored as headmaster.<ref name="OTP" />
+It being her seventh year, Angelina sat for her [[Nastily Exhausting Wizarding Test|N.E.W.T.s]]. At the end of exams she did not respond to the message on her fake coin signalling a D.A. meeting to help Harry break into Umbridge's office on the mistaken belief he needed to rescue [[Sirius Black|Sirius]] at the [[British Ministry of Magic|Ministry]]. Umbridge was sacked the next day and [[Albus Dumbledore]] was restored as headmaster.
 
 ===After Hogwarts {{C|1996-1998}}===
 ====Battle of Hogwarts====
@@ -142,14 +141,14 @@ It being her seventh year, Angelina sat for her [[Nastily Exhausting Wizarding T
 During the height of the [[Second Wizarding War]], when Hogwarts had been taken over by [[Tom Riddle|Lord Voldemort]] Angelina maintained contact with [[Dumbledore's Army]] from the outside via the D.A. coin she had been given by [[Hermione Granger]].
 
 [[File:B7C36M2 Voldemort vanquished.png|250px|thumb|Angelina and the other defenders of Hogwarts witness Harry Potter's final defeat of Voldemort]]
-When she received the signal that the school was going to make a stand against Voldemort in 1998, she returned to fight against the incoming army of [[Death Eaters]]. Angelina also must have kept in contact with her school friends [[Alicia Spinnet]], [[Katie Bell]], and [[Oliver Wood]], as she arrived with the three. Angelina survived the devastating [[Battle of Hogwarts]].<ref name="DH">{{DH}}</ref> She most likely sat with the rest of the Weasley family grieving over Fred's body, as Fred was a good friend of hers.
+When she received the signal that the school was going to make a stand against Voldemort in 1998, she returned to fight against the incoming army of [[Death Eaters]]. Angelina also must have kept in contact with her school friends [[Alicia Spinnet]], [[Katie Bell]], and [[Oliver Wood]], as she arrived with the three. Angelina survived the devastating [[Battle of Hogwarts]]. She most likely sat with the rest of the Weasley family grieving over Fred's body, as Fred was a good friend of hers.
 
 ===Later life {{C|1998-2014}}===
-Sometime after the end of the [[Second Wizarding War]], Angelina grew closer to her friend [[George Weasley]]. The two eventually married and went on to have two children together: [[Fred Weasley II]], named after his late uncle who also was Angelina's teenage romance, and [[Roxanne Weasley]].<ref>[http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article3105517.ece Times Online - The Unwritten Story of Harry's Friends and Their Children]</ref>
+Sometime after the end of the [[Second Wizarding War]], Angelina grew closer to her friend [[George Weasley]]. The two eventually married and went on to have two children together: [[Fred Weasley II]], named after his late uncle who also was Angelina's teenage romance, and [[Roxanne Weasley]].
 
-In the 2010s, Angelina's younger self appeared as a [[Foundable]] in two different instances during the [[Calamity]]. In the first, she was hounded by a pair of rogue [[Bludger]] [[Confoundable]]s, requiring volunteer members of the [[Statute of Secrecy Task Force]] to cast the [[Slowing Charm]] in order to aid her. She also appeared alongside Fred Weasley as they appeared at the Yule Ball, trapped by a snowstorm Confoundable. With the usage of [[Meteolojinx Recanto]], the storm was able to be repelled and the pair could be returned back to 1994.<ref name="WU">{{WU}}</ref>
+In the 2010s, Angelina's younger self appeared as a [[Foundable]] in two different instances during the [[Calamity]]. In the first, she was hounded by a pair of rogue [[Bludger]] [[Confoundable]]s, requiring volunteer members of the [[Statute of Secrecy Task Force]] to cast the [[Slowing Charm]] in order to aid her. She also appeared alongside Fred Weasley as they appeared at the Yule Ball, trapped by a snowstorm Confoundable. With the usage of [[Meteolojinx Recanto]], the storm was able to be repelled and the pair could be returned back to 1994.
 
-Angelina left her marital home to care for her ailing father shortly before the [[2014 Quidditch World Cup|Quidditch World Cup]] in July 2014.<ref name="the-qwc2014-final">{{PM}} - [[2014 Quidditch World Cup final]] (Archived)</ref> Nonetheless, Angelina travelled with her husband, son, and daughter to the [[Patagonian Desert]] to attend the final of the Quidditch World Cup on 11 July, where the four put on "''a show of togetherness up in the box''".<ref name="the-qwc2014-final" /> During the match, commentator [[Rita Skeeter]] mentioned rumours that Angelina had "grown restless" in her marriage to George, and thus chosen to leave her marital home to live elsewhere (presumably with her lover).<ref name="the-qwc2014-final" /> Her fellow commentator, Angelina's sister-in-law [[Ginevra Weasley|Ginny Potter]], quickly refuted these rumours, explaining that Angelina had recently been caring for her father.<ref name="the-qwc2014-final" />
+Angelina left her marital home to care for her ailing father shortly before the [[2014 Quidditch World Cup|Quidditch World Cup]] in July 2014. Nonetheless, Angelina travelled with her husband, son, and daughter to the [[Patagonian Desert]] to attend the final of the Quidditch World Cup on 11 July, where the four put on "''a show of togetherness up in the box''". During the match, commentator [[Rita Skeeter]] mentioned rumours that Angelina had "grown restless" in her marriage to George, and thus chosen to leave her marital home to live elsewhere (presumably with her lover). Her fellow commentator, Angelina's sister-in-law [[Ginevra Weasley|Ginny Potter]], quickly refuted these rumours, explaining that Angelina had recently been caring for her father.
 
 ==Physical appearance==
 {{Quote|Hey, Johnson, what's with that hairstyle, anyway? Why would anyone want to look like they've got worms coming out of their head?|Pansy Parkinson's taunt during first Quidditch practice|Harry Potter and the Order of the Phoenix}}
@@ -157,7 +156,7 @@ Angelina was described to be a tall, pretty witch with dark skin, brown eyes and
 
 ==Personality and traits==
 {{Quote|I think we'd better check with [[Puddlemere United]] whether [[Oliver Wood]]'s been killed during a training session, because Angelina seems to be channelling his spirit.|Angelina's seriousness about being Quidditch captain|Harry Potter and the Order of the Phoenix}}
-Angelina Johnson was very driven to succeed, whether it be at [[Quidditch]]<ref name="OTP" /> or in trying out for the [[Triwizard Tournament]].<ref name="GOF" /> Angelina showed diligence and leadership ability as [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]] of her team, as well as competitiveness.<ref name="OTP" /> She was also brave, as shown by her sorting into [[Gryffindor]] and her decision to return to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] to fight in the [[Battle of Hogwarts]] alongside old classmates and friends.<ref name="DH" />
+Angelina Johnson was very driven to succeed, whether it be at [[Quidditch]] or in trying out for the [[Triwizard Tournament]]. Angelina showed diligence and leadership ability as [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]] of her team, as well as competitiveness. She was also brave, as shown by her sorting into [[Gryffindor]] and her decision to return to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] to fight in the [[Battle of Hogwarts]] alongside old classmates and friends.
 
 Given her friendship and eventual romantic involvement with both Weasley twins, it is likely that Angelina also enjoyed pranks and had a good sense of humour. However, her sense of humour did not compromise her seriousness about Quidditch. Angelina wouldn't hesitate to give her blunt opinion, telling Harry Potter that [[Ronald Weasley|Ron Weasley]] was not a fabulous Quidditch player. She also became enraged at Harry when he kept getting detentions from Dolores Umbridge, but apologised later.
 
@@ -166,7 +165,7 @@ Given her friendship and eventual romantic involvement with both Weasley twins, 
 *'''[[Flight|Flying]]''': In her seventh year Angelina became captain of the [[Gryffindor Quidditch team]]. She was also on the team during 1990-1991, which was towards the end of her second year onwards, showing her skill and talent as a [[Quidditch]] player and [[broomstick]] flyer. 
 
 *'''[[Duelling]]''': Angelina was a member of [[Dumbledore's Army]] during her seventh year at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], where she was taught how to perform [[martial magic]], thanks to Harry Potter's exemplary teaching. She later fought in and survived the [[Battle of Hogwarts]], showing she was a highly skilful duellist, to have survived such a bloody and violent battle.
-*'''[[Care of Magical Creatures]]''': Angelina must have passed her [[Ordinary Wizarding Level|O.W.L.]] exam with a high grade, because she stated in her seventh year that [[Rubeus Hagrid|Hagrid]] was a much better teacher, meaning that she must have advanced to the [[Nastily Exhausting Wizarding Test|N.E.W.T.]] class.<ref name="OOTP31">{{OOTP|B|31}}</ref>
+*'''[[Care of Magical Creatures]]''': Angelina must have passed her [[Ordinary Wizarding Level|O.W.L.]] exam with a high grade, because she stated in her seventh year that [[Rubeus Hagrid|Hagrid]] was a much better teacher, meaning that she must have advanced to the [[Nastily Exhausting Wizarding Test|N.E.W.T.]] class.
 
 ==Relationships==
 ===Family===
@@ -203,7 +202,7 @@ She was also good friends with [[Oliver Wood]], the former Captain of the [[Gryf
 Other members of Dumbledore's Army were [[Dean Thomas]], [[Seamus Finnigan]], [[Padma and Parvati Patil|Parvati and Padma Patil]], [[Lavender Brown]], [[Neville Longbottom]], [[Luna Lovegood]], [[Ginevra Weasley|Ginny Weasley]], [[Colin and Dennis Creevey]], [[Hannah Abbott]], [[Ernest Macmillan|Ernie Macmillan]], [[Susan Bones]], [[Terry Boot]], [[Justin Finch-Fletchley]], [[Anthony Goldstein]], [[Cho Chang]], [[Michael Corner]], [[Zacharias Smith]] and [[Marietta Edgecombe]]. Their relationship with Angelina is unknown, though it is possible that most of them were friends of hers.
 
 ==Etymology==
-''{{W|Angelina}}'' is a Latin diminutive of the name ''Angela'', which is derived from the Greek άγγελος, ''angelos'', meaning "messenger" or "angel".<ref>[http://www.behindthename.com/name/angela Behind the Name: Angela]</ref> Johnson means "son of John".
+''{{W|Angelina}}'' is a Latin diminutive of the name ''Angela'', which is derived from the Greek άγγελος, ''angelos'', meaning "messenger" or "angel". Johnson means "son of John".
 
 ==Behind the scenes==
 [[File:Angelina Johnson LEGO.png|150px|thumb|Angelina Johnson in {{LEGO|Y1}}]]
@@ -218,9 +217,9 @@ Other members of Dumbledore's Army were [[Dean Thomas]], [[Seamus Finnigan]], [[
 *{{PS|F}}
 *{{COS}}
 *{{COS|F}}
-*{{COS|G}}<ref>Although Angelina is never identified, the complete Gryffindor Quidditch team appeared in the game adaptation.</ref>
+*{{COS|G}}
 *{{POA}}
-*{{POA|F}}<ref>{{see image|File:GQT refPoA.PNG}}</ref>
+*{{POA|F}}
 *{{GOF}}
 *{{GOF|F}}
 *{{OOTP}}

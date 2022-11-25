@@ -5,20 +5,20 @@
 |name = Mrs Mason
 |born = 
 |died = 
-|blood = [[Non-magic people|Muggle]]<ref name="COS2"/>
-|marital = Married<ref name="COS2"/>
-|nationality = [[Great Britain|British]]<ref name="COS2"/>
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = [[Great Britain|British]]
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]<ref name="COS2"/>
-|gender = Female<ref name="COS2"/>
+|species = [[Human]]
+|gender = Female
 |height = 
 |weight = 
 |hair = 
 |eyes = 
 |skin = 
-|family = [[Mason|Mr Mason]] (husband)<ref name="COS2"/>
+|family = [[Mason|Mr Mason]] (husband)
 |romances = 
 |animagus = 
 |boggart = 
@@ -26,13 +26,13 @@
 |patronus = 
 |job = 
 |house = 
-|loyalty = [[Mason family]]<ref name="COS2"/>
+|loyalty = [[Mason family]]
 }}
 {{Quote|Do tell me where you bought your dress, Mrs Mason...|[[Petunia Dursley]] practising compliments for Mrs Mason|Harry Potter and the Chamber of Secrets}}
-'''Mrs Mason''' was the {{w|Ornithophobia|ornithophobic}} wife of [[Mason|Mr Mason]],<ref name="COS2"/> a builder from whom [[Vernon Dursley]] was hoping to get a big drill order.<ref name="COS1">{{COS|B|1}}</ref>
+'''Mrs Mason''' was the {{w|Ornithophobia|ornithophobic}} wife of [[Mason|Mr Mason]],
 
 ==Biography==
-On [[31 July]], [[1992]], the couple were dinner guests at the [[4 Privet Drive|Dursley home]]. Their evening was nearly ruined when the dessert [[Petunia Dursley]] had made crashed to the floor (an incident blamed on [[Harry Potter]] though it was [[Dobby]]'s fault), which they were extremely shocked at. The evening could have been rescued were it not for the barn [[owl]], that flew through the open window to deliver a letter of warning of a breach of the [[Decree for the Reasonable Restriction of Underage Sorcery]] for Harry. The owl dropped the letter on Mrs Mason's head, and due to her extreme fear of [[bird]]s, she “screamed like a [[banshee]]” and ran from the house shouting something about lunatics, followed quickly by her husband.<ref name="COS2">{{COS|B|2}}</ref>
+On [[31 July]], [[1992]], the couple were dinner guests at the [[4 Privet Drive|Dursley home]]. Their evening was nearly ruined when the dessert [[Petunia Dursley]] had made crashed to the floor (an incident blamed on [[Harry Potter]] though it was [[Dobby]]'s fault), which they were extremely shocked at. The evening could have been rescued were it not for the barn [[owl]], that flew through the open window to deliver a letter of warning of a breach of the [[Decree for the Reasonable Restriction of Underage Sorcery]] for Harry. The owl dropped the letter on Mrs Mason's head, and due to her extreme fear of [[bird]]s, she “screamed like a [[banshee]]” and ran from the house shouting something about lunatics, followed quickly by her husband.
 
 ==Behind the scenes==
 [[File:Mrs Mason.jpg|thumb|Mrs Mason after Dobby dropped the pudding on her head, in the film adaptation|250x250px]]
