@@ -25,23 +25,23 @@ Dean Thomas,Half-Blood,Gryffindor,Student
 Nymphadora_Tonks,Half-Blood,Hufflepuff,Other
 Sybill_Trelawney,Half-Blood,Ravenclaw,Teacher
 Dolores_Umbridge,Half-Blood,Slytherin,Teacher
-Apolline Delacour,Half-Breed,other,other
-Fleur Delacour,Half-Breed,other,Student
-Gabrielle Delacour,Half-Breed,other,Student 
+Apolline Delacour,Half-Breed,Other,Other
+Fleur Delacour,Half-Breed,Other,Student
+Gabrielle Delacour,Half-Breed,Other,Student 
 Filius Flitwick,Half-Breed,Ravenclaw,Teacher
 Rubeus Hagrid,Half-Breed,Gryffindor,Teacher
-Olympe Maxime,Half-Breed,other,Teacher
-Mary Cattermole,Muggle-Born,other,other
+Olympe Maxime,Half-Breed,Other,Teacher
+Mary Cattermole,Muggle-Born,Other,other
 Colin Creevey,Muggle-Born,Gryffindor,Student
 Dennis Creevey,Muggle-Born,Gryffindor,Student
-Dirk Cresswell,Muggle-Born,other,other
+Dirk Cresswell,Muggle-Born,Other,Other
 Justin Finch-Fletchley,Muggle-Born,Gryffindor,Student
 Hermione Granger,Muggle-Born,Gryffindor,Student
 Lily J. Potter,Muggle-Born,Gryffindor,Student
-Edward Tonks,Muggle-Born,other,other
-Donaghan Tremlett,Muggle-Born,other,other
+Edward Tonks,Muggle-Born,Other,Other
+Donaghan Tremlett,Muggle-Born,Other,Other
 Myrtle Warren,Muggle-Born,Ravenclaw,Student
-Rosemary Ames,Muggle,other,other
+Rosemary Ames,Muggle,Other,other
 Hetty_Bayliss,Muggle,other,other
 Amy Benson,Muggle,other,other
 Frank Bryce,Muggle,other,other 
@@ -122,7 +122,7 @@ Winky,House-Elf,other,other
 Bogrod,Goblin,other,other
 Clever_goblin,Goblin,other,other
 Gornuk,Goblin,other,other
-Gringotts_Head_Goblin,,other,other
+Gringotts_Head_Goblin,Goblin,other,other
 Griphook,Goblin,other,other
 Magic_goblin,Goblin,other,other
 Ragnok,Goblin,other,other
@@ -146,7 +146,7 @@ Wailing_Widow,Ghost,other,other
 Knight_with_an_arrow_sticking_out_of_his_forehead,Ghost,other,other
 Gloomy_nuns,Ghost,other,Other
 Avery_II,Pure-Blood,Slytherin,Other
-Avery_I,Half_Blood,Slytherin,Other
+Avery_I,Half-blood,Slytherin,Other
 Mr_Tibbles,Cat,Other,Other
 Mrs_Norris,Cat,Other,Other
 Fenrir_Greyback,Werewolf,Other,Other
@@ -154,7 +154,7 @@ Norberta,Dragon,Other,Other
 Fluffy,Three-headed dog,Other,Other
 Grawp,Giant,Other,Other
 Septima_Vector,Other,Other,Teacher
-Barry_Ryan,Other,Other,Ot
+Barry_Ryan,Other,Other,Other
 Augustus_Rookwood,Pure-Blood,Other,Other
 Arnold,Pygmy Puff,Other,Other
 Armando_Dippet,Other,Other,Teacher
