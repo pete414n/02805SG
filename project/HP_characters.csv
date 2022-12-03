@@ -1,332 +1,321 @@
-Hannah Abbott,Half-Blood,Hufflepuff,Student
-Susan Bones,Half-Blood,Hufflepuff,Student
-Mandy Brocklehurst,Half-Blood,Ravenclaw,Student
-Millicent Bulstrode,Half-Blood,Slytherin,Student
-Aberforth Dumbledore,Half-Blood,Other,Other
-Albus Dumbledore,Half-Blood,Gryffindor,Teacher
-Seamus Finnigan,Half-Blood,Gryffindor,Student
-Mundungus Fletcher,Half-Blood,Other,Other
-Anthony Goldstein,Half-Blood,Ravenclaw,Student
-Hugo Granger-Weasley,Half-Blood,Other,Other
-Rose Granger-Weasley,Half-Blood,Gryffindor,Student
-Gilderoy Lockhart,Half-Blood,Ravenclaw,Teacher
-Remus Lupin,Half-Blood,Gryffindor,Teacher
-Edward Lupin,Half-Blood,Hufflepuff,Student
-Minerva McGonagall,Half-Blood,Gryffindor,Teacher
-Garrick Ollivander,Half-Blood,Ravenclaw,Other
-James_Potter_II,Half-Blood,Gryffindor,Student
-Albus_Potter,Half-Blood,Slytherin,Student
-Harry_Potter,Half-Blood,Gryffindor,Student
-Lily_L._Potter,Half-Blood,Gryffindor,Student
-Quirinus Quirrell,Half-Blood,Ravenclaw,Teacher
-Tom Riddle,Half-Blood,Slytherin,Other
-Severus Snape,Half-Blood,Slytherin,Teacher
-Dean Thomas,Half-Blood,Gryffindor,Student
-Nymphadora_Tonks,Half-Blood,Hufflepuff,Other
-Sybill_Trelawney,Half-Blood,Ravenclaw,Teacher
-Dolores_Umbridge,Half-Blood,Slytherin,Teacher
-Apolline Delacour,Half-Breed,Other,Other
-Fleur Delacour,Half-Breed,Other,Student
-Gabrielle Delacour,Half-Breed,Other,Student 
-Filius Flitwick,Half-Breed,Ravenclaw,Teacher
-Rubeus Hagrid,Half-Breed,Gryffindor,Teacher
-Olympe Maxime,Half-Breed,Other,Teacher
-Mary Cattermole,Muggle-Born,Other,other
-Colin Creevey,Muggle-Born,Gryffindor,Student
-Dennis Creevey,Muggle-Born,Gryffindor,Student
-Dirk Cresswell,Muggle-Born,Other,Other
-Justin Finch-Fletchley,Muggle-Born,Gryffindor,Student
-Hermione Granger,Muggle-Born,Gryffindor,Student
-Lily J. Potter,Muggle-Born,Gryffindor,Student
-Edward Tonks,Muggle-Born,Other,Other
-Donaghan Tremlett,Muggle-Born,Other,Other
-Myrtle Warren,Muggle-Born,Ravenclaw,Student
-Rosemary Ames,Muggle,Other,other
-Hetty_Bayliss,Muggle,other,other
-Amy Benson,Muggle,other,other
-Frank Bryce,Muggle,other,other 
-Cecilia,Muggle,other,other
-Herbert_Chorley,Muggle,other,other
-Cole,Muggle,other,other
-Cook_of_The_Hanged_Man,Muggle,other,other
-Yvette_Coquelot,Muggle,other,other
-Creevey_brothers'_father,Muggle,other,other
-Dennis,Muggle,other,other
-Dot,Muggle,other,other
-Dudley_Dursley,Muggle,other,other
-Marjorie_Dursley,Muggle,other,other
-Petunia_Dursley,Muggle,other,other
-Vernon_Dursley,Muggle,other,other
-Evans_sisters'_father,Muggle,other,other
-Evans_sisters'_mother,Muggle,other,other
-Gordon,Muggle,other,other
-Hermione_Granger's_father,Muggle,other,other
-Hermione_Granger's_mother,Muggle,other,other
-Hope_Howell,Muggle,other,other
-Phineas_Nigellus_Black,Pure-Blood,Slytherin,Teacher
-Sirius_Black,Pure-Blood,Gryffindor,Other
-Walburga_Black,Pure-Blood,Slytherin,Other
-Lavender_Brown,Pure-Blood,Gryffindor,Student
-Vincent_Crabbe,Pure-Blood,Slytherin,Student
-Bartemius_Crouch_Senior,Pure-Blood,Other,Other
-Elphias_Doge,Pure-Blood,Other,Other
-Marvolo_Gaunt,Pure-Blood,Other,Other
-Morfin_Gaunt,Pure-Blood,Other,Other
-Goyle,Pure-Blood,Slytherin,Other
-Gregory_Goyle,Pure-Blood,Slytherin,Student
-Daphne_Greengrass,Pure-Blood,Slytherin,Student
-Lestrange,Pure-Blood,Slytherin,Other
-Bellatrix_Lestrange,Pure-Blood,Slytherin,Other
-Rabastan_Lestrange,Pure-Blood,Slytherin,Other
-Rodolphus_Lestrange,Pure-Blood,Slytherin,Other
-Alice_Longbottom,Pure-Blood,Other,Other
-Augusta_Longbottom,Pure-Blood,Other,Other
-Frank_Longbottom,Pure-Blood,Other,Other
-Neville_Longbottom,Pure-Blood,Gryffindor,Student
-Morag_MacDougal,Pure-Blood,Ravenclaw,Student
-Ernest_Macmillan,Pure-Blood,Hufflepuff,Student
-Astoria_Malfoy,Pure-Blood,Other,Other
-Draco_Malfoy,Pure-Blood,Slytherin,Student
-Lucius_Malfoy,Pure-Blood,Slytherin,Other
-Narcissa_Malfoy,Pure-Blood,Slytherin,Other
-Scorpius_Malfoy,Pure-Blood,Slytherin,Student
-Alastor_Moody,Pure-Blood,Other,Other
-Theodore_Nott,Pure-Blood,Slytherin,Student
-Antioch_Peverell,Pure-Blood,Other,Other
-Cadmus_Peverell,Pure-Blood,Other,Other
-Euphemia_Potter,Pure-Blood,Other,Other
-Fleamont_Potter,Pure-Blood,Gryffindor,Other
-James_Potter_I,Pure-Blood,Gryffindor,Other
-Merope_Riddle,Pure-Blood,Other,Other
-Selwyn,Pure-Blood,Slytherin,Other
-Kingsley_Shacklebolt,Pure-Blood,Other,Other
-Salazar_Slytherin,Pure-Blood,Slytherin,Other
-Andromeda_Tonks,Pure-Blood,Slytherin,Other
-Arthur_Weasley,Pure-Blood,Gryffindor,Other
-Charles_Weasley,Pure-Blood,Gryffindor,Other
-Fred_Weasley,Pure-Blood,Gryffindor,Student
-George_Weasley,Pure-Blood,Gryffindor,Student
-Ginevra_Weasley,Pure-Blood,Gryffindor,Student
-Molly_Weasley,Pure-Blood,Gryffindor,Other
-Percy_Weasley,Pure-Blood,Gryffindor,Student
-Ronald_Weasley,Pure-Blood,Gryffindor,Student
-William_Weasley,Pure-Blood,Gryffindor,Other
-Arabella_Figg,Squib,other,other
-Argus_Filch,Squib,other,other
-Muriel,Pure-Blood,Other,Other
-Aurora_Sinistra,Other,Other,Teacher
-Kreacher,House-Elf,other,other
-Hokey,House-Elf,other,other
-Dobby,House-Elf,other,other
-Winky,House-Elf,other,other
-Bogrod,Goblin,other,other
-Clever_goblin,Goblin,other,other
-Gornuk,Goblin,other,other
-Gringotts_Head_Goblin,Goblin,other,other
-Griphook,Goblin,other,other
-Magic_goblin,Goblin,other,other
-Ragnok,Goblin,other,other
-Tall_goblin,Goblin,other,other
-Blast-Ended_Skrewt,Creature,other,other
-Thestral,Creature,other,other
-Bane,Centaur,other,other
-Firenze,Centaur,other,other
-Magorian,Centaur,other,other
-Ronan,Centaur,other,other
-Hedwig,Owl,other,other
-Errol,Owl,other,other
-Hermes,Owl,other,other
-Pigwidgeon,Owl,other,other
-Bloody_Baron,Ghost,other,other
-Cuthbert_Binns,Ghost,other,other
-Fat_Friar,Ghost,other,other
-Helena_Ravenclaw,Ghost,other,other
-Nicholas_de_Mimsy-Porpington,Ghost,other,other
-Wailing_Widow,Ghost,other,other
-Knight_with_an_arrow_sticking_out_of_his_forehead,Ghost,other,other
-Gloomy_nuns,Ghost,other,Other
-Avery_II,Pure-Blood,Slytherin,Other
-Avery_I,Half-blood,Slytherin,Other
-Mr_Tibbles,Cat,Other,Other
-Mrs_Norris,Cat,Other,Other
-Fenrir_Greyback,Werewolf,Other,Other
-Norberta,Dragon,Other,Other
-Fluffy,Three-headed dog,Other,Other
-Grawp,Giant,Other,Other
-Septima_Vector,Other,Other,Teacher
-Barry_Ryan,Other,Other,Other
-Augustus_Rookwood,Pure-Blood,Other,Other
-Arnold,Pygmy Puff,Other,Other
-Armando_Dippet,Other,Other,Teacher
-Archie_Aymslowe,Other,Other,Other
-Adrian_Pucey,Other,Slytherin,Student
-Agnes,Other,Other,Other
-Aidan_Lynch,Other,Other,Other
-Albert_Runcorn,Half-blood,Other,Other
-Alderton,Muggle-born,Other,Other
-Alecto_Carrow,Half-blood,Slytherin,Teacher
-Alicia_Spinnet,Half-blood,Gryffindor,Student
-Ambrosius_Flume,Other,Other,Other
-Amelia_Bones,Half-Blood,Other,Other
-Amos_Diggory,Half-Blood,Other,Other
-Amycus_Carrow,Half-Blood,Slytherin,Teacher
-Andrew_Kirke,Other,Gryffindor,Other
-Angelina_Johnson,Muggle-born,Gryffindor,Student
-Antonin_Dolohov,Pure-Blood,Other,Other
-Aragog,Acromantula,Other,Other
-Basil,Pure-Blood,Other,Other
-Bathilda_Bagshot,Other,Other,Other
-Bertha_Jorkins,Ghost,Other,Other
-Blaise_Zabini,Half-Blood,Slytherin,Student
-Miles_Bletchley,Other,Slytherin,Student
-Bob_Ogden,Pure-Blood,Other,Other
-Lucian_Bole,Other,Slytherin,Student
-Bozo,Other,Other,Other
-Broderick_Bode,Other,Other,Other
-Buckbeak,Hippogriff,Other,Other
-Cadwallader,Other,Hufflepuff,Student
-Caractacus_Burke,Half-Blood,Other,Other
-Cedric_Diggory,Pure-Blood,Hufflepuff,Student
-Chambers,Other,Ravenclaw,Student
-Charity_Burbage,Half-Blood,Other,Teacher
-Cho_Chang,Pure-Blood,Ravenclaw,Student
-Connolly,Other,Other,Other
-Cormac_McLaggen,Half-Blood,Gryffindor,Student
-Cornelius_Fudge,Half-Blood,Other,Other
-Crookshanks,Cat,Other,Other
-Dedalus_Diggle,Pure-Blood,Other,Other
-Demelza_Robins,Other,Gryffindor,Student
-Derek,Other,Other,Student
-Dexter_Fortescue,Portrait,Other,Other
-Dilys_Derwent,Portrait,Other,Other
-Doris_Crockford,Other,Other,Other
-Eddie_Carmichael,Other,Ravenclaw,Student
-Edgar_Bones,Pure-Blood,Hufflepuff,Other
-Eileen_Prince,Pure-Blood,Slytherin,Other
-Eldred_Worple,Other,Other,Other
-Eleanor_Branstone,Other,Hufflepuff,Student
-Eloise_Midgen,Other,Gryffindor,Student
-Emma_Dobbs,Other,Other,Student
-Emmeline_Vance,Other,Other,Other
-Eric_Munch,Other,Other,Other
-Ernest_Prang,Other,Gryffindor,Other
-Euan_Abercrombie,Other,Gryffindor,Student
-Everard,Portrait,Other,Other
-Fang,Boarhound,Other,Other
-Fawkes,Phoenix,Other,Other
-Florean_Fortescue,Other,Other,Other
-Gellert_Grindelwald,Half-Blood,Other,Other
-Gibbon,Other,Other,Other
-Gideon_Crumb,Other,Other,Other
-Graham_Pritchard,Other,Slytherin,Student
-Mykew_Gregorovitch,Other,Other,Other
-Griselda_Marchbanks,Other,Other,Other
-Zacharias_Smith,other,Hufflepuff,Student
-Corban_Yaxley,other,other,other
-Xenophilius_Lovegood,other,Ravenclaw,other
-Willy_Widdershins,other,other,other 
-Williamson,other,other,other
-Wilkie_Twycross,other,other,Teacher
-Wilhelmina_Grubbly-Plank,other,other,Teacher
-Cassius_Warrington,other,Slytherin,Student
-Pyotr_Vulchanov,other,other,other
-Ivan_Volkov,other,other,other
-Vindictus_Viridian,Portrait,other,other
-Viktor_Krum,other,other,other
-Victoire_Weasley,other,other,other 
-Vaisey,other,Slytherin,other
-Urquhart_Rackharrow,Portrait,other,other
-Tufty,Cat,other,other
-Troy,other,other,other
-Trevor,Toad,other,other
-Travers,other,other,other
-Tofty,other,other,Teacher
-Tobias_Snape,Muggle,other,other
-Tiberius_Ogden,other,other,other
-Thorfinn_Rowle,other,other,other 
-Fat_Lady,Portrait,other,other
-Terry_Boot,other,Ravenclaw,Student 
-Terence_Higgs,other,Slytherin,Student
-Tenebrus,Thestral,other,other 
-Summerby,other,Hufflepuff,Student 
-Sturgis_Podmore,other,other,other
-Stewart_Ackerley,other,Ravenclaw,Student
-Stebbins_(1990s_Hogwarts_student),other,Hufflepuff,Student
-Stanley_Shunpike,other,other,other
-Patrick_Delaney-Podmore,Ghost,other,other
-Cadogan,Portrait,Gryffindor,other
-Septima_Vector,other,other,Teacher
-Selwyn,other,other,other
-Scabior,other,Slytherin,other
-Peter_Pettigrew,other,Gryffindor,other
-Sanguini,Vampire,other,other
-Fawcett,other,Ravenclaw,Student
-Rufus_Scrimgeour,other,other,other
-Rowena_Ravenclaw,other,other,other
-Rose_Zeller,other,Hufflepuff,Student
-Romilda_Vane,other,Gryffindor,Student
-Rolanda_Hooch,other,other,Teacher
-Roger_Davies,other,Ravenclaw,Student
-Rodolphus_Lestrange,Pure-Blood,Slytherin,other
-Ritchie_Coote,other,Gryffindor,Student
-Regulus_Black,other,Slytherin,other
-Reginald_Cattermole,other,other,other
-Quigley,other,other,other
-Poppy_Pomfrey,other,other,other
-Pomona_Sprout,other,Hufflepuff,Teacher
-Poliakoff,other,other,other
-Pius_Thicknesse,other,other,other
-Piers_Polkiss,Muggle,other,other
-Perkins,other,other,other
-Penelope_Clearwater,other,Ravenclaw,Student
-Peeves,other,other,other
-Rita_Skeeter,other,other,other
-Ripper,Dog,other,other
-Parvati_Patil,other,Gryffindor,Student
-Pansy_Parkinson,other,Slytherin,Student
-Padma_Patil,other,Ravenclaw,Student
-Owen_Cauldwell,other,Hufflepuff,Student
-Orla_Quirke,other,Ravenclaw,Student
-Oliver_Wood,other,Gryffindor,Student
-Natalie_McDonald,other,Slytherin,Student
-Nagini,other,other,other
-Myron_Wagtail,other,other,other
-Mullet,other,other,other
-Mulciber_II,other,Slytherin,other
-Mason,Muggle,other,other
-Mason's_wife,Muggle,other,other
-Prentice,Muggle,other,other
-Borgin,other,other,other
-Graham_Montague,other,Slytherin,Student
-Graham_Montague's_father,other,other,other
-Graham_Montague's_mother,other,other,other
-Miriam_Strout,other,other,other
-Miles_Bletchley,other,Slytherin,Student
-Michael_Corner,other,Ravenclaw,Student
-Mary_Macdonald,other,other,other
-Marietta_Edgecombe,other,Ravenclaw,Student
-Marcus_Flint,other,Slytherin,Student
-Marcus_Belby,other,Ravenclaw,Student
-Mafalda_Hopkirk,other,other,other
-Rosmerta,other,other,other
-Puddifoot,other,other,other
-Malkin,other,other,other
-Luna_Lovegood,other,Ravenclaw,Student
-Ludovic_Bagman,other,other,other
-Lisa_Turpin,other,Ravenclaw,Student
-Lee_Jordan,other,Gryffindor,Student
-Laura_Madley,other,Hufflepuff,Student
-Kevin_Whitby,other,Hufflepuff,Student
-Katie_Bell,other,Gryffindor,Student
-Jugson,other,other,other
-John_Dawlish,other,other,other
-Jimmy_Peakes,other,Gryffindor,Student
-Jim_McGuffin,Muggle,other,other
-Jack_Sloper,other,Gryffinder,Student
-Clara_Ivanova,other,other,other
-Irma_Pince,other,other,other
-Igor_Karkaroff,other,other,other
-Hippocrates_Smethwyck,other,other,other
-Hestia_Jones,other,other,other
-Hassan_Mostafa,other,other,other
-Harper,other,Slytherin,Student
+Hannah Abbott,Half-Blood,Hufflepuff,Student,Dumbledore’s Army
+Susan Bones,Half-Blood,Hufflepuff,Student,Dumbledore’s Army
+Mandy Brocklehurst,Half-Blood,Ravenclaw,Student,Unknown
+Millicent Bulstrode,Half-Blood,Slytherin,Student,Unknown
+Aberforth Dumbledore,Half-Blood,Unknown,"Owner, Barman",Order of the Phoenix
+Albus Dumbledore,Half-Blood,Gryffindor,Teacher,Order of the Phoenix
+Seamus Finnigan,Half-Blood,Gryffindor,Student,Dumbledore’s Army
+Mundungus Fletcher,Half-Blood,Unknown,Dealer,Order of the Phoenix
+Anthony Goldstein,Half-Blood,Ravenclaw,Student,Dumbledore’s Army
+Hugo Granger-Weasley,Half-Blood,Other,Child,Other
+Rose Granger-Weasley,Half-Blood,Gryffindor,Student,Other
+Gilderoy Lockhart,Half-Blood,Ravenclaw,Teacher,Unknown
+Remus Lupin,Half-Blood,Gryffindor,Teacher,Order of the Phoenix
+Edward Lupin,Half-Blood,Hufflepuff,Student,Unknown
+Minerva McGonagall,Half-Blood,Gryffindor,Teacher,Order of the Phoenix
+Garrick Ollivander,Half-Blood,Ravenclaw,Wandmaker,Other
+James_Potter_II,Half-Blood,Gryffindor,Student,Other
+Albus_Potter,Half-Blood,Slytherin,Student,Other
+Harry_Potter,Half-Blood,Gryffindor,Student,Dumbledore’s Army
+Lily_L._Potter,Half-Blood,Gryffindor,Student,Other
+Quirinus Quirrell,Half-Blood,Ravenclaw,Teacher,Death Eaters
+Tom Riddle,Half-Blood,Slytherin,Shop assistant,Death Eaters
+Severus Snape,Half-Blood,Slytherin,Teacher,"Order of the Phoenix, Death Eaters"
+Dean Thomas,Half-Blood,Gryffindor,Student,Dumbledore’s Army
+Nymphadora_Tonks,Half-Blood,Hufflepuff,Auror,Order of the Phoenix
+Sybill_Trelawney,Half-Blood,Ravenclaw,Teacher,Order of the Phoenix
+Dolores_Umbridge,Half-Blood,Slytherin,Teacher,Death Eaters
+Apolline Delacour,Half-Breed,Unknown,unknown,Unknown
+Fleur Delacour,Half-Breed,Other,Student,Order of the Phoenix
+Gabrielle Delacour,Half-Breed,Other,Student ,Unknown
+Filius Flitwick,Half-Breed,Ravenclaw,Teacher,Order of the Phoenix
+Rubeus Hagrid,Half-Breed,Gryffindor,Teacher,Order of the Phoenix
+Olympe Maxime,Half-Breed,Other,Teacher,Order of the Phoenix
+Mary Cattermole,Muggle-Born,Unknown,unknown,Unknown
+Colin Creevey,Muggle-Born,Gryffindor,Student,Dumbledore’s Army
+Dennis Creevey,Muggle-Born,Gryffindor,Student,Dumbledore’s Army
+Dirk Cresswell,Muggle-Born,Unknown,Ministry of Magic,Ministry of Magic
+Justin Finch-Fletchley,Muggle-Born,Hufflepuff,Student,Dumbledore’s Army
+Hermione Granger,Muggle-Born,Gryffindor,Student,Dumbledore’s Army
+Lily J. Potter,Muggle-Born,Gryffindor,Student,Order of the Phoenix
+Edward Tonks,Muggle-Born,Unknown,unknown,Order of the Phoenix
+Donaghan Tremlett,Muggle-Born,Unknown,Musician,Unknown
+Myrtle Warren,Ghost,Ravenclaw,Student,Other
+Frank Bryce,Muggle,Other,Gardener,Other
+Cecilia,Muggle,Other,unknown,Other
+Cole,Muggle,Other,Orphanage matron,Other
+Cook_of_The_Hanged_Man,Muggle,Other,Cook,Other
+Dennis,Muggle,Other,Other,Dudley Dursley’s gang
+Dot,Muggle,Other,unknown,Other
+Dudley_Dursley,Muggle,Other,Other,Dudley Dursley’s gang
+Marjorie_Dursley,Muggle,Other,Dog breeder,Other
+Petunia_Dursley,Muggle,Other,Office worker,Other
+Vernon_Dursley,Muggle,Other,Director,Other
+Evans_sisters'_father,Muggle,Other,unknown,Other
+Evans_sisters'_mother,Muggle,Other,unknown,Other
+Gordon,Muggle,Other,Other,Dudley Dursley’s gang
+Hermione_Granger's_father,Muggle,Other,Dentist,Other
+Hermione_Granger's_mother,Muggle,Other,Dentist,Other
+Hope_Howell,Muggle,Other,Office worker,Other
+Phineas_Nigellus_Black,Portrait,Slytherin,Teacher,Unknown
+Sirius_Black,Pure-Blood,Gryffindor,Other,Order of the Phoenix
+Walburga_Black,Portrait,Slytherin,Other,Death Eaters
+Lavender_Brown,Pure-Blood,Gryffindor,Student,Dumbledore’s Army
+Vincent_Crabbe,Pure-Blood,Slytherin,Student,Death Eaters
+Bartemius_Crouch_Senior,Pure-Blood,Unknown,Ministry of Magic,Ministry of Magic
+Elphias_Doge,Pure-Blood,Unknown,Ministry of Magic,Order of the Phoenix
+Marvolo_Gaunt,Pure-Blood,Unknown,Prison,Other
+Morfin_Gaunt,Pure-Blood,Unknown,Prison,Other
+Goyle,Pure-Blood,Slytherin,Prison,Death Eaters
+Gregory_Goyle,Pure-Blood,Slytherin,Student,Death Eaters
+Daphne_Greengrass,Pure-Blood,Slytherin,Student,Unknown
+Lestrange,Pure-Blood,Slytherin,Other,Other
+Bellatrix_Lestrange,Pure-Blood,Slytherin,Prison,Death Eaters
+Rabastan_Lestrange,Pure-Blood,Slytherin,Prison,Death Eaters
+Rodolphus_Lestrange,Pure-Blood,Slytherin,Prison,Death Eaters
+Alice_Longbottom,Pure-Blood,Unknown,Auror,Order of the Phoenix
+Augusta_Longbottom,Pure-Blood,Unknown,Unknown,Order of the Phoenix
+Frank_Longbottom,Pure-Blood,Unknown,Auror,Order of the Phoenix
+Neville_Longbottom,Pure-Blood,Gryffindor,Student,Dumbledore’s Army
+Morag_MacDougal,Pure-Blood,Ravenclaw,Student,Unknown
+Ernest_Macmillan,Pure-Blood,Hufflepuff,Student,Dumbledore’s Army
+Astoria_Malfoy,Pure-Blood,Unknown,Student,Unknown
+Draco_Malfoy,Pure-Blood,Slytherin,Student,Death Eaters
+Lucius_Malfoy,Pure-Blood,Slytherin,Ministry of Magic,Death Eaters
+Narcissa_Malfoy,Pure-Blood,Slytherin,Unknown,Death Eaters
+Scorpius_Malfoy,Pure-Blood,Slytherin,Student,Other
+Alastor_Moody,Pure-Blood,Unknown,Auror,Order of the Phoenix
+Theodore_Nott,Pure-Blood,Slytherin,Student,Death Eaters
+Euphemia_Potter,Pure-Blood,Unknown,Unknown,Other
+Fleamont_Potter,Pure-Blood,Gryffindor,Potioneer,Other
+James_Potter_I,Pure-Blood,Gryffindor,Other,Order of the Phoenix
+Merope_Riddle,Pure-Blood,Unknown,Unknown,Other
+Selwyn,Pure-Blood,Slytherin,Ministry of Magic,Death Eaters
+Kingsley_Shacklebolt,Pure-Blood,Unknown,Ministry of Magic,Order of the Phoenix
+Salazar_Slytherin,Pure-Blood,Slytherin,Teacher,Other
+Andromeda_Tonks,Pure-Blood,Slytherin,Other,Order of the Phoenix
+Arthur_Weasley,Pure-Blood,Gryffindor,Ministry of Magic,Order of the Phoenix
+Charles_Weasley,Pure-Blood,Gryffindor,Dragonologist,Order of the Phoenix
+Fred_Weasley,Pure-Blood,Gryffindor,Student,Dumbledore’s Army
+George_Weasley,Pure-Blood,Gryffindor,Student,Dumbledore’s Army
+Ginevra_Weasley,Pure-Blood,Gryffindor,Student,Dumbledore’s Army
+Molly_Weasley,Pure-Blood,Gryffindor,Unknown,Order of the Phoenix
+Percy_Weasley,Pure-Blood,Gryffindor,Student,Unknown
+Ronald_Weasley,Pure-Blood,Gryffindor,Student,Dumbledore’s Army
+William_Weasley,Pure-Blood,Gryffindor,Gringotts Bank,Order of the Phoenix
+Arabella_Figg,Squib,Other,Dealer,Order of the Phoenix
+Argus_Filch,Squib,Other,Caretaker,Unknown
+Muriel,Pure-Blood,Unknown,Unknown,Order of the Phoenix
+Aurora_Sinistra,Unknown,Unknown,Teacher,Unknown
+Kreacher,House-Elf,Other,House-Elf,Unknown
+Hokey,House-Elf,Other,Servant,Other
+Dobby,House-Elf,Other,House-Elf,Order of the Phoenix
+Winky,House-Elf,Other,House-Elf,Unknown
+Bogrod,Goblin,Other,Gringotts Bank,Unknown
+Gornuk,Goblin,Other,Gringotts Bank,Unknown
+Gringotts_Head_Goblin,Goblin,Other,Gringotts Bank,Unknown
+Griphook,Goblin,Other,Gringotts Bank,Unknown
+Blast-Ended_Skrewt,Beast,Other,Other,Other
+Thestral,Beast,Other,Other,Other
+Bane,Centaur,Other,Other,Unknown
+Firenze,Centaur,Other,Teacher,Order of the Phoenix
+Magorian,Centaur,Other,Other,Unknown
+Ronan,Centaur,Other,Other,Unknown
+Hedwig,Owl,Other,Other,Other
+Errol,Owl,Other,Other,Other
+Hermes,Owl,Other,Other,Other
+Pigwidgeon,Owl,Other,Other,Other
+Bloody_Baron,Ghost,Slytherin,Ghost,Unknown
+Cuthbert_Binns,Ghost,Unknown,Ghost,Unknown
+Fat_Friar,Ghost,Hufflepuff,Ghost,Unknown
+Helena_Ravenclaw,Ghost,Ravenclaw,Ghost,Unknown
+Nicholas_de_Mimsy-Porpington,Ghost,Gryffinder,Ghost,Unknown
+Wailing_Widow,Ghost,Unknown,Ghost,Unknown
+Knight_with_an_arrow_sticking_out_of_his_forehead,Ghost,Unknown,Ghost,Unknown
+Gloomy_nuns,Ghost,Unknown,Ghost,Unknown
+Avery_II,Pure-Blood,Slytherin,Other,Death Eaters
+Avery_I,Half-Blood,Slytherin,Unknown,Unknown
+Mr_Tibbles,Cat,Other,Other,Other
+Mrs_Norris,Cat,Other,Other,Other
+Fenrir_Greyback,Werewolf,Other,Other,Death Eaters
+Norberta,Dragon,Other,Other,Other
+Fluffy,Three-headed dog,Other,Other,Other
+Grawp,Giant,Other,Unknown,Order of the Phoenix
+Septima_Vector,Unknown,Unknown,Teacher,Unknown
+Barry_Ryan,Unknown,Other,Keeper,Unknown
+Augustus_Rookwood,Pure-Blood,Unknown,Unspeakable,Death Eaters
+Arnold,Pygmy Puff,Other,Other,Other
+Armando_Dippet,Unknown,Unknown,Teacher,Unknown
+Archie_Aymslowe,Unknown,Unknown,Activist,Unknown
+Adrian_Pucey,Unknown,Slytherin,Student,Unknown
+Agnes,Unknown,Unknown,Unknown,Unknown
+Aidan_Lynch,Unknown,Other,Seeker,Unknown
+Albert_Runcorn,Half-Blood,Unknown,Ministry of Magic,Death Eaters
+Alecto_Carrow,Half-Blood,Slytherin,Teacher,Death Eaters
+Alicia_Spinnet,Half-Blood,Gryffindor,Student,Dumbledore’s Army
+Ambrosius_Flume,Unknown,Unknown,Co-owner,Unknown
+Amelia_Bones,Half-Blood,Unknown,Ministry of Magic,Order of the Phoenix
+Amos_Diggory,Half-Blood,Unknown,Ministry of Magic,Ministry of Magic
+Amycus_Carrow,Half-Blood,Slytherin,Teacher,Death Eaters
+Andrew_Kirke,Unknown,Gryffindor,Student,Unknown
+Angelina_Johnson,Muggle-born,Gryffindor,Student,Dumbledore’s Army
+Antonin_Dolohov,Pure-Blood,Unknown,Prison,Death Eaters
+Aragog,Acromantula,Other,Other,Other
+Basil,Pure-Blood,Unknown,Ministry of Magic,Ministry of Magic
+Bathilda_Bagshot,Unknown,Unknown,Author,Unknown
+Bertha_Jorkins,Ghost,Unknown,Ghost,Unknown
+Blaise_Zabini,Half-Blood,Slytherin,Student,Unknown
+Miles_Bletchley,Other,Slytherin,Student,Unknown
+Bob_Ogden,Pure-Blood,Unknown,Ministry of Magic,Ministry of Magic
+Lucian_Bole,Unknown,Slytherin,Student,Unknown
+Bozo,Unknown,Unknown,Photographer,Unknown
+Broderick_Bode,Unknown,Unknown,Ministry of Magic,Ministry of Magic
+Buckbeak,Hippogriff,Other,Other,Order of the Phoenix
+Cadwallader,Unknown,Hufflepuff,Student,Unknown
+Cedric_Diggory,Pure-Blood,Hufflepuff,Student,Death Eaters
+Chambers,Unknown,Ravenclaw,Student,Unknown
+Charity_Burbage,Half-Blood,Unknown,Teacher,Unknown
+Cho_Chang,Pure-Blood,Ravenclaw,Student,Dumbledore’s Army
+Connolly,Other,Other,Beater,Other
+Cormac_McLaggen,Half-Blood,Gryffindor,Student,Dumbledore’s Army
+Cornelius_Fudge,Half-Blood,Unknown,Ministry of Magic,Ministry of Magic
+Crookshanks,Cat,Other,Other,Other
+Dedalus_Diggle,Pure-Blood,Unknown,Advance Guard,Order of the Phoenix
+Demelza_Robins,Unknown,Gryffindor,Student,Unknown
+Derek,Unknown,Unknown,Student,Unknown
+Dexter_Fortescue,Portrait,Unknown,Teacher,Other
+Dilys_Derwent,Portrait,Unknown,Teacher,Other
+Doris_Crockford,Unknown,Unknown,Unknown,Unknown
+Eddie_Carmichael,Unknown,Ravenclaw,Student,Unknown
+Edgar_Bones,Pure-Blood,Hufflepuff,Unknown,Order of the Phoenix
+Eileen_Prince,Pure-Blood,Slytherin,Unknown,Unknown
+Eldred_Worple,Unknown,Other,Author,Unknown
+Eleanor_Branstone,Unknown,Hufflepuff,Student,Unknown
+Eloise_Midgen,Unknown,Gryffindor,Student,Unknown
+Emma_Dobbs,Unknown,Unknown,Student,Unknown
+Emmeline_Vance,Unknown,Unknown,Advance Guard,Order of the Phoenix
+Eric_Munch,Unknown,Unknown,Ministry of Magic,Ministry of Magic
+Ernest_Prang,Unknown,Gryffindor,Bus driver,Unknown
+Euan_Abercrombie,Unknown,Gryffindor,Student,Unknown
+Everard,Portrait,Unknown,Teacher,Other
+Fang,Boarhound,Other,Other,Other
+Fawkes,Phoenix,Other,Other,Other
+Florean_Fortescue,Unknown,Unknown,Owner,Unknown
+Gellert_Grindelwald,Half-Blood,Other,Prison,Other
+Gibbon,Unknown,Unknown,Unknown,Death Eaters
+Gideon_Crumb,Unknown,Unknown,Musician,Unknown
+Graham_Pritchard,Unknown,Slytherin,Student,Unknown
+Mykew_Gregorovitch,Other,Other,Wandmaker,Unknown
+Griselda_Marchbanks,Unknown,Other,Other,
+Zacharias_Smith,Unknown,Hufflepuff,Student,Dumbledore’s Army
+Corban_Yaxley,Unknown,Unknown,Ministry of Magic,Death Eaters
+Xenophilius_Lovegood,Pure-Blood,Ravenclaw,Editor,Order of the Phoenix
+Willy_Widdershins,Unknown,Unknown,Prison,Ministry of magic
+Williamson,Unknown,Unknown,Auror,Ministry of magic
+Wilkie_Twycross,Unknownn,Unknown,Teacher,Ministry of magic
+Wilhelmina_Grubbly-Plank,Unknown,Unknown,Teacher,Unknown
+Cassius_Warrington,Unknown,Slytherin,Student,Unknown
+Pyotr_Vulchanov,Unknown,Other,Beater,Other
+Ivan_Volkov,Unknown,Other,Beater,Other
+Viktor_Krum,Pure-Blood,other,Seeker,Other
+Victoire_Weasley,Part-Veela,Unknown,Student,Other
+Vaisey,Unknown,Slytherin,Student,Unknown
+Urquhart_Rackharrow,Portrait,Unknown,Healer,Other
+Tufty,Cat,Other,Other,Other
+Troy,Unknown,Other,Chaser,Other
+Trevor,Toad,Other,Other,Other
+Travers,Pure-Blood,Unknown,Ministry of Magic,Death Eaters
+Tofty,Unknown,Unknown,Teacher,Unknown
+Tobias_Snape,Muggle,Other,Unknown,Other
+Tiberius_Ogden,Unknown,Unknown,Worker,Ministry of magic
+Thorfinn_Rowle,Half-Blood,Unknown,Unknown,Death Eaters
+Fat_Lady,Portrait,Gryffinder,Door guard,Other
+Terry_Boot,Half-Blood,Ravenclaw,Student ,Dumbledore’s Army
+Terence_Higgs,Unknown,Slytherin,Student,Unknown
+Tenebrus,Thestral,Othert,Other,Other
+Summerby,Unknown,Hufflepuff,Student ,Unknown
+Sturgis_Podmore,Unknown,Unknown,Prison,Order of the Phoenix
+Stewart_Ackerley,Unknown,Ravenclaw,Student,Unknown
+Stebbins_(1990s_Hogwarts_student),Unknown,Hufflepuff,Student,Unknown
+Stanley_Shunpike,Pure-Blood,Other,Conductor,Death Eaters
+Patrick_Delaney-Podmore,Ghost,Unknown,Ghost,Unknown
+Cadogan,Portrait,Gryffindor,Door guard,Other
+Septima_Vector,Unknown,Unknown,Teacher,Unknown
+Selwyn,Pure-Blood,Slytherin,Ministry of Magic,Death Eaters
+Scabior,Pure-Blood,Slytherin,Snatcher,Death Eaters
+Peter_Pettigrew,Half-Blood,Gryffindor,Unknown,Death Eaters
+Sanguini,Vampire,Other,Other,Other
+Fawcett,Unknown,Ravenclaw,Student,Unknown
+Rufus_Scrimgeour,Unknown,Unknown,Ministry of Magic,Ministry of magic
+Rose_Zeller,Unknown,Hufflepuff,Student,Unknown
+Romilda_Vane,Half-Blood,Gryffindor,Student,Dumbledore’s Army
+Rolanda_Hooch,Unknown,Unknown,Teacher,Unknown
+Roger_Davies,Unknown,Ravenclaw,Student,Unknown
+Rodolphus_Lestrange,Pure-Blood,Slytherin,Prison,Death Eaters
+Ritchie_Coote,Unknown,Gryffindor,Student,Unknown
+Regulus_Black,Pure-Blood,Slytherin,Unknown,Death Eaters
+Reginald_Cattermole,Half-Blood,Unknown,Ministry of Magic,Ministry of magic
+Quigley,Unknown,Other,Beater,Other
+Poppy_Pomfrey,Pure-Blood,Unknown,Matron,Order of the Phoenix
+Pomona_Sprout,Half-Blood,Hufflepuff,Teacher,Order of the Phoenix
+Poliakoff,Pure-Blood,Other,Student,Other
+Pius_Thicknesse,Half-Blood,Unknown,Ministry of Magic,Ministry of magic
+Piers_Polkiss,Muggle,Other,Other,Dudley Dursley’s gang
+Perkins,Unknown,Unknown,Ministry of Magic,Ministry of magic
+Penelope_Clearwater,Muggle-Born,Ravenclaw,Student,Unknown
+Peeves,Poltergeist,Unknown,Poltergeist,Order of the Phoenix
+Rita_Skeeter,Pure-Blood,Other,Author,Order of the Phoenix
+Ripper,Dog,Other,Other,Other
+Parvati_Patil,Half-Blood,Gryffindor,Student,Dumbledore’s Army
+Pansy_Parkinson,Pure-Blood,Slytherin,Student,Death Eaters
+Padma_Patil,Half-Blood,Ravenclaw,Student,Dumbledore’s Army
+Owen_Cauldwell,Unknown,Hufflepuff,Student,Unknown
+Orla_Quirke,Unknown,Ravenclaw,Student,Unknown
+Oliver_Wood,Pure-Blood,Gryffindor,Student,Dumbledore’s Army
+Natalie_McDonald,Unknown,Slytherin,Student,Unknown
+Nagini,Unknown,Unknown,Circus performer,Unknown
+Myron_Wagtail,Unknown,Unknown,Musician,Unknown
+Mullet,Unknown,Other,Chaser,Other
+Mulciber_II,Half-Blood,Slytherin,Prison,Death Eaters
+Mason,Muggle,Other,Builder,Other
+Mason's_wife,Muggle,Other,Unknown,Other
+Prentice,Muggle,Other,Unknown,Other
+Borgin,Pure-Blood,Unknown,Shopkeeper,Unknown
+Graham_Montague,Unknown,Slytherin,Student,Unknown
+Graham_Montague's_father,Unknown,Unknown,Unknown,Unknown
+Graham_Montague's_mother,Unknown,Unknown,Unknown,Unknown
+Miriam_Strout,Unknown,Unknown,Healer,Unknown
+Miles_Bletchley,Unknown,Slytherin,Student,Unknown
+Michael_Corner,Half-Blood,Ravenclaw,Student,Dumbledore’s Army
+Mary_Macdonald,Muggle-Born,Unknown,Unknown,Unknown
+Marietta_Edgecombe,Pure-Blood,Ravenclaw,Student,Dumbledore’s Army
+Marcus_Flint,Half-Blood,Slytherin,Student,Unknown
+Marcus_Belby,Pure-Blood,Ravenclaw,Student,Unknown
+Mafalda_Hopkirk,Half-Blood,Unknown,Ministry of Magic,Death Eaters
+Rosmerta,Unknown,Unknown,Landlady,Unknown
+Puddifoot,Unknown,Unknown,Owner,Unknown
+Malkin,Unknown,Unknown,Tailor,Unknown
+Luna_Lovegood,Pure-Blood,Ravenclaw,Student,Dumbledore’s Army
+Ludovic_Bagman,Half-Blood,Unknown,Ministry of Magic,Ministry of magic
+Lisa_Turpin,Unknown,Ravenclaw,Student,Unknown
+Lee_Jordan,Pure-Blood,Gryffindor,Student,Dumbledore’s Army
+Laura_Madley,Unknown,Hufflepuff,Student,Unknown
+Kevin_Whitby,Unknown,Hufflepuff,Student,Unknown
+Katie_Bell,Half-Blood,Gryffindor,Student,Dumbledore’s Army
+Jugson,Pure-Blood,Unknown,Prison,Death Eaters
+John_Dawlish,Half-Blood,Unknown,Auror,Death Eaters
+Jimmy_Peakes,Pure-Blood,Gryffindor,Student,Unknown
+Jim_McGuffin,Muggle,Other,Weatherman,Other
+Jack_Sloper,Unknown,Gryffinder,Student,Unknown
+Clara_Ivanova,Unknown,Other,Chaser,Other
+Irma_Pince,Unknown,Unknown,Librarian,Unknown
+Igor_Karkaroff,Half-Blood,Other,Prison,Death Eaters
+Hippocrates_Smethwyck,Unknown,Unknown,Healer,Unknown
+Hestia_Jones,Pure-Blood,Unknown,Advance Guard,Order of the Phoenix
+Hassan_Mostafa,Unknown,Other,Quidditch referee,Other
+Harper,Pure-Blood,Slytherin,Student,Unknown
+Leanne,Pure-Blood,Hufflepuff,Student,Dumbledore’s Army
+Bartemius_Crouch_Junior,Pure-Blood,Unknown,Teacher,Death Eaters
+Crabbe,Pure-Blood,Slytherin,Unknown,Death Eaters
+Nott,Pure-Blood,Unknown,Unknown,Death Eaters
+Walden_Macnair,Half-Blood,Unknown,Ministry of Magic,Death Eaters
