@@ -4,7 +4,7 @@
 |name = Bob Ogden
 |born = [[1908]] at the latest
 |died = Some time before [[7 September]], [[1996]]
-|blood = [[Half-blood]] or [[Pure-blood]] (likely)
+|blood = [[Pure-blood]] or [[half-blood]] (likely)
 |marital = 
 |nationality = [[Great Britain|British]]
 |alias = 
@@ -23,7 +23,7 @@
 |romances = 
 |animagus = 
 |boggart = 
-|wand = [[Bob Ogden's wand|Unknown wood, length and core materials]]
+|wand = [[Bob Ogden's wand|Unknown length, wood and core]]
 |patronus = 
 |job = Head of the [[Magical Law Enforcement Patrol|Magical Law Enforcement Squad]]
 |house = 
@@ -62,7 +62,7 @@ Bob Ogden was described as being a "short, plump man wearing enormously thick [[
 
 ==Personality and traits==
 {{Dialogue a-b-a|Bob Ogden|I'm head of the [[Magical Law Enforcement Patrol|Magical Law Enforcement Squad]].|Marvolo Gaunt|And you think we're scum, do you? Scum who'll come running when the [[British Ministry of Magic|Ministry]] tells 'em to? Do you know who you're talking to, you filthy little [[Mudblood]], do you?|I was under the impression that I was speaking to Mr Gaunt.|Bob Ogden standing his ground against [[Marvolo Gaunt]], who calls him a "[[Mudblood]]" despite not knowing Ogden's [[blood status]]|Harry Potter and the Half-Blood Prince|Harry Potter and the Half-Blood Prince}} 
-A diligent [[officer]] of the law, Bob Ogden took his duties seriously and maintained a professional and courteous demeanour despite Marvolo's hostility toward him and the Ministry. He was utterly unintimidated by [[Marvolo Gaunt]]'s aggressive behaviour, and notably also appalled by the way Gaunt treated his daughter Merope, and displayed both bravery in compassion when he defended her from her father's assault, who tried to strangle her to death when he learned that she was in love with a Muggle.
+A diligent [[Magical Law Enforcement Officer|officer]] of the law, Bob Ogden took his duties seriously and maintained a professional and courteous demeanour despite Marvolo's hostility toward him and the Ministry. He was utterly unintimidated by [[Marvolo Gaunt]]'s aggressive behaviour, and notably also appalled by the way Gaunt treated his daughter Merope, and displayed both bravery in compassion when he defended her from her father's assault, who tried to strangle her to death when he learned that she was in love with a Muggle.
 
 He also earned the posthumous respect of Harry Potter, as he was a dedicated policeman who confronted two dangerous men unflappably, and did not seem to think blood purity was relevant to the topic of enforcing wizarding law.
 
@@ -94,6 +94,7 @@ He also earned the posthumous respect of Harry Potter, as he was a dedicated pol
 [[pl:Bob Ogden]]
 [[ru:Боб Огден]]
 [[sv:Bob Ogden]]
+
 [[Category:20th century deaths]]
 [[Category:British individuals]]
 [[Category:Department of Magical Law Enforcement personnel]]

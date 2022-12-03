@@ -1,6 +1,6 @@
 {{Individual infobox
 |theme = mom
-|image = [[File:Harry-potter-deathly-hallows dirk.jpg|250px]]
+|image = Harry-potter-deathly-hallows dirk.jpg
 |name = Dirk Cresswell
 |born = Between [[1 September]] [[1960]] and [[31 August]] [[1961]]
 |died = [[March]], [[1998]] (aged 37)<br/>[[Great Britain]]
@@ -27,10 +27,11 @@
 |patronus = Non-corporeal
 |job = Head of the [[Goblin Liaison Office]]
 |house = 
-|loyalty = *[[British Ministry of Magic|Ministry of Magic]]
-**[[Goblin Liaison Office]]
+|loyalty = *[[Cresswell family]]
 *[[Hogwarts School of Witchcraft and Wizardry]]
 **[[Slug Club]]
+*[[British Ministry of Magic]]
+**[[Goblin Liaison Office]]
 }}
 {{Quote|Dirk Cresswell is ten times the wizard [[Albert Runcorn|you]] are. And if he survives Azkaban, you'll have to answer to him, not to mention his wife, his sons, and his friends —|[[Arthur Weasley]]'s high opinion of Dirk|Harry Potter and the Deathly Hallows}}
 '''Dirk Cresswell''' (c. [[1961]] – [[March]], [[1998]]) was a [[Muggle-born]] [[Wizardkind|wizard]]. In the mid-[[1990s]] he became Head of the [[Goblin Liaison Office]], in the [[British Ministry of Magic|Ministry of Magic]].

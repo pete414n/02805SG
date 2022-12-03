@@ -47,6 +47,7 @@
 *Greek (Ancient): ''Μανδύα Βροχολούστης''
 *Hebrew: ''מנדי ברוקלהרסט''
 *Japanese: ''マンディ・ブロックルハースト {{c|Mandy Brocklehust}}''
+*Latvian: ''Mendija Broklhērsta''
 *Norwegian: ''Amanda Brunkenberg''
 *Portuguese (Brazil): ''Mádi Brocklehurst''
 *Russian: ''Мэри Брокльхерст {{c|Meri Brokl'kherst}}''
@@ -71,8 +72,8 @@ The following languages are the same as the original:
 *Latin
 *Polish
 |
-* Spanish
-* Swedish
+*Spanish
+*Swedish
 |}
 ==Appearances==
 *{{PS}} {{1st}}

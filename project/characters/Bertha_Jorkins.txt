@@ -1,9 +1,9 @@
 {{MagicAwakenedSpoiler}}
 {{Individual infobox
 |theme = mom
-|image = [[File:BerthaJorkins PM.png|250px]]
+|image = BerthaJorkins PM.png
 |name = Bertha Jorkins
-|born = [[1 September]] [[1953]] - [[31 August]] [[1958]]
+|born = Before [[1 September]] [[1953]] and [[31 August]] [[1958]]
 |died = [[1994]] (aged around 35-40), [[Albania]]
 |blood = 
 |marital = 
@@ -18,8 +18,8 @@
 |hair = 
 |eyes = 
 |skin = 
-|family = *[[Bertha Jorkins' aunt|Aunt]]
-*[[Bertha Jorkins' second cousin|Second cousin]]
+|family = *[[Bertha Jorkins's aunt|Aunt]]
+*[[Bertha Jorkins's second cousin|Second cousin]]
 *[[Primrose Jorkins]] (possibly)
 *[[Albert Jorkins]] (possibly)
 *[[Granville Jorkins]] (possibly)
@@ -38,6 +38,7 @@
 |loyalty = *[[Jorkins family]]
 *[[Hogwarts School of Witchcraft and Wizardry]]
 *[[British Ministry of Magic]]
+**[[Department of International Magical Co-operation]] (formerly)
 **[[Department of Magical Games and Sports]]
 }}
 {{Quote|Listen, I knew Bertha Jorkins. She was at Hogwarts when I was, a few years above [[James Potter I|your dad]] and me. And she was an idiot. Very nosy, but no brains, none at all. It's not a good combination, [[Harry Potter|Harry]]. I'd say she'd be very easy to lure into a trap.|Bertha's lack of intelligence|Harry Potter and the Goblet of Fire}}
@@ -45,7 +46,7 @@
 
 ==Biography==
 ===Early life===
-Bertha Jorkins was born at some point between [[1 September]], [[1953]], and [[31 August]], [[1958]]. Her parentage is unknown.
+Bertha Jorkins was born at some point between [[1 September]] [[1953]], and [[31 August]] [[1958]]. Her parentage is unknown.
 
 ===Hogwarts years===
 Bertha Jorkins was a few years ahead of [[James Potter I|James Potter]], [[Sirius Black]], [[Remus Lupin]], and [[Peter Pettigrew]] at [[Hogwarts School of Witchcraft and Wizardry]]. She was a gossipy girl and not very bright, which Sirius noted to not be a very good combination. During her school years, she would regularly complain about mistreatment from other students and spread rumours, even once ending up in front of [[Albus Dumbledore|Dumbledore]] following an incident. 
@@ -53,7 +54,7 @@ Bertha Jorkins was a few years ahead of [[James Potter I|James Potter]], [[Siriu
 Bertha was described as being a slightly plump girl with a sulky expression, though her expression could just be due to the fact she was complaining to Dumbledore. She once complained about being [[Hex]]ed by a [[Florence's boyfriend|boy]] whom she teased because she had caught him kissing [[Florence]] behind the [[Hogwarts greenhouses]].
 
 ===Career at the Ministry===
-After graduating from Hogwarts, Bertha joined the [[British Ministry of Magic|Ministry of Magic]] and floated between Departments, including [[Department of International Magical Co-operation]] while [[Bartemius Crouch Senior|Barty Crouch Snr]] was the Department Head. She finally ended up in the [[Department of Magical Games and Sports]] under the leadership of [[Ludovic Bagman|Ludo Bagman]].
+After graduating from Hogwarts, Bertha joined the [[British Ministry of Magic]] and floated between Departments, including [[Department of International Magical Co-operation]] while [[Bartemius Crouch Senior|Barty Crouch Snr]] was the Department Head. She finally ended up in the [[Department of Magical Games and Sports]] under the leadership of [[Ludovic Bagman|Ludo Bagman]].
 
 Bertha had the misfortune of making a visit to the estate of Crouch Snr with some papers for him to sign, where she discovered the Crouch family secret that they were keeping their convicted [[Death Eaters|Death Eater]] son [[Bartemius Crouch Junior|Barty Crouch Jnr]] trapped in their house under the [[Imperius Curse]] and an [[invisibility cloak]] when their [[house-elf]] [[Winky]] was talking to the criminal, of which Bertha heard enough to deduce who was under the cloak. 
 
@@ -64,7 +65,7 @@ Bertha Jorkins went on holiday to [[Albania]] in [[1994]]. One night in a waysid
 
 Lord Voldemort was able to break through the Memory Charm placed by Crouch Snr on her through [[Cruciatus Curse|torture]] and learned of the imprisonment of his follower Crouch Jnr, and also learned valuable information about the [[Triwizard Tournament]] which he would use to try to kill [[Harry Potter]].
 
-Breaking through the Memory Charm had left Bertha severely "''damaged''," by permanently damaging her mind and body beyond repair, and Lord Voldemort murdered her with the [[Killing Curse]], because he had no more use for her. Voldemort used her death to turn his [[snake]] [[Nagini]] into a [[Horcrux]]. Pettigrew noted this was a poor move, believing that the Ministry would notice her disappearance and that they could have simply modified her memory to cover their tracks, which Voldemort believed would be an insult to her ''memory''.
+Breaking through the Memory Charm had left Bertha severely "''damaged''", by permanently damaging her mind and body beyond repair, and Lord Voldemort murdered her with the [[Killing Curse]], because he had no more use for her. Voldemort used her death to turn his [[snake]] [[Nagini]] into a [[Horcrux]]. Pettigrew noted this was a poor move, believing that the Ministry would notice her disappearance and that they could have simply modified her memory to cover their tracks, which Voldemort believed would be an insult to her ''memory''.
 
 ===Post-mortem===
 {{Quote|Don't let go, now! Don't let him get you, Harry — don't let go!|Bertha's echo to Harry Potter in the Little Hangleton graveyard|Harry Potter and the Goblet of Fire}}
@@ -91,7 +92,7 @@ Upon her brief return to the mortal realm, Bertha was supportive of Harry Potter
 Her first name, Bertha, means "intelligent" or "shining" — an ironic first name, as she was gossipy, forgetful and not always wisely cautious about danger. Jorkins may be from Mr Jorkins, a character in Charles Dickens' ''David Copperfield'' and ''A Christmas Carol''.
 
 ==Behind the scenes==
-*She was cut from {{GOF|FA}}, for time reasons.
+*She was cut from {{GOF|FA}}, for timing reasons, leaving several plot holes which were never addressed.
 
 ==Appearances==
 *{{GOF}} {{1st}} {{Ghost}}

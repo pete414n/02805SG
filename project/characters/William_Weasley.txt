@@ -4,12 +4,13 @@
 |theme = gringotts
 |image = BillWeasleyDH2.png
 |name = William Arthur Weasley
-|born = [[29 November]], [[1970]]<br/>[[England]], [[Great Britain]]
+|born = [[29 November]] [[1970]]
+[[England]], [[Great Britain]]
 |died = 
 |blood = [[Pure-blood]]
 |marital = Married
 |nationality = [[England|English]]
-|alias = Bill (by [[Weasley family|family]] and [[Order of the Phoenix|friends]])
+|alias = Bill
 |title = *[[Prefect]] 
 *[[Head Boy or Girl|Head Boy]]
 |signature = 
@@ -17,7 +18,7 @@
 |gender = Male
 |height = 
 |weight = 
-|hair = Red, long
+|hair = Red
 |eyes = 
 |skin = 
 |family = *[[Arthur Weasley]] (father)
@@ -86,11 +87,11 @@
 *[[Delacour family]]
 }}
 {{Quote|What do I care how 'e looks? I am good-looking enough for both of us, I theenk! All these scars show is that my husband is brave.|Fleur Delacour regarding Bill's bravery|Harry Potter and the Half-Blood Prince}}
-'''William Arthur''' '''"Bill" Weasley''' (b. [[29 November]], [[1970]]) was an [[England|English]] [[pure-blood]] [[Wizardkind|wizard]], the first child of [[Arthur Weasley|Arthur]] and [[Molly Weasley]] {{c|née Prewett}} and the eldest brother of [[Charles Weasley|Charlie]], [[Percy Weasley|Percy]], the late [[Fred Weasley|Fred]], [[George Weasley|George]], [[Ronald Weasley|Ron]], and [[Ginevra Weasley|Ginny]]. He attended [[Hogwarts School of Witchcraft and Wizardry]] from [[1982]] to [[1989]] and was [[Sorting ceremony|Sorted]] into [[Gryffindor]] [[Hogwarts Houses|House]]. Bill was both a [[Prefect]] and [[Head Boy or Girl|Head Boy]]. 
+'''William Arthur''' '''"Bill" Weasley''' (b. [[29 November]] [[1970]]) was an [[England|English]] [[pure-blood]] [[Wizardkind|wizard]], the first child of [[Arthur Weasley|Arthur]] and [[Molly Weasley]] {{c|née Prewett}} and the eldest brother of [[Charles Weasley|Charlie]], [[Percy Weasley|Percy]], the late [[Fred Weasley|Fred]], [[George Weasley|George]], [[Ronald Weasley|Ron]], and [[Ginevra Weasley|Ginny]]. He attended [[Hogwarts School of Witchcraft and Wizardry]] from [[1982]] to [[1989]] and was [[Sorting ceremony|Sorted]] into [[Gryffindor]] [[Hogwarts Houses|House]]. Bill was both a [[Prefect]] and [[Head Boy or Girl|Head Boy]]. 
 
-After graduating from Hogwarts he went to work for [[Gringotts Wizarding Bank]] as a [[Curse-Breaker]], working in [[Egypt]]. In 1995, he returned to England and joined the reconstituted [[Order of the Phoenix]] to face the reborn [[Tom Riddle|Lord Voldemort]]. During this time, he started courting [[Fleur Delacour]] and eventually proposed to her after a year of dating.
+After graduating from Hogwarts he went to work for [[Gringotts Wizarding Bank]] as a [[Curse-Breaker]], working in [[Egypt]]. In [[1995]], he returned to England and joined the reconstituted [[Order of the Phoenix]] to face the reborn [[Tom Riddle|Lord Voldemort]]. During this time, he started courting [[Fleur Delacour]] and eventually proposed to her after a year of dating.
 
-During the [[Battle of the Astronomy Tower]], Bill was severely injured and scarred by the [[werewolf]] [[Fenrir Greyback]]. Although he wasn't turned into a werewolf, he did develop some wolfish tendencies such as a liking for very rare steaks. He [[Wedding of William Weasley and Fleur Delacour|married]] Fleur on 1 August 1997, although their wedding was disrupted by the arrival of [[Death Eaters]] following the fall of the [[British Ministry of Magic|Ministry of Magic]]. 
+During the [[Battle of the Astronomy Tower]], Bill was severely injured and scarred by the [[werewolf]] [[Fenrir Greyback]]. Although he wasn't turned into a werewolf, he did develop some wolfish tendencies such as a liking for very rare steaks. He [[Wedding of William Weasley and Fleur Delacour|married]] Fleur on [[1 August]] [[1997]], although their wedding was disrupted by the arrival of [[Death Eaters]] following the [[Fall of the British Ministry of Magic|fall]] of the [[British Ministry of Magic|Ministry of Magic]]. 
 
 Bill and Fleur then moved to [[Shell Cottage]], where they assisted [[Harry Potter|Harry]], Ron, and [[Hermione Granger|Hermione]] after their escape from [[Malfoy Manor]]. Bill later fought in the [[Battle of Hogwarts]] alongside the rest of the Order and survived.
 
@@ -104,7 +105,7 @@ Bill and his five brothers — Charlie, Percy, Fred, George, and Ron — as well
 
 The Weasley family was not wealthy compared to other wizarding families. Many other [[pure-blood]] families, particularly the [[Malfoy family|Malfoys]], disdained them for their "''blood traitor''", pro-muggle beliefs and their lack of wealth. They tried their best to make up for this with their [[love]] towards each other and for other people. It can be assumed that Bill had a fairly happy childhood, as all the Weasley siblings did.
 
-===Hogwarts years {{c|1982–1989}}===
+===Hogwarts years {{C|1982–1989}}===
 ====Early years====
 Bill arrived at [[Hogwarts School of Witchcraft and Wizardry]] on [[1 September]], [[1982]]. Among his fellow first years were, presumably, the future [[Weird Sisters]] members [[Kirley Duke]] and [[Myron Wagtail]]. Sorted into [[Gryffindor|Gryffindor House]], Bill quickly proved himself an academically strong and popular student. His best subject was [[Defence Against the Dark Arts]].
 
@@ -117,7 +118,7 @@ During the same school year, Bill learned that [[Jacob's sibling]] had been invo
 
 ====Fourth year====
 {{Dialogue a-b|Jacob's sibling|Are you ready for this, Bill?|Bill Weasley|Ready? This is my time to stop talking about being a Curse-Breaker and actually being one.|[[Jacob's sibling]] and Bill Weasley just before their mission|Harry Potter: Hogwarts Mystery}}
-[[File:Bill-Weasley-duelling.jpg|245px|thumb|left|Bill practising [[duelling]] in the castle's [[Training Grounds|courtyard]]|alt=]]
+[[File:Bill-Weasley-duelling.jpg|250px|thumb|left|Bill practising [[duelling]] in the castle's [[Training Grounds|courtyard]]]]
 By his fourth year, Bill had become very popular among the other students and was regarded by many, including [[Rowan Khanna]], as one of the bravest and most gifted students of his year. Usually found practising defensive spells in the [[Training Grounds]], he was approached by Jacob's sibling, who asked him for help investigating the Cursed Vaults.
 
 To this, Bill heartily agreed, voicing the opinion that the cursed ice that had begun to spread throughout the school because someone had been meddling with one or more of said vaults, after all, were posing a threat to the entire school and he would gladly do whatever he could to help resolve the dire situation, expressing excitement at the prospect of his first "''curse-breaking adventure''". 
@@ -133,7 +134,7 @@ Although he spent some time recovering from his injuries at the [[Hospital Wing]
 [[Minerva McGonagall|Professor McGonagall]] got furious at Bill for teaching the Charm to Ben and Penny, causing Bill to worry that he might not be appointed Prefect later.
 
 ====Final years====
-[[File:Prefect Convention.jpg|alt=|thumb|250px|Bill at a Prefect convention]]
+[[File:Prefect Convention.jpg|250px|thumb|right|Bill at a Prefect convention]]
 In the [[1986–1987 school year]], Bill became a [[Prefect]], and helped [[Jacob's sibling]], who was helping [[Rubeus Hagrid]], find [[Fang]] in the [[Hogwarts Library]]. He had a crush on [[Emily Tyler]] and sought advice on romance from Jacob's sibling. He obtained twelve [[Ordinary Wizarding Level|O.W.Ls]].
 
 In the [[1988–1989 school year]], his [[seventh year]], Bill was made [[Head Boy or Girl|Head Boy]].
@@ -141,28 +142,24 @@ In the [[1988–1989 school year]], his [[seventh year]], Bill was made [[Head B
 At some time prior to his graduation, Bill was given a "Medal of Magical Merit".
 
 ===Working for Gringotts {{C|1989–1995}}===
-{{Quote|Arthur Weasley, Head of the [[Misuse of Muggle Artefacts Office]] at the Ministry of Magic, has won the annual Daily Prophet Grand Prize Galleon Draw. A delighted Mr Weasley told the Daily Prophet, “''We will be spending the gold on a summer holiday in Egypt, where our eldest son, Bill, works as a curse-breaker for Gringotts Wizarding Bank''". The Weasley family will be spending a month in Egypt, returning for the start of the new school year at Hogwarts, which five of the Weasley children currently attend.|[[MINISTRY OF MAGIC EMPLOYEE SCOOPS GRAND PRIZE]]|Harry Potter and the Prisoner of Azkaban}}
-[[File:Bill at Gringotts.jpg|250px|thumb|left|Bill in front of Gringotts, shortly after being accepted for a job there]]
+{{Quote|Arthur Weasley, Head of the [[Misuse of Muggle Artefacts Office]] at the Ministry of Magic, has won the annual Daily Prophet Grand Prize Galleon Draw. A delighted Mr Weasley told the ''Daily Prophet'', <nowiki>'</nowiki>''We will be spending the gold on a summer holiday in Egypt, where our eldest son, Bill, works as a curse-breaker for Gringotts Wizarding Bank''<nowiki>'</nowiki>. The Weasley family will be spending a month in Egypt, returning for the start of the new school year at Hogwarts, which five of the Weasley children currently attend.|[[MINISTRY OF MAGIC EMPLOYEE SCOOPS GRAND PRIZE]]|Harry Potter and the Prisoner of Azkaban}}
+[[File:Bill at Gringotts.jpg|200px|thumb|left|Bill in front of Gringotts, shortly after being accepted for a job there]]
 After graduating from Hogwarts, Bill ultimately managed to live up to his life-long aspirations of joining the [[Gringotts Wizarding Bank]]. Having successfully found an opening for [[Curse-Breaker]]s, applied and been accepted, Bill threw himself into his work, pouring all of his energies into his curse-breaking missions not to think too much about the betrayal of [[Patricia Rakepick]] at the end of his final term at school. 
 
 Frequently concerned about the well-being of his friends back at school, not to mention that of his younger brothers [[Charles Weasley|Charlie]], [[Percy Weasley|Percy]], [[Fred Weasley|Fred]] and [[George Weasley|George]], who were all attending Hogwarts at the time, he eventually contacted [[Albus Dumbledore]] expressing his concern of the news he had received telling him about the apparent ineffectiveness of [[Unidentified 1989–1990 Defence Against the Dark Arts teacher|Rakepick's successor]] as [[Defence Against the Dark Arts]] Professor.
 
 He asked if he might be granted permission to visit the school whenever he had down time in between his missions in order to offer supplementary evening classes on the subject in order to help pupils learn how to defend themselves should Rakepick or other members of [[R]] to breach the security of the castle once more. Wholeheartedly agreeing, not only did the [[Hogwarts Headmaster]] permit him to visit the school on a regular basis throughout the [[1989–1990 school year]] and [[1990–1991 school year]], he even gave him free access to [[Classroom 3C]] after regular classes were done for the day.
 
-Around [[December]] of [[1989]], Bill was sent to an assignment on some tombs in [[Egypt]], during which he encountered a [[Mummy]] that he successfully defeated by blasting it to dust; a story he later told his younger brother [[Charles Weasley|Charlie]]. On his way to the celebrate [[Christmas]] with his family at [[The Burrow]], he stopped by Hogwarts, having received a letter from Dumbledore asking him to stay at the school for "a few days" to help him the magical defences surrounding the school. Afterwards, he, [[Charles Weasley|Charlie]], [[Merula Snyde]] and [[Jacob's sibling]] left for England with their father's [[Flying Ford Anglia]], and arrived just in time to celebrate Christmas Eve at the Weasley household.
+Around [[December]] [[1989]], Bill was sent to an assignment on some tombs in [[Egypt]], during which he encountered a [[Mummy]] that he successfully defeated by blasting it to dust; a story he later told his younger brother [[Charles Weasley|Charlie]]. On his way to the celebrate [[Christmas]] with his family at [[The Burrow]], he stopped by Hogwarts, having received a letter from Dumbledore asking him to stay at the school for "a few days" to help him the magical defences surrounding the school. Afterwards, he, [[Charles Weasley|Charlie]], [[Merula Snyde]] and [[Jacob's sibling]] left for England with their father's [[Flying Ford Anglia]], and arrived just in time to celebrate Christmas Eve at the Weasley household.
 
 During the [[1989–1990 school year]], Bill was tasked to retrieve [[Urgruff's Golden Egg|Urgruff's egg]] from the [[Romanian Dragon Sanctuary]]. He divulged this information to Jacob's sibling and several of their friends, who immediately wanted to go with him. They went together using a [[Portkey]], [[Attack at the Romanian Dragon Sanctuary|battled]] [[Hungarian Horntail in the Dragon Sanctuary|a Hungarian Horntail]] and found the egg.
 
-During the [[1990–1991 school year]], Bill was present in Gringotts when Jacob's sibling, [[Merula Snyde]] and [[Nymphadora Tonks]] came to Gringotts to investigate the crime scene of an attempted break-in of [[Elric Parpidum|Sir Elric Parpidum]]'s vault.
-
 [[File:Weasley Wizarding Vacation in Egypt.png|250px|thumb|The [[Weasley family]] in [[Egypt]]]]
-
-By [[1 September]], [[1991]], however, Bill had gone from travelling back and forth between [[Great Britain]] and foreign countries for his various missions to being stationed permanently in [[Egypt]].
+During the [[1990–1991 school year]], Bill was present at Gringotts when Jacob's sibling, [[Merula Snyde]] and [[Nymphadora Tonks]] came to the bank to investigate the crime scene of an attempted break-in of Sir [[Elric Parpidum]]'s vault. The break-in also led to him working overtime breaking curses, so much so that when the [[Unidentified first 1990–1991 Defence Against the Dark Arts professor|Defence Against the Dark Arts professor]] ran off for an unknown reason, he could not fill in for them. Gringotts then sent Bill on a long trip, the destination of which he wouldn't tell Charlie. By [[1 September]] [[1991]], however, Bill had gone from travelling back and forth between [[Great Britain]] and foreign countries for his various missions to being stationed permanently in [[Egypt]].
 
 During the summer of [[1993]], the whole Weasley family went to Egypt on holiday after his [[Arthur Weasley|father]] won seven-hundred galleons in the annual ''[[Daily Prophet]]'' Grand Prize Galleon Draw. Bill took his family on a tour of the Egyptian tombs while they were there. While in Egypt the Weasley twins tried to shut Percy in a tomb, but failed when their mother caught them.
 
 [[File:B4C5M1 playing in the garden at the Burrow.png|250px|thumb|left|Bill and Charlie joust with tables at the Burrow]]
-
 In the summer of [[1994]], Bill returned to the Burrow to attend the [[Quidditch World Cup]] with his family. During his stay, he met his youngest brother Ron's best friend, [[Harry Potter]], for the first time. When the [[Death Eaters]] decided to stir up trouble in the aftermath of the Irish victory, Bill assisted the [[British Ministry of Magic|Ministry of Magic]]. During the skirmish, Bill was injured with a deep cut on his arm. Bill later escorted his siblings, Harry, and [[Hermione Granger|Hermione]] to King's Cross station to see them off to Hogwarts.
 
 In [[1995]], Bill took more time off work to travel to Hogwarts with his mother to support Harry during the Third Task of the [[Triwizard Tournament]]. It was during this time that he met [[Fleur Delacour]], who was attracted to him from the start. Following the death of [[Cedric Diggory]] and the revelation that [[Tom Riddle|Lord Voldemort]] had returned, Bill immediately set out to inform his father of the news, and that [[Albus Dumbledore]] would be contacting him.
@@ -210,20 +207,21 @@ Shortly after Harry, Ron, Hermione, and Griphook left, he was alerted to [[Nevil
 {{Quote|The only one who is easy to recognise is Bill who, poor man, is grievously scarred from an encounter with a werewolf and yet somehow (enchantment? [[Love Potion]]? Blackmail? Kidnap?) married the undeniably beautiful (though doubtless empty-headed) Fleur Delacour... Meanwhile, Mr and Mrs Bill Weasley might like to know that their beautiful, blonde daughter Victoire seems to be attracted to any dark corner where Master Lupin happens to be lurking.|[[DUMBLEDORE'S ARMY REUNITES AT QUIDDITCH WORLD CUP FINAL]]|Pottermore}}
 Following the war, Bill and Fleur had three children, [[Victoire Weasley|Victoire]], [[Dominique Weasley|Dominique]] and [[Louis Weasley]] Victoire was born on the anniversary of the Battle of Hogwarts, thus her name, which means 'victory' in French. She also seemed to have inherited her mother's looks, as she was noted to be good looking. Victoire also seemed to have a relationship with [[Edward Lupin|Teddy Lupin]].
 
-As of [[2013]], Bill was still employed as a Curse-Breaker for Gringotts and had returned to his work in Egypt. In [[2014]], Bill attended the 2014 Quidditch World Cup final along with the rest of [[Weasley family|his family]]. Later that same year, Bill spent his 44th birthday with his wife and the rest of his family.
+As of [[2013]], Bill was still employed as a [[Curse-Breaker]] for [[Gringotts Wizarding Bank|Gringotts]] and had returned to his work in [[Egypt]]. In [[2014]], Bill attended the [[2014 Quidditch World Cup]] final along with the rest of [[Weasley family|his family]]. Later that same year, Bill spent his 44th birthday with his wife and the rest of his family.
 
-At some point, Bill had wrote a handbook featuring his experiences with Werewolves, which would be used by members of the [[Statute of Secrecy Task Force]] pursuing an [[Auror]] Profession to increase their methods of overpowering a Werewolf's defences.
+At some point, Bill had wrote a handbook featuring his experiences with [[Werewolf|werewolves]], which would be used by members of the [[Statute of Secrecy Task Force]] pursuing an [[Auror]] profession to increase their methods of overpowering a werewolf's defences.
 
 ==Physical appearance==
-{{Dialogue a-b-a|Molly Weasley|...with a horrible, great fang on it, really, Bill, what do they say at the bank?|Bill|Mum, no one at the bank gives a damn about how I dress as long as I bring home plenty of treasure.|And your hair's getting silly, dear. I wish you'd let me give it a trim...|Discussing regarding Bill's appearance at dinner|Harry Potter and the Goblet of Fire}}[[File:B303025b36eb92e5766b5f372ed84c35.jpg|224x224px|thumb|right|Bill in 1997 after [[Fenrir Greyback]] scarred his face]]Bill was tall, thin, handsome, and had red hair like the rest of the [[Weasley family]]. He wore it long and in a ponytail, and he had an earring with a fang dangling from it. He wore clothes that, in [[Harry Potter]]'s opinion, would not be out of place at a rock concert, and he favoured boots of [[dragon]] hide. He was once called a "''long-haired pillock''" by [[Rita Skeeter]] in an article about the [[Gringotts Wizarding Bank|Gringotts]] [[Curse-Breaker|Curse Breakers]]. However, when Harry first saw Bill, he described him more favourably as "''cool''."
+{{Dialogue a-b-a|Molly Weasley|...with a horrible, great fang on it, really, Bill, what do they say at the bank?|Bill|Mum, no one at the bank gives a damn about how I dress as long as I bring home plenty of treasure.|And your hair's getting silly, dear. I wish you'd let me give it a trim...|Discussing regarding Bill's appearance at dinner|Harry Potter and the Goblet of Fire}}[[File:B303025b36eb92e5766b5f372ed84c35.jpg|200px|thumb|right|Bill in 1997 after [[Fenrir Greyback]] scarred his face]]
+Bill was tall, thin, handsome, and had red hair like the rest of the [[Weasley family]]. He wore it long and in a ponytail, and he had an earring with a fang dangling from it. He wore clothes that, in [[Harry Potter]]'s opinion, would not be out of place at a rock concert, and he favoured boots of [[dragon]] hide. He was once called a "''long-haired pillock''" by [[Rita Skeeter]] in an article about [[Gringotts Wizarding Bank|Gringotts]] [[Curse-Breaker]]s. However, when Harry first saw Bill, he described him more favourably as "''cool''".
 
-In 1997, he suffered severe facial wounds at the hands of the vicious [[werewolf]] Fenrir Greyback, during the [[Battle of the Astronomy Tower]]. Although untransformed at the time, Greyback's [[lycanthropy]] caused the wounds to be cursed. The scars could not be treated totally, leaving Bill heavily scarred. At his wedding, however, he looked so happy one could "''hardly tell he had ever met Fenrir Greyback"'' (although this was also aided by a beautfying affect Fleur had on people around her).
+In 1997, he suffered severe facial wounds at the hands of the vicious [[werewolf]] [[Fenrir Greyback]] during the [[Battle of the Astronomy Tower]]. Although untransformed at the time, Greyback's [[lycanthropy]] caused the wounds to be cursed. The scars could not be treated totally, leaving Bill heavily scarred. At his wedding, however, he looked so happy one could "''hardly tell he had ever met Fenrir Greyback''" (although this was also aided by a beautifying affect Fleur had on people around her).
 
 ==Personality and traits==
 {{Quote|Bill's not that down-to-earth. He's a [[Curse-Breaker]], isn't he, he likes a bit of adventure, a bit of glamour...|Description of Bill's personality|Harry Potter and the Half-Blood Prince}}
-Bill was laid back and easy going, and described as "''cool''" in both his looks and personality. However, he had a serious side, being a high academic achiever as a student and being Hogwarts [[Head Boy or Girl|Head Boy]] his seventh year. He took his studies seriously, as he referenced [[History of Magic]], which normally many students would fall asleep due to [[Cuthbert Binns|the teacher's]] dull style of teaching, during his discussion with Harry regarding goblin's ideals of ownership. He was knowledgeable about wizard-goblin relations for his work. Despite being the eldest of seven children, he had a lively sense of humour and knew how to have fun.
+Bill was laid back and easy going, and described as "''cool''" in both his looks and personality. However, he had a serious side, being a high academic achiever as a student and being Hogwarts [[Head Boy or Girl|Head Boy]] his seventh year. He took his studies seriously, as he referenced [[History of Magic]], which normally many students would fall asleep due to the professor, [[Cuthbert Binns]]'s dull style of teaching, during his discussion with Harry regarding [[goblin]]s' ideals of ownership. He was knowledgeable about wizard-goblin relations for his work. Despite being the eldest of seven children, he had a lively sense of humour and knew how to have fun.
 
-He was very brave, working as a [[Curse-Breaker]] and joining the [[Order of the Phoenix]] to fight against [[Tom Riddle|Lord Voldemort]]. He is also of great compassion and loyalty, as he was displeased with how Ron would abandon Harry and Hermione over a little argument, but did not pursue the issue seeing Ron's clear regret, and allowed him to stay for the time being. After his mauling at the hands of [[Fenrir Greyback]], it was feared that his personality would change and that he would take on some wolfish characteristics. However, Bill's personality remained intact, although he did develop a liking for very rare steaks.
+He was very brave, working as a [[Curse-Breaker]] and joining the [[Order of the Phoenix]] to fight against [[Tom Riddle|Lord Voldemort]]. He was also of great compassion and loyalty, as he was displeased with how Ron would abandon Harry and Hermione over a little argument, but did not pursue the issue seeing Ron's clear regret, and allowed him to stay for the time being. After his mauling at the hands of [[Fenrir Greyback]], it was feared that his personality would change and that he would take on some wolfish characteristics. However, Bill's personality remained intact, although he did develop a liking for very rare steaks.
 
 When Bill met [[Harry Potter]] for the first time in 1994, Harry was taken by surprise at Bill's cool, laid-back demeanour; from everything Harry had heard from Ron, he had always pictured Bill as an older version of [[Percy Weasley|Percy]], who was more serious and stuffy than all his siblings.
 
