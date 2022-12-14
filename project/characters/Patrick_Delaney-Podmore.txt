@@ -4,16 +4,16 @@
 |image = [[File:PatrickDelaney-Podmore.png|250px]]
 |name = Patrick Delaney-Podmore
 |born = 
-|died = Before [[1890]]
+|died = Before [[1890]]<ref name="HL">{{HL}}</ref>
 |blood = 
 |marital = 
 |nationality = {{GBorIE}}
-|alias = Sir Properly-Decapitated Podmore (by [[Nicholas de Mimsy-Porpington|Nearly Headless Nick]])
-|title = [[Honorific#Sir|Sir]]
+|alias = Sir Properly-Decapitated Podmore (by [[Nicholas de Mimsy-Porpington|Nearly Headless Nick]])<ref name="COS8"/>
+|title = [[Honorific#Sir|Sir]]<ref name="COS8"/>
 |signature = 
-|species = *[[Ghost]]
-*[[Human]] (formerly)
-|gender = Male
+|species = *[[Ghost]]<ref name="COS8"/>
+*[[Human]] (formerly)<ref name="COS8"/>
+|gender = Male<ref name="COS8"/>
 |height = 
 |weight = 
 |hair = 
@@ -27,23 +27,23 @@
 |boggart = 
 |wand = 
 |patronus = 
-|job = Head of the [[Headless Hunt]]
+|job = Head of the [[Headless Hunt]]<ref name="COS8"/>
 |house = 
-|loyalty = *[[Podmore family]]
-*[[Hogwarts School of Witchcraft and Wizardry]]
-*[[Headless Hunt]]
+|loyalty = *[[Podmore family]]<ref name="COS8"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS8"/><ref name="DH31"/>
+*[[Headless Hunt]]<ref name="COS8"/>
 }}
 {{Quote|‘We can only accept huntsmen whose heads have parted company with their bodies. You will appreciate that it would be impossible otherwise for members to participate in hunt activities such as Horseback Head-Juggling and Head Polo. It is with the greatest regret, therefore, that I must inform you that you do not fulfil our requirements. With very best wishes, Sir Patrick Delaney-Podmore.|Sir Patrick's letter to [[Nicholas de Mimsy-Porpington]]|Harry Potter and the Chamber of Secrets}}
-'''Sir Patrick Delaney-Podmore''' was a [[Wizardkind|wizard]] who later became a headless [[ghost]] after his [[death]]. He was playful and charismatic, and often liked to show off in front of other ghosts. 
+'''Sir Patrick Delaney-Podmore''' was a [[Wizardkind|wizard]] who later became a headless [[ghost]] after his [[death]]. He was playful and charismatic, and often liked to show off in front of other ghosts.<ref name="COS8"/> 
 
 ==Biography==
-Little is known about Sir Patrick's life other than that he [[Death|died]] by beheading and became a ghost afterwards.
+Little is known about Sir Patrick's life other than that he [[Death|died]] by beheading and became a ghost afterwards.<ref name="COS8"/>
 
-Sir Patrick was in charge of the [[Headless Hunt]]. He doesn't make any exceptions to the rules — a ghost must be completely headless to join. This came as a terrible blow to the ego of [[Nicholas de Mimsy-Porpington|Nearly-Headless Nick]], who was denied entrance to the Headless Hunt because his head is still attached to his body (albeit barely). Because of this rejection, Sir Nicholas mockingly called him Sir Properly-Decapitated Podmore.
+Sir Patrick was in charge of the [[Headless Hunt]]. He doesn't make any exceptions to the rules — a ghost must be completely headless to join. This came as a terrible blow to the ego of [[Nicholas de Mimsy-Porpington|Nearly-Headless Nick]], who was denied entrance to the Headless Hunt because his head is still attached to his body (albeit barely). Because of this rejection, Sir Nicholas mockingly called him Sir Properly-Decapitated Podmore.<ref name="COS8"/>
 
-Sir Patrick appeared at [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party]] in [[1992]] where he stole much of Sir Nicholas' thunder by cracking jokes and making light of the sombre atmosphere.
+Sir Patrick appeared at [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party]] in [[1992]] where he stole much of Sir Nicholas' thunder by cracking jokes and making light of the sombre atmosphere.<ref name="COS8">{{COS|B|8}}</ref>
 
-The Headless Hunt fought in the [[Battle of Hogwarts]]. Therefore, Sir Patrick most likely defended the school the best as a ghost could.
+The Headless Hunt fought in the [[Battle of Hogwarts]]. Therefore, Sir Patrick most likely defended the school the best as a ghost could.<ref name="DH31">{{DH|B|31}}</ref>
 
 ==Etymology==
 The name "Patrick" comes from the Latin name ''Patricius'', which meant "nobleman". This name was adopted in the 5th-century by Saint Patrick, whose birth name was Sucat. He was a Romanized Briton who was captured and enslaved in his youth by Irish raiders. After six years of servitude he escaped home, but he eventually became a bishop and went back to Ireland as a missionary. He is traditionally credited with Christianizing the island, and is regarded as Ireland's patron saint.

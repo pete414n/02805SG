@@ -8,15 +8,15 @@
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
-|title = [[Beater]]
+|title = [[Beater]]<ref name="POA15"/>
 |signature = 
-|species = [[Human]]
-|gender = Male
+|species = [[Human]]<ref name="POA15"/>
+|gender = Male<ref name="POA15"/>
 |height = 
 |weight = 
-|hair = Brown
-|eyes = Green
-|skin = Fair
+|hair = Brown<ref name="QWC">{{QWC}}</ref>
+|eyes = Green<ref name="QWC"/>
+|skin = Fair<ref name="QWC"/>
 |family = 
 |romances = 
 |animagus = 
@@ -24,26 +24,26 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Slytherin]]
-|loyalty = *Bole family
-*[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Slytherin]]
-**[[Slytherin Quidditch team]]
+|house = [[Slytherin]]<ref name="POA15"/>
+|loyalty = *Bole family<ref name="POA15"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POA15"/>
+**[[Slytherin]]<ref name="POA15"/>
+**[[Slytherin Quidditch team]]<ref name="POA15"/>
 }}
-'''Lucian Bole''' He was a [[Beater]] on the [[Slytherin Quidditch team]] in the [[1993–1994 school year]].
+'''Lucian Bole'''<ref name="QWC"/> (born c. [[1977]]) was a [[Wizardkind|wizard]] and [[Slytherin]] student who attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] from [[1988]] to [[1995]].<ref name="ootp19">In {{OOTP|B|19}}, [[Angelina Johnson]] states, "Last year's Beaters, Derrick and Bole, have left." This indicates Bole's seventh year was 1994-1995 and that he kept his position as Beater despite the cancellation of Quidditch matches during the Triwizard Tournament held that same term.</ref> He was a [[Beater]] on the [[Slytherin Quidditch team]] in the [[1993–1994 school year]].<ref name="POA15"/>
 
 ==Biography==
-Lucian Bole started his education at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1988]], he was sorted into the house of [[Slytherin]] and became a member of the [[Slytherin Quidditch team]], playing the role of beater.
+Lucian Bole started his education at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1988]], he was sorted into the house of [[Slytherin]] and became a member of the [[Slytherin Quidditch team]], playing the role of beater.<ref name="POA15"/>
 
-During the final match between [[Gryffindor]] and Slytherin in his sixth year, Bole clubbed Gryffindor [[Chaser]] [[Alicia Spinnet]], claiming he had mistaken her for a [[Bludger]]. In revenge, [[George Weasley]] elbowed Bole in the face, leading [[Rolanda Hooch|Madam Hooch]] to give both teams penalties.
+During the final match between [[Gryffindor]] and Slytherin in his sixth year, Bole clubbed Gryffindor [[Chaser]] [[Alicia Spinnet]], claiming he had mistaken her for a [[Bludger]]. In revenge, [[George Weasley]] elbowed Bole in the face, leading [[Rolanda Hooch|Madam Hooch]] to give both teams penalties.<ref name="POA15">{{POA|B|15}}</ref>
 
-In Bole's seventh year, the [[Triwizard Tournament]] lead all [[Quidditch]] games at Hogwarts to be cancelled, but he nonetheless nominally retained his position on the Slytherin team until his graduation in June 1995. He and fellow Slytherin Beater, [[Peregrine Derrick]], were replaced by [[Vincent Crabbe]] and [[Gregory Goyle]] at the beginning of the next Quidditch season. [[Angelina Johnson]], the new captain of the [[Gryffindor Quidditch team]], was glad to see Bole and Derrick gone, stating mockingly that she was always stunned the pair were able to find their way to Quidditch pitch without directions.
+In Bole's seventh year, the [[Triwizard Tournament]] lead all [[Quidditch]] games at Hogwarts to be cancelled,<ref name="GOF12">{{GOF|B|12}}</ref> but he nonetheless nominally retained his position on the Slytherin team until his graduation in June 1995.<ref name="ootp19" /> He and fellow Slytherin Beater, [[Peregrine Derrick]], were replaced by [[Vincent Crabbe]] and [[Gregory Goyle]] at the beginning of the next Quidditch season. [[Angelina Johnson]], the new captain of the [[Gryffindor Quidditch team]], was glad to see Bole and Derrick gone, stating mockingly that she was always stunned the pair were able to find their way to Quidditch pitch without directions.<ref name="ootp19"/>
 
 ==Personality and traits==
-Lucian Bole, like many fellow members of the [[Slytherin Quidditch team]], was shown to possess poor sportsmanship and a preference for committing fouls against rival players.
+Lucian Bole, like many fellow members of the [[Slytherin Quidditch team]], was shown to possess poor sportsmanship and a preference for committing fouls against rival players.<ref name="POA15"/>
 
 ==Magical abilities and skills==
-*'''[[Flight|Flying]]''': Despite his unreasonable behaviour on the Quidditch pitch, Bole was nonetheless evidently an accomplished and talented [[broomstick]] flyer and [[Quidditch]] player, as he played as [[Beater]] for the [[Slytherin Quidditch team]].
+*'''[[Flight|Flying]]''': Despite his unreasonable behaviour on the Quidditch pitch, Bole was nonetheless evidently an accomplished and talented [[broomstick]] flyer and [[Quidditch]] player, as he played as [[Beater]] for the [[Slytherin Quidditch team]].<ref name="POA15"/><ref name="QWC"/>
 
 ==Behind the scenes==
 *This character is known only by his surname in the [[Harry Potter books|''Harry Potter'' books]]. His first name is given as "Lucian" in the video game {{QWC}}.

@@ -9,10 +9,10 @@
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
-|title = [[Seeker]]
+|title = [[Seeker]]<ref name="OOTP26"/>
 |signature = 
-|species = [[Human]]
-|gender = Male
+|species = [[Human]]<ref name="OOTP26"/>
+|gender = Male<ref name="OOTP26"/>
 |height = 
 |weight = 
 |hair = 
@@ -25,17 +25,17 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Hufflepuff]]
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Hufflepuff]]
-**[[Hufflepuff Quidditch team]]
+|house = [[Hufflepuff]]<ref name="OOTP26"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP26"/>
+**[[Hufflepuff]]<ref name="OOTP26"/>
+**[[Hufflepuff Quidditch team]]<ref name="OOTP26"/>
 }}
-'''Summerby''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+'''Summerby''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="OOTP26"/>
 
 ==Biography==
-He was a [[Hufflepuff]] student who replaced [[Cedric Diggory]] as their [[Quidditch]] [[Quidditch team|team]]'s [[Seeker]] at [[Hogwarts School of Witchcraft and Wizardry]] after Diggory's tragic death.
+He was a [[Hufflepuff]] student who replaced [[Cedric Diggory]] as their [[Quidditch]] [[Quidditch team|team]]'s [[Seeker]] at [[Hogwarts School of Witchcraft and Wizardry]] after Diggory's tragic death.<ref name="OOTP26">{{OOTP|B|26}}</ref>
 
-During a match against [[Gryffindor]] in [[1996]], he was beaten to the [[Golden Snitch]] by [[Ginevra Weasley|Ginny Weasley]], although Ginny said it was partly because he had a [[Common cold|cold]] and sneezed at the wrong time. Ginny Weasley replaced [[Harry Potter]] following his life-long ban from Quidditch by [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts High Inquisitor|High Inquisitor]] [[Dolores Umbridge]] (although this ban was immediately lifted when Umbridge was removed from Hogwarts).
+During a match against [[Gryffindor]] in [[1996]], he was beaten to the [[Golden Snitch]] by [[Ginevra Weasley|Ginny Weasley]], although Ginny said it was partly because he had a [[Common cold|cold]] and sneezed at the wrong time. Ginny Weasley replaced [[Harry Potter]] following his life-long ban from Quidditch by [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts High Inquisitor|High Inquisitor]] [[Dolores Umbridge]] (although this ban was immediately lifted when Umbridge was removed from Hogwarts).<ref name="OOTP26"/>
 
 ==Appearances==
 *{{OOTP}} {{1st}}

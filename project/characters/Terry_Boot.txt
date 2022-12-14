@@ -2,16 +2,16 @@
 |theme = ravenclaw
 |image = Terry Boot HP5 PC.jpg
 |name = Terry Boot
-|born = Between 1 September [[1979]] and [[21 April]] [[1980]] <br/>
+|born = Between 1 September [[1979]] and [[21 April]] [[1980]]<ref>In {{HBP|B|21}}, Terry didn't have to attend a [[Potions (class)|Potions]] lesson on [[21 April]], [[1997]], because he was seventeen and could take his [[Apparition (class)|Apparition]] test.</ref> <br/>
 |died = 
-|blood = [[Pure-blood]] or [[half-blood]]
+|blood = [[Pure-blood]] or [[half-blood]]<ref>In {{DH|B|29}}, Terry was hiding out in the Room of Requirement with Dumbledore's Army before the members Neville summoned from outside the school began to arrive. This means he attended Hogwarts during the 1997-1998 school year, and must have been either half-blood or pure-blood, as [[Muggle-born]]s were banned from the school under the Voldemort regime. As well as this, it is likely that he is descended from [[Webster Boot]] and thus is unlikely to be Muggle-born. However, his blood status is given as Muggle-born on the student list shown by [[J. K. Rowling]] on ''Harry Potter and Me''. </ref>
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
 |title = 
 |signature = [[File:Terry Boot sig.png|150px]]
-|species = [[Human]]
-|gender = Male
+|species = [[Human]]<ref name="PS7"/>
+|gender = Male<ref name="PS7"/>
 |height = 
 |weight = 
 |hair = 
@@ -27,38 +27,38 @@
 |romances = 
 |animagus = 
 |boggart = 
-|wand = Unknown length, wood and core
+|wand = Unknown length, wood and core<ref name="OOTP18"/>
 |patronus = 
 |job = 
-|house = [[Ravenclaw]]
+|house = [[Ravenclaw]]<ref name="PS7"/>
 |loyalty = *[[Boot family]]
 *[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Ravenclaw]]
-**[[Duelling Club (1990s)|Duelling Club]]
-*[[Dumbledore's Army]]
+**[[Ravenclaw]]<ref name="PS7"/>
+**[[Duelling Club (1990s)|Duelling Club]]<ref name="COS11"/>
+*[[Dumbledore's Army]]<ref name="OOTP16"/>
 }}
 {{Dialogue a-b-a-b|Terry Boot|You can do a Protean Charm?|Hermione Granger|Yes.|But that's... that's N.E.W.T. standard, that is.|Oh. Oh... well... yes, I suppose it is....|Terry being impressed with Hermione's ability to perform N.E.W.T. level magic|Harry Potter and the Order of the Phoenix}}
 
-'''Terry Boot''' (b. [[1979]] or [[1980]]) was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in [[Harry Potter]]'s year. He became friends with housemates [[Michael Corner]] and [[Anthony Goldstein]]. In his [[fifth year]], Terry joined [[Dumbledore's Army]], an organisation taught and led by Harry Potter.
+'''Terry Boot''' (b. [[1979]] or [[1980]]) was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in [[Harry Potter]]'s year.<ref name="PS7"/> He became friends with housemates [[Michael Corner]] and [[Anthony Goldstein]]. In his [[fifth year]], Terry joined [[Dumbledore's Army]], an organisation taught and led by Harry Potter.
 
 On [[2 May]] [[1998]], he fought in the [[Battle of Hogwarts]] alongside the other defenders of Hogwarts. It can be assumed that Terry survived the final battle, as he was not mentioned among the [[Fallen Fifty]].
 
 ==Biography==
 ===Early life===
-Terry was born in c. 1979-1980, to at least one [[Wizardkind|magical]] parent. Terry could likely be a descendant of [[Webster Boot]], the adopted son of Ilvermorny founders [[James Steward]] (a No-Maj, or Muggle) and [[Isolt Sayre]] (a [[Pure-blood]] and descendant of [[Salazar Slytherin]]).
+Terry was born in c. 1979-1980, to at least one [[Wizardkind|magical]] parent. Terry could likely be a descendant of [[Webster Boot]], the adopted son of Ilvermorny founders [[James Steward]] (a No-Maj, or Muggle) and [[Isolt Sayre]] (a [[Pure-blood]] and descendant of [[Salazar Slytherin]]).<ref name="Ilvermorny">{{WW|ilvermorny}}</ref>
 
 ===Hogwarts years {{C|1991-1998}}===
 ====Early years====
 {{Quote|Pinch it hard, it will stop bleeding in a second, Boot.|Lockhart during the Duelling Club chaos|Harry Potter and the Chamber of Secrets}}
 
 [[File:Students2.PNG|250px|thumb|left|The 1991 Sorting Ceremony in which Terry was Sorted into Ravenclaw]]
-In [[1991]], Terry started his education at [[Hogwarts School of Witchcraft and Wizardry]]. Upon his arrival during the Sorting Ceremony, the [[Sorting Hat]] placed Terry in [[Ravenclaw|Ravenclaw House]]. Terry was sorted into Ravenclaw with students [[Padma Patil]], [[Michael Corner]], and [[Anthony Goldstein]], with whom he became friends.
+In [[1991]], Terry started his education at [[Hogwarts School of Witchcraft and Wizardry]]. Upon his arrival during the Sorting Ceremony, the [[Sorting Hat]] placed Terry in [[Ravenclaw|Ravenclaw House]].<ref name="PS7">{{PS|B|7}}</ref> Terry was sorted into Ravenclaw with students [[Padma Patil]], [[Michael Corner]], and [[Anthony Goldstein]], with whom he became friends.
 
 [[File:1st Years.jpeg|250px|thumb|Terry, behind [[Ronald Weasley|Ron Weasley]], walking to the [[Ravenclaw Common Room]]]]
 
-In his [[second year]] at Hogwarts, the school was under threat of closure after the [[Chamber of Secrets]] had been opened. As a precaution to protect students from any possible danger, a [[Duelling Club]] started up, instructed by Professor [[Gilderoy Lockhart]]. During one practice, chaos broke out and Lockhart had to tend to several students. Terry had received an injury and Lockhart told him to pinch his wound hard to stop the bleeding. 
+In his [[second year]] at Hogwarts, the school was under threat of closure after the [[Chamber of Secrets]] had been opened. As a precaution to protect students from any possible danger, a [[Duelling Club]] started up, instructed by Professor [[Gilderoy Lockhart]]. During one practice, chaos broke out and Lockhart had to tend to several students. Terry had received an injury and Lockhart told him to pinch his wound hard to stop the bleeding.<ref name="COS11">{{COS|B|11}}</ref> 
 
-In his fourth year, Terry visited Professor Dumbledore's office for unknown reasons and took interest in the [[Sword of Gryffindor]], with one of the [[portrait]]s informing him that Harry Potter had used it to kill a [[Basilisk]] in the Chamber of Secrets.
+In his fourth year, Terry visited Professor Dumbledore's office for unknown reasons and took interest in the [[Sword of Gryffindor]], with one of the [[portrait]]s informing him that Harry Potter had used it to kill a [[Basilisk]] in the Chamber of Secrets.<ref name="OOTP16" />
 
 ====Fifth year====
 {{Dialogue a-b-a|Terry|Did you kill a basilisk with the sword from Dumbledore's office?|Harry Potter|Yes, but we're learning how to use spells, not swords!|Oh, okay. I dunno if Michael or Anthony know where you meet. You'd better tell them; I'll see you later.|Terry asking Harry about his second year|Harry Potter and the Order of the Phoenix (video game)}}
@@ -66,18 +66,18 @@ In his fourth year, Terry visited Professor Dumbledore's office for unknown reas
 In Terry's fifth year of education, [[Hogwarts School of Witchcraft and Wizardry]] was put under the eyes of the [[British Ministry of Magic|Ministry of Magic]]. [[Dolores Umbridge|Dolores Jane Umbridge]] was stationed at Hogwarts as a spy due to events that took place the previous year, in addition to being Professor of [[Defence Against the Dark Arts]]. Umbridge caused an uproar amongst the students since she refused to teach defensive spells, despite it being said that Lord Voldemort was at large once again.
 
 [[File:Dumbledore's Army in circle.JPG|left|thumb|250px|Terry Joins Dumbledore's Army]]
-[[Hermione Granger]] felt she ought to do something about the lack of a proper defence education. Hermione then founded an organisation called Dumbledore's Army, where students learned how to defend themselves and fight in combat. This organisation was taught and led by [[Harry Potter]], who has had numerous experience fighting off [[Dark Wizard]]s. Terry attended the first meeting of the D.A., which took place in the [[Hog's Head Inn|Hog's Head]]. When people began to mention Harry's spectacular feats, Terry mentioned that Harry had slayed a Basilisk with the Sword of Gryffindor in Dumbledore's office. This accomplishment amazed most of the students present, with only a few exceptions.
+[[Hermione Granger]] felt she ought to do something about the lack of a proper defence education. Hermione then founded an organisation called Dumbledore's Army, where students learned how to defend themselves and fight in combat. This organisation was taught and led by [[Harry Potter]], who has had numerous experience fighting off [[Dark Wizard]]s. Terry attended the first meeting of the D.A., which took place in the [[Hog's Head Inn|Hog's Head]]. When people began to mention Harry's spectacular feats, Terry mentioned that Harry had slayed a Basilisk with the Sword of Gryffindor in Dumbledore's office. This accomplishment amazed most of the students present, with only a few exceptions.<ref name="OOTP16">{{OOTP|B|16}}</ref>
 
 [[File:Harry and Hermione speaking to Terry Boot.PNG|240px|thumb|Terry Boot talking with Harry and Hermione about Umbridge|alt=]]
-During one D.A. meeting, Terry seemed very impressed that Hermione was able to perform a [[Protean Charm]] on the enchanted [[Dumbledore's Army coin]]s, a [[Nastily Exhausting Wizarding Test|N.E.W.T.]]-level spell. He also commented that she should haven been a Ravenclaw. These coins were used as methods of communication between members of the D.A.
+During one D.A. meeting, Terry seemed very impressed that Hermione was able to perform a [[Protean Charm]] on the enchanted [[Dumbledore's Army coin]]s, a [[Nastily Exhausting Wizarding Test|N.E.W.T.]]-level spell. He also commented that she should haven been a Ravenclaw. These coins were used as methods of communication between members of the D.A.<ref name="OOTP19">{{OOTP|B|19}}</ref>
 
-At the end of the school year, after Harry and some other members of the D.A. fought in the [[Battle of the Department of Mysteries]], it was finally revealed that [[Lucius Malfoy]] was a [[Death Eaters|Death Eater]]. His son [[Draco Malfoy]] was displeased that this had become public and that his father had been put in [[Azkaban]]. Terry was one of the D.A. members to come to the assistance of Harry when Draco, [[Vincent Crabbe]] and [[Gregory Goyle]], attempted to attack him on the [[Hogwarts Express]] journey home. Terry and his friends performed a variety of [[jinx]]es and [[hex]]es that left the three looking like large [[slug]]s in their school robes.
+At the end of the school year, after Harry and some other members of the D.A. fought in the [[Battle of the Department of Mysteries]], it was finally revealed that [[Lucius Malfoy]] was a [[Death Eaters|Death Eater]]. His son [[Draco Malfoy]] was displeased that this had become public and that his father had been put in [[Azkaban]]. Terry was one of the D.A. members to come to the assistance of Harry when Draco, [[Vincent Crabbe]] and [[Gregory Goyle]], attempted to attack him on the [[Hogwarts Express]] journey home. Terry and his friends performed a variety of [[jinx]]es and [[hex]]es that left the three looking like large [[slug]]s in their school robes.<ref name="OOTP38">{{OOTP|B|38}}</ref>
 
 ====Sixth year====
 {{Dialogue a-b|Terry Boot|Why don’t people drink it all the time, sir?|Horace Slughorn|Because if taken in excess, it causes giddiness, recklessness, and dangerous overconfidence. Too much of a good thing, you know... highly [[Poison|toxic]] in large quantities. But taken sparingly, and very occasionally...|Terry boot asking [[Professor]] [[Horace Slughorn]] about the [[Felix Felicis]] [[potion]] in Potions class|Harry Potter and the Half-Blood Prince}}
 [[File:Slughorn pottermore.jpg|250px|thumb|Terry in N.E.W.T.-level potions|alt=|left]]
 
-During his sixth year, the [[Second Wizarding War]] had officially been declared. The school was put under the protection of [[Auror]]s. Terry was one of only twelve students able to advance to N.E.W.T.-level [[Potions (class)|Potions class]]. He was one of four Ravenclaws to do so. There was also four [[Slytherins]], three [[Gryffindors]], and one [[Hufflepuff]] in the N.E.W.T-level class. This indicates that the Potions O.W.L. exam was difficult. 
+During his sixth year, the [[Second Wizarding War]] had officially been declared. The school was put under the protection of [[Auror]]s. Terry was one of only twelve students able to advance to N.E.W.T.-level [[Potions (class)|Potions class]]. He was one of four Ravenclaws to do so.<ref name="HBP9">{{HBP|B|9}}</ref> There was also four [[Slytherins]], three [[Gryffindors]], and one [[Hufflepuff]] in the N.E.W.T-level class. This indicates that the Potions O.W.L. exam was difficult. 
 [[File:B6C18M1 Apparition lessons in the Great Hall.png|thumb|251x251px|Terry participated the Apparition lessons provided by the school|alt=]]
 This year students would learn how to Apparate for the first time. At the end of his sixth year, [[Severus Snape]] killed headmaster [[Albus Dumbledore]], and [[Minerva McGonagall]] was made acting headmistress until Terry's seventh year, when Severus Snape was put in charge. Terry attended [[Funeral of Albus Dumbledore|Dumbledore's funeral]] with his classmates.
 
@@ -86,15 +86,15 @@ This year students would learn how to Apparate for the first time. At the end of
 During his seventh year, Terry joined the revived [[Dumbledore's Army]] to oppose the [[Carrow family|Carrow]] professors' cruel reign over [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] while [[Tom Riddle|Lord Voldemort]] controlled the [[British Ministry of Magic|Ministry of Magic]]. When rumours surfaced that [[Harry Potter]], [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]] broke into [[Gringotts Wizarding Bank]] and escaped on a dragon. Terry shouted an announcement about it during dinner in the [[Great Hall]], and was consequently physically punished by the Carrows. 
 
 =====Battle of Hogwarts=====
-He later provided Harry with some information about [[Ravenclaw's Diadem|Rowena Ravenclaw's Diadem]]. He also fought in the Battle of Hogwarts.
+He later provided Harry with some information about [[Ravenclaw's Diadem|Rowena Ravenclaw's Diadem]].<ref name="DH29">{{DH|B|29}}</ref> He also fought in the Battle of Hogwarts.
 
 ===Later life {{C|post 1998}}===
 Since Terry was not listed among the casualties, it can be presumed he survived the [[Second Wizarding War]]. If he did indeed survive, his later life is unknown.
 
 ==Magical abilities and skills==
-*'''[[Potion]]s''': Terry was very skilled at potion-making since he was one of four [[Ravenclaw]]s in 1996 to advance to N.E.W.T.-level. He must have earned either an '[[Outstanding]]' or an '[[Exceeds Expectations]]' on his [[Ordinary Wizarding Level|O.W.L.]] exam in order for him to progress to such an advanced [[Potions (class)|class]].
-*'''[[Defence Against the Dark Arts]]''': Terry was a devoted member of the [[Dumbledore's Army|D.A.]], so he must have mastered numerous offensive and defensive spells under the masterful instruction of [[Harry Potter]].
-*'''[[Duelling]]''': Terry participated in the Battle of Hogwarts in [[1998]], showing he had some skill in duelling. He was also capable of casting an unknown [[dark charm]] which made [[Draco Malfoy]], [[Vincent Crabbe]] and [[Gregory Goyle]] resemble [[slug]]s in [[1996]].
+*'''[[Potion]]s''': Terry was very skilled at potion-making since he was one of four [[Ravenclaw]]s in 1996 to advance to N.E.W.T.-level.<ref name="HBP9"/> He must have earned either an '[[Outstanding]]' or an '[[Exceeds Expectations]]' on his [[Ordinary Wizarding Level|O.W.L.]] exam in order for him to progress to such an advanced [[Potions (class)|class]].
+*'''[[Defence Against the Dark Arts]]''': Terry was a devoted member of the [[Dumbledore's Army|D.A.]], so he must have mastered numerous offensive and defensive spells under the masterful instruction of [[Harry Potter]].<ref name="OOTP18">{{OOTP|B|18}}</ref>
+*'''[[Duelling]]''': Terry participated in the Battle of Hogwarts in [[1998]], showing he had some skill in duelling. He was also capable of casting an unknown [[dark charm]] which made [[Draco Malfoy]], [[Vincent Crabbe]] and [[Gregory Goyle]] resemble [[slug]]s in [[1996]].<ref name="OOTP38"/>
 
 ==Etymology==
 *"Terry" is a form of ''Terence'', which means "''tender, or gracious''".

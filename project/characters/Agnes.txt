@@ -8,37 +8,37 @@
 |died = 
 |blood = 
 |marital = 
-|nationality = [[Great Britain|British]]
+|nationality = [[Great Britain|British]]<ref name="OOTP23"/>
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]
-|gender = Female
+|species = [[Human]]<ref name="OOTP23"/>
+|gender = Female<ref name="OOTP23"/>
 |height = 
 |weight = 
 |hair = 
 |eyes = 
 |skin = 
-|family = [[Agnes's son|Son]]
+|family = [[Agnes's son|Son]]<ref name="OOTP23"/>
 |romances = 
-|animagus = [[Dog]] (probably, failed)
+|animagus = [[Dog]] (probably, failed)<ref name="OOTP23"/>
 |boggart = 
 |wand = 
 |patronus = 
 |job = 
 |house = 
-|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP23"/>
 }}
 {{Quote|Here you are, Agnes. See, you're not forgotten, are you? And your [[Agnes's son|son]]'s sent an [[owl]] saying he's visiting tonight, so that's nice, isn't it?|[[Healer]] [[Miriam Strout]] to Agnes|Harry Potter and the Order of the Phoenix}}
-'''Agnes''' was a [[Wizardkind|witch]] and patient in the [[Janus Thickey Ward]] at [[St Mungo's Hospital for Magical Maladies and Injuries]], admitted sometime before [[Christmas]] of [[1995]].
+'''Agnes''' was a [[Wizardkind|witch]] and patient in the [[Janus Thickey Ward]] at [[St Mungo's Hospital for Magical Maladies and Injuries]], admitted sometime before [[Christmas]] of [[1995]].<ref name="OOTP23"/>
 
 ==Biography==
-She had fur all over her head and barked instead of speaking.
+She had fur all over her head and barked instead of speaking.<ref name="OOTP23"/> It is possible that she remained at St Mungo's for the rest of her life. Her exact ailment was unknown, but it was noted to be a similar effect to consuming [[Polyjuice Potion]] prepared with animal DNA.<ref name="OOTP23">{{OOTP|B|23}}</ref>
 
 [[File:Agnes speaking to Penny Haywood HM724.png|thumb|250px|Agnes speaking to Penny Haywood]]
-[[Penny Haywood]] spoke to Agnes in the Janus Thickey Ward in the [[1990–1991 school year]] while on work experience at the hospital in her [[seventh year]].
+[[Penny Haywood]] spoke to Agnes in the Janus Thickey Ward in the [[1990–1991 school year]] while on work experience at the hospital in her [[seventh year]].<ref name="HM724">{{HM|7|24}}</ref>
 
-In late [[December]] [[1995]], her [[Healer]] [[Miriam Strout]] informed that her [[Agnes's son|son]] would visit her [[Christmas]] night.
+In late [[December]] [[1995]], her [[Healer]] [[Miriam Strout]] informed that her [[Agnes's son|son]] would visit her [[Christmas]] night.<ref name="OOTP23"/>
 
 ==Behind the scenes==
 *Given the description on {{PM}} presents what happens if an [[Animagus]] [[Human Transfiguration|transformation]] fails, it seems likely that this is what happened to Agnes, with her attempted Animagus form most likely being a [[dog]].

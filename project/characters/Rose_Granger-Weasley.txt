@@ -3,20 +3,20 @@
 |theme = gryffindor
 |image = [[File:Rose.png]]
 |name = Rose Granger-Weasley
-|born = Between [[1 September]] [[2005]] and [[31 August]] [[2006]]<br/>[[Great Britain]]
+|born = Between [[1 September]] [[2005]] and [[31 August]] [[2006]]<br/>[[Great Britain]]<ref>[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm [[8 July]] [[2000]] South West News Service interview]</ref>
 |died = 
 |blood = [[Half-blood]]
 |marital =Single 
 |nationality = [[England|English]]
 |alias = *Rosie (by [[Ronald Weasley]])
 *Ronnie (by [[Albus Potter]])
-|title = [[Chaser]]
+|title = [[Chaser]]<ref name="CC14">{{CC|B|1|4}}</ref>
 |signature = 
 |species = [[Human]]
 |gender = Female
 |height = 
 |weight = 
-|hair = Red
+|hair = Red<ref name="hair">The [[2014 Quidditch World Cup final]], as written by Rita Skeeter and Ginny Potter, states that Rose has "inherited her father's unfortunate hair" and Hugo has inherited Hermione's bushy locks. Ron has the red hair characteristic of the Weasley family, which Rose, in order to have inherited it, must have too.</ref>
 |eyes = <!-- Please do not add her eye colour, because it is currently unproven, unless you have an official canon source for it.-->
 |skin = 
 |family = <!-- Only include family within 2 generations --> 
@@ -60,16 +60,16 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Gryffindor]]
+|house = [[Gryffindor]]<ref name="house">{{CC|B|1|4}}</ref>
 |loyalty = *[[Granger-Weasley family]]
 *[[Weasley family]]
 *[[Granger family]]
 *[[Hogwarts School of Witchcraft and Wizardry]]
 **[[Gryffindor]]
-**[[Gryffindor Quidditch team]]
+**[[Gryffindor Quidditch team]]<ref>{{CC|B|1|4}}:: noted as a [[Chaser]]</ref>
 }}
 {{Quote|So that's little Scorpius. Make sure you beat him in every test, Rosie. Thank God you inherited your mother's brains.|Ron Weasley encouraging Rose to beat Draco Malfoy's son.|Harry Potter and the Deathly Hallows}}
-'''Rose Granger-Weasley''', also known as '''Rosie''' (b. [[2005]]/[[2006]]), was an [[England|English]] [[half-blood]] [[Wizardkind|witch]] and the daughter of [[Ronald Weasley]] and [[Hermione Granger]]. She had a younger brother named [[Hugo Granger-Weasley|Hugo]], who was born about two years after her. She began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[2017]] — the same time and year as [[Albus Potter]] and [[Scorpius Malfoy]] — and she was sorted into [[Gryffindor]] house.
+'''Rose Granger-Weasley''',<ref name="A1">"[https://www.pottermore.com/news/cursed-child-first-look-at-weasleys-in-character New Cursed Child character portraits of Ron, Hermione and Rose Granger-Weasley]" on {{PM}}</ref> also known as '''Rosie''' (b. [[2005]]/[[2006]]), was an [[England|English]] [[half-blood]] [[Wizardkind|witch]] and the daughter of [[Ronald Weasley]] and [[Hermione Granger]]. She had a younger brother named [[Hugo Granger-Weasley|Hugo]], who was born about two years after her.<ref name="DHE"/> She began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[2017]] — the same time and year as [[Albus Potter]] and [[Scorpius Malfoy]] — and she was sorted into [[Gryffindor]] house.<ref name="house"/>
 
 ==Biography==
 ===Early years {{C|2005-2016}}===
@@ -79,11 +79,11 @@ In [[2014]], Rose, now aged eight, attended the finals of the [[2014 Quidditch W
 
 ===Hogwarts years {{C|2017-?}}===
 ====Early years====
-As Rose prepared to go off to her first year at [[Hogwarts School of Witchcraft and Wizardry]] with her cousin Albus in [[2017]], her father jokingly encouraged her to be Sorted into the same House as himself and her mother, [[Gryffindor]].
+As Rose prepared to go off to her first year at [[Hogwarts School of Witchcraft and Wizardry]] with her cousin Albus in [[2017]], her father jokingly encouraged her to be Sorted into the same House as himself and her mother, [[Gryffindor]].<ref name="DHE">{{DH|B|E}}</ref>
 
 {{Quote|If you're not in Gryffindor, we'll disinherit you. But no pressure.|Ron granted his daughter maximum freedom about the Sorting.|Harry Potter and the Deathly Hallows}} 
 [[File:Hermione & Ron with their children at platform nine and three quarters.jpg|250px|thumb|left|Rose with her family at [[Platform Nine and Three-Quarters|Platform 9¾]] in [[2017]]]]
-Ron also jokingly told her to beat [[Draco Malfoy]]'s son, [[Scorpius Malfoy|Scorpius]], in every test, though Hermione expressed a more tolerant attitude towards a possible friendship with Scorpius. Ron, though, warned Rose not to get too friendly with Scorpius, quipping that her grandfather, [[Arthur Weasley]], would never forgive her for marrying a [[pure-blood]].
+Ron also jokingly told her to beat [[Draco Malfoy]]'s son, [[Scorpius Malfoy|Scorpius]], in every test, though Hermione expressed a more tolerant attitude towards a possible friendship with Scorpius. Ron, though, warned Rose not to get too friendly with Scorpius, quipping that her grandfather, [[Arthur Weasley]], would never forgive her for marrying a [[pure-blood]].<ref name="DHE"/>
 
 Later, while on board the train, Albus and Rose wandered around the [[Hogwarts Express|train]] looking for a compartment to sit in. Rose reminded Albus that their parents met on the train, so finding the right compartment to sit in was very important as they too could meet their lifelong friends here. Opening the door to one compartment, Albus and Rose found [[Scorpius Malfoy]] sitting alone with sweets and introduced themselves to him. Following her father's advice, Rose left to look for another compartment, yet Albus decided to stay and accompany Scorpius, the two boys striking up a fast friendship.
 
@@ -107,18 +107,18 @@ Later, Albus and Scorpius travelled back to the [[Triwizard Tournament]], trying
 Rose did seem to mellow a little after Scorpius and his father helped her family to stop Delphini, after they discovered that she was manipulating the two boys in an attempt to bring back her secret father, [[Tom Riddle|Lord Voldemort]]. Later Scorpius gathered his courage and asked Rose out, but she refused, giving him a somewhat look of pity. However, Scorpius was happy, seeing Rose's stare as a sign that she was becoming receptive to his advances and as the first step of their future together. Indeed, as he was recounting it to Albus, Rose passed by and spoke to Albus and a stunned Scorpius, before calling him "Scorpion King", his nickname in an alternate reality in which he was popular, and leaving with an amused smile.
 
 ==Physical appearance==
-Rose is said to have inherited her father's red hair, the hair colour famously shared by most of the Weasley clan. When Albus and Scorpius travelled back through time, Scorpius mistook a young Hermione for Rose, hinting that there was a strong resemblance between Rose and her mother.
+Rose is said to have inherited her father's red hair,<ref name="hair" /> the hair colour famously shared by most of the Weasley clan. When Albus and Scorpius travelled back through time, Scorpius mistook a young Hermione for Rose, hinting that there was a strong resemblance between Rose and her mother.
 
 ==Personality and traits==
 {{Quote|Thank God you inherited your mother's brains.|Ron commenting on Rose's intelligence|Harry Potter and the Deathly Hallows}}
-Rose was said to have inherited her mother's intelligence as well as her rumoured photographic memory. It was also noted that she put on her robes before needed, like her mother did at her age. If her [[Ronald Weasley|father]]'s encouragement to beat [[Scorpius Malfoy]] academically had any effect, she may have also turned out to be rather competitive and academically excellent like her mother. She seemed to be quite close to her cousin [[Albus Potter]], who was about the same age and who shared her anxiety about where he would be sorted at school. When she arrived at [[King's Cross Station]] Albus was "immensely relieved" to see her, and Rose beamed at him. Rose embodied just a little bit of her mother ''—'' Rose was ambitious; and since her mother was [[Hermione Granger]], meaning she had quite a lot to live up, in terms of achievement. She was quite similar to her mother in the fact that she put a lot of pressure on herself and how she just wanted to do the right thing. Rose was like her mother, but more secure and more grounded. She was born to a wizarding family and knew her place in the world.
+Rose was said to have inherited her mother's intelligence as well as her rumoured photographic memory.<ref name="DHE"/> It was also noted that she put on her robes before needed, like her mother did at her age. If her [[Ronald Weasley|father]]'s encouragement to beat [[Scorpius Malfoy]] academically<ref name="DHE" /> had any effect, she may have also turned out to be rather competitive and academically excellent like her mother. She seemed to be quite close to her cousin [[Albus Potter]], who was about the same age and who shared her anxiety about where he would be sorted at school. When she arrived at [[King's Cross Station]] Albus was "immensely relieved" to see her, and Rose beamed at him.<ref name="DHE" /> Rose embodied just a little bit of her mother ''—'' Rose was ambitious; and since her mother was [[Hermione Granger]], meaning she had quite a lot to live up, in terms of achievement. She was quite similar to her mother in the fact that she put a lot of pressure on herself and how she just wanted to do the right thing. Rose was like her mother, but more secure and more grounded. She was born to a wizarding family and knew her place in the world.
 
 Rose had a biased side to her, however. She was dismayed that her cousin, Albus, was sorted into Slytherin and didn't approve of his friendship with Scorpius whom Rose unfairly judged for coming from a family that had included Death Eaters. As a result, Rose distanced herself from her cousin as she became popular while Albus was scorned and belittled by others, and only acted kind and civil to him when they were in front of their families. It reached the point where Albus rebuffed her halfhearted attempts to reconcile because he knew it wasn't sincere; indeed, Rose had only attempted to do so at the request of her parents.
 
 Ultimately, after learning of what Albus and Scorpius had been through and all they'd done to do the right thing, Rose truly endeavoured to make amends with her cousin and no longer judged Scorpius unfairly, going as far as to nickname him "Scorpion King".
 
 ==Magical abilities and skills==
-*'''[[Flight|Flying]]''': Having been selected as for the role of [[Chaser]] for the [[Gryffindor Quidditch team]] at Hogwarts, Rose was a highly accomplished and talented [[broomstick]] flyer and [[Quidditch]] player, particularly for a witch of young age. [[Minerva McGonagall]] notably described her flying abilities as "superb", a clear indication of her very impressive skills in this field. 
+*'''[[Flight|Flying]]''': Having been selected as for the role of [[Chaser]] for the [[Gryffindor Quidditch team]] at Hogwarts, Rose was a highly accomplished and talented [[broomstick]] flyer and [[Quidditch]] player, particularly for a witch of young age.<ref name="CC14"/> [[Minerva McGonagall]] notably described her flying abilities as "superb", a clear indication of her very impressive skills in this field. 
 
 ==Possessions==
 *'''[[Wand]]''': Being a witch who attended Hogwarts, Rose would have owned her own wand, which she would have likely bought from [[Ollivanders]] in [[Diagon Alley]] before starting her [[first year]] at [[Hogwarts School of Witchcraft and Wizardry]]. This wand was of an unknown length, [[wand wood]] and [[wand core]].
@@ -128,7 +128,7 @@ Ultimately, after learning of what Albus and Scorpius had been through and all t
 
 ===Family===
 [[File:Hermione and Rose.jpg|220x220px|thumb]]
-Rose appears to have a strong relationship with her father, [[Ronald Weasley|Ron Weasley]], as they were joking about the Hogwarts sorting. Rose was also thought to be close to her mother, [[Hermione Granger]], as they had many of the same qualities, such as intelligence. She seemed to have a good relationship with her younger brother [[Hugo Granger-Weasley]]. 
+Rose appears to have a strong relationship with her father, [[Ronald Weasley|Ron Weasley]], as they were joking about the Hogwarts sorting. Rose was also thought to be close to her mother, [[Hermione Granger]], as they had many of the same qualities, such as intelligence. She seemed to have a good relationship with her younger brother [[Hugo Granger-Weasley]].<ref name="DHE"/> 
 
 ====Cousins====
 [[File:Potter family1.png|left|thumb|186x186px|Potter family]]
@@ -136,7 +136,7 @@ Rose had a good relationship with her cousin [[Albus Potter|Albus]] prior to the
 
 ===Scorpius Malfoy===
 [[File:Scorpius Malfoy (HPCC).png|thumb|185x185px|Scorpius Malfoy]]
-Rose became a classmate of [[Scorpius Malfoy|Scorpius]], who is in the same year as her and Albus. Her father told her not to get too friendly with him and to beat him academically, though her mother did not want them to be pitted against each other. Rose developed a dislike for Scorpius very early on, on the basis that his father made remarks about her parents when they were young. After Scorpius helped to stop the [[Tom Riddle|Dark Lord]]'s [[Delphini|daughter]], it appears that she became kinder towards him.
+Rose became a classmate of [[Scorpius Malfoy|Scorpius]], who is in the same year as her and Albus. Her father told her not to get too friendly with him and to beat him academically, though her mother did not want them to be pitted against each other.<ref name="DHE"/> Rose developed a dislike for Scorpius very early on, on the basis that his father made remarks about her parents when they were young. After Scorpius helped to stop the [[Tom Riddle|Dark Lord]]'s [[Delphini|daughter]], it appears that she became kinder towards him.
 
 ==Etymology==
 Rose was most likely named after the eponymous [[Wikipedia:Rose|flower]]; which is widely prized for its beauty and fragrance. Roses are often considered symbols of love and have historically been associated with goddesses such as [[Wikipedia:Isis|Isis]] and [[Wikipedia:Aphrodite|Aphrodite.]] This may symbolise her parents' relationship with each other. The rose is also the national flower of [[England]]. Red roses are particularly associated with romance, and could allude to the trademark [[Weasley family|Weasley]] red hair.
@@ -145,9 +145,9 @@ It is also possible that Ron and Hermione wanted their children to have the same
 
 ==Behind the scenes==
 [[File:HP_20751_Rose_FL.jpg|thumb|[[Cherrelle Skeete]] as Rose in {{CC|P1}}]]
-*Rose is played by actress [[Helena Barlow]] in {{DH|F2}}.
+*Rose is played by actress [[Helena Barlow]] in {{DH|F2}}.<ref>"[http://www.snitchseeker.com/harry-potter-news/young-actress-helena-barlow-cast-as-rose-weasley-in-deathly-hallows-part-ii-epilogue-82194/ Young actress Helena Barlow cast as Rose Weasley in Deathly Hallows: Part II epilogue]" from SnitchSeeker.com</ref><ref>"[http://www.the-leaky-cauldron.org/2011/6/15/actress-helena-barlow-cast-as-rose-weasley-in-deathly-hallows-part-2 Actress Helena Barlow Cast as Rose Weasley in “Deathly Hallows: Part 2″]" from [[The Leaky Cauldron (website)|The Leaky Cauldron]]</ref>
 *Rose shares the first letter of her name with her father [[Ronald Weasley]]. Her brother [[Hugo Granger-Weasley|Hugo]] shares the first letter of his name with their mother [[Hermione Granger|Hermione]].
-*Rose is portrayed by British actress [[Cherrelle Skeete]] in {{CC|P1}}.
+*Rose is portrayed by British actress [[Cherrelle Skeete]] in {{CC|P1}}.<ref name="A1" />
 *Rose's origins are like her [[Harry Potter|uncle]]'s, as she has a pure-blood father ([[Ronald Weasley|Ron]], like [[James Potter I|James Potter]]) and a Muggle-born mother ([[Hermione Granger|Hermione]], like [[Lily J. Potter|Lily Evans]]).
 *Both of Rose's parents are featured on a [[Chocolate Frog Card]].
 *Rose's name continues [[J. K. Rowling]]'s tradition of naming characters after flowers (e.g., [[Lily J. Potter|Lily]] and [[Petunia Dursley|Petunia]], [[Narcissa Malfoy|Narcissa]], [[Fleur Delacour|Fleur]], [[Lavender Brown|Lavender]], [[Poppy Pomfrey|Poppy]], and [[Pansy Parkinson|Pansy]]).

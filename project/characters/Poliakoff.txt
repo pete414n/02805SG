@@ -2,15 +2,15 @@
 |theme = durmstrang
 |image =
 |name = Poliakoff
-|born = Before [[31 October]] [[1977]]
+|born = Before [[31 October]] [[1977]]<ref name="age">He would have had to have been at least 17 years of age by October 1994, in order to have placed his name in the Goblet of Fire.</ref>
 |died =
-|blood = [[Pure-blood]] or [[Half-blood]]
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">He was not [[Muggle-born]], as Durmstrang did not allow Muggle-borns to attend the school.</ref>
 |alias =
 |title =
 |signature =
 |nationality =
-|species = [[Human]]
-|gender = Male
+|species = [[Human]]<ref name="GOF15"/>
+|gender = Male<ref name="GOF15"/>
 |skin =
 |hair =
 |eyes =
@@ -24,24 +24,24 @@
 |patronus =
 |job =
 |house =
-|loyalty = [[Durmstrang Institute]]
+|loyalty = [[Durmstrang Institute]]<ref name="GOF15"/>
 }}
 {{Dialogue a-b-a|Karkaroff|Viktor, how are you feeling? Did you eat enough? Should I send for some mulled wine from the kitchens?|Poliakoff|Professor, I vood like some vine|I wasn't offering it to you, Poliakoff... I notice you have dribbled food all the way down the front of your robes again, disgusting boy --|An example of how Karkaroff treated his students, such as Poliakoff|Harry Potter and the Goblet of Fire}}
-'''Poliakoff''' was a [[Wizardkind|wizard]] and student of the [[Durmstrang Institute]] in the [[1990s]].
+'''Poliakoff''' was a [[Wizardkind|wizard]] and student of the [[Durmstrang Institute]] in the [[1990s]].<ref name="GOF15">{{GOF|B|15}}</ref>
 
 ==Biography ==
-In [[October]] [[1994]], he was a member of the [[Durmstrang Institute|Durmstrang]] delegation that travelled to [[Hogwarts School of Witchcraft and Wizardry]] to compete in the [[Triwizard Tournament]]. He entered his name into the [[Goblet of Fire]] to compete, but [[Viktor Krum]] was selected as the Champion instead. He is shown to be a sloppy eater as [[Igor Karkaroff]] commented on the food stains on his robes after the welcoming feast in 1994. He hinted to Igor that he wanted [[wine]] once at the feast, but Karkaroff refused, as he had offered it to Viktor, not to Poliakoff. Karkaroff was unkind and harsh towards Poliakoff, snapping at his sloppy manners and interrupting for the wine. Upon seeing Harry Potter for the first time, Poliakoff was dumbfounded, pointing openly at Harry's forehead to a [[Durmstrang girl|girl]] next to him.
+In [[October]] [[1994]], he was a member of the [[Durmstrang Institute|Durmstrang]] delegation that travelled to [[Hogwarts School of Witchcraft and Wizardry]] to compete in the [[Triwizard Tournament]]. He entered his name into the [[Goblet of Fire]] to compete, but [[Viktor Krum]] was selected as the Champion instead. He is shown to be a sloppy eater as [[Igor Karkaroff]] commented on the food stains on his robes after the welcoming feast in 1994. He hinted to Igor that he wanted [[wine]] once at the feast, but Karkaroff refused, as he had offered it to Viktor, not to Poliakoff. Karkaroff was unkind and harsh towards Poliakoff, snapping at his sloppy manners and interrupting for the wine. Upon seeing Harry Potter for the first time, Poliakoff was dumbfounded, pointing openly at Harry's forehead to a [[Durmstrang girl|girl]] next to him.<ref name="GOF15"/>
 
-He left at the end of the year, in which he, along with his schoolmates, showed little care for Karkaroff's cowardly departure after the [[Return of Lord Voldemort]], given his poor treatment of his students, such as forcing them to steer the [[Durmstrang Ship]] while he remained in the cabin on their journey to Hogwarts.
+He left at the end of the year, in which he, along with his schoolmates, showed little care for Karkaroff's cowardly departure after the [[Return of Lord Voldemort]], given his poor treatment of his students, such as forcing them to steer the [[Durmstrang Ship]] while he remained in the cabin on their journey to Hogwarts.<ref name="GOF37">{{GOF|B|37}}</ref>
 
 ==Personality and traits==
-Poliakoff possessed poor manners, being a sloppy eater who dribbled food down his robes despite being in the company of two foreign schools, while gluttonously intervening Karkaroff's offer of [[wine]] for Krum. When noticing the famous [[Harry Potter]], Poliakoff rather tactlessly pointed at his forehead to a girl next to him.
+Poliakoff possessed poor manners, being a sloppy eater who dribbled food down his robes despite being in the company of two foreign schools, while gluttonously intervening Karkaroff's offer of [[wine]] for Krum. When noticing the famous [[Harry Potter]], Poliakoff rather tactlessly pointed at his forehead to a girl next to him.<ref name="GOF15"/>
 
 == Relationships==
 ===Igor Karkaroff===
-Poliakoff appeared not to have a very good relationship with his headmaster, as he was called a ''"disgusting boy"'' because of his messy uniform and was declined when he requested wine from Karkaroff.
+Poliakoff appeared not to have a very good relationship with his headmaster, as he was called a ''"disgusting boy"'' because of his messy uniform and was declined when he requested wine from Karkaroff.<ref name="GOF15"/>
 
-As with the rest of the students who visited Hogwarts, Poliakoff did not miss his headmaster too much when he fled after following the [[Return of Lord Voldemort]], as Igor treated them like servants during their journey.
+As with the rest of the students who visited Hogwarts, Poliakoff did not miss his headmaster too much when he fled after following the [[Return of Lord Voldemort]], as Igor treated them like servants during their journey.<ref name="GOF37"/>
 
 ==Behind the scenes==
 *In {{GOF|FA}}, it is possible that this individual is [[Karkaroff's Aide]]; however this individual was trusted by Karkaroff, while Poliakoff was treated with disdain by Karkaroff.

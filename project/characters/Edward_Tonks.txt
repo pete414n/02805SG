@@ -15,7 +15,7 @@
 |gender = Male
 |height = 
 |weight = 
-|hair = Blonde
+|hair = Blonde<ref name="desc">{{DH|B|5}} - "A fair-haired, big-bellied man was watching Harry anxiously."</ref>
 |eyes = 
 |skin = 
 |family = *[[Andromeda Tonks]] {{c|née [[House of Black|Black]]}} (wife)
@@ -45,7 +45,7 @@
 
 {{Quote|Knew they were coming for me. Heard Death Eaters were in the area last week and decided I'd better run for it. Refused to register as a Muggle-born on principle, see, so I knew it was a matter of time, knew I'd have to leave in the end.|Ted regarding his standing under Voldemort's new regime|Harry Potter and the Deathly Hallows}}
 
-'''Edward "Ted" Tonks''' (d. [[March]], [[1998]]) was a [[Muggle-born]] [[Wizardkind|wizard]]. He was the husband of [[Andromeda Tonks]] {{c|née [[House of Black|Black]]}}, father of [[Nymphadora Tonks|Nymphadora]], and grandfather of [[Edward Lupin|Teddy Lupin]]. He most likely attended [[Hogwarts School of Witchcraft and Wizardry]]. 
+'''Edward "Ted" Tonks'''<ref name="Pottermore">{{WW|remus-lupin}} - "The Lupins' son, Edward Remus ('Teddy'), was named for Remus's recently deceased father-in-law."</ref> (d. [[March]], [[1998]]) was a [[Muggle-born]] [[Wizardkind|wizard]]. He was the husband of [[Andromeda Tonks]] {{c|née [[House of Black|Black]]}}, father of [[Nymphadora Tonks|Nymphadora]], and grandfather of [[Edward Lupin|Teddy Lupin]]. He most likely attended [[Hogwarts School of Witchcraft and Wizardry]]. 
 
 When Ted married Andromeda, who was born into a prejudiced [[pure-blood]] family, her family singled her out for scorn. The couple had one child, Nymphadora, who became a member of the [[Order of the Phoenix]] during the [[Second Wizarding War]]. Ted and Andromeda were not members of the Order but assisted them occasionally, allowing the Order to use their home as a safe-house during the [[Battle of the Seven Potters]].
 
@@ -57,16 +57,16 @@ When [[Tom Riddle|Lord Voldemort]] succeeded in taking over the [[British Minist
 
 [[File:Andromeda and Ted.jpg|230x230px|thumb|Ted and Andromeda on the Black family tree|alt=|left]]
 
-Ted was born into the [[Tonks family]] but, unlike his [[Non-magic people|Muggle]] relatives, was a [[wizardkind|wizard]]. He married [[Andromeda Tonks|Andromeda Black]], who he affectionately called "''Dromeda''", in spite of her [[House of Black|family]]'s belief in [[Blood status|blood purity]]. She was disowned and burned off the [[House of Black#Family Tree|family tree]] tapestry in the House of Black for not making a "''respectable pure-blood marriage''", unlike her sisters [[Narcissa Malfoy|Narcissa]] and [[Bellatrix Lestrange|Bellatrix]]. Ted and his wife had one child, for whom Andromeda selected the name Nymphadora.
+Ted was born into the [[Tonks family]] but, unlike his [[Non-magic people|Muggle]] relatives, was a [[wizardkind|wizard]]. He married [[Andromeda Tonks|Andromeda Black]], who he affectionately called "''Dromeda''", in spite of her [[House of Black|family]]'s belief in [[Blood status|blood purity]]. She was disowned and burned off the [[House of Black#Family Tree|family tree]] tapestry in the House of Black for not making a "''respectable pure-blood marriage''", unlike her sisters [[Narcissa Malfoy|Narcissa]] and [[Bellatrix Lestrange|Bellatrix]]. Ted and his wife had one child, for whom Andromeda selected the name Nymphadora.<ref name="OTP">{{OOTP}}</ref>
 
-Ted and his daughter, whom he fondly called "''Dora''", lacked the talent for magical cleanliness that Andromeda had. He was aware of [[Arthur Weasley]] and his fascination with [[Non-magic people|Muggle]] items.
+Ted and his daughter, whom he fondly called "''Dora''", lacked the talent for magical cleanliness that Andromeda had. He was aware of [[Arthur Weasley]] and his fascination with [[Non-magic people|Muggle]] items.<ref name="DH">{{DH}}</ref>
 
 ===Second Wizarding War {{c|1995-1998}}===
 {{Quote|Hagrid's fine, son. The wife's seeing to him now. How are you feeling? Anything else broken? I've fixed your ribs, your tooth, and your arm. I'm Ted, by the way, Ted Tonks —  Dora's father.|Ted meets Harry Potter after the [[Battle of the Seven Potters]]|Harry Potter and the Deathly Hallows}}
 
-When [[Tom Riddle|Lord Voldemort]] returned to power, Ted's daughter joined the second [[Order of the Phoenix]] to fight against the growing threat. Neither Ted nor Andromeda were official members, but nonetheless supported their daughter and allowed their home to be used as a safe-house. In [[1997]], Tonks married [[Remus Lupin]], who suspected that Ted and Andromeda disapproved because of his [[werewolf]] status.
+When [[Tom Riddle|Lord Voldemort]] returned to power, Ted's daughter joined the second [[Order of the Phoenix]] to fight against the growing threat.<ref name="OTP" /> Neither Ted nor Andromeda were official members, but nonetheless supported their daughter and allowed their home to be used as a safe-house. In [[1997]], Tonks married [[Remus Lupin]], who suspected that Ted and Andromeda disapproved because of his [[werewolf]] status.
 
-After the [[Battle of the Seven Potters]], [[Harry Potter]] and [[Rubeus Hagrid]] crashed in the garden of the Tonks home and were both injured. Ted brought the two inside, where he proceeded to fix Harry's broken ribs, tooth and arm. He and Andromeda were very worried for their daughter's safety when Harry informed them that [[Death Eaters]] ambushed the group. Ted attempted to calm Andromeda down by pointing out that Dora had faced worse during the course of her career as an [[Auror]]. 
+After the [[Battle of the Seven Potters]], [[Harry Potter]] and [[Rubeus Hagrid]] crashed in the garden of the Tonks home and were both injured. Ted brought the two inside, where he proceeded to fix Harry's broken ribs, tooth and arm. He and Andromeda were very worried for their daughter's safety when Harry informed them that [[Death Eaters]] ambushed the group. Ted attempted to calm Andromeda down by pointing out that Dora had faced worse during the course of her career as an [[Auror]].<ref name="DH5">{{DH|B|5}}</ref> 
 
 After Harry and Hagrid took the [[Portkey]] to [[the Burrow]], Ted sent the pieces of [[Sirius Black]]'s [[Sirius Black's motorbike|flying motorbike]] to Arthur Weasley. Arthur kept the motorbike in the Burrow's shed for the remainder of the war.
 
@@ -82,15 +82,15 @@ When the Ministry began its persecution of [[Muggle-born]]s, Ted, on a matter of
 Ted then went on the run, eventually meeting up with fellow fugitives [[Dirk Cresswell]] and [[Dean Thomas]], as well as goblins [[Griphook]] and [[Gornuk]], and they proceeded to stay on the move throughout the countryside. At one point, the group discussed [[Harry Potter]] — unaware that Harry was listening in, along with [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]]. Ted dismissed the ''[[Daily Prophet]]<nowiki>'</nowiki>''s claims that Harry was involved in Albus Dumbledore's death and stated his belief that ''[[The Quibbler]]'' was the only place left to get reliable news.
 
 ====Death====
-Eventually, the group was caught by a gang of [[Snatchers]] led by [[Fenrir Greyback]]. Ted, Dirk, and Gornuk were murdered resisting capture.
+Eventually, the group was caught by a gang of [[Snatchers]] led by [[Fenrir Greyback]]. Ted, Dirk, and Gornuk were murdered resisting capture.<ref name="DH" />
 
 ===Post-mortem===
 {{Quote|Let's take a moment to report those deaths that the ''[[Wizarding Wireless Network News]]'' and ''Daily Prophet'' don't think important enough to mention. It is with great regret that we inform our listeners of the murders of Ted Tonks and Dirk Cresswell.|The announcement of Ted's and Dirk Cresswell's murders on ''Potterwatch''|Harry Potter and the Deathly Hallows}}
 
-The death of Ted Tonks and his comrades was announced on ''[[Potterwatch]]'', as the ''[[Daily Prophet]]'' had ceased reporting deaths caused by Voldemort's regime. When Nymphadora gave birth to her son, she and Remus decided to name him [[Edward Lupin|Edward]], or "Teddy", in her father's memory.
+The death of Ted Tonks and his comrades was announced on ''[[Potterwatch]]'', as the ''[[Daily Prophet]]'' had ceased reporting deaths caused by Voldemort's regime. When Nymphadora gave birth to her son, she and Remus decided to name him [[Edward Lupin|Edward]], or "Teddy", in her father's memory.<ref name="DH" />
 
 ==Physical appearance==
-Ted was a "''fair-haired, big-bellied''" man, with a mellow and pleasant voice.
+Ted was a "''fair-haired, big-bellied''" man, with a mellow and pleasant voice.<ref name="desc" />
 
 ==Magical abilities and skills==
 
@@ -100,7 +100,7 @@ Ted was a "''fair-haired, big-bellied''" man, with a mellow and pleasant voice.
 ==Relationships==
 ===Family===
 ====Andromeda Black====
-Andromeda most likely married Ted (a [[Muggle-born]]) in secret, before telling her family; she was disowned from her family and burned off the [[House of Black#Black family tree|Black Family Tree]]. Considering that Andromeda gave up her entire family for Ted, they definitely had a strong and affectionate relationship. Ted called his wife by the nickname "Dromeda".
+Andromeda most likely married Ted (a [[Muggle-born]]) in secret, before telling her family<ref>{{DH|B|1}} - Bellatrix: “She is no niece of ours, my Lord,” she cried over the outpouring of mirth. “We — Narcissa and I — have never set eyes on our sister since she married the Mudblood. This brat has nothing to do with either of us, nor any beast she marries.”</ref>; she was disowned from her family and burned off the [[House of Black#Black family tree|Black Family Tree]]. Considering that Andromeda gave up her entire family for Ted, they definitely had a strong and affectionate relationship. Ted called his wife by the nickname "Dromeda".
 
 In [[1973]], the couple's only [[Nymphadora Tonks|child]] was born and Andromeda named her Nymphadora, but Ted regularly called her "Dora" a name that, unlike Nymphadora, she did not seem to mind.
 
@@ -114,7 +114,7 @@ Ted and [[Andromeda Tonks|Andromeda]]'s only daughter, who was born sometime in 
 ====Remus Lupin====
 [[File:Remus Lupin Deathly Hallows promo image.jpg|220x220px|thumb|left|[[Remus Lupin]], his son-in-law]]
 
-Remus married Ted's daughter, Nymphadora; neither Ted nor Andromeda attended [[Wedding of Remus Lupin and Nymphadora Tonks|the wedding]], but only because they did not know about it. Remus's [[werewolf]] status was most likely never a problem for Ted, given the open-minded nature of his few recorded statements.
+Remus married Ted's daughter, Nymphadora; neither Ted nor Andromeda attended [[Wedding of Remus Lupin and Nymphadora Tonks|the wedding]], but only because they did not know about it<ref>Pottermore states that the only witnesses to the wedding were people from the local tavern in the north of the country.</ref>. Remus's [[werewolf]] status was most likely never a problem for Ted, given the open-minded nature of his few recorded statements.
 
 However the opposite may also be true, as Remus had stated that his wife's parents were disgusted by their marriage when he asked Harry "''What parents would want their only daughter to marry a werewolf?''" However this is unknown if that was the genuine attitude of Ted as he never made such a statement. It could have been possible Remus merely imagined his future in-laws would disapprove of him, as his distressed mind was considering other scenarios as to why he should not get married, such as being an older man than Nymphadora.
 

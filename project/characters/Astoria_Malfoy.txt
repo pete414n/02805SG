@@ -3,10 +3,10 @@
 |theme = wizard
 |image = Astoria Malfoy.jpg
 |name = Astoria Malfoy (née Greengrass)
-|born = Between [[1 September]] [[1981]] and [[31 August]] [[1982]]
+|born = Between [[1 September]] [[1981]] and [[31 August]] [[1982]]<ref>[[J.K. Rowling PotterCast Interview]]</ref>
 [[Great Britain]]
-|died = [[August]] [[2019]] (aged 37)
-|blood = [[Pure-blood]]
+|died = [[August]]<ref>According to [https://www.hp-lexicon.org/character/greengrass-family/astoria-greengrass/ The Harry Potter Lexicon], Astoria died in August.</ref> [[2019]]<ref name="died">{{CC|B|1|4}}</ref> (aged 37)
+|blood = [[Pure-blood]]<ref>Astoria's [[Scorpius Malfoy|son]] was described as pure-blood by [[Ronald Weasley|Ron Weasley]] in the epilogue of {{DH}}, indicating that Astoria would have been pure-blood herself.</ref><ref name="PMdraco">{{WW|draco-malfoy}}</ref><ref>The Greengrass family appears on the [[Sacred Twenty-Eight]] list, making them a pure-blood family.</ref>
 |marital = Married
 |nationality = {{GBorIE}}
 |alias = 
@@ -39,18 +39,18 @@
 *[[Malfoy family]]
 }}
 {{Quote|Sweets, they always help you make friends.|Astoria's advice to [[Scorpius Malfoy|her son]] on making friends|Harry Potter and the Cursed Child}}
-'''Astoria Malfoy''' (née '''Greengrass''') (c. [[1982]] – [[2019]]) was a [[Great Britain|British]] [[pure-blood]] [[Wizardkind|witch]]. She also was a member of the [[Greengrass family]], one of the [[Sacred Twenty-Eight]]. Astoria began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1993]], two years below her husband, [[Draco Malfoy]], and her elder sister, [[Daphne Greengrass]]. 
+'''Astoria Malfoy'''<ref>[http://www.imdb.com/title/tt1201607/fullcredits?ref_=tt_ov_st_sm IMDB - Harry Potter and the Deathly Hallows: Part 2 - Full Cast & Crew]</ref> (née '''Greengrass''') (c. [[1982]] – [[2019]]) was a [[Great Britain|British]] [[pure-blood]] [[Wizardkind|witch]]. She also was a member of the [[Greengrass family]], one of the [[Sacred Twenty-Eight]]. Astoria began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1993]], two years below her husband, [[Draco Malfoy]], and her elder sister, [[Daphne Greengrass]]. 
 
-After her education at Hogwarts, she met and married Draco and the two had a son, [[Scorpius Malfoy|Scorpius Hyperion Malfoy]]. Astoria died during the summer of [[2019]], due to her [[Blood malediction|blood curse]].
+After her education at Hogwarts, she met and married Draco and the two had a son, [[Scorpius Malfoy|Scorpius Hyperion Malfoy]]. Astoria died during the summer of [[2019]], due to her [[Blood malediction|blood curse]].<ref name="died" />
 
 ==Biography==
 ===Early life {{C|1982-1993}}===
-Born into the [[Greengrass family]], among [[Sacred Twenty-Eight|the oldest, truly pure-blooded families in Britain]], Astoria and her older sister, [[Daphne Greengrass|Daphne]], were brought up in the ideals of [[Pure-blood supremacy]]. Astoria's life was cut short by a curse placed upon [[Astoria Malfoy's ancestor|her ancestor]] long before her time, resulting in her body becoming extremely frail.
+Born into the [[Greengrass family]], among [[Sacred Twenty-Eight|the oldest, truly pure-blooded families in Britain]], Astoria and her older sister, [[Daphne Greengrass|Daphne]], were brought up in the ideals of [[Pure-blood supremacy]].<ref name="PMdraco" /> Astoria's life was cut short by a curse placed upon [[Astoria Malfoy's ancestor|her ancestor]] long before her time, resulting in her body becoming extremely frail.<ref name="died" />
 
 ===Hogwarts years {{C|1993-2000}}===
 Astoria attended [[Hogwarts School of Witchcraft and Wizardry]]. During the [[Battle of Hogwarts]], she was evacuated for being too young. It is also unknown what [[Hogwarts Houses|house]] she was [[Sorting ceremony|sorted]] into at Hogwarts.
 
-The events of the [[Second Wizarding War]] during her teenage years made Astoria espouse a more tolerant life view, turning back on her family's blood purity ideals, although her experience through the war was less than that of what Draco Malfoy suffered.
+The events of the [[Second Wizarding War]] during her teenage years made Astoria espouse a more tolerant life view, turning back on her family's blood purity ideals, although her experience through the war was less than that of what Draco Malfoy suffered.<ref name="PMdraco" />
 
 ===Adulthood {{C|2000-2019}}===
 ====Marriage====
@@ -59,23 +59,23 @@ At some point between 2000 and 2005, she eventually married [[Draco Malfoy]], wh
 ====Raising Scorpius Malfoy====
 Frail, and knowing she was not destined for old age due to her ancestor's blood borne curse, Astoria longed for a child so that Draco, after her inevitable death, would not be alone.
 [[File:Astoria hugging Scorpius.gif|left|thumb|200x200px|Astoria with her family on the platform]]
-She was successful in producing a child, despite Draco telling her that he didn't care if the Malfoy family ended with him, but the pregnancy greatly weakened her and the family vanished into seclusion when [[Scorpius Malfoy|Scorpius Hyperion Malfoy]] was born. This, despite the intentions of Draco and Astoria, led to false rumours that Astoria had been unable to conceive and had used a [[Time-Turner]] to go back in time and conceive a child with Lord Voldemort — which, if she actually ''was'' unable to conceive would have been a failure anyway. The stigma of these rumours were borne by her son who, at Hogwarts, was accused of being Voldemort's child.
+She was successful in producing a child, despite Draco telling her that he didn't care if the Malfoy family ended with him, but the pregnancy greatly weakened her and the family vanished into seclusion when [[Scorpius Malfoy|Scorpius Hyperion Malfoy]]<ref>[http://www.time.com/time/specials/2007/personoftheyear/article/0,28804,1690753_1695388_1695569,00.html TIME magazine - JK Rowling answers 10 questions about Harry]</ref> was born. This, despite the intentions of Draco and Astoria, led to false rumours that Astoria had been unable to conceive and had used a [[Time-Turner]] to go back in time and conceive a child with Lord Voldemort — which, if she actually ''was'' unable to conceive would have been a failure anyway. The stigma of these rumours were borne by her son who, at Hogwarts, was accused of being Voldemort's child.
 
-After Scorpius's birth, Astoria refused to teach her son the pure-blooded belief that [[Non-magic people|Muggle]]s were scum. [[Lucius Malfoy|Lucius]] and [[Narcissa Malfoy]] therefore found her a somewhat disappointing daughter-in-law; family gatherings were, as a result, often fraught with tension.
+After Scorpius's birth, Astoria refused to teach her son the pure-blooded belief that [[Non-magic people|Muggle]]s were scum. [[Lucius Malfoy|Lucius]] and [[Narcissa Malfoy]] therefore found her a somewhat disappointing daughter-in-law; family gatherings were, as a result, often fraught with tension.<ref name="PMdraco" />
 
-In [[2017]], Astoria saw her son off at [[King's Cross Station]] for his [[first year]] at [[Hogwarts School of Witchcraft and Wizardry]], loading him up with sweets, having told him on at least one occasion, "''Sweets, they always help you make friends''." Once Scorpius befriended Albus and Scorpius bonded over sweets, her advice was apparently correct.
+In [[2017]], Astoria saw her son off at [[King's Cross Station]] for his [[first year]] at [[Hogwarts School of Witchcraft and Wizardry]],<ref>{{DH}} - Epilogue (''Nineteen Years Later'')</ref> loading him up with sweets, having told him on at least one occasion, "''Sweets, they always help you make friends''." Once Scorpius befriended Albus and Scorpius bonded over sweets, her advice was apparently correct.
 
 ===Death {{C|2019}}===
 In the summer before Scorpius's [[third year]] at Hogwarts, Astoria died due to the toll of her family curse, leaving her son and husband heartbroken. Scorpius and Albus would later on attend her funeral.
 
-Draco, having inherited a "true" [[Time-Turner]] from his father, was later urged to use it to go back in time to see Astoria, but he resisted, knowing the potential damage he could cause to reality.
+Draco, having inherited a "true" [[Time-Turner]] from his father, was later urged to use it to go back in time to see Astoria, but he resisted, knowing the potential damage he could cause to reality.<ref name="died" />
 
 ==Etymology==
-The name ''Astoria'' may be derived from the London Astoria, a music venue in London, England, or the Waldorf-Astoria Hotel, a famously luxurious hotel in New York City. This hotel was named after the Astors, a very wealthy and influential American family. The name may also be related to {{W|Astraea (mythology)|Astraea}}, a daughter of Zeus in Greek mythology who personified justice. ''Astraea'' is derived from Greek meaning "star-maiden"; this may relate to her husband's [[House of Black|maternal family]] often naming its members after stars and constellations. The name may also be spelled ''Asteria'', as shown on the [[Weasley family#Family Tree|Weasley Family Tree]]. Like Hyperion — her son [[Scorpius Malfoy|Scorpius]]'s middle name — {{W|Asteria}} is the name of one of the Titans of Greek mythology.
+The name ''Astoria'' may be derived from the London Astoria, a music venue in London, England, or the Waldorf-Astoria Hotel, a famously luxurious hotel in New York City. This hotel was named after the Astors, a very wealthy and influential American family.<ref>{{Wikilink|Waldorf-Astoria}}</ref> The name may also be related to {{W|Astraea (mythology)|Astraea}}, a daughter of Zeus in Greek mythology who personified justice. ''Astraea'' is derived from Greek meaning "star-maiden"; this may relate to her husband's [[House of Black|maternal family]] often naming its members after stars and constellations. The name may also be spelled ''Asteria'', as shown on the [[Weasley family#Family Tree|Weasley Family Tree]].<ref>[http://www.hp-lexicon.org/images/jkr/weasleyfamilytree-website.jpg HP Lexicon: Weasley Family Tree]</ref> Like Hyperion — her son [[Scorpius Malfoy|Scorpius]]'s middle name — {{W|Asteria}} is the name of one of the Titans of Greek mythology.
 
 ==Behind the scenes==
-*Astoria is played by [[Jade Olivia]], in the epilogue scene of {{DH|F2}}. She was the real-life girlfriend of Draco's actor [[Tom Felton]] at the time.
-*[[J. K. Rowling]] has said that she chose to have Draco marry someone other than [[Pansy Parkinson]], who seems to have been his girlfriend during his adolescence, because she always hated Pansy, who represented "the girls who teased me when I was at school". She has referred to Pansy as "the anti-[[Hermione Granger|Hermione]]". Indeed, keeping in line with this, J. K. Rowling draws a much more sympathetic portrait of Astoria Greengrass on {{PM}}.
+*Astoria is played by [[Jade Olivia]], in the epilogue scene of {{DH|F2}}.<ref>http://www.mirror.co.uk/celebs/news/2010/06/08/harry-potter-star-tom-felton-gets-hitched-on-screen-with-real-life-girlfriend-115875-22318222/</ref> She was the real-life girlfriend of Draco's actor [[Tom Felton]] at the time.
+*[[J. K. Rowling]] has said that she chose to have Draco marry someone other than [[Pansy Parkinson]], who seems to have been his girlfriend during his adolescence, because she always hated Pansy, who represented "the girls who teased me when I was at school". She has referred to Pansy as "the anti-[[Hermione Granger|Hermione]]".<ref>[http://www.accio-quote.org/articles/2007/1224-pottercast-anelli.html PotterCast interview]</ref> Indeed, keeping in line with this, J. K. Rowling draws a much more sympathetic portrait of Astoria Greengrass on {{PM}}.<ref name="PMdraco" />
 *Astoria is the only character in the epilogue who [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] do not know, though they are aware of Scorpius's identity and probably also Astoria's, even if they do only refer to her as "Draco's wife." In a school context, a two-year gap is considerable, and since even her sister [[Daphne Greengrass|Daphne]] was barely peripheral to their school days, they may not have been aware of her until she married Draco.
 *Daphne was [[Sorting ceremony|Sorted]] into [[Slytherin]], but it is unknown if Astoria was Sorted into Slytherin as well.
 *Astoria's maiden name, Greengrass, could refer to the primary colour of Slytherin House (green) and the common phrase, "a snake in the grass," as snakes are Slytherin's emblem. This is ironic, as the phrase refers to someone who is treacherous and venal, traits that Astoria does not seemingly possess.

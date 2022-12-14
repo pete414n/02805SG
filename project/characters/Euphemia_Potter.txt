@@ -3,8 +3,8 @@
 |image = Euphemia Potter.png
 |name = Euphemia Potter
 |born = 
-|died = Pre-[[31 July]], [[1980]]
-|blood = [[Pure-blood]]
+|died = Pre-[[31 July]], [[1980]]<ref name="death">{{WW|the-potter-family}}: "''Fleamont and Euphemia lived long enough to see [[Wedding of James Potter I and Lily Evans|James marry a Muggle-born girl called Lily Evans]], but not to meet their grandson, [[Harry Potter|Harry]].''"</ref>
+|blood = [[Pure-blood]]<ref name="blood">We know Euphemia's son [[James Potter I|James]] is a pure-blood ({{HBP|chapter=12}}), which means [https://web.archive.org/web/20100526160148/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=58 none of his parents or grandparents are Muggles or Muggle-borns]. This implies that James's parents are either pure-blood or half-blood, same for his grandparents.</ref>
 |marital = Widowed {{c|briefly}}
 |nationality = 
 |alias = 
@@ -33,18 +33,18 @@
 |house = 
 |loyalty = [[Potter family]]
 }}
-'''Euphemia Potter''' (died c. [[1979]]) was a [[pure-blood]] [[Wizardkind|witch]]. She was married to [[Fleamont Potter]], with whom she had one son, [[James Potter I|James]], thus making her the paternal grandmother of the famous [[Harry Potter]], and the great-grandmother of [[James Potter II|James Sirius]], [[Albus Potter|Albus Severus]], and [[Lily L. Potter|Lily Luna Potter]].
+'''Euphemia Potter'''<ref name="PotterFamilyPottermore">{{WW|the-potter-family}}</ref> (died c. [[1979]]) was a [[pure-blood]] [[Wizardkind|witch]]. She was married to [[Fleamont Potter]], with whom she had one son, [[James Potter I|James]], thus making her the paternal grandmother of the famous [[Harry Potter]], and the great-grandmother of [[James Potter II|James Sirius]], [[Albus Potter|Albus Severus]], and [[Lily L. Potter|Lily Luna Potter]].
 
 ==Biography==
-Little is known about Euphemia's early life. She and her husband [[Fleamont Potter|Fleamont]] lived a comfortable life due to his wealth. They had trouble having children and eventually gave up the hope of ever having a son or daughter of their own. Due to her late-in-life pregnancy, James was an only child, and was doted on quite a lot.
+Little is known about Euphemia's early life. She and her husband [[Fleamont Potter|Fleamont]] lived a comfortable life due to his wealth. They had trouble having children and eventually gave up the hope of ever having a son or daughter of their own.<ref name="PotterFamilyPottermore" /> However, in [[1959]], to the couple's shock and delight, Euphemia discovered she was [[pregnancy|pregnant]], and gave birth to a son, [[James Potter I|James]], on [[27 March]] [[1960]].<ref name="DH16">{{DH|B|16}}</ref> Due to her late-in-life pregnancy, James was an only child, and was doted on quite a lot.<ref name="TLC">[http://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-3.htm The Leaky Cauldron and Mugglenet interview, 16th July 2005]</ref>
 
-When James's best friend, [[Sirius Black]], ran away from [[12 Grimmauld Place|home]] at age sixteen, he found refuge in the [[Potter family|Potter]] household. Euphemia and her husband came to regard Sirius as something of a second son. After Sirius moved into his own flat, he kept in touch with the [[Potter family|Potters]], and was always welcome to have lunch with them on Sundays.
+When James's best friend, [[Sirius Black]], ran away from [[12 Grimmauld Place|home]] at age sixteen, he found refuge in the [[Potter family|Potter]] household. Euphemia and her husband came to regard Sirius as something of a second son. After Sirius moved into his own flat, he kept in touch with the [[Potter family|Potters]], and was always welcome to have lunch with them on Sundays.<ref name="op6">{{OOTP|B|6}}</ref>
 
-Advancing in age, both Euphemia and her husband Fleamont succumbed to [[Dragon Pox]] shortly after the marriage of their son James to [[Lily J. Potter|Lily Evans]], in [[1978]]-[[1979]], dying within days of each other.
+Advancing in age, both Euphemia and her husband Fleamont succumbed to [[Dragon Pox]] shortly after the marriage of their son James to [[Lily J. Potter|Lily Evans]], in [[1978]]-[[1979]], dying within days of each other.<ref name="PotterFamilyPottermore" /><ref name="TLC" /> Euphemia never got a chance to meet her grandson, who would only be born after his grandparents' deaths, on [[31 July]], [[1980]], but she was among the relatives who Harry saw when he looked into the [[Mirror of Erised]] in [[1991]].<ref>{{PS|B|13}}</ref>
 
 ==Etymology==
 
-Euphemia is a name of Greek origin. "Eu" means 'good', and "phemi" means 'to speak'; its full meaning is usually translated to mean "well-spoken, auspicious speech or good repute".
+Euphemia is a name of Greek origin. "Eu" means 'good', and "phemi" means 'to speak'; its full meaning is usually translated to mean "well-spoken, auspicious speech or good repute".<ref>http://www.behindthename.com/name/euphemia</ref>
 ==Behind the scenes==
 *The name "Euphemia" is not unusual to see in British and Scottish ancestral trees, and has been the name of several European queens. A common nickname for those with the name is "Effie". 
 *It was once presumed that [[Charlus Potter]] and [[Dorea Black]], who appeared on the [[House of Black|Black family tree]], might have been James's parents (since it was known that Charlus and Dorea also had [[Charlus Potter's son|one son]]). However, [[J. K. Rowling]] revealed via {{PM}} that that was not the case. It is still more than likely, however, that Charlus Potter is somehow related to Fleamont.

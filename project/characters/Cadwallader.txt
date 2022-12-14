@@ -8,11 +8,11 @@
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
-|title = [[Chaser]]
+|title = [[Chaser]]<ref name="HBP19"/>
 |signature = 
-|species = [[Human]]
-|gender = Male
-|height = Unknown, described as "that big Hufflepuff player"
+|species = [[Human]]<ref name="HBP19"/>
+|gender = Male<ref name="HBP19"/>
+|height = Unknown, described as "that big Hufflepuff player"<ref name="HBP19"/>
 |weight = 
 |hair = 
 |eyes = 
@@ -24,22 +24,22 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Hufflepuff]]
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Hufflepuff]]
+|house = [[Hufflepuff]]<ref name="HBP19"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP19"/>
+**[[Hufflepuff]]<ref name="HBP19"/>
 **[[Hufflepuff Quidditch team]]
 }}
 {{Dialogue a-b|Luna|... but now that big Hufflepuff player's got the Quaffle from her, I can't remember his name, it's something like Bibble - no, Buggins -|Professor McGonagall|It's Cadwallader!|[[Luna Lovegood]]'s commentary on a [[Quidditch]] match|Harry Potter and the Half-Blood Prince}}
-'''Cadwallader''' was a [[Wizardkind|wizard]] who was [[Sorting ceremony|Sorted]] into [[Hufflepuff]] [[Hogwarts Houses|house]] at [[Hogwarts School of Witchcraft and Wizardry]]. He played the position of [[Chaser]] for his house [[Quidditch]] [[Hufflepuff Quidditch team|team]].
+'''Cadwallader''' was a [[Wizardkind|wizard]] who was [[Sorting ceremony|Sorted]] into [[Hufflepuff]] [[Hogwarts Houses|house]] at [[Hogwarts School of Witchcraft and Wizardry]]. He played the position of [[Chaser]] for his house [[Quidditch]] [[Hufflepuff Quidditch team|team]].<ref name="HBP19"/>
 
 ==Biography==
-In [[1996]], during a match against the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]], commentator [[Luna Lovegood]] could not remember Cadwallader's name, calling him "Bibble" and "Buggins" before [[Minerva McGonagall|Professor McGonagall]] corrected her.
+In [[1996]], during a match against the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]], commentator [[Luna Lovegood]] could not remember Cadwallader's name, calling him "Bibble" and "Buggins" before [[Minerva McGonagall|Professor McGonagall]] corrected her.<ref name="HBP19">{{HBP|B|19}}</ref>
 
 ==Magical abilities and skills==
-*'''[[Flight|Flying]]''': Cadwallader was evidently a skilled [[broomstick]] flyer and [[Quidditch]] player, given how he was chosen to play the position of [[Chaser]] for the [[Hufflepuff Quidditch team]].
+*'''[[Flight|Flying]]''': Cadwallader was evidently a skilled [[broomstick]] flyer and [[Quidditch]] player, given how he was chosen to play the position of [[Chaser]] for the [[Hufflepuff Quidditch team]].<ref name="HBP19"/>
 
 ==Behind the scenes==
-*The [[password]] to the [[portrait]] of [[Bertie Bott]], guarding a secret room, was ''Bibble''.
+*The [[password]] to the [[portrait]] of [[Bertie Bott]], guarding a secret room, was ''Bibble''.<ref name="POAG">{{POA|G}} - PC version</ref>
 *The name of the seeker in the Welsh Quidditch team during the [[2014 Quidditch World Cup]] is said to be [[Eurig Cadwallader]] in [[Ginevra Weasley|Ginny Potter]]'s daily prophet commentary of the game [[Wales]] against [[Germany]]. It is possible Cadwallader is this very same Eurig Cadwallader, given their similarities in age and surname, and the fact that Hogwarts students come only from Britain, with Wales being in Britain. It is also possible that Eurig Cadwallader and this Cadwallader are relatives.
 
 ==Etymology==

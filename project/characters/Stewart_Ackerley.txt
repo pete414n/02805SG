@@ -10,8 +10,8 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]
-|gender = Male
+|species = [[Human]]<ref name="GOF12"/>
+|gender = Male<ref name="GOF12"/>
 |height = 
 |weight = 
 |hair = 
@@ -24,15 +24,15 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Ravenclaw]]
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Ravenclaw]]
+|house = [[Ravenclaw]]<ref name="GOF12"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF12"/>
+**[[Ravenclaw]]<ref name="GOF12"/>
 }}
-'''Stewart Ackerley''' (born c. [[1982]]-[[1983]]) was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. He was [[Sorting ceremony|Sorted]] into [[Ravenclaw]] house and was incredibly nervous, often twitching and trembling during his Sorting.
+'''Stewart Ackerley''' (born c. [[1982]]-[[1983]]) was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. He was [[Sorting ceremony|Sorted]] into [[Ravenclaw]] house and was incredibly nervous, often twitching and trembling during his Sorting.<ref name="GOF12">{{GOF|B|12}}</ref>
 
 ==Etymology==
-*"Stewart" is from an occupational surname originally belonging to a person who was a steward. It is ultimately derived from Old English stig "house" and weard "guard". As a given name, it arose in [[19th century]] [[Scotland]] in honour of the Stuart royal family, which produced several kings and queens of Scotland and Britain between the 14th and 18th centuries.
-*"Ackerley" is a Middle English name meaning 'aker', a division of land + 'ley', a lea or field.
+*"Stewart" is from an occupational surname originally belonging to a person who was a steward. It is ultimately derived from Old English stig "house" and weard "guard". As a given name, it arose in [[19th century]] [[Scotland]] in honour of the Stuart royal family, which produced several kings and queens of Scotland and Britain between the 14th and 18th centuries.<ref>http://www.behindthename.com/name/stuart</ref>
+*"Ackerley" is a Middle English name meaning 'aker', a division of land + 'ley', a lea or field.<ref>http://www.searchforancestors.com/surnames/origin/a/ackerley.php</ref>
 ==Behind the scenes==
 ===Translations===
 *Bulgarian: ''Стюарт Акърли''

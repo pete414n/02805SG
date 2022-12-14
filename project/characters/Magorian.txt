@@ -1,3 +1,4 @@
+{{MagicAwakenedSpoiler}}
 {{Individual infobox
 |theme = centaur
 |image = [[File:Centauro.jpg|250px]]
@@ -10,13 +11,13 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Centaur]]
-|gender = Male
+|species = [[Centaur]]<ref name="OOTP30"/>
+|gender = Male<ref name="OOTP30"/>
 |height = 
 |weight = 
-|hair = Black
+|hair = Black<ref name="appearance">{{OOTP|B|30}} - "This centaur had a proud, high-cheekboned face and long black hair.</ref>
 |eyes = 
-|skin = Chestnut
+|skin = Chestnut<ref name="OOTP30"/>
 |family = 
 |romances = 
 |animagus = 
@@ -25,31 +26,31 @@
 |patronus = 
 |job = 
 |house = 
-|loyalty = *[[Forbidden Forest centaur colony]]
-*[[Hogwarts School of Witchcraft and Wizardry]]
+|loyalty = *[[Forbidden Forest centaur colony]]<ref name="OOTP30"/><ref name="OOTP33"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH36"/>
 }}
 {{Quote|You are from the [[British Ministry of Magic|Ministry of Magic]]? |Magorian, to [[Dolores Umbridge]]|Harry Potter and the Order of the Phoenix}}
-'''Magorian''' was a [[centaur]] that lived in the [[Forbidden Forest]], and appeared to be the leader of the centaurs [[Forbidden Forest Centaur colony|of the group living in the forest]].
+'''Magorian''' was a [[centaur]] that lived in the [[Forbidden Forest]], and appeared to be the leader of the centaurs [[Forbidden Forest Centaur colony|of the group living in the forest]].<ref name="OOTP30"/><ref name="OOTP33"/>
 
 ==Biography==
-On Saturday in the last weekend in May of [[1996]], Magorian reminded [[Rubeus Hagrid]] that he was no longer welcome in the [[Forbidden Forest]] for his helping to protect [[Firenze]].
+On Saturday in the last weekend in May of [[1996]], Magorian reminded [[Rubeus Hagrid]] that he was no longer welcome in the [[Forbidden Forest]] for his helping to protect [[Firenze]].<ref name="OOTP30">{{OOTP|B|30}}</ref>
 
 [[File:Magorian.jpg|thumb|left|Magorian being strangled by Umbridge's ropes]] 
-On [[18 June]] [[1996]], when [[Harry Potter]] and [[Hermione Granger]] led [[Dolores Umbridge]] into the Forbidden Forest, he was among the centaurs who were greatly insulted by Umbridge's remarks about their race being "filthy [[half-breed]]s". During this incident, [[Skirmish in the Forbidden Forest|a violent skirmish occurred]], during which Umbridge assaulted Magorian with the [[Incarcerous Spell]], which caused thick ropes to bind and strangle the centaur. The centaurs then attacked and carried Umbridge away.
+On [[18 June]] [[1996]], when [[Harry Potter]] and [[Hermione Granger]] led [[Dolores Umbridge]] into the Forbidden Forest, he was among the centaurs who were greatly insulted by Umbridge's remarks about their race being "filthy [[half-breed]]s". During this incident, [[Skirmish in the Forbidden Forest|a violent skirmish occurred]], during which Umbridge assaulted Magorian with the [[Incarcerous Spell]], which caused thick ropes to bind and strangle the centaur. The centaurs then attacked and carried Umbridge away.<ref name="OOTP33">{{OOTP|B|33}}</ref>
 
-He led the charge of the centaurs from the Forbidden Forest during the [[Battle of Hogwarts]], breaking through the [[Death Eaters|Death Eater]] ranks into the [[Great Hall]].
+He led the charge of the centaurs from the Forbidden Forest during the [[Battle of Hogwarts]], breaking through the [[Death Eaters|Death Eater]] ranks into the [[Great Hall]].<ref name="DH36">{{DH|B|36}}</ref>
 
 ==Physical appearance==
-Magorian had long, dark hair and a high-cheekboned face; he constantly had a proud look on his face.
+Magorian had long, dark hair and a high-cheekboned face; he constantly had a proud look on his face.<ref name="appearance"/>
 
 ==Personality and traits==
-He was more of a traditional centaur and hated "traitors" such as [[Firenze]] for going to teach at [[Hogwarts School of Witchcraft and Wizardry]]. He intensely disliked [[human]]s, however, centaurs don't usually kill the young and the innocent among humans, innocent being those who do not show dislike for centaurs and call them half-breeds. During the period where the centaurs had turned against Hagrid he allowed Hagrid to pass unscathed solely due to him being accompanied by young people. He was shown to be in favour of killing any adult human if they wandered into the centaurs' midst and insulted the centaurs, however. However, his views of humanity might have changed after witnessing Harry's selfless actions and welcoming Firenze back into the herd.
+He was more of a traditional centaur and hated "traitors" such as [[Firenze]] for going to teach at [[Hogwarts School of Witchcraft and Wizardry]]. He intensely disliked [[human]]s, however, centaurs don't usually kill the young and the innocent among humans, innocent being those who do not show dislike for centaurs and call them half-breeds. During the period where the centaurs had turned against Hagrid he allowed Hagrid to pass unscathed solely due to him being accompanied by young people. He was shown to be in favour of killing any adult human if they wandered into the centaurs' midst and insulted the centaurs, however.<ref name="OOTP30"/> However, his views of humanity might have changed after witnessing Harry's selfless actions and welcoming Firenze back into the herd.<ref name="DH36"/>
 
 ==Etymology==
 *The name "Magorian" means "son of Magor", an Armenian form of Mark.
 
 ==Behind the scenes==
-*Magorian was played by [[Michael Wildman]] in {{OOTP|FA}}.
+*Magorian was played by [[Michael Wildman]] in {{OOTP|FA}}.<ref>''[http://thesundayquibbler.blogspot.com/2007_12_01_archive.html The Quibbler on Sunday]''</ref>
 
 ==Appearances==
 {{Imagecat|Images of Magorian}}
@@ -58,7 +59,7 @@ He was more of a traditional centaur and hated "traitors" such as [[Firenze]] fo
 *{{DH}}
 *{{LEGO|Y2}} {{C|Appears as a generic [[Centaur]]}}
 *{{HPV|CR}}
-*{{MA}} {{Mention}}
+*{{MA}} {{Spell card}}
 
 ==Notes and references==
 {{Reflist}}

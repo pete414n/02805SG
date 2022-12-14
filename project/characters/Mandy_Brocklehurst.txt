@@ -4,14 +4,14 @@
 |name = Mandy Brocklehurst
 |born = between [[1 September]] [[1979]] and [[31 August]] [[1980]]
 |died = 
-|blood = [[Half-blood]]
+|blood = [[Half-blood]]<ref name="HPM"/>
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]
-|gender = Female
+|species = [[Human]]<ref name="PS7"/>
+|gender = Female<ref name="PS7"/>
 |height = 
 |weight = 
 |hair = 
@@ -24,13 +24,13 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Ravenclaw]]
+|house = [[Ravenclaw]]<ref name="PS7"/>
 |loyalty = *Brocklehurst family
-*[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Ravenclaw]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS7"/>
+**[[Ravenclaw]]<ref name="PS7"/>
 }}
 {{Quote|Brocklehurst, Mandy went to Ravenclaw too....|Mandy being Sorted|Harry Potter and the Philosophers Stone}}
-'''Mandy Brocklehurst''' was a [[half-blood]] [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was Sorted into [[Ravenclaw|Ravenclaw House]].
+'''Mandy Brocklehurst''' was a [[half-blood]]<ref name="HPM">{{HPM}}</ref> [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was Sorted into [[Ravenclaw|Ravenclaw House]].<ref name="PS7">{{PS|B|7}}</ref>
 
 ==Etymology==
 *Mandy is a variation of Amanda, which means "lovable/worth of love".

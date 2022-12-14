@@ -6,30 +6,30 @@
 |died = 
 |blood = 
 |marital = 
-|nationality = [[Bulgaria]]n
+|nationality = [[Bulgaria]]n<ref name="QWC"/>
 |alias = 
-|title = [[Beater]]
+|title = [[Beater]]<ref name="QWC"/>
 |signature = 
-|species = [[Human]]
-|gender = Male
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
 |height = 
 |weight = 
-|hair = Dark
-|eyes = Green
-|skin = White
+|hair = Dark<ref name="QWC"/>
+|eyes = Green<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
 |family = 
 |romances = 
 |animagus = 
 |boggart = 
 |wand = 
 |patronus = 
-|job = [[Beater]] for the [[Bulgarian National Quidditch team]]
+|job = [[Beater]] for the [[Bulgarian National Quidditch team]]<ref name="QWC"/>
 |house = 
-|loyalty = [[Bulgarian National Quidditch team]]
+|loyalty = [[Bulgarian National Quidditch team]]<ref name="QWC"/>
 }}
-'''Ivan Volkov''' was a [[Bulgaria]]n [[wizardkind|wizard]] who played as a [[Beater]] for the [[Bulgarian National Quidditch team]] during the [[1994]] [[Quidditch World Cup]].
+'''Ivan Volkov''' was a [[Bulgaria]]n [[wizardkind|wizard]] who played as a [[Beater]] for the [[Bulgarian National Quidditch team]] during the [[1994]] [[Quidditch World Cup]].<ref name="QWC">{{QWC}}</ref>
 
-During the [[1996–1997 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], Volkov's [[Chocolate Frog Card]] could be won by beating [[Kouta Ohnishi]] at a [[duelling]] challenge.
+During the [[1996–1997 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], Volkov's [[Chocolate Frog Card]] could be won by beating [[Kouta Ohnishi]] at a [[duelling]] challenge.<ref name="HBPG">{{HBP|G}} {{c|NDS edition}}</ref>
 
 ==Etymology==
 *The name '''Ivan''' is a newer form of the old Slavic name Іѡаннъ ''[Io'annə]'', which was derived from Greek Ioannes. It was borne by ten emperors of Bulgaria. Other notable bearers include the Ivan is a common name in Bulgaria as well, with many a famous Bulgarian bearing it, such as the writer Ivan Vazov, hailed as "patriarch of Bulgarian literature" as well as St Ivan of Rila, a 9th century saint. This was also the name of six Russian rulers, including the 15th-century Ivan III the Great and 16th-century Ivan IV the Terrible, the first tsar of Russia. Russian author Ivan Turgenev (1818-1883), who wrote 'Fathers and Sons', and the Russian physiologist Ivan Pavlov (1849-1936), who is best known for his discovery of the conditioned reflex.

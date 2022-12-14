@@ -2,10 +2,10 @@
 |theme = death-eater
 |image = RodolphusLestrangeAzkaban.png
 |name = Rodolphus Lestrange
-|born = Pre [[1953]]<br/>[[Great Britain]]
+|born = Pre [[1953]]<ref>Rodolphus was of-age (17) by the time of marrying Bellatrix Black and the two were known as the Lestranges during the First Wizarding War which began in 1970.</ref><br/>[[Great Britain]]<ref>[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm World Exclusive Interview with J K Rowling.] The Lestrange family is known to be British.</ref>
 |died = 
 |blood = [[Pure-blood]]
-|marital = Widowed
+|marital = Widowed<ref name="DH"/>
 |nationality =
 |alias = 
 |title = 
@@ -39,7 +39,7 @@
 |animagus = 
 |boggart = 
 |wand = 
-|patronus = None
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html July 30, 2007 Web Chat with J. K. Rowling]</ref>
 |job = 
 |house = [[Slytherin]]
 |loyalty = *[[Lestrange family]]
@@ -64,15 +64,15 @@ In [[2020]], he escaped from Azkaban once again, and set to look for Voldemort a
 Rodolphus Lestrange was born to the [[pure-blood]] [[Lestrange family]], in [[Great Britain]], prior to [[1953]].
 
 ===Hogwarts years===
-When Rodolphus attended [[Hogwarts School of Witchcraft and Wizardry]], he was sorted into [[Slytherin]] house. He became friends with many other pure-blood students and, according to [[Sirius Black]] joined a [[Gang of Slytherins|group of friends]] that included many future [[Death Eaters]] like; [[Bellatrix Lestrange|Bellatrix Black]], [[Lucius Malfoy]], [[Evan Rosier]], and [[Severus Snape]].
+When Rodolphus attended [[Hogwarts School of Witchcraft and Wizardry]], he was sorted into [[Slytherin]] house. He became friends with many other pure-blood students and, according to [[Sirius Black]] joined a [[Gang of Slytherins|group of friends]] that included many future [[Death Eaters]] like; [[Bellatrix Lestrange|Bellatrix Black]], [[Lucius Malfoy]], [[Evan Rosier]], and [[Severus Snape]].<ref name="OTP">{{OOTP}}</ref>
 
 ===First Wizarding War===
-He and Bellatrix eventually married sometime before 1970 and both took the [[Dark Mark]], fighting in the [[First Wizarding War]]. She married him only to uphold [[House of Black|her family]]'s tradition of marrying respectable [[pure-blood]]s. She was obsessively in love with [[Tom Riddle|Lord Voldemort]]. It is unknown how Rodolphus felt about her. However, the two did seem to work together effectively as Death Eaters.
+He and Bellatrix eventually married sometime before 1970<ref>The First Wizarding War began in 1970, so they were married by then as they are referred to as "The Lestranges" at that time.</ref> and both took the [[Dark Mark]], fighting in the [[First Wizarding War]]. She married him only to uphold [[House of Black|her family]]'s tradition of marrying respectable [[pure-blood]]s. She was obsessively in love with [[Tom Riddle|Lord Voldemort]]. It is unknown how Rodolphus felt about her. However, the two did seem to work together effectively as Death Eaters.
 
 [[File:B4C30M1 Wizengamot trial Pensieve memory.png|250px|thumb|left|The trial of Rodolphus along with his wife Bellatrix, Barty Crouch Jnr and Rabastan by the [[Council of Magical Law]]]]
 After Hallowe'en night of [[1981]], when Lord Voldemort was defeated the first time, Rodolphus and his wife refused to accept it. Along with Rodolphus's brother [[Rabastan Lestrange|Rabastan]] and [[Bartemius Crouch Junior|Barty Crouch Jnr]], they attacked [[Auror]]s and [[Order of the Phoenix]] members [[Alice Longbottom|Alice]] and [[Frank Longbottom]]. 
 
-They tortured the couple with the [[Cruciatus Curse]] to the point of insanity, and were subsequently captured and imprisoned in [[Azkaban]] prison for this crime. Upon [[Trial of the Lestranges and Bartemius Crouch Junior|their trial]], the [[Lestrange family|Lestranges]] proudly declared their continuing devotion and awaited their master's return.
+They tortured the couple with the [[Cruciatus Curse]] to the point of insanity, and were subsequently captured and imprisoned in [[Azkaban]] prison for this crime. Upon [[Trial of the Lestranges and Bartemius Crouch Junior|their trial]], the [[Lestrange family|Lestranges]] proudly declared their continuing devotion and awaited their master's return.<ref name="GOF">{{GOF}}</ref>
 
 ===Second Wizarding War===
 {{Main|Second Wizarding War}}
@@ -81,10 +81,10 @@ In [[1996]], the [[Dementor]]s of Azkaban revolted, and Rodolphus and Bellatrix 
 ====Battle of the Department of Mysteries====
 {{Quote|We'll split into pairs and search, and don't forget, be gentle with Potter until we've got the prophecy, you can kill the others if necessary...|[[Lucius Malfoy]] gives orders to the group of Death Eaters.|Harry Potter and the Order of the Phoenix}}
 [[File:Death Eaters attacking Department of Mysteries - Pottemore moment.jpg|thumb|250px|Rabastan and fellow Death Eaters standing in the [[Hall of Prophecy]]]]
-Rodolphus participated in the [[Battle of the Department of Mysteries]] soon afterwards; he and Bellatrix were paired together, and pursued [[Luna Lovegood]], [[Ronald Weasley|Ron]] and [[Ginevra Weasley|Ginny Weasley]] into the [[Department of Mysteries#Space Chamber|Space Chamber]] along with two other Death Eaters. He was likely one of the Death Eaters who went on to fight the [[Order of the Phoenix]] in the [[Death Chamber]], though his presence isn't noted. In the aftermath, Rodolphus was returned to prison, although his wife eluded capture.
+Rodolphus participated in the [[Battle of the Department of Mysteries]] soon afterwards; he and Bellatrix were paired together, and pursued [[Luna Lovegood]], [[Ronald Weasley|Ron]] and [[Ginevra Weasley|Ginny Weasley]] into the [[Department of Mysteries#Space Chamber|Space Chamber]] along with two other Death Eaters. He was likely one of the Death Eaters who went on to fight the [[Order of the Phoenix]] in the [[Death Chamber]], though his presence isn't noted. In the aftermath, Rodolphus was returned to prison, although his wife eluded capture.<ref name="OTP" />
 
 ====Battle of the Seven Potters====
-By [[1997]], Rodolphus was again at large, and participated in the [[Battle of the Seven Potters]], pursuing [[Nymphadora Tonks]] and [[Ronald Weasley|Ron Weasley]], who was disguised as [[Harry Potter]] with [[Polyjuice Potion]], with his wife and other Death Eaters. Tonks injured Rodolphus at some point during the pursuit, and she and Ron escaped.
+By [[1997]], Rodolphus was again at large, and participated in the [[Battle of the Seven Potters]], pursuing [[Nymphadora Tonks]] and [[Ronald Weasley|Ron Weasley]], who was disguised as [[Harry Potter]] with [[Polyjuice Potion]], with his wife and other Death Eaters. Tonks injured Rodolphus at some point during the pursuit, and she and Ron escaped.<ref name="DH">{{DH}}</ref>
 
 During the [[Battle of Hogwarts]] the [[1998|next year]], Rodolphus lost his [[Bellatrix Lestrange|wife]], who was killed by [[Molly Weasley]]. What happened to Rodolphus remained unknown during the battle but at some point he is imprisoned again for his crimes.
 
@@ -107,11 +107,11 @@ Rodolphus stood to be a reasonably skilled wizard, as he managed to use the Cruc
 ==Relationships==
 ===Bellatrix Lestrange===
 [[File:Bellatrix Lestrange promo.jpg|alt=|left|thumb|245px|[[Bellatrix Lestrange]], his wife]]
-In marrying Bellatrix Black, Rodolphus made a "''respectable [[pure-blood]] marriage''", as was expected of him. There is no indication that their relationship went beyond this. She never expressed any love or concern for him. It was Voldemort to whom she spoke in a romantic manner instead. However, she and Rodolphus did seem to work effectively together as Death Eaters. 
+In marrying Bellatrix Black, Rodolphus made a "''respectable [[pure-blood]] marriage''",<ref name="OTP" /> as was expected of him. There is no indication that their relationship went beyond this. She never expressed any love or concern for him. It was Voldemort to whom she spoke in a romantic manner instead. However, she and Rodolphus did seem to work effectively together as Death Eaters. 
 
-Rodolphus [[Cruciatus Curse|tortured]] [[Alice Longbottom|Alice]] and [[Frank Longbottom]] alongside his wife, [[Rabastan Lestrange|brother]], and [[Bartemius Crouch Junior|Barty Crouch Jnr]] in [[1981]]. He fought with Bellatrix during the [[Battle of the Department of Mysteries]]. He was also with her during the [[Battle of the Seven Potters]], as [[Nymphadora Tonks]] mentioned cursing him and being pursued by Bellatrix. Sirius Black described them as part of the same "gang of Slytherins" at Hogwarts, which also included [[Lucius Malfoy]], [[Evan Rosier]] and [[Severus Snape]].
+Rodolphus [[Cruciatus Curse|tortured]] [[Alice Longbottom|Alice]] and [[Frank Longbottom]] alongside his wife, [[Rabastan Lestrange|brother]], and [[Bartemius Crouch Junior|Barty Crouch Jnr]] in [[1981]].<ref name="GOF" /> He fought with Bellatrix during the [[Battle of the Department of Mysteries]].<ref name="OTP" /> He was also with her during the [[Battle of the Seven Potters]], as [[Nymphadora Tonks]] mentioned cursing him and being pursued by Bellatrix.<ref name="DH" /> Sirius Black described them as part of the same "gang of Slytherins" at Hogwarts, which also included [[Lucius Malfoy]], [[Evan Rosier]] and [[Severus Snape]].<ref name="OTP" />
 
-Bellatrix once told Narcissa that if she had sons, she would "''be glad to give them up to the service of the Dark Lord''".
+Bellatrix once told Narcissa that if she had sons, she would "''be glad to give them up to the service of the Dark Lord''".<ref name="HBP">{{HBP}}</ref>
 
 No children appear beneath Bellatrix and Rodolphus' names on the [[House of Black|Black family tapestry]], indicating that she had no daughters with Rodolphus either. However, Roldolphus did allow Bellatrix to have access to his [[Lestrange Vault|family's vault]] at [[Gringotts Wizarding Bank]] upon marriage, as Bellatrix referred it as "''[my] vault''".
 
@@ -121,10 +121,10 @@ It was later revealed that Bellatrix had a daughter named [[Delphini]] with [[To
 Delphi claimed that Rodolphus found her after many years of him being in prison.{{fact}} It is unknown what sort of relationship he had with his wife's daughter.
 
 ==Etymology==
-[[Wikipedia:Rodolphus|Rodolphus]] is the Latin form of the name 'Rudolf', which is derived from the Germanic name ''Hrodwulf'', meaning "famous wolf". This may allude to prominent Nazi {{w|Rudolf Hess}}, as the [[Death Eaters|Death Eater]] ideology has similarities to those of Nazism, according to [[J. K. Rowling]]. Removing the l, Rodophus is Greek for 'Rosy-cheeked'.
+[[Wikipedia:Rodolphus|Rodolphus]] is the Latin form of the name 'Rudolf', which is derived from the Germanic name ''Hrodwulf'', meaning "famous wolf".<ref>[http://www.behindthename.com/name/rudolf Behind the Name: Rudolf]</ref> This may allude to prominent Nazi {{w|Rudolf Hess}}, as the [[Death Eaters|Death Eater]] ideology has similarities to those of Nazism, according to [[J. K. Rowling]].<ref>[https://web.archive.org/web/20060316221500/https://www.jkrowling.com/textonly/en/faq_view.cfm?id=58 F.A.Q. Section] at {{JKRS}}</ref> Removing the l, Rodophus is Greek for 'Rosy-cheeked'.
 
 ==Behind the scenes==
-*J.K. Rowling has revealed that [[Bellatrix Lestrange]]'s true love was [[Tom Riddle|Voldemort]], suggesting that the Lestranges' marriage was not affectionate, at least on the part of Bellatrix, who merely made "a respectable pure-blood marriage", as was expected of her. Rodolphus' feelings are not known.
+*J.K. Rowling has revealed that [[Bellatrix Lestrange]]'s true love was [[Tom Riddle|Voldemort]],<ref>[http://www.the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript 30 July 2007 WebChat with J.K. Rowling]</ref> suggesting that the Lestranges' marriage was not affectionate, at least on the part of Bellatrix, who merely made "a respectable pure-blood marriage", as was expected of her. Rodolphus' feelings are not known.
 *In {{HBP}}, someone by the surname "Lestrange" is shown having gone to school with [[Tom Riddle]]. It is unknown if this person is Rodolphus' father or another relative.
 *It's unknown if Rodolphus was aware of Voldemort giving [[Helga Hufflepuff's Cup]] to Bellatrix, or if he was aware of its presence in his [[Lestrange Vault|family vault]].
 *Rodolphus may have been a [[Seer]], as he told Delphini a Prophecy of the Dark Lord's return.

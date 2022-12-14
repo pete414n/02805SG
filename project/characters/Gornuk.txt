@@ -3,7 +3,7 @@
 |image = Gornuk.jpeg
 |name = Gornuk
 |born = 
-|died = [[1998]]
+|died = [[1998]]<ref name="DH22">{{DH|B|22}}</ref>
 |blood = 
 |marital = 
 |nationality = 
@@ -23,11 +23,11 @@
 |boggart = 
 |wand = 
 |patronus = 
-|job = [[Gringotts Wizarding Bank|Gringotts]] employee (formerly)
+|job = [[Gringotts Wizarding Bank|Gringotts]] employee (formerly)<ref name="DH14"/>
 |house = 
-|loyalty = [[Gringotts Wizarding Bank]]
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="DH14"/>
 }}
-'''Gornuk''' was a [[goblin]] who worked at [[Gringotts Wizarding Bank|Gringotts]], but went on the run after [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]] took over the [[British Ministry of Magic|Ministry of Magic]]. He went into hiding after he was expected to work for [[Wizardkind|wizards]], and eventually hooked up with a small band of outcasts comprised of fellow goblin [[Griphook]], and the [[Wizardkind|wizards]] [[Edward Tonks|Ted Tonks]], [[Dirk Cresswell]], and [[Dean Thomas]]. In [[1998]], the group was eventually caught by [[Snatchers]] led by [[Fenrir Greyback]]. Gornuk was killed with Dirk and Ted trying to resist capture.
+'''Gornuk''' was a [[goblin]] who worked at [[Gringotts Wizarding Bank|Gringotts]], but went on the run after [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]] took over the [[British Ministry of Magic|Ministry of Magic]]. He went into hiding after he was expected to work for [[Wizardkind|wizards]], and eventually hooked up with a small band of outcasts comprised of fellow goblin [[Griphook]], and the [[Wizardkind|wizards]] [[Edward Tonks|Ted Tonks]], [[Dirk Cresswell]], and [[Dean Thomas]].<ref name="DH14"/> In [[1998]], the group was eventually caught by [[Snatchers]] led by [[Fenrir Greyback]]. Gornuk was killed with Dirk and Ted trying to resist capture.<ref name="DH22"/>
 
 ==History==
 ===Life at Gringotts===
@@ -35,14 +35,14 @@
 Little is known about Gornuk's career at [[Gringotts Wizarding Bank|Gringotts]]. He worked alongside other [[goblin]]s, like [[Griphook]].
 
 ===Ministry take-over===
-In [[1997]], [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]] took over the [[British Ministry of Magic|Ministry of Magic]]. Death Eaters and Voldemort's supporters started to meddle in the [[Gringotts Wizarding Bank|bank]], much to the [[goblin]] workers' discontent, who did not want to work for [[Wizardkind|wizards]]. Gornuk was amongst the rebellion, since he hated the prospect of living a life like a [[house-elf]]. Some goblins escaped from the bank; among them was Gornuk.
+In [[1997]], [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]] took over the [[British Ministry of Magic|Ministry of Magic]]. Death Eaters and Voldemort's supporters started to meddle in the [[Gringotts Wizarding Bank|bank]], much to the [[goblin]] workers' discontent, who did not want to work for [[Wizardkind|wizards]]. Gornuk was amongst the rebellion, since he hated the prospect of living a life like a [[house-elf]]. Some goblins escaped from the bank; among them was Gornuk.<ref name="DH14"/>
 
 ===Life on the Run===
 [[File:Dean_griphook_3.jpg|300px|thumb|Gornuk's fugitive mates, [[Dean Thomas]] and [[Griphook]]]]
-After escaping the [[Death Eaters]], Gornuk met up with [[Muggle-born]] wizards [[Edward Tonks|Ted Tonks]] and [[Dirk Cresswell]], and [[Dean Thomas]], who were on the run from the [[Muggle-Born Registration Commission]]. He also met his fellow escapee from [[Gringotts Wizarding Bank|Gringotts]], [[Griphook]]. At one of their campsites, [[Harry Potter]], [[Hermione Granger]] and [[Ronald Weasley|Ron Weasley]] overheard the group talking about everything going on in the open wizarding world.
+After escaping the [[Death Eaters]], Gornuk met up with [[Muggle-born]] wizards [[Edward Tonks|Ted Tonks]] and [[Dirk Cresswell]], and [[Dean Thomas]], who were on the run from the [[Muggle-Born Registration Commission]]. He also met his fellow escapee from [[Gringotts Wizarding Bank|Gringotts]], [[Griphook]]. At one of their campsites, [[Harry Potter]], [[Hermione Granger]] and [[Ronald Weasley|Ron Weasley]] overheard the group talking about everything going on in the open wizarding world.<ref name="DH14">{{DH|B|15}}</ref>
 
 ===Death===
-Gornuk, [[Griphook]], [[Edward Tonks|Ted Tonks]], [[Dirk Cresswell]] and [[Dean Thomas]] were eventually caught by a group of [[Snatchers]]. They tried to escape, but failed; Gornuk was killed during the struggle, along with Ted and Dirk. [[Dean Thomas]] and [[Griphook]] were captured by the [[Snatchers]]. The death of Gornuk was announced on ''[[Potterwatch]]'' by [[Lee Jordan]].
+Gornuk, [[Griphook]], [[Edward Tonks|Ted Tonks]], [[Dirk Cresswell]] and [[Dean Thomas]] were eventually caught by a group of [[Snatchers]]. They tried to escape, but failed; Gornuk was killed during the struggle, along with Ted and Dirk. [[Dean Thomas]] and [[Griphook]] were captured by the [[Snatchers]]. The death of Gornuk was announced on ''[[Potterwatch]]'' by [[Lee Jordan]].<ref name="DH22"/>
 
 ==Behind the scenes==
 *Gornuk is mentioned on the radio in {{DH|F1}}; the radio announcer says two of his companions may have escaped capture after Gornuk was killed. The film, however, reports his death far sooner. It says that he died around the time of the murder of [[Mykew Gregorovitch]], not the arrest of [[Xenophilius Lovegood]]. Because Gornuk's conversation with his fellow fugitives (book only) happens after Gregorovitch is found by [[Tom Riddle|Voldemort]], this timing is not [[canon]].

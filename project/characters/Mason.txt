@@ -4,34 +4,34 @@
 |name = Mr Mason
 |born = 
 |died = 
-|blood = [[Non-magic people|Muggle]]
-|marital = Married
-|nationality = [[Great Britain|British]]
+|blood = [[Non-magic people|Muggle]]<ref name="COS1"/>
+|marital = Married<ref name="COS2"/>
+|nationality = [[Great Britain|British]]<ref name="COS1"/>
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]
-|gender = Male
+|species = [[Human]]<ref name="COS1"/>
+|gender = Male<ref name="COS1"/>
 |height = 
 |weight = 
 |hair = 
 |eyes = 
 |skin = 
-|family = [[Mason's wife|Mrs Mason]] (wife)
+|family = [[Mason's wife|Mrs Mason]] (wife)<ref name="COS1"/>
 |romances = 
 |animagus = 
 |boggart = 
 |wand = 
 |patronus = 
-|job = Builder
+|job = Builder<ref name="COS1"/>
 |house = 
-|loyalty = [[Mason family]]
+|loyalty = [[Mason family]]<ref name="COS1"/>
 }}
 {{Dialogue a-b|Petunia Dursley|Vernon tells me you're a ''wonderful'' golfer, Mr Mason...|Mason|I play, occassionally.|[[Petunia Dursley]] practising compliments for Mr Mason|Harry Potter and the Chamber of Secrets}}
-'''Mr Mason''' was a rich builder from whom [[Vernon Dursley]] was hoping to get a big drill order in [[1992]].
+'''Mr Mason''' was a rich builder from whom [[Vernon Dursley]] was hoping to get a big drill order in [[1992]].<ref name="COS1">{{COS|B|1}}</ref>
 
 ==Biography==
-On [[31 July]], Mr Mason and his [[Mason's wife|wife]] were dinner guests at the [[4 Privet Drive|Dursley home]]. The evening was nearly ruined when the dessert [[Petunia Dursley]] had made crashed to the floor (an incident blamed on [[Harry Potter]], though it was actually [[Dobby]]'s fault). The evening could have been rescued were it not for the barn [[owl]] that flew through the open window and dropped a letter on Mrs Mason's head. Mr Mason then informed the [[Dursley family|Dursleys]] that his wife was mortally afraid of [[bird]]s. He then left their home quickly following after his screaming wife.
+On [[31 July]], Mr Mason and his [[Mason's wife|wife]] were dinner guests at the [[4 Privet Drive|Dursley home]]. The evening was nearly ruined when the dessert [[Petunia Dursley]] had made crashed to the floor (an incident blamed on [[Harry Potter]], though it was actually [[Dobby]]'s fault). The evening could have been rescued were it not for the barn [[owl]] that flew through the open window and dropped a letter on Mrs Mason's head. Mr Mason then informed the [[Dursley family|Dursleys]] that his wife was mortally afraid of [[bird]]s. He then left their home quickly following after his screaming wife.<ref name="COS2">{{COS|B|2}}</ref>
 
 ==Etymology==
 The English word "''mason''" means a craftsmen, normally a stoneworker, and originally leaders of teams of builders. This is likely a reference to Mr Mason's position as head of a building company.

@@ -2,21 +2,21 @@
 |theme = dark-wizard
 |image = Walburga Black - Pottermore.jpg
 |name = Walburga Black
-|born = [[1925]] <br/>[[Great Britain]]
-|died = [[1985]] (aged 59/60)
-|blood = [[Pure-blood]]
+|born = [[1925]]<ref name="BFT">''[[House of Black|Black family tree]]'' {{see image|File:JKRBlackFamilyTree.jpg}} </ref> <br/>[[Great Britain]]
+|died = [[1985]]<ref name="BFT" /> (aged 59/60)
+|blood = [[Pure-blood]]<ref name="BFT" />
 |marital = Widowed
 |nationality = [[Great Britain|British]]
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]
-|gender = Female
+|species = [[Human]]<ref name="BFT" />
+|gender = Female<ref name="BFT" />
 |height = 
 |weight = 
 |hair = 
 |eyes = 
-|skin = Light
+|skin = Light<ref name="BFT" />
 |family = *[[Pollux Black]] (father) †
 *[[Irma Crabbe|Irma Black]] (mother)
 *[[Alphard Black]] (younger brother) †
@@ -51,12 +51,12 @@
 |animagus = 
 |boggart = 
 |wand = 
-|patronus = None
+|patronus = None<ref name="LHP5-7">{{LEGO|Y2}}</ref>
 |job = 
-|house = [[Slytherin]]
-|loyalty = *[[House of Black]]
+|house = [[Slytherin]]<ref name="slytherin">In {{HBP|B|4}}, [[Horace Slughorn]] states: "The whole Black family had been in my house, but Sirius ended up in [[Gryffindor]]!" This implies that all Blacks except Sirius were sorted into [[Slytherin]] while Slughorn was teaching at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. As revealed in ''[[Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies]]'', Chapter 3 (Horace Slughorn), Slughorn had "completed half a century of service" at the time of his retirement in [[1981]], meaning he started teaching there circa [[1931]]. If Walburga, born in [[1925]], attended Hogwarts from [[1936]] to [[1943]] or [[1937]] to [[1944]], she likely would have been a student of Slughorn.</ref>
+|loyalty = *[[House of Black]]<ref name="BFT" />
 *[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Slytherin]] <br/>
+**[[Slytherin]]<ref name="slytherin"/> <br/>
 *[[Death Eaters]] (indirectly)
 }}
 {{Quote|My mother didn't have a heart, Kreacher. She kept herself alive out of pure spite.|Walburga's unpleasant personality|Harry Potter and the Order of the Phoenix}}
@@ -68,21 +68,21 @@ Walburga lived in [[Grimmauld Place]] starting at an unknown point in her life, 
 ===Early life===
 {{Dialogue a-b|Harry Potter|Were — were your parents [[Death Eaters]] as well?|Sirius Black|No, no, but believe me, they thought [[Tom Riddle|Voldemort]] had the right idea, they were all for the purification of the wizarding race, getting rid of [[Muggle-born]]s and having [[pure-blood]]s in charge… I bet my parents thought Regulus was a right little hero for joining up at first.|[[Sirius Black]] regarding his family's views|Harry Potter and the Order of the Phoenix}}
 
-Walburga was a member of the traditionalist [[pure-blood]] [[House of Black]], who looked down on any except other "respectable" pure-blood wizards and believed in [[pure-blood supremacy]]. She was the daughter of [[Pollux Black]] and [[Irma Crabbe]], and sister of [[Alphard Black|Alphard]] and [[Cygnus Black III|Cygnus]]. In her youth, she attended [[Hogwarts School of Witchcraft and Wizardry]] where she was sorted into [[Slytherin]]. Shortly after graduating Hogwarts, Walburga waited for her second cousin [[Orion Black|Orion]] to finish his education, planning on continuing her pure bloodline by marrying him in a practice of [[inbreeding]] that was popular in her family. Walburga married him at some point in the [[1950s]].
+Walburga was a member of the traditionalist [[pure-blood]] [[House of Black]], who looked down on any except other "respectable" pure-blood wizards and believed in [[pure-blood supremacy]]. She was the daughter of [[Pollux Black]] and [[Irma Crabbe]], and sister of [[Alphard Black|Alphard]] and [[Cygnus Black III|Cygnus]]. In her youth, she attended [[Hogwarts School of Witchcraft and Wizardry]] where she was sorted into [[Slytherin]]. Shortly after graduating Hogwarts, Walburga waited for her second cousin [[Orion Black|Orion]] to finish his education, planning on continuing her pure bloodline by marrying him in a practice of [[inbreeding]] that was popular in her family. Walburga married him at some point in the [[1950s]].<ref name="OOTP6"/>
 
 ===Family life and death===
 [[File:Walburga and Orion Black on Black family tree OOTPF.jpg|245px|thumb|left|Walberga with her husband [[Orion Black|Orion]] on the tapestry.]]
-Walburga gave birth to a son, [[Sirius Black|Sirius]], on [[3 November]], [[1959]]. However, Sirius was a severe disappointment to her because he did not agree with the ideology of [[Blood status|blood purity]] and was sorted into [[Gryffindor|Gryffindor House]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], rather than the family's traditional house, [[Slytherin]]. Growing up, Sirius constantly annoyed his parents, specifically Walburga, by decorating his room with posters from the muggle world depicting bikini-clad women and motorcycles, and had stuck those to the walls with irreversible sticking charms that particularly infuriated her.
+Walburga gave birth to a son, [[Sirius Black|Sirius]], on [[3 November]], [[1959]]. However, Sirius was a severe disappointment to her because he did not agree with the ideology of [[Blood status|blood purity]] and was sorted into [[Gryffindor|Gryffindor House]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], rather than the family's traditional house, [[Slytherin]].<ref name="slytherin" /> Growing up, Sirius constantly annoyed his parents, specifically Walburga, by decorating his room with posters from the muggle world depicting bikini-clad women and motorcycles, and had stuck those to the walls with irreversible sticking charms that particularly infuriated her.
 
 Sirius was disinherited and removed from the [[House of Black|Black Family tree]] when he left home at the age of sixteen to live with the [[Potter family]]. Walburga personally blasted her son from the tapestry. She maintained a habit of blasting people from the [[House of Black|Black family tree]] which stood in the hall of the family home at [[12 Grimmauld Place]] if they displeased her; she did so to her brother [[Alphard Black|Alphard]] simply because he left gold to Sirius despite being disowned. According to [[Kreacher]], Walburga was actually heartbroken by having to blow her son and brother off the tapestry, but nonetheless disowned both of them to cleanse the tapestry.
 
-Luckily for her, Walburga gave birth to another son, [[Regulus Black|Regulus]], around [[1962|1961]]. He followed the family traditions and joined the Slytherin House, and eventually became his mother's favourite, as well as heir to the wealth, position, and traditions of the Black family. Regulus became a [[Death Eaters|Death Eater]] during the [[First Wizarding War]]; although neither Walburga nor Orion were followers of [[Tom Riddle|Lord Voldemort]] themselves, according to Sirius, they thought he "''had the right idea''", until they saw that Voldemort was ruthless in his pursuit for power, at which point they got cold feet. 
+Luckily for her, Walburga gave birth to another son, [[Regulus Black|Regulus]], around [[1962|1961]]. He followed the family traditions and joined the Slytherin House, and eventually became his mother's favourite, as well as heir to the wealth, position, and traditions of the Black family. Regulus became a [[Death Eaters|Death Eater]] during the [[First Wizarding War]]; although neither Walburga nor Orion were followers of [[Tom Riddle|Lord Voldemort]] themselves, according to Sirius, they thought he "''had the right idea''"<ref name="OOTP6">{{OOTP|B|6}}</ref>, until they saw that Voldemort was ruthless in his pursuit for power, at which point they got cold feet. 
 
-Regulus was killed in [[1979]] after trying to destroy Voldemort's [[Horcrux]], and died childless without an heir. As Regulus forbade Kreacher from telling this to anyone, Walburga thought Regulus died trying to leave the organisation. Walburga's husband [[Orion Black|Orion]] also died in the same year from an unknown cause. Walburga was obviously devastated when her husband and son died.
+Regulus was killed in [[1979]] after trying to destroy Voldemort's [[Horcrux]], and died childless without an heir. As Regulus forbade Kreacher from telling this to anyone, Walburga thought Regulus died trying to leave the organisation.<ref name="DH10">{{DH|B|10}}</ref> Walburga's husband [[Orion Black|Orion]] also died in the same year from an unknown cause. Walburga was obviously devastated when her husband and son died.
 
-In [[1981]], Walburga's disowned son, Sirius was framed for the murder of his friend, [[Peter Pettigrew]] and [[Peter Pettigrew's unidentified victims|12 Muggles]] and was thus sent to [[Azkaban]]. It is possible that if Walburga heard of this, she would have been pleased, given that despite regretting having to disown Sirius she was constantly made irate by his choices.
+In [[1981]], Walburga's disowned son, Sirius was framed for the murder of his friend, [[Peter Pettigrew]] and [[Peter Pettigrew's unidentified victims|12 Muggles]] and was thus sent to [[Azkaban]].<ref name="POA10">{{POA|B|10}}</ref> It is possible that if Walburga heard of this, she would have been pleased, given that despite regretting having to disown Sirius she was constantly made irate by his choices.
 
-She died in 1985, leaving her house-elf [[Kreacher]] in [[12 Grimmauld Place|her now abandoned house]].
+She died in 1985, leaving her house-elf [[Kreacher]] in [[12 Grimmauld Place|her now abandoned house]].<ref name="BFT" />
 
 ===Post-mortem===
 {{Main|Portrait of Walburga Black at 12 Grimmauld Place}}
@@ -91,9 +91,9 @@ She died in 1985, leaving her house-elf [[Kreacher]] in [[12 Grimmauld Place|her
 
 [[Portrait of Walburga Black at 12 Grimmauld Place|Walburga's portrait]] remained magically fixed to the wall in the hallway of her family home, using a [[Permanent Sticking Charm]]. 
 
- The picture, which was covered in canvas when inactive, showed a more negative version of Walburga who was prone to screaming insults at anyone who disturbed the portrait, particularly that of non-pure-bloods. This happened several times when the [[Order of the Phoenix]] used Grimmauld Place as their headquarters after her death, and they tried unsuccessfully to remove the portrait for quite some time. 
+<ref name="OOTP5">{{OOTP|B|5}}</ref> The picture, which was covered in canvas when inactive, showed a more negative version of Walburga who was prone to screaming insults at anyone who disturbed the portrait, particularly that of non-pure-bloods. This happened several times when the [[Order of the Phoenix]] used Grimmauld Place as their headquarters after her death, and they tried unsuccessfully to remove the portrait for quite some time. 
 
-Walburga survived the deaths of her family, but the destruction of it may account for her final madness. After their deaths, she was alone in the house except for the family [[house-elf]], [[Kreacher]], who seemed equally deranged due to his parroting her beliefs, up until [[Harry Potter]] came to know and treat him better one year after inheriting him.
+Walburga survived the deaths of her family, but the destruction of it may account for her final madness. After their deaths, she was alone in the house except for the family [[house-elf]], [[Kreacher]], who seemed equally deranged due to his parroting her beliefs, up until [[Harry Potter]] came to know and treat him better one year after inheriting him.<ref name="OTP">{{OOTP}}</ref>
 
 ==Personality and traits==
 {{Quote|Stains of dishonour, filthy half-breeds, blood traitors, children of filth!|[[Walburga Black's portrait|Portrait of Walburga Black]] screaming at members of the [[Order of the Phoenix]]|Harry Potter and the Order of the Phoenix}}
@@ -105,8 +105,8 @@ Although she was not a Death Eater herself, she was convinced that [[Tom Riddle|
 Walburga was kind to her house elf, [[Kreacher]], who shared her views on blood purity, and as such Kreacher was very loyal to her. Based on her portrait's tendencies of screaming uncontrollably, she seems to have had a very violent temper, similar to her elder son when angered. Sirius justified this by claiming that his mother was an intensely spiteful and heartless woman, though Kreacher did say Walburga was heartbroken by Sirius' defection and did not want to disown him or be angry with him, but did so because she had to for the family.
 
 ==Magical abilities and skills==
-*'''[[Charm]]s''': Whilst the true extent of her skill in this field is unknown Walburga Black was proficient enough to have placed a [[Permanent Sticking Charm]] on the back of [[Walburga Black's portrait|her portrait]] to prevent anyone from taking it off the wall.﻿ The charm held in place for more than a decade after her death.
-*'''[[Dark Arts]]''': Walburga was proficient in dark magic, being able to cast both the [[Killing Curse]] and the [[Imperius Curse]] successfully and was also skilled in the handling [[curse]]d objects.  
+*'''[[Charm]]s''': Whilst the true extent of her skill in this field is unknown Walburga Black was proficient enough to have placed a [[Permanent Sticking Charm]] on the back of [[Walburga Black's portrait|her portrait]] to prevent anyone from taking it off the wall.﻿ The charm held in place for more than a decade after her death.<ref name="OOTP5"/> She could not, however, cast the [[Patronus Charm]].<ref name="LHP5-7">{{LEGO|Y2}}</ref>
+*'''[[Dark Arts]]''': Walburga was proficient in dark magic, being able to cast both the [[Killing Curse]] and the [[Imperius Curse]] successfully and was also skilled in the handling [[curse]]d objects.<ref name="LHP5-7" />  
 
 ==Relationships==
 ===Black family===

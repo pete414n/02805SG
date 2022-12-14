@@ -10,8 +10,8 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]
-|gender = Female
+|species = [[Human]]<ref name="GOF12"/>
+|gender = Female<ref name="GOF12"/>
 |height = 
 |weight = 
 |hair = 
@@ -24,11 +24,11 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Hufflepuff]]
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Hufflepuff]]
+|house = [[Hufflepuff]]<ref name="GOF12"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF12"/>
+**[[Hufflepuff]]<ref name="GOF12"/>
 }}
-'''Eleanor Branstone''' was a [[Great Britain|witch]] who started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]], and was [[Sorting ceremony|Sorted]] into [[Hufflepuff]]. Eleanor would share a dormitory with [[Laura Madley]] who was also sorted into Hufflepuff that year.
+'''Eleanor Branstone''' was a [[Great Britain|witch]] who started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]], and was [[Sorting ceremony|Sorted]] into [[Hufflepuff]]. Eleanor would share a dormitory with [[Laura Madley]] who was also sorted into Hufflepuff that year.<ref name="GOF12">{{GOF|B|12}}</ref>
 
 ==Etymology==
 *Eleanor is from the Greek and means "light".

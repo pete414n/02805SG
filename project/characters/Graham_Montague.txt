@@ -3,7 +3,7 @@
 |theme = slytherin
 |image = [[File:Graham Montague 2.png|250px]]
 |name = Graham Montague
-|born = In or prior to c.[[1981]]
+|born = In or prior to c.[[1981]]<ref name="age">He must have at least been in his second year in 1993. As well as this, Draco is implied to be a friend of Montague's, implying that the two are around the same age.</ref>
 |died = 
 |blood = 
 |marital = 
@@ -16,9 +16,9 @@
 |gender = Male
 |height = 
 |weight = 
-|hair = Brown
-|eyes = Brown
-|skin = Pale
+|hair = Brown<ref name="QWC">{{QWC}}</ref>
+|eyes = Brown<ref name="QWC"></ref>
+|skin = Pale<ref name="QWC"></ref>
 |family = *[[Graham Montague's father|Father]]
 *[[Graham Montague's mother|Mother]]
 *[[Maud Montague]] (possible relation)
@@ -37,25 +37,25 @@
 **[[Inquisitorial Squad]]
 }}
 {{Dialogue a-b-a|Fred Weasley|He never managed to get all the words out, due to the fact that we forced him head-first into that Vanishing Cabinet on the first floor.|Hermione Granger|But you’ll get into terrible trouble!|Not until Montague reappears, and that could take weeks, I dunno where we sent him.|The Weasley twins pushed Montague into the [[Vanishing Cabinet]]|Harry Potter and the Order of the Phoenix}}
-'''Graham Montague'''
+'''Graham Montague'''<ref name="QWC"/> was a [[Wizardkind|wizard]] and [[Slytherin]] student who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He played [[Chaser]] on the Slytherin [[Slytherin Quidditch team|Quidditch team]] from [[1993]] to [[1996]] and was a member of the [[Inquisitorial Squad]]. Montague was heavily built and had large, hairy forearms.<ref name="ootp19">{{OOTP|B|19}}</ref>
 
 ==Biography==
 
 ===Hogwarts years===
 
 ====1993-1994 Quidditch season====
-While it is uncertain whether Montague was on the Slytherin Quidditch team prior, Montague played in the final match between Slytherin and [[Gryffindor]] in [[1994]]. When Gryffindor Chaser [[Katie Bell]] got possession of the [[Quaffle]], Montague flew in front of her, but, instead of taking the ball, he grabbed her head. Although Katie was able to keep from falling off her [[broomstick|broom]], she dropped the Quaffle. [[Rolanda Hooch|Madam Hooch]] scolded Montague and awarded a penalty to Katie.
+While it is uncertain whether Montague was on the Slytherin Quidditch team prior, Montague played in the final match between Slytherin and [[Gryffindor]] in [[1994]]. When Gryffindor Chaser [[Katie Bell]] got possession of the [[Quaffle]], Montague flew in front of her, but, instead of taking the ball, he grabbed her head. Although Katie was able to keep from falling off her [[broomstick|broom]], she dropped the Quaffle. [[Rolanda Hooch|Madam Hooch]] scolded Montague and awarded a penalty to Katie.<ref>{{POA|B|15}}</ref>
 
 ====1995-1996 Quidditch season====
-At the beginning of the [[1995–1996 school year|1995-1996]] [[Quidditch]] season, Montague was made [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the Slytherin Quidditch team, replacing [[Marcus Flint]]. He chose [[Vincent Crabbe]] and [[Gregory Goyle]] to be the team's new [[Beater]]s.
+At the beginning of the [[1995–1996 school year|1995-1996]] [[Quidditch]] season, Montague was made [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the Slytherin Quidditch team,<ref name="ootp19" /> replacing [[Marcus Flint]]. He chose [[Vincent Crabbe]] and [[Gregory Goyle]] to be the team's new [[Beater]]s.<ref name="ootp19" />
 
 [[File:Dolores Umbridge with the Inquisitorial Squad capturing Cho Chang (HP5).JPG|thumb|The Inquisitorial Squad, which Montague was a member of|alt=|left|240px]]
-Montague joined the [[Inquisitorial Squad]] in April of 1996. During morning break on his first day as a member, he tried to take [[House points]] from [[Fred Weasley|Fred]] and [[George Weasley]], but the twins shoved him into the [[Vanishing Cabinet]] before he could finish speaking. While trapped inside, Montague could occasionally hear goings-on at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], as well as at [[Borgin and Burkes]], where the Cabinet's counterpart was located. He managed to [[Apparition|Apparate]] out the next day, despite never having obtained an [[Apparition (class)|Apparition licence]], but ended up lodged inside a toilet in the [[fourth-floor bathroom]].
+Montague joined the [[Inquisitorial Squad]] in April of 1996. During morning break on his first day as a member, he tried to take [[House points]] from [[Fred Weasley|Fred]] and [[George Weasley]], but the twins shoved him into the [[Vanishing Cabinet]] before he could finish speaking.<ref name="ootp28">{{OOTP|B|28}}</ref> While trapped inside, Montague could occasionally hear goings-on at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], as well as at [[Borgin and Burkes]], where the Cabinet's counterpart was located.<ref name="hbp27">{{HBP|B|27}}</ref> He managed to [[Apparition|Apparate]] out the next day, despite never having obtained an [[Apparition (class)|Apparition licence]], but ended up lodged inside a toilet in the [[fourth-floor bathroom]].<ref name="ootp28" /><ref name="hbp27" />
 
 [[File:MontagueVanishingCabinet.png|thumb|[[Fred Weasley|Fred]] and [[George Weasley]] push Montague head-first into the Vanishing Cabinet|alt=]]
-The Apparition nearly proved fatal to Montague. In May, his parents, [[Graham Montague's parents|Mr and Mrs Montague]], came to the school, looking furious. [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] watched the couple arrive, and Hermione suggested that they should tell [[Poppy Pomfrey|Madam Pomfrey]] what had happened in case it would help her treat him. However, both Ron and Harry dismissed this idea, so Hermione apparently let the matter drop. Several weeks later, during the [[Ordinary Wizarding Level|O.W.L.]] exams in June, Harry went to the [[Hospital Wing]], where he saw Madam Pomfrey spoon-feeding a [[Bright blue liquid|vivid blue potion]] to Montague.
+The Apparition nearly proved fatal to Montague.<ref name="hbp27" /> He was left in a disoriented state for weeks afterwards.<ref name="ootp30">{{OOTP|B|30}}</ref> In May, his parents, [[Graham Montague's parents|Mr and Mrs Montague]], came to the school, looking furious.<ref name="ootp30" /> [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] watched the couple arrive, and Hermione suggested that they should tell [[Poppy Pomfrey|Madam Pomfrey]] what had happened in case it would help her treat him.<ref name="ootp30" /> However, both Ron and Harry dismissed this idea,<ref name="ootp30" /> so Hermione apparently let the matter drop. Several weeks later, during the [[Ordinary Wizarding Level|O.W.L.]] exams in June, Harry went to the [[Hospital Wing]], where he saw Madam Pomfrey spoon-feeding a [[Bright blue liquid|vivid blue potion]] to Montague.<ref name="ootp30" />
 
-Montague eventually told his story to others, including [[Draco Malfoy]], who was the only one to reach the conclusion that there was a connection between the Cabinet at Hogwarts and the Cabinet at [[Borgin and Burkes]]. This knowledge gave Draco the means to allow [[Death Eaters]] to enter the school the following year.
+Montague eventually told his story to others, including [[Draco Malfoy]], who was the only one to reach the conclusion that there was a connection between the Cabinet at Hogwarts and the Cabinet at [[Borgin and Burkes]].<ref name="hbp27" /> This knowledge gave Draco the means to allow [[Death Eaters]] to enter the school the following year.<ref name="hbp27" />
 
 ==Physical appearance==
 Montague was described as being large and muscular, even more so than Crabbe and Goyle. He was also described as having hairy arms.

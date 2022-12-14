@@ -3,25 +3,25 @@
 |theme = death-eater
 |image = [[File:Amycus Carrow PM.png|250px]]
 |name = Amycus Carrow
-|born = Pre [[1964]] (likely)<br/>[[Great Britain]]
+|born = Pre [[1964]] (likely)<ref name="born">{{HBP|B|2}} - He had likely already left Hogwarts by 1981, when the First Wizarding War ended. However, it is known that Voldemort accepted underage Death Eaters, like Draco Malfoy and Regulus Black.</ref><br/>[[Great Britain]]
 |died = 
-|blood = [[Pure-blood]] or [[Half-blood]]
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">{{WW|pure-blood}} lists the Carrow family as having been pure-blood in the 1930s, meaning they had no known Muggles or Muggle-borns; however, like the pure-blood Malfoys, he may have been "one of many half-bloods" on the family tree. See {{WW|the-malfoy-family}}</ref>
 |marital = 
 |nationality = {{GBorIE}}
 |alias = 
-|title = [[Professor]]
+|title = [[Professor]]<ref name="DH12">{{DH|B|12}}</ref>
 |signature = 
-|species = [[Human]]
-|gender = Male
+|species = [[Human]]<ref name="HBP27">{{HBP|B|27}}</ref>
+|gender = Male<ref name="HBP27" />
 |height = 
 |weight = 
 |hair = 
 |eyes = 
-|skin = Pallid
-|family = *[[Alecto Carrow]] (sister)
+|skin = Pallid<ref name="DH30">{{DH|B|30}} - "Hunched like his sister, he had a pallid, doughy face and tiny eyes, which fell at once on Alecto, sprawled motionless on the floor."</ref>
+|family = *[[Alecto Carrow]] (sister)<ref name="DH12" />
 *[[Carrow (1920s)|Carrow]] (possible relative)
-*[[Flora Carrow]] (possibly)
-*[[Hestia Carrow]] (possibly)
+*[[Flora Carrow]] (possibly)<ref name="HBPf">{{HBP|F}}</ref>
+*[[Hestia Carrow]] (possibly)<ref name="HBPf" />
 *[[Carrow family]]
 |romances = 
 |animagus = 
@@ -29,14 +29,14 @@
 |wand = [[Amycus Carrow's wand|Unknown length, wood and core]]
 |patronus = None<ref>See [http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html this interview]; “Samantha: Was snape the only death eater who could produce a full patronus
 J.K. Rowling: Yes, because a Patronus is used against things that the Death Eaters generally generate, or fight alongside. They would not need Patronuses.”</ref>
-|job = *[[Professor]] of [[Dark Arts (class)|Dark Arts]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] ([[1997]] - [[1998]])
-*[[Deputy Headmaster]] ([[1997]] - [[1998]])
-|house = [[Slytherin]]
-|loyalty = *[[Carrow family]]
-*[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Slytherin]]
-*[[Death Eaters]]
-**[[Tom Riddle|Lord Voldemort]]
+|job = *[[Professor]] of [[Dark Arts (class)|Dark Arts]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] ([[1997]] - [[1998]])<ref name="DH12" />
+*[[Deputy Headmaster]] ([[1997]] - [[1998]])<ref name="DH28">{{DH|B|28}}</ref>
+|house = [[Slytherin]]<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|loyalty = *[[Carrow family]]<ref name="HBP27" />
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH12" />
+**[[Slytherin]]<ref name="LEGOY2"/>
+*[[Death Eaters]]<ref name="HBP27" />
+**[[Tom Riddle|Lord Voldemort]]<ref name="HBP27" />
 }}
 {{Quote|We can push it off on the kids. Yeah, that's what we'll do. We'll say Alecto was ambushed by the kids, them kids up there, and we'll say they forced her to press her Mark, and that's why he got a false alarm... He can punish them. Couple of kids more or less, what's the difference?|Amycus' selfishness and cowardice|Harry Potter and the Deathly Hallows}}
 '''Professor Amycus Carrow''' was a [[Dark Wizard]], brother of [[Alecto Carrow]] and a [[Death Eaters|Death Eater]]. Amycus fought in the [[First Wizarding War]] along with his sister. They did not search for [[Tom Riddle|Lord Voldemort]] after his first downfall but were forgiven after Voldemort's [[Return of Lord Voldemort|return]] in [[1995]] and joined the [[Death Eaters|Death Eater]] ranks in the [[Second Wizarding War]]. 
@@ -47,73 +47,73 @@ In the evening of [[1 May]] [[1998]], shortly before the [[Battle of Hogwarts]],
 
 ==Biography==
 ===Early life===
-Amycus Carrow was born sometime before [[1981]] into the [[Pure-blood]] or [[Half-blood]] [[Carrow family]], somewhere in the [[Great Britain|British Isles]]. At some point before his instruction in the [[magic]]al arts, he acquired a wand.
+Amycus Carrow was born sometime before [[1981]]<ref name="HBP2">{{HBP|B|2}}</ref> into the [[Pure-blood]] or [[Half-blood]] [[Carrow family]],<ref name="blood" /> somewhere in the [[Great Britain|British Isles]]. At some point before his instruction in the [[magic]]al arts, he acquired a wand.<ref name="HBP27" />
 
-He attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, and was a member of [[Slytherin]] house. He seemed to have been acquainted with [[Albus Dumbledore]]. 
+He attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, and was a member of [[Slytherin]] house.<ref name="LEGOY2"/> He seemed to have been acquainted with [[Albus Dumbledore]].<ref name="HBP27" /> 
 
 ===First Wizarding War===
 [[File:Amycus Carrow wanted poster.png|265x265px|thumb|A wanted poster of Amycus Carrow]]
-Amycus and [[Alecto Carrow|his sister]] supported [[Tom Riddle|Lord Voldemort]], and became [[Death Eaters]] during the [[First Wizarding War]]. After [[Attack at Godric's Hollow (1981)|Voldemort's downfall]] in [[1981]], they did not search for their master, believing that Voldemort was gone forever, and managed to avoid imprisonment in [[Azkaban]].
+Amycus and [[Alecto Carrow|his sister]] supported [[Tom Riddle|Lord Voldemort]], and became [[Death Eaters]] during the [[First Wizarding War]]. After [[Attack at Godric's Hollow (1981)|Voldemort's downfall]] in [[1981]], they did not search for their master, believing that Voldemort was gone forever, and managed to avoid imprisonment in [[Azkaban]].<ref name="HBP2" /><ref name="carrowsjkr">[http://www.jkrowling.com/textonly/en/faq_view.cfm?id=62 "Are Alecto and Amycus (the two sibling Death Eaters) the Carrows mentioned by Snape in Spinner's End?"] on {{JKRS}}</ref>
 
-Despite all this, the Carrows were among those who, after [[Tom Riddle|Voldemort's]] [[Return of Lord Voldemort|return]], resumed their [[Death Eaters|Death Eater]] activities. The two siblings were fairly active during the [[Second Wizarding War]].
+Despite all this, the Carrows were among those who, after [[Tom Riddle|Voldemort's]] [[Return of Lord Voldemort|return]], resumed their [[Death Eaters|Death Eater]] activities.<ref name="HBP2" /> The two siblings were fairly active during the [[Second Wizarding War]].<ref name="HBP27" /><ref name="DH30" />
 
 ===Second Wizarding War===
 ====Rebirth of the Dark Lord====
-Amycus and his sister were, most likely, among the [[Death Eaters]] that were summoned by [[Tom Riddle|Lord Voldemort]] to the [[Little Hangleton graveyard|churchyard]] at [[Little Hangleton]] on [[24 June]] [[1995]], as their absence wasn't noted by Voldemort himself.
+Amycus and his sister were, most likely, among the [[Death Eaters]] that were summoned by [[Tom Riddle|Lord Voldemort]] to the [[Little Hangleton graveyard|churchyard]] at [[Little Hangleton]] on [[24 June]] [[1995]], as their absence wasn't noted by Voldemort himself.<ref name="GF33">{{GOF|B|33}}</ref>
 
 ====Battle of the Astronomy Tower====
 {{Dialogue|Amycus Carrow|He's not long for this world anyway, if you ask me! Look at him — what's happened to you, then, Dumby?|Albus Dumbledore|Oh, weaker resistance, slower reflexes, Amycus. Old age, in short... one day, perhaps, it will happen to you... if you are lucky...|Amycus and Dumbledore mocking each other atop the Astronomy Tower|Harry Potter and the Half-Blood Prince}}
 [[File:Death Eaters Astronomy Tower.jpg|250px|thumb|Amycus and Alecto among other Death Eaters atop the Astronomy Tower]]
-In the evening of [[30 June]] [[1997]], Amycus and his sister participated in the [[Battle of the Astronomy Tower|assault]] on [[Hogwarts Castle]], orchestrated by [[Draco Malfoy]], that resulted in the death of [[Albus Dumbledore]]. When the [[Death Eaters]] arrived at the top of the [[Astronomy Tower]], where Dumbledore was trapped, Amycus tried to make fun of the [[Headmaster]] and turned suddenly violent when Dumbledore hypothesised that he, Amycus, might not reach his old age. When [[Severus Snape]] arrived at the scene, Amycus hurriedly said that [[Draco Malfoy|Draco]] was not able to kill Dumbledore, and Snape cast the [[Killing Curse]] that ended the [[Headmaster]]'s life.
+In the evening of [[30 June]] [[1997]], Amycus and his sister participated in the [[Battle of the Astronomy Tower|assault]] on [[Hogwarts Castle]], orchestrated by [[Draco Malfoy]], that resulted in the death of [[Albus Dumbledore]]. When the [[Death Eaters]] arrived at the top of the [[Astronomy Tower]], where Dumbledore was trapped, Amycus tried to make fun of the [[Headmaster]] and turned suddenly violent when Dumbledore hypothesised that he, Amycus, might not reach his old age. When [[Severus Snape]] arrived at the scene, Amycus hurriedly said that [[Draco Malfoy|Draco]] was not able to kill Dumbledore, and Snape cast the [[Killing Curse]] that ended the [[Headmaster]]'s life.<ref name="HBP27" />
 
-On Snape's orders, he and his sister quickly left the Tower panting excitedly. On the corridors below, Amycus [[Duelling|duelled]] [[Ginevra Weasley|Ginny Weasley]], sending multiple [[Cruciatus Curse]]s at her. [[Harry Potter]] shot an [[Impediment Jinx]] that made him slam into the opposite wall. Amycus and [[Alecto Carrow|Alecto]] retreated after Snape with their arms over her head, under blasts by [[Minerva McGonagall]]. As brother and sister descended the [[Marble Staircase]], [[Harry Potter|Harry]] took a shortcut and arrived at the grounds before them.
+On Snape's orders, he and his sister quickly left the Tower panting excitedly. On the corridors below, Amycus [[Duelling|duelled]] [[Ginevra Weasley|Ginny Weasley]], sending multiple [[Cruciatus Curse]]s at her. [[Harry Potter]] shot an [[Impediment Jinx]] that made him slam into the opposite wall. Amycus and [[Alecto Carrow|Alecto]] retreated after Snape with their arms over her head, under blasts by [[Minerva McGonagall]]. As brother and sister descended the [[Marble Staircase]], [[Harry Potter|Harry]] took a shortcut and arrived at the grounds before them.<ref name="HBP28">{{HBP|B|28}}</ref>
 
 [[File:Malfoy Manor meeting.jpg|250px|thumb|left|Amycus is present at the Death Eater meeting held in Malfoy Manor]]
-As the two [[Death Eaters]] closed in after him, one of them cast a spell that sent Harry to the ground. Harry hit one of them, who stumbled and fell, tripping up the other, with another [[Impediment Jinx]]. The two siblings then ran to the gates and [[Apparition|Disapparated]] beyond the school boundaries.
+As the two [[Death Eaters]] closed in after him, one of them cast a spell that sent Harry to the ground. Harry hit one of them, who stumbled and fell, tripping up the other, with another [[Impediment Jinx]]. The two siblings then ran to the gates and [[Apparition|Disapparated]] beyond the school boundaries.<ref name="HBP28" />
 
-That summer, the Carrows attended a Death Eater [[Meeting at Malfoy Manor|meeting]] at [[Malfoy Manor]] concerning [[Battle of the Seven Potters|plans to capture or kill Harry Potter]] and take over the [[British Ministry of Magic|Ministry of Magic]].
+That summer, the Carrows attended a Death Eater [[Meeting at Malfoy Manor|meeting]] at [[Malfoy Manor]] concerning [[Battle of the Seven Potters|plans to capture or kill Harry Potter]] and take over the [[British Ministry of Magic|Ministry of Magic]].<ref name="DHpt1">{{DH|F1}}</ref>
 
 It is possible that he was one of the Death Eaters who stood watch outside [[12 Grimmauld Place]], as one of them was said to be a "pallid, podgy man", a description that matched Amycus.
 
 ====Appointment at Hogwarts====
 {{Quote|The other teachers are all supposed to refer us to the Carrows if we do anything wrong. They don't, though, if they can avoid it. You can tell they all hate them as much as we do. Amycus, the bloke, he teaches what used to be Defence Against the Dark Arts, except now it's just the Dark Arts. We're supposed to practise the Cruciatus Curse on people who've earned detentions —|[[Neville Longbottom]] regarding his recently acquired scars|Harry Potter and the Deathly Hallows}}
 [[File:AlectoSnapeAmycus.jpg|250px|thumb|Headmaster Severus Snape with Deputy Heads Alecto (left) and Amycus Carrow (right)]]
-On [[1 August]] [[1997]], the [[Death Eaters]] managed to stage a [[Fall of the Ministry of Magic|coup]] over the [[British Ministry of Magic|Ministry of Magic]], thus gaining influence over all [[wizarding world|wizarding Britain]]. A month later, on [[1 September]], Amycus and Alecto were made [[Defence Against the Dark Arts]] and [[Muggle Studies]], respectively, as well as [[Deputy Headmaster]]s under newly appointed [[Headmaster]] [[Severus Snape]].
+On [[1 August]] [[1997]], the [[Death Eaters]] managed to stage a [[Fall of the Ministry of Magic|coup]] over the [[British Ministry of Magic|Ministry of Magic]], thus gaining influence over all [[wizarding world|wizarding Britain]].<ref name="DH11">{{DH|B|11}}</ref> A month later, on [[1 September]], Amycus and Alecto were made [[Defence Against the Dark Arts]] and [[Muggle Studies]], respectively,<ref name="DH12" /> as well as [[Deputy Headmaster]]s under newly appointed [[Headmaster]] [[Severus Snape]].<ref name="DH28" />
 
-The [[Defence Against the Dark Arts]] curriculum was changed so that it was now simply "[[Dark Arts (class)|Dark Arts]]". Amycus had his [[seventh year|seventh-years]] practise the [[Cruciatus Curse]] on students given [[Discipline at Hogwarts|detentions]]. His syllabus also apparently covered the usage of the [[Killing Curse]] and [[Fiendfyre]].
+The [[Defence Against the Dark Arts]] curriculum was changed so that it was now simply "[[Dark Arts (class)|Dark Arts]]". Amycus had his [[seventh year|seventh-years]] practise the [[Cruciatus Curse]] on students given [[Discipline at Hogwarts|detentions]].<ref name="DH29">{{DH|B|29}}</ref> His syllabus also apparently covered the usage of the [[Killing Curse]] and [[Fiendfyre]].<ref name="DH31">{{DH|B|31}}</ref>
 
-As Deputy Headmasters, the Carrows were put in charge of all punishment. The members of faculty were obliged to report any rule-breaking student to them, although they did not if they could avoid it. Punishments given out by the Carrows included torture, via the Cruciatus Curse, as well as chaining students and corporal punishment in the form of beatings and slashes with knives.
+As Deputy Headmasters, the Carrows were put in charge of all punishment. The members of faculty were obliged to report any rule-breaking student to them, although they did not if they could avoid it. Punishments given out by the Carrows included torture, via the Cruciatus Curse, as well as chaining students and corporal punishment in the form of beatings and slashes with knives.<ref name="DH29" />
 
 [[File:AmycusStaircase.png|250px|thumb|left|Amycus watching over the students of Hogwarts]]
-[[Dumbledore's Army]], led by [[Neville Longbottom]], led the resistance against the Carrows. Amycus made a particularly deep gash in his cheek after he refused to use the Cruciatus Curse on students in detention. The group, now made illicit after the reenactment of the [[Educational Decree Number Twenty-Four]], used to sneak into the corridors at night and put up graffiti on the walls with messages like "''Dumbledore's Army, Still Recruiting''". [[Michael Corner]] was caught releasing a [[first year|first-year]] the Carrows had chained up and was violently tortured.
+[[Dumbledore's Army]], led by [[Neville Longbottom]], led the resistance against the Carrows. Amycus made a particularly deep gash in his cheek after he refused to use the Cruciatus Curse on students in detention. The group, now made illicit after the reenactment of the [[Educational Decree Number Twenty-Four]], used to sneak into the corridors at night and put up graffiti on the walls with messages like "''Dumbledore's Army, Still Recruiting''". [[Michael Corner]] was caught releasing a [[first year|first-year]] the Carrows had chained up and was violently tortured.<ref name="DH29" />
 
-Once the Carrows realised they had no hold over Neville, particularly after the Death Eaters' failed attempt to abduct [[Augusta Longbottom|his grandmother]], they planned to kill him or send him to [[Azkaban]]. As the Carrows chased him, Neville chose the [[Room of Requirement]] as a hideout and the rest of Dumbledore's Army soon followed his footsteps and moved into the room as the Carrows tried to hunt them down.
+Once the Carrows realised they had no hold over Neville, particularly after the Death Eaters' failed attempt to abduct [[Augusta Longbottom|his grandmother]], they planned to kill him or send him to [[Azkaban]]. As the Carrows chased him, Neville chose the [[Room of Requirement]] as a hideout and the rest of Dumbledore's Army soon followed his footsteps and moved into the room as the Carrows tried to hunt them down.<ref name="DH29" />
 
 ====Overthrow====
 {{Dialogue|Minerva McGonagall|But let me make one thing very clear. You are not going to pass off your many ineptitudes on the students of Hogwarts. I shall not permit it.|Amycus Carrow|Excuse me? It's not a case of what ''you'll'' permit, Minerva McGonagall. Your time's over. It's us what's in charge here now, and you'll back me up or you'll pay the price. (spits in her face)|Amycus arguing with Minerva McGonagall, before being cursed by Harry Potter|Harry Potter and the Deathly Hallows}}
-By the evening of [[1 May]] [[1998]], news of [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]]'s [[Break-in of Gringotts Wizarding Bank (1998)|break-in]] of [[Gringotts Wizarding Bank]] reached the student body; [[Terry Boot]] was beaten up by the Carrows for yelling about it in the [[Great Hall]] over dinner.
+By the evening of [[1 May]] [[1998]], news of [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]]'s [[Break-in of Gringotts Wizarding Bank (1998)|break-in]] of [[Gringotts Wizarding Bank]] reached the student body; [[Terry Boot]] was beaten up by the Carrows for yelling about it in the [[Great Hall]] over dinner.<ref name="DH29" />
 
-That same day, as [[Tom Riddle|Lord Voldemort]] became aware that Harry, Hermione and Ron were [[Albus Dumbledore and Harry Potter's Horcrux Hunt|hunting down and destroying]] his [[Horcrux]]es, he instructed Amycus and Alecto that Harry might try to get into the Castle and [[Ravenclaw Tower]]. At the Carrows' urgent request [[Filius Flitwick|Professor Flitwick]], [[Head of Ravenclaw House]], let Alecto into the common room, where she stood guard.
+That same day, as [[Tom Riddle|Lord Voldemort]] became aware that Harry, Hermione and Ron were [[Albus Dumbledore and Harry Potter's Horcrux Hunt|hunting down and destroying]] his [[Horcrux]]es, he instructed Amycus and Alecto that Harry might try to get into the Castle and [[Ravenclaw Tower]]. At the Carrows' urgent request [[Filius Flitwick|Professor Flitwick]], [[Head of Ravenclaw House]], let Alecto into the common room, where she stood guard.<ref name="DH30" />
 
-His sister was keeping watch when Harry arrived with [[Luna Lovegood]]. Alecto immediately touched her [[Dark Mark]], letting Voldemort and all the Death Eaters know that they had got him. Alecto was immediately [[Stunning Spell|Stunned]] by Luna, but Amycus demanded [[Minerva McGonagall]] to let him into the Tower. Once inside, he saw his unconscious sister but no sign of Harry, as both he and Luna were hidden beneath his [[Cloak of Invisibility|Invisibility Cloak]]. Aware that they were going to feel Voldemort's wrath if they did not hand him Harry, Amycus planned to pass it off on the students, and when Professor McGonagall objected calling Amycus a coward in the process, he spat in her face. This show of disrespect for both sentient life and McGonagall enraged Harry to the point of disregarding stealth and revealing himself by throwing a Cruciatus Curse at Amycus with such force that he slammed into the wall. Minerva McGonagall then bewitched him with the [[Imperius Curse]] to carry his unconscious sister, then used a spell to [[Conjuration|conjure]] a net, and the siblings were tied up and hoisted into the air, where they were left dangling beneath the ceiling.
+His sister was keeping watch when Harry arrived with [[Luna Lovegood]]. Alecto immediately touched her [[Dark Mark]], letting Voldemort and all the Death Eaters know that they had got him. Alecto was immediately [[Stunning Spell|Stunned]] by Luna, but Amycus demanded [[Minerva McGonagall]] to let him into the Tower. Once inside, he saw his unconscious sister but no sign of Harry, as both he and Luna were hidden beneath his [[Cloak of Invisibility|Invisibility Cloak]]. Aware that they were going to feel Voldemort's wrath if they did not hand him Harry, Amycus planned to pass it off on the students, and when Professor McGonagall objected calling Amycus a coward in the process, he spat in her face. This show of disrespect for both sentient life and McGonagall enraged Harry to the point of disregarding stealth and revealing himself by throwing a Cruciatus Curse at Amycus with such force that he slammed into the wall. Minerva McGonagall then bewitched him with the [[Imperius Curse]] to carry his unconscious sister, then used a spell to [[Conjuration|conjure]] a net, and the siblings were tied up and hoisted into the air, where they were left dangling beneath the ceiling.<ref name="DH30" />
 
 ===Post-war===
 Neither Amycus nor his sister fought in the [[Battle of Hogwarts]], as both of them were kept tied-up at [[Ravenclaw Tower]]. Following the end of the battle and the Second Wizarding War, Amycus was most likely imprisoned in [[Azkaban]], for his crimes committed as a Death Eater under [[Kingsley Shacklebolt]]'s de-corrupted [[British Ministry of Magic|Ministry of Magic]], along with his sister.
 
 ==Physical appearance==
-Amycus Carrow was squat and lumpy, with a lopsided leer and a wheezy giggle, much like his sister. Hunched, he had a pallid, doughy face and tiny eyes. He also had a pig-like face. As a Death Eater, he bore the Dark Mark on his left inner forearm.
+Amycus Carrow was squat and lumpy, with a lopsided leer and a wheezy giggle, much like his sister.<ref name="HBP27" /> Hunched, he had a pallid, doughy face and tiny eyes.<ref name="DH30" /> He also had a pig-like face.<ref name="DH30" /> As a Death Eater, he bore the Dark Mark on his left inner forearm.
 ==Personality and traits==
 {{Dialogue a-b|Eagle door knocker|Where do Vanished objects go?|Amycus Carrow|I dunno, do I? Shut it!|Amycus ignorantly tries to enter [[Ravenclaw Tower]]|Harry Potter and the Deathly Hallows}}
-Amycus was an extremely sadistic man who enjoyed punishing and torturing students, ordering them to perform the [[Cruciatus Curse]] on students given detention. Indeed, [[Neville Longbottom|Neville]] even claimed that Amycus "made [[Umbridge family|Umbridge]] look tame". He was extremely insolent and offensive, banging hard on the door to [[Ravenclaw Tower]] when he failed to solve the riddle to open it, putting his face close to Minerva to command her support and ended up spitting in her face. He was also very hot-tempered, as seen by his responding with violence without warning.
+Amycus was an extremely sadistic man who enjoyed punishing and torturing students, ordering them to perform the [[Cruciatus Curse]] on students given detention.<ref name="DH29" /> Indeed, [[Neville Longbottom|Neville]] even claimed that Amycus "made [[Umbridge family|Umbridge]] look tame".<ref name="DH29" /> He was extremely insolent and offensive, banging hard on the door to [[Ravenclaw Tower]] when he failed to solve the riddle to open it, putting his face close to Minerva to command her support and ended up spitting in her face.<ref name="DH30" /> He was also very hot-tempered, as seen by his responding with violence without warning.<ref name="HBP27" /><ref name="DH30" />
 
-He was also a coward, however, as Amycus planned to blame the Ravenclaw students for allegedly forcing Alecto to press her [[Dark Mark]] so that they would be punished by Voldemort instead of himself and his sister. This demonstrated a sense of naivety as Voldemort would have likely known he was lying either through [[Legilimency]] or simply because the lie was somewhat unbelievable. He did show genuine concern for his sister when he found her unconscious, suggesting that he did care about her at least. He was also incredibly arrogant as he demanded that McGonagall would support him.
+He was also a coward, however, as Amycus planned to blame the Ravenclaw students for allegedly forcing Alecto to press her [[Dark Mark]] so that they would be punished by Voldemort instead of himself and his sister. This demonstrated a sense of naivety as Voldemort would have likely known he was lying either through [[Legilimency]] or simply because the lie was somewhat unbelievable. He did show genuine concern for his sister when he found her unconscious, suggesting that he did care about her at least. He was also incredibly arrogant as he demanded that McGonagall would support him.<ref name="DH30" /> Despite this lack of bravery in fear of being punished by the Dark Lord, according to [[Nymphadora Tonks]], Carrow appeared to be prepared to fight to the death during the [[Battle of the Astronomy Tower]], resulting in aggressiveness that overwhelmed the [[Order of the Phoenix]].<ref name="HBP29">{{HBP|B|29}}</ref>
 
-Moreover, Amycus did not seem to be very bright, as he was unable to answer the riddle to get into [[Ravenclaw Tower]] when asked by the eagle knocker on the door, or to give a reason why [[Harry Potter]] would go into Ravenclaw Tower when he was of [[Gryffindor|Gryffindor House]], when asked by [[Minerva McGonagall]]. He also did not seem very suspicious about Severus Snape's true loyalties, suggesting that he truly believed that Snape was on their side.
+Moreover, Amycus did not seem to be very bright, as he was unable to answer the riddle to get into [[Ravenclaw Tower]] when asked by the eagle knocker on the door, or to give a reason why [[Harry Potter]] would go into Ravenclaw Tower when he was of [[Gryffindor|Gryffindor House]], when asked by [[Minerva McGonagall]]. He also did not seem very suspicious about Severus Snape's true loyalties, suggesting that he truly believed that Snape was on their side.<ref name="DH30"/>
 
 ==Magical abilities and skills==
-*'''[[Dark Arts]]''': Amycus was accomplished in dark magic as he was a [[Death Eaters|Death Eater]]. He could cast the [[Cruciatus Curse]] effectively and, apparently, the [[Killing Curse]]. It is also likely that he could summon [[Fiendfyre]] and presumably had the means to control it, though he was never shown doing so. He was skilled enough to teach students in [[curse]]s and was placed as a professor of the [[Dark Arts (class)|Dark Arts class]].
-*'''[[Duelling]]''': Amycus was skilled in duelling as he seemed too much for [[Ginevra Weasley|Ginny Weasley]] to overpower during the [[Battle of the Astronomy Tower]], despite her use of Felix Felicis. Although, he was unable to stand up to more powerful duellists such as [[Minerva McGonagall]], as both he and his sister retreated with their arms covering their heads as she sent blast after blast after them.
-*'''[[Apparition]]''': Like most adult wizards, Amycus was capable of apparating at will. Amycus disapparated away from beyond Hogwarts grounds following the [[Battle of the Astronomy Tower]].
+*'''[[Dark Arts]]''': Amycus was accomplished in dark magic as he was a [[Death Eaters|Death Eater]].<ref name="HBP27" /> He could cast the [[Cruciatus Curse]] effectively<ref name="HBP28" /> and, apparently, the [[Killing Curse]]. It is also likely that he could summon [[Fiendfyre]] and presumably had the means to control it, though he was never shown doing so.<ref name="DH31" /> He was skilled enough to teach students in [[curse]]s and was placed as a professor of the [[Dark Arts (class)|Dark Arts class]].
+*'''[[Duelling]]''': Amycus was skilled in duelling as he seemed too much for [[Ginevra Weasley|Ginny Weasley]] to overpower during the [[Battle of the Astronomy Tower]], despite her use of Felix Felicis.<ref name="HBP27" /> Although, he was unable to stand up to more powerful duellists such as [[Minerva McGonagall]], as both he and his sister retreated with their arms covering their heads as she sent blast after blast after them.
+*'''[[Apparition]]''': Like most adult wizards, Amycus was capable of apparating at will. Amycus disapparated away from beyond Hogwarts grounds following the [[Battle of the Astronomy Tower]].<ref name="HBP28"/>
 *'''Teaching Skills''': Amycus taught the [[Dark Arts (class)|Dark Arts]] to students during his time as a Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. He did have some noticeable skill in teaching, particularly to receptive students such as [[Vincent Crabbe]] and [[Gregory Goyle]]. According to Neville Longbottom Crabbe and Goyle loved the class, and it was the only subject in which they had ever shown any talent. It is known that Amycus was talented enough to teach students to successfully perform both the Cruciatus Curse and the Killing Curse.   
 
 ==Etymology==

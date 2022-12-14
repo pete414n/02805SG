@@ -21,9 +21,9 @@
 |family = 
 |romances = 
 |animagus = 
-|boggart = [[Tom Riddle|Lord Voldemort]]
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOHP">{{LEGO|Y1}}</ref>
 |wand = 
-|patronus = Non-corporeal
+|patronus = Non-corporeal<ref name="LEGOHP"/>
 |job = Lead singer for [[Weird Sisters|The Weird Sisters]]
 |house = 
 |loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
@@ -34,19 +34,19 @@
 
 ==Biography==
 [[File:076Wagtail.gif|thumb|Myron Wagtail on his [[Chocolate Frog Card]]]]
-Wagtail was born some time in the year [[1970]], in [[Great Britain]] or [[Ireland]]. Attending [[Hogwarts School of Witchcraft and Wizardry]] from the year [[1981]] or [[1982]], he was a self-proclaimed fan of [[Jacob's sibling]] and invited them to perform with his band without the knowledge of the Hogwarts staff. The band and Jacob's sibling used [[Ismelda Murk]], [[Ben Copper]], and [[Severus Snape]] as inspiration for their concert. At this time in the 1980s, the band consisted of Wagtail, [[Kirley Duke]], and [[Orsino Thruston]]. Myron and [[Rowan Khanna]] shared an interest in postmodern existentialist fiction.
+Wagtail was born some time in the year [[1970]], in [[Great Britain]] or [[Ireland]]. Attending [[Hogwarts School of Witchcraft and Wizardry]] from the year [[1981]] or [[1982]], he was a self-proclaimed fan of [[Jacob's sibling]] and invited them to perform with his band without the knowledge of the Hogwarts staff. The band and Jacob's sibling used [[Ismelda Murk]], [[Ben Copper]], and [[Severus Snape]] as inspiration for their concert. At this time in the 1980s, the band consisted of Wagtail, [[Kirley Duke]], and [[Orsino Thruston]]. Myron and [[Rowan Khanna]] shared an interest in postmodern existentialist fiction.<ref name="HM2">{{HM|2|The Weird Sisters!}}</ref>
 
-Wagtail, along with his band, performed at the [[Yule Ball]] of [[1994]] held at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in honour of the [[Triwizard Tournament]], by which time the band had at least eight members.
+Wagtail, along with his band, performed at the [[Yule Ball]] of [[1994]] held at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in honour of the [[Triwizard Tournament]], by which time the band had at least eight members.<ref name="GOF23">{{GOF|B|23}}</ref>
 
 ==Magical abilities and skills==
-*'''[[Charm]]s''': Wagtail appeared to be talented with charms, as he was able to use the [[Music Spell]] to enchant instruments to play on their own accord, and could use the [[Amplifying Charm]] to amplify the sound of his voice whilst performing. He was even capable of conjuring a non-corporeal [[Patronus Charm|Patronus]], a clear mark of superior [[magic]]al skill and talent given the immense difficulty of casting such a powerful protective charm. 
+*'''[[Charm]]s''': Wagtail appeared to be talented with charms, as he was able to use the [[Music Spell]] to enchant instruments to play on their own accord, and could use the [[Amplifying Charm]] to amplify the sound of his voice whilst performing.<ref name="HM2"/> He was even capable of conjuring a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOHP"/> a clear mark of superior [[magic]]al skill and talent given the immense difficulty of casting such a powerful protective charm. 
 *'''Singing''': Being the lead vocalist for the very popular wizarding band the [[Weird Sisters]], Wagtail was a very talented and capable singer and live music performer. 
 
 ==Behind the scenes==
 [[File:MyronWagtailLEGOHP1-4.png|thumb|Myron Wagtail in {{LEGO|Y1}}]]
 *[[Jarvis Cocker]] portrayed Myron in {{GOF|FA}}.
 *Jarvis also appeared in the movie ''Fantastic Mr. Fox'' as Petey along with [[Michael Gambon]] playing Franklin Bean, [[Helen McCrory]] playing Mrs Bean, and [[Alexandre Desplat]] composing the music.
-*In {{LEGO|Y1}}, Wagtail is an unlockable character, and is simply addressed as "Vocalist".
+*In {{LEGO|Y1}}, Wagtail is an unlockable character, and is simply addressed as "Vocalist".<ref name="LEGOHP"/>
 *He was at the school from [[1981]] to [[1988]] or [[1982]] to [[1989]], being only one school year ahead of or in the same year as [[William Weasley]].
 
 ==Etymology==

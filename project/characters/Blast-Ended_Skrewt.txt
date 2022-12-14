@@ -6,46 +6,46 @@
 |eyes = None
 |hair = 
 |feathers = 
-|related = *[[Fire Crab]]
-*[[Manticore]]
-|native = [[Hogwarts Castle]]
-|alias = Bang-Ended Scoots (by [[Rita Skeeter]])
+|related = *[[Fire Crab]]<ref name="GOF24"/>
+*[[Manticore]]<ref name="GOF24"/>
+|native = [[Hogwarts Castle]]<ref name="GOF24"/>
+|alias = Bang-Ended Scoots (by [[Rita Skeeter]])<ref name="GOF21"/>
 |height = 
 |length = 10 ft
 |wingspan = 
 |mortality = Mortal
-|distinction = *Resemble pale, slimy, deformed shell-less {{Wplink|lobster}}s or [[scorpion]]s
-*Covered in grey, shiny armour
-*Males have stingers, females have suckers to suck [[blood]]
-*Aggressive temperament and repulsive appearance
-*Shoot [[fire]] from their rear end
-|affiliation = [[Rubeus Hagrid]]
-|class = [[Beast]]
+|distinction = *Resemble pale, slimy, deformed shell-less {{Wplink|lobster}}s or [[scorpion]]s<ref name="GOF13"/>
+*Covered in grey, shiny armour<ref name="GOF13"/>
+*Males have stingers, females have suckers to suck [[blood]]<ref name="GOF13"/>
+*Aggressive temperament and repulsive appearance<ref name="GOF13"/>
+*Shoot [[fire]] from their rear end<ref name="GOF13"/>
+|affiliation = [[Rubeus Hagrid]]<ref name="GOF13"/>
+|class = [[Beast]]<ref name="GOF24"/>
 |status = Unknown, possibly Extinct
 }}
 {{Quote|I can certainly see why we're trying to keep them alive. Who wouldn't want pets that can burn, sting, and bite all at once?|[[Draco Malfoy]]'s sarcastic comment on the [[creature]]s|Harry Potter and the Goblet of Fire}}
-The '''Blast-Ended Skrewt''' was a [[magic]]al [[Wikipedia:Hybrid (biology)|hybrid]] [[beast]] bred by [[Rubeus Hagrid]] in the autumn of [[1994]], by cross-breeding [[Manticore]]s and [[Fire Crab]]s. Whether Hagrid used [[magic]] or somehow got the two different species to mate was unknown.
+The '''Blast-Ended Skrewt''' was a [[magic]]al [[Wikipedia:Hybrid (biology)|hybrid]] [[beast]] bred by [[Rubeus Hagrid]] in the autumn of [[1994]], by cross-breeding [[Manticore]]s and [[Fire Crab]]s.<ref name="GOF24">{{GOF|B|24}}</ref><ref>''[https://www.pottermore.com/explore-the-story/blast-ended-skrewts Blast-Ended Skrewts]'' at {{PM}}</ref> Whether Hagrid used [[magic]] or somehow got the two different species to mate was unknown.
 
 ==Description==
 {{Quote|They looked like deformed, shell-less lobsters, horribly pale and slimy-looking, with legs sticking out in very odd places and no visible heads. There were about a hundred of them in each crate, each about six inches long, crawling over one another, bumping blindly into the sides of the boxes. They were giving off a very powerful smell of rotting fish. Every now and then, sparks would fly out of the end of a skrewt, and with a small phut, it would be propelled forward several inches.|[[Harry Potter]]'s perception of Blast-Ended Skrewts|Harry Potter and the Goblet of Fire}}
 [[File:Blast-ended skrewt.png|250px|thumb|left|A young Blast-Ended Skrewt on a leash]]
-Newly hatched Skrewts looked like pale, slimy deformed shell-less {{Wplink|lobster}}s or [[scorpion]]s. They had legs sticking out at odd angles. They were about six inches long and smelled strongly of rotten fish. Sparks flew out of their rear ends every so often, which propelled them forward a few inches. The males had stingers and the females had suckers on their body to suck [[blood]]. The skrewts did not hibernate during winter.
+Newly hatched Skrewts looked like pale, slimy deformed shell-less {{Wplink|lobster}}s or [[scorpion]]s. They had legs sticking out at odd angles. They were about six inches long and smelled strongly of rotten fish. Sparks flew out of their rear ends every so often, which propelled them forward a few inches. The males had stingers and the females had suckers on their body to suck [[blood]].<ref name="GOF13">{{GOF|B|13}}</ref> The skrewts did not hibernate during winter.<ref name="GOF21">{{GOF|B|21}}</ref>
 
-After about two months, Skrewts grew to about three feet long and became extremely ill tempered, making it hard to get close to one. They grew grey, shiny armour over their pale bodies and began to resemble a cross between giant scorpions and elongated [[crab]]s. The males held their stingers over their backs, and were highly dangerous and repulsive.
+After about two months, Skrewts grew to about three feet long and became extremely ill tempered, making it hard to get close to one. They grew grey, shiny armour over their pale bodies and began to resemble a cross between giant scorpions and elongated [[crab]]s. The males held their stingers over their backs, and were highly dangerous and repulsive.<ref name="GOF18">{{GOF|B|18}}</ref>
 
-After several months, Skrewts grew to about ten feet long, and were incredibly dangerous (and probably quite lethal). They resembled giant scorpions with stingers curled over their backs. Their shiny armour deflected most [[spell]]s, and they used their blasts to propel themselves at a foe. Its single undefended spot was its armour-less underside.
+After several months, Skrewts grew to about ten feet long, and were incredibly dangerous (and probably quite lethal). They resembled giant scorpions with stingers curled over their backs. Their shiny armour deflected most [[spell]]s, and they used their blasts to propel themselves at a foe. Its single undefended spot was its armour-less underside.<ref name="GOF31">{{GOF|B|31}}</ref>
 
 ==History==
 {{Dialogue a-b|Draco Malfoy|And why would we want to raise them? I mean, what do they do? What is the point of them?|Rubeus Hagrid|Tha's next lesson, Malfoy. Yer jus' feedin' 'em today. Now, yeh'll wan' ter try 'em on a few diff'rent things — I've never had 'em before, not sure what they'll go fer — I got ant eggs an' frog livers an' a bit o' grass snake — just try 'em out with a bit of each.|Hagrid having fourth-year students feed his Blast-Ended Skrewts in class|Harry Potter and the Goblet of Fire}}
-Several of these Skrewts were placed inside the [[Triwizard Tournament]] maze, and Harry defeated one of them by using the [[Impediment Jinx]] on its underside.
+Several of these Skrewts were placed inside the [[Triwizard Tournament]] maze, and Harry defeated one of them by using the [[Impediment Jinx]] on its underside.<ref name="GOF31"/>
 
-Hagrid began breeding the Skrewts at the beginning of September, and had several hundred. Hagrid never discovered what they ate, although he did mention that he managed to get them to eat [[ant]] eggs, [[Grass Snake]] and [[frog liver]]s to start with, and had his [[fourth year|fourth-year]] [[Care of Magical Creatures]] feed the Skrewts frog livers at the start of the [[1994–1995 school year]]. They often killed each other off, so it is not surprising they died so quickly. It is unknown what became of the last Skrewt.
+Hagrid began breeding the Skrewts at the beginning of September, and had several hundred.<ref name="GOF13"/> By the following June, he only had one, which was the one that was placed in the maze.<ref name="GOF31"/><ref name="GOF37">{{GOF|B|37}}</ref> Hagrid never discovered what they ate,<ref name="GOF15">{{GOF|B|15}}</ref> although he did mention that he managed to get them to eat [[ant]] eggs, [[Grass Snake]] and [[frog liver]]s to start with, and had his [[fourth year|fourth-year]] [[Care of Magical Creatures]] feed the Skrewts frog livers at the start of the [[1994–1995 school year]].<ref name="GOF13"/> They often killed each other off, so it is not surprising they died so quickly. It is unknown what became of the last Skrewt.<ref name="GOF37"/>
 
-[[Rita Skeeter]] claimed that the ''[[Daily Prophet]]'' had a [[zoological column]] every Wednesday and said that the ''Bang-Ended Scoots'' could be the event that day if Hagrid gave an interview.
+[[Rita Skeeter]] claimed that the ''[[Daily Prophet]]'' had a [[zoological column]] every Wednesday and said that the ''Bang-Ended Scoots'' could be the event that day if Hagrid gave an interview.<ref name="GOF21"/> However, the Skrewts never did feature in the Daily Prophet's [[zoological column]].<ref name="GOF22">{{GOF|B|22}}</ref>
 
-In [[June]] [[1996]], following the attack of [[Stunning Spell]]s on [[Minerva McGonagall]] by [[Dolores Umbridge]] and other corrupt [[British Ministry of Magic]] officials, [[Ronald Weasley]] suggested feeding Umbridge to a box of starving Blast-Ended Skrewts as an appropriate punishment. [[Harry Potter]] thought the idea "had its merits".
+In [[June]] [[1996]], following the attack of [[Stunning Spell]]s on [[Minerva McGonagall]] by [[Dolores Umbridge]] and other corrupt [[British Ministry of Magic]] officials, [[Ronald Weasley]] suggested feeding Umbridge to a box of starving Blast-Ended Skrewts as an appropriate punishment. [[Harry Potter]] thought the idea "had its merits".<ref name="OP31">{{OOTP|B|31}}</ref>
 
-In [[1997]], Harry Potter felt that the idea of a teenage [[Albus Dumbledore]] "was simply odd, like trying to imagine a stupid [[Hermione Granger|Hermione]] or a friendly Blast-Ended Skrewt".
+In [[1997]], Harry Potter felt that the idea of a teenage [[Albus Dumbledore]] "was simply odd, like trying to imagine a stupid [[Hermione Granger|Hermione]] or a friendly Blast-Ended Skrewt".<ref name="DH2">{{DH|B|2}}</ref>
 
 ==Behind the scenes==
 [[File:Blast Ended Skrewt Wizarding World.jpg|thumb|A Blast-Ended Skrewt as seen at {{WWHP}}]]

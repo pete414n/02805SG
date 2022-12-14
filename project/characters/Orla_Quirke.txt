@@ -10,8 +10,8 @@
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]
-|gender = Female
+|species = [[Human]]<ref name="GOF12"/>
+|gender = Female<ref name="GOF12"/>
 |height = 
 |weight = 
 |hair = 
@@ -24,11 +24,11 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Ravenclaw]]
-|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
-**[[Ravenclaw]]
+|house = [[Ravenclaw]]<ref name="GOF12"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF12"/>
+**[[Ravenclaw]]<ref name="GOF12"/>
 }}
-'''Orla Quirke''' (born c. [[1983]]) was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]], and was [[Sorting ceremony|sorted]] into [[Ravenclaw]].
+'''Orla Quirke''' (born c. [[1983]]) was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]], and was [[Sorting ceremony|sorted]] into [[Ravenclaw]].<ref name="GOF12">{{GOF|B|12}}</ref>
 
 ==Appearances==
 *{{GOF}} {{1st}}

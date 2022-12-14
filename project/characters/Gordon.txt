@@ -18,7 +18,7 @@
 |hair = 
 |eyes = 
 |skin = 
-|family = [[Gordon's parents|Parents]]
+|family = [[Gordon's parents|Parents]]<ref name="OOTP1"/>
 |romances = 
 |animagus = 
 |boggart = 
@@ -26,10 +26,10 @@
 |patronus = 
 |job = 
 |house = 
-|loyalty = [[Dudley Dursley's gang]]
+|loyalty = [[Dudley Dursley's gang]]<ref name="PS3"/><ref name="OOTP1"/>
 }}
 {{Quote|Round at my place, my parents are out.|Gordon to his fellow gang members|Harry Potter and the Order of the Phoenix}}
-'''Gordon''' was a [[Non-magic people|Muggle]] who was a friend of [[Dudley Dursley]] and was a member of [[Dudley Dursley]]'s [[Dudley Dursley's gang|gang]]. In [[August]] [[1995]], after bullying [[Mark Evans]], he told his friends to come to his house the next day when [[Gordon's parents|his parents]] were out.
+'''Gordon''' was a [[Non-magic people|Muggle]] who was a friend of [[Dudley Dursley]] and was a member of [[Dudley Dursley]]'s [[Dudley Dursley's gang|gang]].<ref name="PS3">{{PS|B|3}}</ref> In [[August]] [[1995]], after bullying [[Mark Evans]], he told his friends to come to his house the next day when [[Gordon's parents|his parents]] were out.<ref name="OOTP1">{{OOTP|B|1}}</ref>
 
 ==Etymology==
 The name "Gordon" comes from a Scottish surname which was originally derived from a place name meaning "great hill". It was originally used in honour of Charles George Gordon (1833-1885), a British general who died defending the city of Khartoum in Sudan.

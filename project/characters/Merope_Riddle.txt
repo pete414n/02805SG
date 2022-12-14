@@ -3,29 +3,29 @@
 |theme = wizard
 |image = MeropeGaunt.jpeg
 |name = Merope Riddle (née Gaunt)
-|born = c. [[1907]]
+|born = c. [[1907]]<ref name="birthyear">In {{HBP|B|10}}, we learn that Tom Riddle was born a year after Merope Gaunt and Tom Riddle Senior's marriage. As we know Riddle was born in 1926, this would place the marriage in 1925. In the same chapter, we learn that the incident with Bob Ogden took place in the summer of 1925 and the imprisonment of Marvolo and Morfin was 'a few months' before the marriage. As Albus Dumbledore stated she was eighteen years old at the time of Marvolo and Morfin's imprisonment, she was born around 1907.</ref>
 |died = [[31 December]], [[1926]] (aged 19)<br />[[Wool's Orphanage]], [[London]], [[England]], [[Great Britain]]
-|blood = [[Pure-blood]]
+|blood = [[Pure-blood]]<ref name="blooddescendant">{{HBP|B|10}} - '"My daughter — pure-blooded descendant of Salazar Slytherin — hankering after a filthy, dirt-veined Muggle?"'</ref><ref name="blood2">{{HBP|B|10}} - '"Don't you go talking to us as if we're dirt on your shoes! Generations of purebloods, wizards all — more than you can say, I don't doubt!"'</ref>
 |marital = Married
 |nationality = 
 |alias = 
 |title = 
 |signature = 
-|species = [[Human]]
-|gender = Female
+|species = [[Human]]<ref name="HBP10"/>
+|gender = Female<ref name="HBP10"/>
 |height = 
 |weight = 
-|hair = Dull
+|hair = Dull<ref name="skinhair">{{HBP|B|10}} - 'Her hair was lank and dull and she had a plain, pale, rather heavy face.'</ref>
 |eyes = 
-|skin = Pale
-|family = *[[Marvolo Gaunt]] (father) †
-*[[Morfin Gaunt]] (brother) †
+|skin = Pale<ref name="skinhair"/><ref name="skin">{{HBP|B|10}} - 'Merope raised her head. Her face, Harry saw, was starkly white. ... Merope was so white Harry felt sure she was going to faint.'</ref>
+|family = *[[Marvolo Gaunt]] (father) †<ref name="HBP10"/>
+*[[Morfin Gaunt]] (brother) †<ref name="HBP10"/>
 *[[Tom Riddle Senior|Tom Riddle Snr]] (husband) †
 *[[Tom Riddle|Tom Marvolo Riddle]] (son) †
 *[[Thomas Riddle]] (father-in-law) †
 *[[Mary Riddle]] (mother-in-law) †
 *[[Delphini]] (granddaughter)
-*[[Salazar Slytherin]] (paternal ancestor) †
+*[[Salazar Slytherin]]<ref name="blooddescendant"/> (paternal ancestor) †
 *[[Cadmus Peverell]] (paternal ancestor) †
 *[[Gormlaith Gaunt]] (paternal ancestor) †
 *[[Corvinus Gaunt]] (paternal ancestor) †
@@ -33,46 +33,46 @@
 *[[Slytherin family]] (paternal ancestors)
 *[[Peverell family]] (paternal ancestors)
 *[[Riddle family]]
-|romances = [[Tom Riddle Senior]] (ex-husband; unrequited)
+|romances = [[Tom Riddle Senior]] (ex-husband; unrequited)<ref name="HBP10"/>
 |animagus = 
 |boggart = 
-|wand =Unknown length, wood and core
+|wand =Unknown length, wood and core<ref name="HBP10"/>
 |patronus = 
 |job = 
 |house = 
-|loyalty = *[[House of Gaunt]] (abandoned)
+|loyalty = *[[House of Gaunt]] (abandoned)<ref name="HBP10"/>
 *[[Riddle family]] (formerly)
 }}
 {{Quote|Her hair was lank and dull and she had a plain, pale, rather heavy face. Her eyes, like her brother's, stared in opposite directions. She looked a little cleaner than the two men, but Harry thought he had never seen a more defeated-looking person.|Merope's defeated and listless persona|Harry Potter and the Half-Blood Prince}}
 
-'''Merope Riddle''' (née '''Gaunt''') (c. [[1907]] – [[31 December]], [[1926]]) was a [[Great Britain|British]] [[pure-blood]] [[Wizardkind|witch]], daughter of [[Marvolo Gaunt]], and sister of [[Morfin Gaunt|Morfin]]. She was a direct descendant of [[Salazar Slytherin]] and a [[Parseltongue|Parselmouth]]. Merope grew up in a squalor ridden [[Gaunt Shack|shack]] near [[Little Hangleton]], with her father [[Marvolo Gaunt|Marvolo]] and brother [[Morfin Gaunt|Morfin]]. Both of them were mentally and physically abusive towards her.
+'''Merope Riddle'''<ref>{{HBP|B|13}} - 'Your mother had a choice too,' said Dumbledore gently. 'Yes, Merope Riddle chose death in spite of a son who needed her, but do not judge her too harshly, Harry.</ref> (née '''Gaunt''') (c. [[1907]] – [[31 December]], [[1926]]) was a [[Great Britain|British]] [[pure-blood]]<ref name="blood2" /> [[Wizardkind|witch]], daughter of [[Marvolo Gaunt]], and sister of [[Morfin Gaunt|Morfin]]. She was a direct descendant of [[Salazar Slytherin]] and a [[Parseltongue|Parselmouth]]. Merope grew up in a squalor ridden [[Gaunt Shack|shack]] near [[Little Hangleton]], with her father [[Marvolo Gaunt|Marvolo]] and brother [[Morfin Gaunt|Morfin]]. Both of them were mentally and physically abusive towards her.<ref name="HBP10"/>
 
 Merope developed an obsessive [[love]] for [[Tom Riddle Senior|Tom Riddle]], a handsome and wealthy [[Non-magic people|Muggle]]. After both her father and brother were imprisoned in [[Azkaban]], she [[Magic|bewitched]] and [[Wedding of Tom Riddle Senior and Merope Gaunt|married]] Tom, getting pregnant. A year into their marriage, Tom Riddle was liberated from the effects of her magic and fled. Merope ended up alone in [[London]] and later died at [[Wool's Orphanage]], soon after giving birth to her son whom she named [[Tom Riddle|Tom Marvolo Riddle]].
 
-Many years after her [[death]], her son (with the name of Lord Voldemort) became the most dangerous [[Dark Wizard]] of all time.
+Many years after her [[death]], her son (with the name of Lord Voldemort) became the most dangerous [[Dark wizard]] of all time.
 
 ==Biography==
 ===Early life===
 {{Quote|Pick it up! That's it, grub on the floor like some filthy [[Non-magic people|Muggle]], what's your [[wand]] for, you useless sack of muck?|Marvolo's verbal abuse after Merope drops a pot|Harry Potter and the Half-Blood Prince}}
-Merope Gaunt had lived in a [[Gaunt Shack|shack]] near [[Little Hangleton]] with her father, [[Marvolo Gaunt|Marvolo]], and brother, [[Morfin Gaunt|Morfin]]. Generations of inbreeding left the [[House of Gaunt|Gaunts]] violent, mentally unstable, and poverty-stricken.
+Merope Gaunt had lived in a [[Gaunt Shack|shack]] near [[Little Hangleton]] with her father, [[Marvolo Gaunt|Marvolo]], and brother, [[Morfin Gaunt|Morfin]]. Generations of inbreeding left the [[House of Gaunt|Gaunts]] violent, mentally unstable, and poverty-stricken.<ref name="HBP10" />
 
-Merope exhibited little [[magic]]al talent in her early years, and as a result was mentally and physically abused by her father, who mainly called her a <nowiki>'</nowiki>''disgusting little [[Squib]]''<nowiki>'</nowiki>, but also gave her other degenerating nicknames. However, this was actually a self-fulfilling prophecy, as Merope's magical abilities were suppressed largely ''because'' of her father's abuse. It should be noted that a person's magical abilities can be affected by their state of mind, and powerful negative emotions endured on a chronic basis can interfere with or completely drain a person's powers, as [[Albus Dumbledore]] pointed out. By extension, it can be inferred that Merope had magical powers, but had never really used them nor developed them. It is unlikely that Merope attended [[Hogwarts School of Witchcraft and Wizardry]], though she did own a [[wand]]; it seems likely that she was taught [[magic]] at home. Another possibility is that Merope disciplined herself to the extent to become self-taught. Merope seemed to be in charge of cooking and cleaning in her family home; it is unknown what happened to her mother.
+Merope exhibited little [[magic]]al talent in her early years, and as a result was mentally and physically abused by her father, who mainly called her a <nowiki>'</nowiki>''disgusting little [[Squib]]''<nowiki>'</nowiki>, but also gave her other degenerating nicknames. However, this was actually a self-fulfilling prophecy, as Merope's magical abilities were suppressed largely ''because'' of her father's abuse. It should be noted that a person's magical abilities can be affected by their state of mind, and powerful negative emotions endured on a chronic basis can interfere with or completely drain a person's powers, as [[Albus Dumbledore]] pointed out. By extension, it can be inferred that Merope had magical powers, but had never really used them nor developed them.<ref name="HBP10" />[[File:Gaunt pm.jpg|left|thumb|250x250px|Merope with her father Marvolo and her brother Morfin]]However, Merope's magical ability flourished after her father and brother were incarcerated in [[Azkaban]] and she was free from their abuse; she showed herself capable of significant magic, enslaving [[Tom Riddle Senior|Tom Riddle]] either with the [[Imperius Curse]] or a [[love potion]] for an extended period of time.<ref name="HBP10">{{HBP|B|10}}</ref> It is unlikely that Merope attended [[Hogwarts School of Witchcraft and Wizardry]], though she did own a [[wand]]; it seems likely that she was taught [[magic]] at home. Another possibility is that Merope disciplined herself to the extent to become self-taught. Merope seemed to be in charge of cooking and cleaning in her family home; it is unknown what happened to her mother.
 
 ===Marriage===
 {{Quote|The village of Little Hangleton enjoyed a tremendous scandal. You can imagine the gossip it caused when the [[Thomas Riddle|squire]]'s [[Tom Riddle Senior|son]] ran off with the [[Marvolo Gaunt|tramp]]'s daughter, Merope.|How Merope was able to bewitch Tom Riddle|Harry Potter and the Half-Blood Prince}}
 
-At some point in her life before her family went to Azkaban, Merope secretly fell in love with [[Tom Riddle Senior|Tom Riddle]], an exceptionally handsome and wealthy [[Non-magic people|Muggle]], and the only child of [[Thomas Riddle|Thomas]] and [[Mary Riddle]], who lived nearby. Her father was livid when Morfin revealed this to him in the summer of [[1925]], and attacked her physically, but was restrained by [[British Ministry of Magic|Ministry]] official [[Bob Ogden]]. Ogden arrested both Marvolo and Morfin, who had [[curse]]d Riddle because his sister found him attractive. With [[House of Gaunt|her family]] gone, Merope manipulated Riddle into marrying her. She left the shack with a [[Merope Gaunt's note|farewell note]] revealing her marriage to Riddle, and her existence was never again mentioned by Marvolo.
+At some point in her life before her family went to Azkaban, Merope secretly fell in love with [[Tom Riddle Senior|Tom Riddle]], an exceptionally handsome and wealthy [[Non-magic people|Muggle]], and the only child of [[Thomas Riddle|Thomas]] and [[Mary Riddle]], who lived nearby. Her father was livid when Morfin revealed this to him in the summer of [[1925]], and attacked her physically, but was restrained by [[British Ministry of Magic|Ministry]] official [[Bob Ogden]]. Ogden arrested both Marvolo and Morfin, who had [[curse]]d Riddle because his sister found him attractive. With [[House of Gaunt|her family]] gone, Merope manipulated Riddle into marrying her. She left the shack with a [[Merope Gaunt's note|farewell note]] revealing her marriage to Riddle, and her existence was never again mentioned by Marvolo.<ref name="HBP10"/>
 
-Although [[Harry Potter]], upon learning of these events, speculated that she might have used the [[Imperius Curse]] or a love potion on Riddle, Dumbledore believed that she most likely used a love potion because it seemed more 'romantic'. Dumbledore also speculated that she could administer the love potion to him while mixing it with water or some other beverage. In any case, Riddle became infatuated with her and they were [[Wedding of Tom Riddle Senior and Merope Gaunt|married]] in late [[1925]], running away to [[London]] together. This caused great scandal in [[Little Hangleton]].
+Although [[Harry Potter]], upon learning of these events, speculated that she might have used the [[Imperius Curse]] or a love potion on Riddle, Dumbledore believed that she most likely used a love potion because it seemed more 'romantic'. Dumbledore also speculated that she could administer the love potion to him while mixing it with water or some other beverage. In any case, Riddle became infatuated with her and they were [[Wedding of Tom Riddle Senior and Merope Gaunt|married]] in late [[1925]], running away to [[London]] together. This caused great scandal in [[Little Hangleton]].<ref name="HBP13">{{HBP|B|13}}</ref>
 
-After a year of marriage, Merope Gaunt soon became pregnant and decided to release Riddle from his mental enslavement, having grown tired of living a lie. Dumbledore thought that she did this hoping either that [[Tom Riddle Senior|her husband]] would have truly fallen in [[love]] with her by that point, or that he would at least stay for the sake of [[Tom Riddle|their unborn child]]. Unfortunately for her, Riddle did nothing of the kind. Riddle awoke into a nightmare and fled back to [[Riddle family|his family's]] [[Riddle House|home]], believing to have been [[Wizardkind|bewitched]], although according to Albus Dumbledore, he probably did not say that exactly, for fear of being thought insane. Instead, the villagers were told at most that he had been 'taken in', in which they interpreted that Merope lied to Tom about being pregnant with his child.
+After a year of marriage, Merope Gaunt soon became pregnant and decided to release Riddle from his mental enslavement, having grown tired of living a lie. Dumbledore thought that she did this hoping either that [[Tom Riddle Senior|her husband]] would have truly fallen in [[love]] with her by that point, or that he would at least stay for the sake of [[Tom Riddle|their unborn child]]. Unfortunately for her, Riddle did nothing of the kind. Riddle awoke into a nightmare and fled back to [[Riddle family|his family's]] [[Riddle House|home]], believing to have been [[Wizardkind|bewitched]], although according to Albus Dumbledore, he probably did not say that exactly, for fear of being thought insane. Instead, the villagers were told at most that he had been 'taken in', in which they interpreted that Merope lied to Tom about being pregnant with his child.<ref name="HBP13"/>
 
 ===Childbirth===
 {{Quote|New Year's Eve and bitter cold, snowing, you know. Nasty night. And this girl, not much older than I was myself at the time, came staggering up the front steps. Well, she wasn't the first. We took her in, and she had the baby within the hour. And she was dead in another hour.|The night Merope died from heartbreak and long-term suffering|Harry Potter and the Half-Blood Prince}}
 [[File:Gaunt riddle.png|thumb|250px|right]]
 After her husband's sudden escape, Merope soon fell into a deep depression and lived as a pauper in London, selling her valuables to survive in order to gain some gold. Specifically, she sold her [[Salazar Slytherin's locket|locket]], a family heirloom which was one of her father’s most treasured ones, to Caractacus Burke for only ten [[Galleon]]s, either not knowing that it was a priceless artefact, no longer caring, or a desire to sever ties with her abusive father and valuing the paltry profits much more than the painful reminder of her family. 
 
-With her heart broken and her dreams in tatters, Merope stopped using [[magic]] altogether after Riddle's desertion, not even willing to raise her wand to save her own life (although, according to Dumbledore, it was also possible that her powers may have been sapped as a result of depression and also because of her unrequited love for Riddle).
+With her heart broken and her dreams in tatters, Merope stopped using [[magic]] altogether after Riddle's desertion, not even willing to raise her wand to save her own life (although, according to Dumbledore, it was also possible that her powers may have been sapped as a result of depression and also because of her unrequited love for Riddle).<ref name="HBP13" />
 
 ====Death====
 On the night of [[31 December|New Year's Eve]] in [[1926]], she staggered up the front steps of an [[Wool's Orphanage|orphanage]], ready to give birth to a son. She told [[Cole|Mrs Cole]], a woman who worked in the orphanage, to name him [[Tom Riddle Senior|Tom]] for his father, [[Marvolo Gaunt|Marvolo]] for her father, and [[Riddle family|Riddle]] to be his surname. Mrs Cole believed Marvolo was a 'funny name', and wondered whether Merope had come from a circus. 
@@ -84,16 +84,16 @@ Merope died without warning, within an hour, and her last words were a final wis
 
 Years later, her own son would find it difficult to believe that she could ever have been a witch, as she succumbed to something as mortal as death; he was, however, forced to accept that she was indeed a witch once finding nothing of 'Tom Riddle' in the history of Hogwarts. It seems she was too depressed to use magic after Riddle left her when the effects of her magic wore off on him.
 
-Her son would grow up believing his father married Merope of his own free will, only leaving her after discovering she was a witch. Although Merope had a choice, she chose death in spite of a son that needed her due to the utterly miserable existence to which she had been condemned. These circumstances caused even [[Harry Potter]] to feel a twinge of reluctant sympathy for Riddle. Merope's son would ultimately grow up to become the most dangerous Dark wizard of all time, Lord Voldemort. 
+Her son would grow up believing his father married Merope of his own free will, only leaving her after discovering she was a witch. Although Merope had a choice, she chose death in spite of a son that needed her due to the utterly miserable existence to which she had been condemned. These circumstances caused even [[Harry Potter]] to feel a twinge of reluctant sympathy for Riddle. Merope's son would ultimately grow up to become the most dangerous Dark wizard of all time, Lord Voldemort.<ref name="HBP13">{{HBP|B|13}}</ref> 
 
 [[Albus Dumbledore]] hypothesised that if Merope had hung on, and been there to express [[love]] and affection for her son, Voldemort might never have come to be. Nevertheless, Dumbledore and Harry did not resent her, as they understood that given her suffering and lack of inner strength, she could not in good conscience be blamed for her son's corruption. Her son, while contemptuous for her mortal weakness, killed her husband partly out of the misguided belief he was avenging her death.
 
 Despite her son's inability to feel love, he did sire a daughter, [[Delphini]], with his most loyal servant, [[Bellatrix Lestrange]]. This made Merope, posthumously, a grandmother.
 
 ==Physical description==
-Merope possessed lank and dull hair. Her hair framed a plain, pale, and heavy face. Her eyes (like her brother's) stared in opposite directions. She seemed to keep herself cleaner than her father and brother, but when Harry first saw her in a memory, he still thought of her as the most defeated-looking person he had ever seen.
+Merope possessed lank and dull hair. Her hair framed a plain, pale, and heavy face. Her eyes (like her brother's) stared in opposite directions. She seemed to keep herself cleaner than her father and brother, but when Harry first saw her in a memory, he still thought of her as the most defeated-looking person he had ever seen.<ref name="HBP10" />
 
-When she lived in the Gaunt household, she wore a ragged grey dress that blended in with the stone walls of the house, and her only adornment was [[Salazar Slytherin's Locket]], which hung from a gold chain around her neck. Mrs Cole also described her to be ''<nowiki>'</nowiki>no beauty<nowiki>'</nowiki>''.
+When she lived in the Gaunt household, she wore a ragged grey dress that blended in with the stone walls of the house, and her only adornment was [[Salazar Slytherin's Locket]], which hung from a gold chain around her neck.<ref name="HBP10" /> Mrs Cole also described her to be ''<nowiki>'</nowiki>no beauty<nowiki>'</nowiki>''.
 
 ==Personality and traits==
 {{Quote|I do not think that she wanted to be a witch any longer. Of course, it is also possible that her unrequited love and the attendant despair sapped her of her powers; that can happen. In any case... Merope refused to raise her wand even to save her own life.|Reflection on Merope's choice to die|Harry Potter and the Half-Blood Prince}}
@@ -107,11 +107,11 @@ One point as to why Merope may have chosen to seek out a Muggle location to give
 
 ==Magical abilities and skills==
 {{Dialogue|Harry Potter|The Imperius Curse? Or a love potion?|Albus Dumbledore|Very good. Personally, I am inclined to think that she used a love potion.|Speculations regarding Merope's abilities|Harry Potter and the Half-Blood Prince}}
-Initially, Merope appeared to be an unskilled witch. Whilst living with her abusive [[Marvolo Gaunt|father]] and [[Morfin Gaunt|brother]], she produced poor magic, more often than not preferring to cook and clean without it, leading her father to refer to her as a [[Squib]]. However, once she was freed of her abusive relatives, Merope had much more success with magic, proving to be at least a decent witch with some notable skills.
-*'''[[Love]]''': Merope was one of the few members of her [[House of Gaunt|family]] who could feel true and unconditional love, as displayed by her love for [[Tom Riddle Senior|Tom Riddle Snr]], a [[Non-magic people|Muggle]] man, despite her family's traditional [[Pure-blood supremacy|beliefs about Muggles]]. However, her love bordered on obsession, to the point where she would use magic to subjugate her target, which was what led to her downfall and loss of powers when she naively and incorrectly believed her love would be reciprocated if she freed him of such enslavement. It was due to this that her magical powers were sapped when Riddle, freed of bewitchment, left her and she fell into depression.
-*'''[[Parseltongue|Parselmouth]]''': Like her [[Salazar Slytherin|famous ancestor]], [[Marvolo Gaunt|father]], and [[Morfin Gaunt|brother]], Merope had the ability to talk to [[snake]]s, which she later passed on to her [[Tom Riddle|son]].
-*'''[[Dark Arts]] '''(possibly): Harry initially speculated that Merope used the [[Imperius Curse]] (which required powerful magic to be effectively cast) to compel Tom Riddle to fall in love with her. Due to the history of Dark Arts within her family, this was not improbable.
-*'''[[Potion]]s '''(possibly): Dumbledore and Harry speculated that Merope had used a [[love potion]] to make Tom Riddle fall in love with her. If so, this would have proven that Merope was a talented potion-maker.
+Initially, Merope appeared to be an unskilled witch. Whilst living with her abusive [[Marvolo Gaunt|father]] and [[Morfin Gaunt|brother]], she produced poor magic, more often than not preferring to cook and clean without it, leading her father to refer to her as a [[Squib]]. However, once she was freed of her abusive relatives, Merope had much more success with magic, proving to be at least a decent witch with some notable skills.<ref name="HBP10"/>
+*'''[[Love]]''': Merope was one of the few members of her [[House of Gaunt|family]] who could feel true and unconditional love, as displayed by her love for [[Tom Riddle Senior|Tom Riddle Snr]], a [[Non-magic people|Muggle]] man, despite her family's traditional [[Pure-blood supremacy|beliefs about Muggles]]. However, her love bordered on obsession, to the point where she would use magic to subjugate her target, which was what led to her downfall and loss of powers when she naively and incorrectly believed her love would be reciprocated if she freed him of such enslavement. It was due to this that her magical powers were sapped when Riddle, freed of bewitchment, left her and she fell into depression.<ref name="HBP10"/>
+*'''[[Parseltongue|Parselmouth]]''': Like her [[Salazar Slytherin|famous ancestor]], [[Marvolo Gaunt|father]], and [[Morfin Gaunt|brother]], Merope had the ability to talk to [[snake]]s, which she later passed on to her [[Tom Riddle|son]].<ref name="HBP10"/>
+*'''[[Dark Arts]] '''(possibly): Harry initially speculated that Merope used the [[Imperius Curse]] (which required powerful magic to be effectively cast) to compel Tom Riddle to fall in love with her. Due to the history of Dark Arts within her family, this was not improbable.<ref name="HBP10"/>
+*'''[[Potion]]s '''(possibly): Dumbledore and Harry speculated that Merope had used a [[love potion]] to make Tom Riddle fall in love with her. If so, this would have proven that Merope was a talented potion-maker.<ref name="HBP10"/>
 
 ==Relationships==
 ===Gaunt family===
@@ -147,24 +147,24 @@ It was due to Merope's choice of losing her will to live that she never had a ch
 
 ==Behind the scenes==
 *Merope and her family were cut from {{HBP|FA}}.
-*[[J. K. Rowling]] has said that if Merope had chosen to live for the sake of raising [[Tom Riddle|Voldemort]], he would have turned out to be very different, probably a better person.
+*[[J. K. Rowling]] has said that if Merope had chosen to live for the sake of raising [[Tom Riddle|Voldemort]], he would have turned out to be very different, probably a better person.<ref>http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html</ref>
 **Alternatively, the same may be applied if Voldemort had been adopted and then raised in a loving environment, or if Tom Riddle Senior gained awareness of his son's existence and made efforts to raise him.
-*In {{HBP|FA}}, [[Marvolo Gaunt's ring]] is said to have belonged to Merope, while [[Marvolo Gaunt|Marvolo]] and [[Morfin Gaunt]] aren't even mentioned. However, in a deleted scene in {{DH|F1}}, [[Harry Potter|Harry]] tells [[Ronald Weasley|Ron]] and [[Hermione Granger]] that the ring belonged to Marvolo and that the locket belonged to Merope.
+*In {{HBP|FA}}, [[Marvolo Gaunt's ring]] is said to have belonged to Merope, while [[Marvolo Gaunt|Marvolo]] and [[Morfin Gaunt]] aren't even mentioned. However, in a deleted scene in {{DH|F1}}, [[Harry Potter|Harry]] tells [[Ronald Weasley|Ron]] and [[Hermione Granger]] that the ring belonged to Marvolo and that the locket belonged to Merope.<ref>https://www.youtube.com/watch?v=jkQnx4Rkmhg</ref>
 *It can be said that Merope died of despair as she gave up trying to live after her husband, Tom Riddle Snr, had left.
 *It is unknown how Voldemort viewed his mother, but it would appear he had a low opinion of her, thinking her to be a weak witch if she died so easily after his birth.
 *Merope's infatuation with Tom Riddle Snr seems to mirror that of [[Bellatrix Lestrange]]'s with their [[Tom Riddle|son]].
 *Both Merope and her granddaughter, [[Delphini]], would grow up in unhappy households and would not attend [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
-*Merope forcing Riddle to marry her by a love potion for the conception of their son, in addition to Merope's belief that Riddle was obligated to love her now simply due to that they had a child is symbolic for Voldemort's inability to understand love as it was due to betwitchment rather than true love, directing the Riddle Jnr's entire life to achieving [[immortality]] and absolute power by sinking into the deepest concept of the [[Dark Arts]] ([[Horcrux]]es) and resurface as the [[Dark Wizard|darkest wizard]] of the 20th century, [[Tom Riddle|Lord Voldemort]].
+*Merope forcing Riddle to marry her by a love potion for the conception of their son, in addition to Merope's belief that Riddle was obligated to love her now simply due to that they had a child is symbolic for Voldemort's inability to understand love as it was due to betwitchment rather than true love, directing the Riddle Jnr's entire life to achieving [[immortality]] and absolute power by sinking into the deepest concept of the [[Dark Arts]] ([[Horcrux]]es) and resurface as the [[Dark wizard|darkest wizard]] of the 20th century, [[Tom Riddle|Lord Voldemort]].<ref>[http://the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript 30 July, 2007 Bloomsbury webchat]</ref>
 *Voldemort's mother's one-sided possessive desire for his father and Riddle only being with Merope due to magic can be contrasted with the mutual love of Harry's parents, James and Lily Potter, both of whom were willing to do everything for the other's happiness instead of their own. Merope giving up on life when she lost control of Riddle Snr rather than live for the sake of her son is also contrasted with Lily losing first her husband and then her own life immediately afterwards in their tandem effort to protect Harry from Voldemort.
 
 ==Appearances==
-*{{COS}} {{1st Mention}} {{Comment|Indirectly mentioned as Riddle's mother}}
+*{{COS}} {{1st Mention}} {{C|Indirectly mentioned as 'Riddle's mother'}}
 *{{GOF}} {{Mention}}
 *{{OOTP}} {{Mention}}
 *{{HBP}} {{1st}} {{Flashback}} {{1st ID}}
-*{{HBP|F}} {{Comment|Mentioned as 'Voldemort's mother'}}
+*{{HBP|F}} {{C|Mentioned as 'Voldemort's mother'}}
 *{{DH}} {{Mention}}
-*{{DH|F1}} {{Comment|Mentioned in a deleted scene as 'Tom's mother'}}
+*{{DH|F1}} {{C|Mentioned in a deleted scene as 'Tom's mother'}}
 *{{PM}}
 *{{WW}}
 *{{MA}} {{HoM mention}}

@@ -3,9 +3,9 @@
 |theme = gryffindor
 |image = [[File:Lily L. Potter.jpg]]
 |name = Lily Luna Potter
-|born = Between [[1 September]] [[2007]] and [[31 August]] [[2008]]<br/>[[Great Britain]]
+|born = Between [[1 September]] [[2007]] and [[31 August]] [[2008]]<ref>According to {{CC}}, Lily started Hogwarts in September 2019 meaning Lily can only have been born between 1 September 2007 and 31 August 2008 to have started then</ref><br/>[[Great Britain]]
 |died = 
-|blood = <!-- Please do not change the blood status for any of Harry and Ginny's children; the source defines pure-blood as having no known Muggle or Muggle-born parents or grandparents, and her paternal grandmother (Lily) was Muggle-born.-->[[Half-blood]]
+|blood = <!-- Please do not change the blood status for any of Harry and Ginny's children; the source defines pure-blood as having no known Muggle or Muggle-born parents or grandparents, and her paternal grandmother (Lily) was Muggle-born.-->[[Half-blood]]<ref>[https://web.archive.org/web/20060316221500/https://www.jkrowling.com/textonly/en/faq_view.cfm?id=58 FAQ] at {{JKRS}} (Archived) - For an individual to be pure-blood, the witch or wizard should at least have no Muggle or Muggle-born parents or grandparents. Therefore, the children of Harry and Ginny Weasley are also half-blood as Muggle-born Lily is their grandmother.</ref>
 |marital = 
 |nationality = [[England|English]]
 |alias = 
@@ -15,7 +15,7 @@
 |gender = Female
 |height = 
 |weight = 
-|hair = Red
+|hair = Red<ref name="DH-E">{{DH|B|E}}</ref>
 |eyes = 
 |skin = Light
 |family = <!--Family within two generations, plus earliest ancestor -->
@@ -48,9 +48,9 @@
 *[[Hugo Granger-Weasley]] (maternal first cousin)
 *[[Hardwin Potter]] (paternal ancestor) †
 *[[Iolanthe Peverell|Iolanthe Potter]] (née [[Peverell family|Peverell]]) (paternal ancestor) †
-*[[Linfred of Stinchcombe]] (paternal ancestor) †
-*[[Ignotus Peverell's son|Mr Peverell]] (paternal ancestor) †
-*[[Ignotus Peverell]] (paternal ancestor) †
+*[[Linfred of Stinchcombe]]<ref name="Pottermore">{{WW|the-potter-family}}</ref> (paternal ancestor) †
+*[[Ignotus Peverell's son|Mr Peverell]]<ref name="Pottermore" /> (paternal ancestor) †
+*[[Ignotus Peverell]]<ref name="Pottermore" /> (paternal ancestor) †
 *[[Tom Riddle|Lord Voldemort]] (paternal distant cousin) †
 *[[Delphini]] (paternal distant cousin)
 *[[Potter family]]
@@ -68,7 +68,7 @@
 |wand = 
 |patronus = 
 |job = 
-|house = [[Gryffindor]]
+|house = [[Gryffindor]]<ref>{{CC|B|1|4}}</ref>
 |loyalty = *[[Potter family]] 
 *[[Weasley family]]
 *[[Hogwarts School of Witchcraft and Wizardry]]
@@ -76,7 +76,7 @@
 }}
 {{Dialogue a-b|Harry Potter|It won't be long, and you'll be going too.|Lily Luna|Two years. I want to go ''now''!|Lily's impatience about attending Hogwarts|Harry Potter and the Deathly Hallows}}
 
-'''Lily Luna Potter''' (b. c. [[2008]]) was an [[England|English]] [[half-blood]] [[Wizardkind|witch]], the youngest child and only daughter of [[Harry Potter|Harry]] and [[Ginevra Weasley|Ginevra Potter]] {{c|née [[Weasley family|Weasley]]}}. Lily had two older brothers, [[James Potter II|James Sirius]] and [[Albus Potter|Albus Severus Potter]]. She was named in honour of her late paternal grandmother, [[Lily J. Potter|Lily Potter]], and her middle name came from her parents' good friend [[Luna Lovegood]].
+'''Lily Luna Potter'''<ref name="Tree">[https://www.pottermore.com/about/the-potter-family-tree-text-version The Potter Family Tree] at {{PM}}</ref> (b. c. [[2008]]) was an [[England|English]] [[half-blood]] [[Wizardkind|witch]], the youngest child and only daughter of [[Harry Potter|Harry]] and [[Ginevra Weasley|Ginevra Potter]] {{c|née [[Weasley family|Weasley]]}}. Lily had two older brothers, [[James Potter II|James Sirius]] and [[Albus Potter|Albus Severus Potter]]. She was named in honour of her late paternal grandmother, [[Lily J. Potter|Lily Potter]], and her middle name came from her parents' good friend [[Luna Lovegood]].
 
 Lily began her education at [[Hogwarts School of Witchcraft and Wizardry]] in 2019 along with her cousin, [[Hugo Granger-Weasley]], and was sorted into [[Gryffindor|Gryffindor House]].
 
@@ -88,10 +88,10 @@ In 2014, Lily, along with her family, attended the [[2014 Quidditch World Cup fi
 [[File:Harry Potter Epilogue.jpg|250px|thumb|left|Lily with her family at Platform 9¾ in 2017]]
 In 2017, she went to see her brothers and her cousin, [[Rose Granger-Weasley]], off at the [[Hogwarts Express]], but was not herself old enough to attend [[Hogwarts School of Witchcraft and Wizardry]]. She also acted as excited and enthusiastic as her mother Ginny had acted when Harry and Ron went to their first year of Hogwarts. She and her cousin, [[Hugo Granger-Weasley]], were around the same age. Hugo and Lily talked excitedly about which house they wanted to be in at Hogwarts.
 
-In [[2019]], Lily began her education at [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Gryffindor]] [[Hogwarts Houses|House]]. In [[2020]], she was seen on [[Platform Nine and Three-Quarters|Platform 9¾]] along with the rest of her family, sitting on her older brother's trolley.
+In [[2019]], Lily began her education at [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Gryffindor]] [[Hogwarts Houses|House]].<ref name="CC">{{CC|1}}</ref> In [[2020]], she was seen on [[Platform Nine and Three-Quarters|Platform 9¾]] along with the rest of her family, sitting on her older brother's trolley.
 
 ==Physical appearance==
-Lily inherited the red hair of her mother's [[Weasley Family|family]], and had inherited most of the Weasleys' physical traits, including her hair colour. Her characteristic trait was her cheery-looking smile, which was possibly inherited from [[Lily J. Potter|Lily Potter]], her late grandmother.
+Lily inherited the red hair of her mother's [[Weasley Family|family]],<ref name="DH-E"/> and had inherited most of the Weasleys' physical traits, including her hair colour. Her characteristic trait was her cheery-looking smile, which was possibly inherited from [[Lily J. Potter|Lily Potter]], her late grandmother.
 
 ==Personality and traits==
 Lily seemed to have a personality similar to her mother. She was very jealous of her two older brothers when they were leaving for [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], quite similar to the eagerness and envy Ginny displayed when the last of her brothers went away to school in [[1991]].
@@ -105,9 +105,9 @@ Lily also seemed to enjoy talking to her family. She and her cousin Hugo had an 
 ====The Potters====
 {{Quote|...the redheaded girl trailed tearfully behind her brothers, clutching her father's arm.|Lily tightly holding her father's hand|Harry Potter and the Deathly Hallows}}
 [[File:Potter family1.png|251x251px|thumb|left|Lily with her older siblings and parents]]
-Lily had a close relationship with her father and her mother. She resembled her mother, [[Ginevra Weasley|Ginny]], in appearance and personality. Lily also seemed to [[love]] her father dearly, as she held hands with him in [[2017]] and looked towards him for comfort. During the [[2014 Quidditch World Cup]], Lily sat to close her [[Harry Potter|father]] and stared up at him in what appeared to be admiration.
+Lily had a close relationship with her father and her mother. She resembled her mother, [[Ginevra Weasley|Ginny]], in appearance and personality. Lily also seemed to [[love]] her father dearly, as she held hands with him in [[2017]] and looked towards him for comfort. During the [[2014 Quidditch World Cup]], Lily sat to close her [[Harry Potter|father]] and stared up at him in what appeared to be admiration.<ref name="PM">{{PM}}</ref>
 
-[[James Potter II|James]] had a fondness for teasing his younger siblings. When Lily went to see her brothers off to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], she seemed to be close to her brother [[James Potter II|James Sirius]] and was hugging him at [[King's Cross Station|Kings Cross Station]].
+[[James Potter II|James]] had a fondness for teasing his younger siblings. When Lily went to see her brothers off to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], she seemed to be close to her brother [[James Potter II|James Sirius]] and was hugging him at [[King's Cross Station|Kings Cross Station]].<ref name="DH-E"/>
 
 ====The Weasleys====
 [[File:Granger-Weasley family on Platform 9¾ DHF2.jpg|left|thumb|250x250px|Granger-Weasley family]]
@@ -120,11 +120,11 @@ Lily was around the same age as [[Hugo Granger-Weasley|Hugo]], and excitedly dis
 *The given name ''Lily'' comes from the name of the flower, which is a symbol of purity. Specifically, the lily is often associated with the Virgin Mary; one type of flower is known as the Madonna lily. Greek mythology also links lilies to the Muses and to the goddess Hera, and the flowers continue to be representative of purity and love in Europe. In Chinese, the lily is a play on words for "forever in love", and the flowers were thought to be capable of averting evil.
 *''Luna'' means "[[moon]]" in Latin. It is also the name of the Ancient Roman goddess of the moon who was the mother of the Menae, fifty goddesses who embodied the phases of the moon used by the Ancient Greeks to keep time. In some myths, she was also the mother of the Nemean Lion.
 *''Potter'' is a very common surname of English origin. It traditionally refers to the occupation of making pottery. Beatrix Potter was a well-known English children's author. Potter's Field is the name for a burial ground for the unknown or unclaimed dead, particularly soldiers and orphans; the Potter family had many members that fit that description. The Potter Box is a model for making ethical decisions developed at Harvard University.
-*She was named after important people in her father and mother's life. Lily – after his mother and her paternal grandmother, [[Lily J. Potter|Lily Evans]], who died to protect Harry from [[Tom Riddle|Voldemort]] when he was just a baby. Luna – after [[Luna Lovegood]], Ginny's good friend at Hogwarts. Many people believe this name was from [[Remus Lupin]], but this was disproven by [[J. K. Rowling]].
+*She was named after important people in her father and mother's life. Lily – after his mother and her paternal grandmother, [[Lily J. Potter|Lily Evans]], who died to protect Harry from [[Tom Riddle|Voldemort]] when he was just a baby. Luna – after [[Luna Lovegood]], Ginny's good friend at Hogwarts. Many people believe this name was from [[Remus Lupin]], but this was disproven by [[J. K. Rowling]].<ref>[https://twitter.com/jk_rowling/status/606878809829310464?lang=en J.K. Rowling's Twitter]</ref>
 
 ==Behind the scenes==
 *[[Daphne de Beistegui]] portrays Lily Potter in {{DH|F2}}.
-*Lily is portrayed by British actresses [[Christiana Hutchings]], [[Zoe Brough]], and [[Cristina Fray]] alternating the role in {{CC|P1}}.
+*Lily is portrayed by British actresses [[Christiana Hutchings]], [[Zoe Brough]], and [[Cristina Fray]] alternating the role in {{CC|P1}}.<ref>[http://www.snitchseeker.com/harry-potter-news/cursed-child-new-feature-reveals-first-look-at-harry-ron-and-hermione-together-104610/ 'Cursed Child' new feature reveals first look at Harry, Ron & Hermione together.] ''SnitchSeeker.'' 13 July 2016. Retrieved 26 July 2016.</ref><ref>Rowling, J.K., Tiffany, John and Thorne, Jack. ''Harry Potter and the Cursed Child: Parts One and Two.'' Broadway, New York, NY: Arhur A. Levine Books, 2016. Print. pp. 313-15.</ref>
 *Lily was the first of Harry's children to be introduced in the epilogue, where she was shown holding her father's hand, much as her [[Ginevra Weasley|mother]] was introduced in ''[[Harry Potter and the Philosopher's Stone|Philosopher's Stone]]''.
 *She is the only child of [[Harry Potter|Harry]] and Ginny who was named after a person still living at the end of the series: [[Luna Lovegood|Luna]] still lived while [[Lily J. Potter|Lily]], [[James Potter I|James]], [[Sirius Black|Sirius]], [[Albus Dumbledore|Albus]], and [[Severus Snape|Severus]] all had died.
 *In the film version, Lily is seen standing with James, even sitting on top of his trunk when he was taking it into King's Cross.
@@ -140,7 +140,7 @@ Lily was around the same age as [[Hugo Granger-Weasley|Hugo]], and excitedly dis
 *{{CC}}
 *{{CC|P}}
 *{{LEGO|Y2}}
-*''[[J.K. Rowling: A Year in the Life]]'' {{Mention}}
+*''[[J. K. Rowling: A Year in the Life]]'' {{Mention}}
 *{{PM}} {{Mention}}
 *{{WW}} {{Mention}}
 *{{HPV|CH}}

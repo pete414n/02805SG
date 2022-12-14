@@ -2,8 +2,8 @@
 |theme = phoenix
 |image = Emmeline2W.png
 |name = Emmeline Vance
-|born = Pre [[1964]]
-|died = Early [[July]], [[1996]]
+|born = Pre [[1964]]<ref name="age">As only of age witches and wizards who had already left school were allowed to join the Order of the Phoenix, this means that Emmeline as at least 17 in 1981.</ref>
+|died = Early [[July]], [[1996]]<ref name="death">{{HBP|B|1}} - "Even the weather was dismal; all this chilly mist in the middle of July...." [...] “What a week, what a week . . .” “Had a bad one too, have you?” asked the Prime Minister stiffly, hoping to convey by this that he had quite enough on his plate already without any extra helpings from Fudge. “Yes, of course,” said Fudge, rubbing his eyes wearily and looking morosely at the Prime Minister. “I’ve been having the same week you have, Prime Minister. The Brockdale Bridge ... the Bones and Vance murders ... not to mention the ruckus in the West Country ...”</ref>
 |blood = 
 |marital = 
 |nationality = 
@@ -21,8 +21,8 @@
 |romances = 
 |animagus = 
 |boggart = 
-|wand = [[Emmeline Vance's wand|Unknown length, wood and core]]
-|patronus = Non-corporeal
+|wand = [[Emmeline Vance's wand|Unknown length, wood and core]]<ref name="ootp3"/>
+|patronus = Non-corporeal<ref name="LEGOY2">{{LEGO|Y2}}</ref>
 |job = 
 |house = 
 |loyalty = *Vance family
@@ -32,7 +32,7 @@
 
 {{Quote|— "Emmeline Vance" — a stately looking witch in an emerald-green shawl inclined her head —|Physical description of Vance|Harry Potter and the Order of the Phoenix}} 
 
-'''Emmeline Vance''' (d. early [[July]], [[1996]]) was a [[Wizardkind|witch]] and a member of the first and second [[Order of the Phoenix]]. She most likely fought in several battles in both the [[First Wizarding War|First]] and [[Second Wizarding War|Second]] Wizarding Wars with the Order, and was also a member of the [[Advance Guard]]. 
+'''Emmeline Vance''' (d. early [[July]], [[1996]])<ref name="death" /> was a [[Wizardkind|witch]] and a member of the first and second [[Order of the Phoenix]]. She most likely fought in several battles in both the [[First Wizarding War|First]] and [[Second Wizarding War|Second]] Wizarding Wars with the Order, and was also a member of the [[Advance Guard]]. 
 
 Emmeline was murdered by [[Death Eaters]] in mid-[[1996]]. She was considered a highly skilful witch and her [[death]] was a significant and devastating loss to the Order.
 ==Biography==
@@ -40,28 +40,28 @@ Emmeline was murdered by [[Death Eaters]] in mid-[[1996]]. She was considered a 
 ===First Wizarding War===
 [[File:Order of the Phoenix.png|250px|thumb|left|The first [[Order of the Phoenix]]]]
 
-Emmeline served as a member of the original [[Order of the Phoenix]], an organisation constructed by [[Albus Dumbledore]] in order to oppose [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. She fought in the [[First Wizarding War]] and unlike many others ultimately survived, living well past Voldemort's first fall.
+Emmeline served as a member of the original [[Order of the Phoenix]], an organisation constructed by [[Albus Dumbledore]] in order to oppose [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. She fought in the [[First Wizarding War]] and unlike many others ultimately survived, living well past Voldemort's first fall.<ref>{{OOTP|B|9}}</ref>
 
 ===Second Wizarding War===
 {{Quote|And anyway, life’s too short... look at [[Amelia Bones|Madam Bones]], look at Emmeline Vance... it could be me next, couldn’t it?|Emmeline's death|Harry Potter and the Half-Blood Prince}}
 When Lord Voldemort returned to power in [[1995]], Vance became a member of the reconstituted Order of the Phoenix. [[File:B5C3M1 Advance Guard at Privet Drive.jpg|250px|thumb|The [[Advance Guard]] inside [[4 Privet Drive]], preparing to escort [[Harry Potter]] to safety]]
 
-One of Vance's more important duties was to serve as a member of the [[Advance Guard]] that acted as protectors of [[Harry Potter]] after they extracted him from [[4 Privet Drive]] and took him to the safety of the Order's headquarters at [[12 Grimmauld Place]]. During the flight, Vance and the other Order members constantly changed their positions and Harry glimpsed Vance with her [[wand]] out, alert and waiting for signs of danger.
+One of Vance's more important duties was to serve as a member of the [[Advance Guard]] that acted as protectors of [[Harry Potter]] after they extracted him from [[4 Privet Drive]] and took him to the safety of the Order's headquarters at [[12 Grimmauld Place]]. During the flight, Vance and the other Order members constantly changed their positions and Harry glimpsed Vance with her [[wand]] out, alert and waiting for signs of danger.<ref name="ootp3">{{OOTP|B|3}}</ref>
 
 ====Death====
-Emmeline's long distinguished service to the Order ended however, when she was attacked and murdered by [[Death Eaters]] near the residence of the [[Non-magic people|Muggle]] [[Prime Minister]] in the second week of [[July]], [[1996]]. Her death was considered a significant and devastating loss for the Order, and her murder was publicised in [[Non-magic people|Muggle]] newspapers, most likely because of the place of her murder being so close to the Prime Minister. 
+Emmeline's long distinguished service to the Order ended however, when she was attacked and murdered by [[Death Eaters]] near the residence of the [[Non-magic people|Muggle]] [[Prime Minister]] in the second week of [[July]], [[1996]].<ref name="death" /> Her death was considered a significant and devastating loss for the Order, and her murder was publicised in [[Non-magic people|Muggle]] newspapers, most likely because of the place of her murder being so close to the Prime Minister. 
 
-[[Severus Snape]] claimed to have given information to Voldemort that led to Vance's death, implying that, on the assumption that Snape were truthful, she might have been sacrificed for the greater good of the anti-Voldemort movement to solidify Snape's role as Voldemort's "spy" on the Order.
+[[Severus Snape]] claimed to have given information to Voldemort that led to Vance's death, implying that, on the assumption that Snape were truthful, she might have been sacrificed for the greater good of the anti-Voldemort movement to solidify Snape's role as Voldemort's "spy" on the Order.<ref name="HBP2">{{HBP|B|2}}</ref>
 
 ==Physical appearance==
-Emmeline was described as a stately-looking witch who often wore an emerald green shawl.
+Emmeline was described as a stately-looking witch who often wore an emerald green shawl.<ref name="ootp3"/>
 
 ==Magical abilities and skills==
 [[File:Brigetteemme.jpg|219x219px|thumb|Emmeline flying over [[London]] with the [[Advance Guard]] on her [[broomstick]]]]
 *'''[[Magic]]al aptitude''': Being a highly respected member of the [[Order of the Phoenix]]. Vance was considered by fellow members of the Order to be a highly skilful witch, meaning that she was proficient in many areas and fields of magic. Much of the sorrow expressed after her murder was a further testament to the extent of her power.
-*'''[[Charm]]s''': Vance could produce a non-corporeal [[Patronus Charm]]. This was a mark of superior magical ability and talent given the immense difficulty of performing such a powerful and advanced protective charm.
+*'''[[Charm]]s''': Vance could produce a non-corporeal [[Patronus Charm]].<ref name="LEGOY2" /> This was a mark of superior magical ability and talent given the immense difficulty of performing such a powerful and advanced protective charm.
 
-*'''[[Flight|Flying]]''': Vance was a highly skilled and accomplished [[broomstick]] flyer, being a member of the Advance Guard who successfully escorted Harry Potter to 12 Grimmauld Place via broomstick flight. She was also noted to have had the ability to been adept enough to simultaneously fly and brandish her wand at the same time by Tonks, something said to be extremely difficult to do, showing her exceptional flying skills.
+*'''[[Flight|Flying]]''': Vance was a highly skilled and accomplished [[broomstick]] flyer, being a member of the Advance Guard who successfully escorted Harry Potter to 12 Grimmauld Place via broomstick flight. She was also noted to have had the ability to been adept enough to simultaneously fly and brandish her wand at the same time by Tonks, something said to be extremely difficult to do, showing her exceptional flying skills.<ref name="ootp3"/>
 
 ==Possessions==
 [[File:VanceWandPM.png|thumb|Emmeline with her wand in hand]]
